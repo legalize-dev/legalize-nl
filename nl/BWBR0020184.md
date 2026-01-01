@@ -4,7 +4,7 @@ identifier: "BWBR0020184"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-10-29"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020184"
 soort: "AMvB"
@@ -122,13 +122,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Een aanvrager meldt een wijziging in de gegevens of bescheiden die hij heeft overgelegd op grond van [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2020-10-29&g=2020-10-29), [artikel 2a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2a&z=2020-10-29&g=2020-10-29), of [artikel 2b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2b&z=2020-10-29&g=2020-10-29) onverwijld schriftelijk aan de Autoriteit Financiële Markten.
+1. Een aanvrager meldt een wijziging in de gegevens of bescheiden die hij heeft overgelegd op grond van [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [artikel 2a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), of [artikel 2b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01) onverwijld schriftelijk aan de Autoriteit Financiële Markten.
 
-2. Onverminderd het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=4&artikel=7&z=2020-10-29&g=2020-10-29), meldt een accountantsorganisatie een wijziging in de gegevens of bescheiden die zij heeft overgelegd op grond van [artikel 2, eerste lid, onderdelen b tot en met d, h tot en met l, m, onder 2°, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2020-10-29&g=2020-10-29) onverwijld en wijzigingen in de overige in artikel 2, eerste tot en met derde lid, bedoelde gegevens of bescheiden, met uitzondering van de in onderdeel r bedoelde gegevens, ten minste eenmaal per kwartaal, schriftelijk aan de Autoriteit Financiële Markten.
+2. Onverminderd het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=4&artikel=7&z=2026-01-01&g=2026-01-01), meldt een accountantsorganisatie een wijziging in de gegevens of bescheiden die zij heeft overgelegd op grond van [artikel 2, eerste lid, onderdelen b tot en met d, h tot en met l, m, onder 2°, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) onverwijld en wijzigingen in de overige in artikel 2, eerste tot en met derde lid, bedoelde gegevens of bescheiden, met uitzondering van de in onderdeel r bedoelde gegevens, ten minste eenmaal per kwartaal, schriftelijk aan de Autoriteit Financiële Markten.
 
-3. Een auditorganisatie van een derde land meldt een wijziging in de gegevens of bescheiden die zij heeft overgelegd op grond van [artikel 2a, eerste lid, onderdelen b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2a&z=2020-10-29&g=2020-10-29), onverwijld en wijzigingen in de in artikel 2a, tweede lid, bedoelde gegevens en bescheiden tenminste eenmaal per kwartaal schriftelijk aan de Autoriteit Financiële Markten.
+3. Een auditorganisatie van een derde land meldt een wijziging in de gegevens of bescheiden die zij heeft overgelegd op grond van [artikel 2a, eerste lid, onderdelen b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), onverwijld en wijzigingen in de in artikel 2a, tweede lid, bedoelde gegevens en bescheiden tenminste eenmaal per kwartaal schriftelijk aan de Autoriteit Financiële Markten.
 
-4. Een auditkantoor meldt een wijziging in de gegevens of bescheiden die hij heeft overgelegd op grond van [artikel 2b, eerste lid, onderdelen b tot en met h en i, onder 2°, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2b&z=2020-10-29&g=2020-10-29), onverwijld en wijzigingen in de overige in artikel 2b, eerste tot en met derde lid, bedoelde gegevens en bescheiden ten minste eenmaal per kwartaal schriftelijk aan de Autoriteit Financiële Markten.
+4. Een auditkantoor meldt een wijziging in de gegevens of bescheiden die hij heeft overgelegd op grond van [artikel 2b, eerste lid, onderdelen b tot en met h en i, onder 2°, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01), onverwijld en wijzigingen in de overige in artikel 2b, eerste tot en met derde lid, bedoelde gegevens en bescheiden ten minste eenmaal per kwartaal schriftelijk aan de Autoriteit Financiële Markten.
 
 5. Een melding als bedoeld in het eerste tot en met vierde lid wordt ondertekend door ten minste een van de personen die het dagelijks beleid van de accountantsorganisatie, auditorganisatie van een derde land onderscheidenlijk het auditkantoor bepalen.
 
@@ -142,17 +142,17 @@ In dit besluit wordt verstaan onder:
 
 - b. de datum van inschrijving in het register als bedoeld in [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=12c), onderscheidenlijk [artikel 12e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=12e);
 
-- c. de in [artikel 2, eerste lid, onderdelen b tot en met d, h tot en met j, k](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2020-10-29&g=2020-10-29), met uitzondering van het woonadres, l, met uitzondering van het woonadres, m, onder 2° of 3°, en n tot en met q, bedoelde gegevens;
+- c. de in [artikel 2, eerste lid, onderdelen b tot en met d, h tot en met j, k](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), met uitzondering van het woonadres, l, met uitzondering van het woonadres, m, onder 2° of 3°, en n tot en met q, bedoelde gegevens;
 
-- d. de in [artikel 2a, eerste lid, onderdelen b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2a&z=2020-10-29&g=2020-10-29) bedoelde gegevens, voor zover het register deze gegevens niet reeds bevat op grond van onderdeel c;
+- d. de in [artikel 2a, eerste lid, onderdelen b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01) bedoelde gegevens, voor zover het register deze gegevens niet reeds bevat op grond van onderdeel c;
 
-- e. de in [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2b&z=2020-10-29&g=2020-10-29), bedoelde gegevens; en
+- e. de in [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01), bedoelde gegevens; en
 
 - f. het feit dat de Autoriteit Financiële Markten belast is met het verlenen van vergunningen als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=5), toezicht en handhaving zoals geregeld in [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5) en het uitvaardigen van openbare waarschuwingen en de publicatie van handhavingsmaatregelen zoals geregeld in [hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6), alsmede het adres van de Autoriteit Financiële Markten.
 
 2. Indien een vergunning mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang, wordt dat vermeld in het register.
 
-3. De Autoriteit Financiële Markten verwerkt een ingevolge [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=3&z=2020-10-29&g=2020-10-29), gemelde wijziging van de in het eerste lid bedoelde gegevens binnen vijf werkdagen na ontvangst van de melding in het register.
+3. De Autoriteit Financiële Markten verwerkt een ingevolge [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), gemelde wijziging van de in het eerste lid bedoelde gegevens binnen vijf werkdagen na ontvangst van de melding in het register.
 
 ### Hoofdstuk 3. Bepaling ter uitvoering van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=11)
 
@@ -172,7 +172,7 @@ De betrouwbaarheid van een persoon die het beleid van een accountantsorganisatie
 
 ##### Artikel 7
 
-Indien een accountantsorganisatie in het kader van haar normale bedrijfsvoering vaststelt dat zich een wijziging heeft voorgedaan in de gegevens, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2020-10-29&g=2020-10-29), die nodig zijn in het belang van de beoordeling van de betrouwbaarheid van een persoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=4&artikel=6&z=2020-10-29&g=2020-10-29), meldt zij dit onverwijld schriftelijk aan de Autoriteit Financiële Markten.
+Indien een accountantsorganisatie in het kader van haar normale bedrijfsvoering vaststelt dat zich een wijziging heeft voorgedaan in de gegevens, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), die nodig zijn in het belang van de beoordeling van de betrouwbaarheid van een persoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=4&artikel=6&z=2026-01-01&g=2026-01-01), meldt zij dit onverwijld schriftelijk aan de Autoriteit Financiële Markten.
 
 ### Hoofdstuk 5. Bepalingen ter uitvoering van [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=18), en [22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=22)
 
@@ -180,7 +180,7 @@ Indien een accountantsorganisatie in het kader van haar normale bedrijfsvoering 
 
 ##### Artikel 8
 
-1. Een accountantsorganisatie voert een beleid ten aanzien van het stelsel van kwaliteitsbeheersing. Dit beleid wordt in elk geval uitgewerkt in het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8a&z=2020-10-29&g=2020-10-29), Het beleid, bedoeld in [artikel 18b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=18b), maakt in elk geval onderdeel uit van het beleid ten aanzien van het stelsel van kwaliteitsbeheersing en voldoet aan artikel 24bis, eerste lid, onderdeel j, van de richtlijn.
+1. Een accountantsorganisatie voert een beleid ten aanzien van het stelsel van kwaliteitsbeheersing. Dit beleid wordt in elk geval uitgewerkt in het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8a&z=2026-01-01&g=2026-01-01), Het beleid, bedoeld in [artikel 18b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=18b), maakt in elk geval onderdeel uit van het beleid ten aanzien van het stelsel van kwaliteitsbeheersing en voldoet aan artikel 24bis, eerste lid, onderdeel j, van de richtlijn.
 
 2. De accountantsorganisatie legt het beleid ten aanzien van het stelsel van kwaliteitsbeheersing schriftelijk vast.
 
@@ -234,7 +234,7 @@ Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschrift
 
 - h. het oordeel van de externe accountant, zoals dat blijkt uit de door hem af te geven accountantsverklaring;
 
-- i. de gegevens die worden vastgelegd ingevolge de artikelen 6 tot en met 8 van de verordening en de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=4&artikel=12&z=2020-10-29&g=2020-10-29), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=4&artikel=13&z=2020-10-29&g=2020-10-29), [15a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=15a&z=2020-10-29&g=2020-10-29), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=17&z=2020-10-29&g=2020-10-29), en [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=17&z=2020-10-29&g=2020-10-29); en
+- i. de gegevens die worden vastgelegd ingevolge de artikelen 6 tot en met 8 van de verordening en de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=4&artikel=13&z=2026-01-01&g=2026-01-01), [15a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=15a&z=2026-01-01&g=2026-01-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=17&z=2026-01-01&g=2026-01-01), en [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=17&z=2026-01-01&g=2026-01-01); en
 
 - j. de overige relevante gegevens en bescheiden die van belang zijn voor het toezicht op de naleving van de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468), de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573) en de verordening gestelde regels.
 
@@ -254,7 +254,7 @@ Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschrift
 
 - b. of er sprake is van bedreigingen voor haar onafhankelijkheid en wat er gedaan wordt om deze bedreigingen te beperken;
 
-- c. of zij kan voldoen aan [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=15&z=2020-10-29&g=2020-10-29); en
+- c. of zij kan voldoen aan [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=15&z=2026-01-01&g=2026-01-01); en
 
 - d. de integriteit van de controlecliënt.
 
@@ -336,9 +336,9 @@ Een accountantsorganisatie waarborgt de naleving van het stelsel van kwaliteitsb
 
 1. Een accountantsorganisatie zorgt voor een vastlegging van:
 
-- a. een overzicht van de overtredingen van de bij en krachtens de [artikelen 13 tot en met 24b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=13) en de bij de verordening gestelde regels, voor zover deze bekend zijn bij de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2020-10-29&g=2020-10-29), bedoelde persoon of de personen die het dagelijks beleid van de accountantsorganisatie bepalen en hiervoor een boete kan worden opgelegd in de tweede of derde categorie dan wel sprake is van structurele overtredingen van dezelfde regel;
+- a. een overzicht van de overtredingen van de bij en krachtens de [artikelen 13 tot en met 24b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=13) en de bij de verordening gestelde regels, voor zover deze bekend zijn bij de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2026-01-01&g=2026-01-01), bedoelde persoon of de personen die het dagelijks beleid van de accountantsorganisatie bepalen en hiervoor een boete kan worden opgelegd in de tweede of derde categorie dan wel sprake is van structurele overtredingen van dezelfde regel;
 
-- b. een overzicht van de overtredingen van de bij of krachtens de [artikelen 25 tot en met 31 van de Wta](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=25) gestelde regels, voor zover deze bekend zijn bij de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2020-10-29&g=2020-10-29), bedoelde persoon of de personen die het dagelijks beleid van de accountantsorganisatie bepalen en voor zover deze bekend zijn bij de in artikel 23, eerste lid, bedoelde persoon of de personen die het dagelijks beleid van de accountantsorganisatie bepalen en deze overtredingen geen kleine inbreuk als bedoeld in artikel 24, ter, derde lid, van de richtlijn zijn;
+- b. een overzicht van de overtredingen van de bij of krachtens de [artikelen 25 tot en met 31 van de Wta](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=25) gestelde regels, voor zover deze bekend zijn bij de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2026-01-01&g=2026-01-01), bedoelde persoon of de personen die het dagelijks beleid van de accountantsorganisatie bepalen en voor zover deze bekend zijn bij de in artikel 23, eerste lid, bedoelde persoon of de personen die het dagelijks beleid van de accountantsorganisatie bepalen en deze overtredingen geen kleine inbreuk als bedoeld in artikel 24, ter, derde lid, van de richtlijn zijn;
 
 - c. maatregelen die de accountantsorganisatie heeft genomen jegens de medewerkers die bij de in onderdeel a of b bedoelde overtredingen betrokken zijn geweest, met inbegrip van de daaraan ten grondslag liggende overwegingen; en
 
@@ -398,7 +398,7 @@ Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschrift
 
 ##### Artikel 32
 
-1. Een accountantsorganisatie heeft een beleid dat ertoe strekt dat de betrokkenheid van de accountantsorganisatie en haar medewerkers wordt voorkomen bij strafbare feiten en wetsovertredingen die het vertrouwen in de accountantsorganisatie of in de financiële markten kunnen schaden. Gedragslijnen en procedures ter waarborging van de naleving van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=27&z=2020-10-29&g=2020-10-29) maken onderdeel uit van dit beleid.
+1. Een accountantsorganisatie heeft een beleid dat ertoe strekt dat de betrokkenheid van de accountantsorganisatie en haar medewerkers wordt voorkomen bij strafbare feiten en wetsovertredingen die het vertrouwen in de accountantsorganisatie of in de financiële markten kunnen schaden. Gedragslijnen en procedures ter waarborging van de naleving van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=27&z=2026-01-01&g=2026-01-01) maken onderdeel uit van dit beleid.
 
 2. Een accountantsorganisatie stelt procedures en regels vast ter zake van de omgang met en vastlegging van incidenten die ernstige gevolgen hebben voor de integere uitoefening van haar bedrijf.
 
@@ -408,7 +408,7 @@ Een accountantsorganisatie houdt zich aan de verordeningen en nadere voorschrift
 
 ##### Artikel 33
 
-1. De administratieve vastlegging van incidenten als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7&artikel=32&z=2020-10-29&g=2020-10-29), omvat ten minste de feiten en omstandigheden van het incident, de gegevens over degene of degenen die bij het incident zijn betrokken en de maatregelen die naar aanleiding van het incident zijn genomen.
+1. De administratieve vastlegging van incidenten als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7&artikel=32&z=2026-01-01&g=2026-01-01), omvat ten minste de feiten en omstandigheden van het incident, de gegevens over degene of degenen die bij het incident zijn betrokken en de maatregelen die naar aanleiding van het incident zijn genomen.
 
 2. Een accountantsorganisatie bewaart de in het eerste lid bedoelde gegevens gedurende ten minste zeven jaren nadat zij zijn vastgelegd.
 
@@ -446,7 +446,7 @@ Onder fraude van materieel belang als bedoeld in [artikel 26, derde lid, van de 
 
 ##### Artikel 38
 
-Een externe accountant meldt, indien [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=9&artikel=37&z=2020-10-29&g=2020-10-29) geen toepassing vindt, schriftelijk de volgende gegevens aan de in [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=26) bedoelde opsporingsambtenaar:
+Een externe accountant meldt, indien [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=9&artikel=37&z=2026-01-01&g=2026-01-01) geen toepassing vindt, schriftelijk de volgende gegevens aan de in [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=26) bedoelde opsporingsambtenaar:
 
 - a. de naam, het adres en de vestigingsplaats van de controlecliënt;
 
@@ -474,7 +474,7 @@ Vervallen
 
 ##### Artikel 41
 
-Een aanvraag van een vergunning als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=5) die ingevolge [artikel 80, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=80) binnen een maand na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468) bij de Autoriteit Financiële Markten wordt ingediend, bevat in aanvulling op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2020-10-29&g=2020-10-29), bedoelde gegevens en bescheiden, het aantal wettelijke controles dat de aanvrager op het tijdstip van de aanvraag verricht bij organisaties van openbaar belang of overige ondernemingen of instellingen.
+Een aanvraag van een vergunning als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=5) die ingevolge [artikel 80, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=80) binnen een maand na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468) bij de Autoriteit Financiële Markten wordt ingediend, bevat in aanvulling op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), bedoelde gegevens en bescheiden, het aantal wettelijke controles dat de aanvrager op het tijdstip van de aanvraag verricht bij organisaties van openbaar belang of overige ondernemingen of instellingen.
 
 ##### Artikel 42
 
@@ -674,9 +674,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - 6°. aan een registeraccountant, een Accountant-Administratieconsulent of een buitenlandse accountant ten behoeve van diens beoordeling van de aanvaardbaarheid van een controleopdracht;
 
-- 7°. aan een persoon aan wie advies wordt gevraagd, zoals bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=17&z=2020-10-29&g=2020-10-29);
+- 7°. aan een persoon aan wie advies wordt gevraagd, zoals bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=17&z=2026-01-01&g=2026-01-01);
 
-- 8°. aan de persoon die overeenkomstig artikel 8, tweede lid, van de verordening of [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=18&z=2020-10-29&g=2020-10-29), een opdrachtgerichte kwaliteitsbeoordeling verricht of de persoon, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2020-10-29&g=2020-10-29);
+- 8°. aan de persoon die overeenkomstig artikel 8, tweede lid, van de verordening of [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=18&z=2026-01-01&g=2026-01-01), een opdrachtgerichte kwaliteitsbeoordeling verricht of de persoon, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2026-01-01&g=2026-01-01);
 
 - 9°. aan de persoon die is betrokken bij de uitvoering van een periodiek intern kwaliteitsonderzoek van afgeronde opdrachten tot het verrichten van een wettelijke controle;
 
@@ -694,7 +694,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 38b
 
-1. De externe accountant betrekt in zijn beslissing op grond van [artikel 38a, eerste lid, onderdeel b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=9&artikel=38a&z=2020-10-29&g=2020-10-29), om al dan niet over te gaan tot het verstrekken van vertrouwelijke gegevens of inlichtingen:
+1. De externe accountant betrekt in zijn beslissing op grond van [artikel 38a, eerste lid, onderdeel b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=9&artikel=38a&z=2026-01-01&g=2026-01-01), om al dan niet over te gaan tot het verstrekken van vertrouwelijke gegevens of inlichtingen:
 
 - a. de belangen van betrokken partijen en derden, waaronder het maatschappelijk belang;
 
@@ -716,7 +716,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a
 
-1. Het stelsel van kwaliteitsbeheersing bevat onder andere procedures, beschrijvingen en standaarden als bedoeld in de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=3&artikel=11&z=2020-10-29&g=2020-10-29), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=16&z=2020-10-29&g=2020-10-29), die ten doel hebben de naleving door de accountantsorganisatie te waarborgen van de bij en krachtens de [artikelen 14 tot en met 24b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=14) gestelde regels. Het stelsel van kwaliteitsbeheersing voldoet aan de in artikel 24bis, eerste lid, onderdelen b, c, e tot en met h, en tweede lid, van de richtlijn opgenomen eisen met betrekking tot de interne organisatie van de accountantsorganisatie.
+1. Het stelsel van kwaliteitsbeheersing bevat onder andere procedures, beschrijvingen en standaarden als bedoeld in de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=5&artikel=16&z=2026-01-01&g=2026-01-01), die ten doel hebben de naleving door de accountantsorganisatie te waarborgen van de bij en krachtens de [artikelen 14 tot en met 24b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=14) gestelde regels. Het stelsel van kwaliteitsbeheersing voldoet aan de in artikel 24bis, eerste lid, onderdelen b, c, e tot en met h, en tweede lid, van de richtlijn opgenomen eisen met betrekking tot de interne organisatie van de accountantsorganisatie.
 
 2. De accountantsorganisatie legt het stelsel van kwaliteitsbeheersing schriftelijk vast.
 
@@ -726,9 +726,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-1. De accountantsorganisatie evalueert jaarlijks het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8a&z=2020-10-29&g=2020-10-29), en voldoet daarbij aan artikel 24bis, eerste lid, onderdeel k, van de richtlijn opgenomen eisen met betrekking tot die evaluatie.
+1. De accountantsorganisatie evalueert jaarlijks het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8a&z=2026-01-01&g=2026-01-01), en voldoet daarbij aan artikel 24bis, eerste lid, onderdeel k, van de richtlijn opgenomen eisen met betrekking tot die evaluatie.
 
-2. De accountantsorganisatie evalueert de procedures en gedragslijnen en het beleid, bedoeld in [artikel 8, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8&z=2020-10-29&g=2020-10-29), en voldoet daarbij aan de in artikel 24bis, eerste lid, onderdeel k, van de richtlijn opgenomen eisen met betrekking tot die evaluatie.
+2. De accountantsorganisatie evalueert de procedures en gedragslijnen en het beleid, bedoeld in [artikel 8, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01), en voldoet daarbij aan de in artikel 24bis, eerste lid, onderdeel k, van de richtlijn opgenomen eisen met betrekking tot die evaluatie.
 
 #### § 4. Aanvaarding of continuering van opdrachten
 
@@ -764,11 +764,11 @@ Een accountantsorganisatie vraagt of accepteert geen geldelijke of andere gesche
 
 Een accountantsorganisatie zorgt ervoor dat haar werknemers en andere in artikel 22, tweede lid, van de richtlijn genoemde personen geen:
 
-- a. materieel of financieel belang bezitten in de zin van [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=30a&z=2020-10-29&g=2020-10-29);
+- a. materieel of financieel belang bezitten in de zin van [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=30a&z=2026-01-01&g=2026-01-01);
 
-- b. invloed uitoefenen in de zin van [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=30b&z=2020-10-29&g=2020-10-29);
+- b. invloed uitoefenen in de zin van [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=30b&z=2026-01-01&g=2026-01-01);
 
-- c. geldelijke of andere geschenken vragen of accepteren in de zin van [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=30c&z=2020-10-29&g=2020-10-29);
+- c. geldelijke of andere geschenken vragen of accepteren in de zin van [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=6&artikel=30c&z=2026-01-01&g=2026-01-01);
 
 - d. dienstverband bij de controlecliënt hebben of hebben gehad in de zin van artikel 22, vierde lid, onder c, van de richtlijn.
 
@@ -800,7 +800,7 @@ Dit hoofdstuk is van toepassing op accountantsorganisaties met een vergunning di
 
 ##### Artikel 34b
 
-Een accountantsorganisatie als bedoeld in [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7a&artikel=34a&z=2020-10-29&g=2020-10-29) richt het stelsel van intern onafhankelijk toezicht, bedoeld in [artikel 22a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=22a), in overeenkomstig dit hoofdstuk.
+Een accountantsorganisatie als bedoeld in [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7a&artikel=34a&z=2026-01-01&g=2026-01-01) richt het stelsel van intern onafhankelijk toezicht, bedoeld in [artikel 22a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=22a), in overeenkomstig dit hoofdstuk.
 
 ##### Artikel 34c
 
@@ -830,11 +830,11 @@ Benoeming van een persoon als lid van het orgaan belast met het interne toezicht
 
 3. Aan de goedkeuring van het orgaan belast met het interne toezicht zijn ten minste onderworpen besluiten van personen die het dagelijks beleid bepalen van de accountantsorganisatie, of van het hiërarchisch hoogste netwerkonderdeel, bedoeld in [artikel 22a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=22a) omtrent:
 
-- a. het beleid ten aanzien van het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8&z=2020-10-29&g=2020-10-29);
+- a. het beleid ten aanzien van het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01);
 
 - b. de benoeming, schorsing en het ontslag van bij de accountantsorganisatie werkzame externe accountants;
 
-- c. de benoeming, schorsing, beoordeling en het ontslag van de persoon, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2020-10-29&g=2020-10-29);
+- c. de benoeming, schorsing, beoordeling en het ontslag van de persoon, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=6&artikel=23&z=2026-01-01&g=2026-01-01);
 
 - d. de jaarlijkse begroting van de accountantsorganisatie.
 
@@ -854,7 +854,7 @@ Benoeming van een persoon als lid van het orgaan belast met het interne toezicht
 
 2. De personen, bedoeld in het eerste lid, verstrekken in ieder geval gegevens met betrekking tot:
 
-- a. de werking van het beleid van de accountantsorganisatie ten aanzien van het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8&z=2020-10-29&g=2020-10-29);
+- a. de werking van het beleid van de accountantsorganisatie ten aanzien van het stelsel van kwaliteitsbeheersing, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=5&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01);
 
 - b. de hoofdlijnen van het strategisch beleid van de accountantsorganisatie in Nederland;
 
@@ -862,7 +862,7 @@ Benoeming van een persoon als lid van het orgaan belast met het interne toezicht
 
 - d. het beheers- en controlesysteem van de accountantsorganisatie;
 
-- e. incidenten betreffende de accountantsorganisatie als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7&artikel=32&z=2020-10-29&g=2020-10-29);
+- e. incidenten betreffende de accountantsorganisatie als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7&artikel=32&z=2026-01-01&g=2026-01-01);
 
 - f. klachten tegen medewerkers van de accountantsorganisatie ingevolge [artikel 22 van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=22);
 
@@ -900,7 +900,7 @@ Benoeming van een persoon als lid van het orgaan belast met het interne toezicht
 
 - c. wat de belangrijkste inhoudelijke bevindingen, discussies en besluitvorming van het orgaan zijn;
 
-- d. op welke wijze de evaluatie, bedoeld in [artikel 34h](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7a&artikel=34h&z=2020-10-29&g=2020-10-29), heeft plaatsgevonden en op welke wijze opvolging wordt gegeven aan de conclusies van de evaluatie.
+- d. op welke wijze de evaluatie, bedoeld in [artikel 34h](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=7a&artikel=34h&z=2026-01-01&g=2026-01-01), heeft plaatsgevonden en op welke wijze opvolging wordt gegeven aan de conclusies van de evaluatie.
 
 ### Hoofdstuk 9. Bepalingen ter uitvoering van [artikel 26, tweede, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=26)
 
@@ -924,7 +924,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Als organisaties van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, onder 5°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1) zijn aangewezen:
 
-- a. netbeheerders als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) of [artikel 1, eerste lid, onderdeel e, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1);
+- a. transmissie- en distributiesysteembeheerders als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
 - b. toegelaten instellingen als bedoeld in [artikel 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), eerste lid, die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, meer dan 5.000 verhuureenheden bezitten;
 
@@ -934,7 +934,7 @@ Als organisaties van openbaar belang als bedoeld in [artikel 1, eerste lid, onde
 
 ##### Artikel 1b
 
-1. Een organisatie van openbaar belang als bedoeld in [artikel 1a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2020-10-29&g=2020-10-29), hoeft niet te voldoen aan het [Besluit instelling auditcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0024324), indien:
+1. Een organisatie van openbaar belang als bedoeld in [artikel 1a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2026-01-01&g=2026-01-01), hoeft niet te voldoen aan het [Besluit instelling auditcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0024324), indien:
 
 - a. deze organisatie beschikt over een auditcommissie of een orgaan met gelijksoortige taken;
 
@@ -942,7 +942,7 @@ Als organisaties van openbaar belang als bedoeld in [artikel 1, eerste lid, onde
 
 - c. ten minste één lid van deze commissie of dit orgaan onafhankelijk is van deze organisatie.
 
-2. Een organisatie van openbaar belang als bedoeld in [artikel 1a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2020-10-29&g=2020-10-29), behoeft niet te voldoen aan het [Besluit instelling auditcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0024324).
+2. Een organisatie van openbaar belang als bedoeld in [artikel 1a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2026-01-01&g=2026-01-01), behoeft niet te voldoen aan het [Besluit instelling auditcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0024324).
 
 ### Hoofdstuk 3. Bepaling ter uitvoering van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=11)
 
@@ -968,13 +968,13 @@ Als organisaties van openbaar belang als bedoeld in [artikel 1, eerste lid, onde
 
 ##### Artikel 42a
 
-1. Op de wettelijke controle van een in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2020-10-29&g=2020-10-29) aangewezen organisatie van openbaar belang, die betrekking heeft op een boekjaar dat is aangevangen voor het tijdstip van inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I), blijft het recht van toepassing zoals dat gold voor dat tijdstip.
+1. Op de wettelijke controle van een in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2026-01-01&g=2026-01-01) aangewezen organisatie van openbaar belang, die betrekking heeft op een boekjaar dat is aangevangen voor het tijdstip van inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I), blijft het recht van toepassing zoals dat gold voor dat tijdstip.
 
-2. [Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2020-10-29&g=2020-10-29) is, voor zover het de op grond van [artikelen 23, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=23), en [24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=24) op de wettelijke controle bij organisaties van openbaar belang voortvloeiende verplichtingen betreft, eerst van toepassing na verloop van 24 maanden na de inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I).
+2. [Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2026-01-01&g=2026-01-01) is, voor zover het de op grond van [artikelen 23, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=23), en [24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=24) op de wettelijke controle bij organisaties van openbaar belang voortvloeiende verplichtingen betreft, eerst van toepassing na verloop van 24 maanden na de inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I).
 
-3. [Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2020-10-29&g=2020-10-29) is, voor zover het de op grond van [artikel 24b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=24b) op de wettelijke controle bij organisaties van openbaar belang voortvloeiende verplichtingen betreft, eerst van toepassing na verloop van 12 maanden na de inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang.](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I)
+3. [Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2026-01-01&g=2026-01-01) is, voor zover het de op grond van [artikel 24b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=24b) op de wettelijke controle bij organisaties van openbaar belang voortvloeiende verplichtingen betreft, eerst van toepassing na verloop van 12 maanden na de inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang.](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I)
 
-4. De overeenkomstige toepassing van artikel 5 van verordening (EU) nr. 537/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende specifieke eisen voor de wettelijke controles van financiële overzichten van organisaties van openbaar belang (PbEU 2014, L 158) op grond van[artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=2), geldt voor de bij de in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2020-10-29&g=2020-10-29) aangewezen organisaties van openbaar belang werkzame accountants en accountantsorganisaties niet tot en met 12 maanden na de inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I).
+4. De overeenkomstige toepassing van artikel 5 van verordening (EU) nr. 537/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende specifieke eisen voor de wettelijke controles van financiële overzichten van organisaties van openbaar belang (PbEU 2014, L 158) op grond van[artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=2), geldt voor de bij de in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&hoofdstuk=1a&artikel=1a&z=2026-01-01&g=2026-01-01) aangewezen organisaties van openbaar belang werkzame accountants en accountantsorganisaties niet tot en met 12 maanden na de inwerkingtreding van [artikel I van het Besluit aanwijzing organisaties van openbaar belang](https://wetten.overheid.nl/jci1.3:c:BWBR0042393&artikel=I).
 
 ### Hoofdstuk 13. Wijziging van de [bijlage bij artikel 1, eerste lid, onderdeel j, van de wet](onbekend)
 
