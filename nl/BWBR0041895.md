@@ -4,7 +4,7 @@ identifier: "BWBR0041895"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041895"
 soort: "AMvB"
@@ -96,11 +96,13 @@ Hebben goedgevonden en verstaan:
 
 - a. de woonkosten met een hoogte tot de kwaliteitskortingsgrens, genoemd in [artikel 20, eerste lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=20), in aanmerking worden genomen voor het percentage, genoemd in [artikel 21, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21);
 
-- b. de woonkosten met een hoogte vanaf de normhuur, bedoeld in onderdeel a, tot de in [artikel 20, tweede lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=20) genoemde aftoppingsgrens in aanmerking worden genomen voor het percentage, bedoeld in [artikel 21, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21); en
+- b. de woonkosten met een hoogte vanaf de kwaliteitskortingsgrens, bedoeld in onderdeel a, tot de in [artikel 20, tweede lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=20) genoemde aftoppingsgrens in aanmerking worden genomen voor het percentage, bedoeld in [artikel 21, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21);
 
-- c. de woonkosten met een hoogte vanaf de aftoppingsgrens, bedoeld in onderdeel b, tot de in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde rekenhuur in aanmerking worden genomen voor het percentage, bedoeld in [artikel 21, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21).
+- c. de woonkosten met een hoogte vanaf de aftoppingsgrens, bedoeld in onderdeel b, tot het in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13) genoemde bedrag in aanmerking worden genomen voor het percentage, bedoeld in [artikel 21, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21);
 
-2. De ophoging is gelijk aan de op basis van het eerste lid in aanmerking genomen woonkosten verminderd met de op basis van het belastbaar inkomen geldende normhuur, bedoeld in [artikel 19 van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=19), maar minimaal de in [artikel 17, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=17) genoemde normhuur.
+- d. de woonkosten met een hoogte vanaf het bedrag, genoemd in [artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), worden niet in aanmerking genomen.
+
+2. De ophoging is gelijk aan de op basis van het eerste lid in aanmerking genomen woonkosten verminderd met de basishuur, bedoeld in [artikel 16 van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=16), en verminderd met de uitkomst van de formule, bedoeld in [artikel 21, tweede lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21).
 
 3. Als bewijsstuk, bedoeld in [artikel 475da, zevende lid, derde zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475da) wordt aangewezen een beschikking van de Dienst Toeslagen op een aanvraag om huurtoeslag, dan wel een schriftelijke beoordeling van de Dienst Toeslagen over de aard van de woning.
 
@@ -110,7 +112,7 @@ Hebben goedgevonden en verstaan:
 
 2. De hoogte van het bedrag is gelijk aan het loon LB/PH, waarop van een uitbetaald recht op vakantiebijslag of een uitbetaald bedrag ten laste van een arbeidsvoorwaardenbedrag, de ingehouden inkomensafhankelijke bijdrage zoals bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de ingehouden loonbelasting en premie volksverzekeringen in mindering zijn gebracht.
 
-3. Als het gemiddeld belastbaar maandinkomen wordt gebruikt voor de berekening van de beslagvrije voet, wordt de hoogte van het in mindering te brengen bedrag berekend op basis van het gemiddelde van het loon LB/PH, het gemiddelde van de ingehouden inkomensafhankelijke bijdrage, bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en het gemiddelde van de ingehouden loonbelasting en premie volksverzekeringen over de tijdvakken die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=3&z=2024-01-01&g=2024-01-01), worden betrokken.
+3. Als het gemiddeld belastbaar maandinkomen wordt gebruikt voor de berekening van de beslagvrije voet, wordt de hoogte van het in mindering te brengen bedrag berekend op basis van het gemiddelde van het loon LB/PH, het gemiddelde van de ingehouden inkomensafhankelijke bijdrage, bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en het gemiddelde van de ingehouden loonbelasting en premie volksverzekeringen over de tijdvakken die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=3&z=2026-01-01&g=2026-01-01), worden betrokken.
 
 4. Als het aangiftetijdvak niet gelijk is aan een maand, wordt de uitkomst van het tweede of derde lid naar een maandinkomen herleid.
 
@@ -168,7 +170,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 9. Ondersteuning door de beroepsorganisatie van gerechtsdeurwaarders
 
-1. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8&z=2024-01-01&g=2024-01-01) is de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders belast met de ondersteuning, bedoeld in artikel 8, eerste en tweede lid, voor zover het de ondersteuning betreft van bij ministeriële regeling aangewezen partijen, en verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van deze ondersteuning.
+1. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8&z=2026-01-01&g=2026-01-01) is de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders belast met de ondersteuning, bedoeld in artikel 8, eerste en tweede lid, voor zover het de ondersteuning betreft van bij ministeriële regeling aangewezen partijen, en verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van deze ondersteuning.
 
 2. De Stichting Netwerk Gerechtsdeurwaarders is verwerker als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming.
 
@@ -224,7 +226,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Dit artikel vervalt met ingang van 1 januari 2027.
 
-## Bijlage. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=2&z=2024-01-01&g=2024-01-01), van het Besluit beslagvrije voet
+## Bijlage. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=2&z=2026-01-01&g=2026-01-01), van het Besluit beslagvrije voet
 
 Vervallen
 
