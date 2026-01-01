@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -142,19 +142,17 @@ Vervallen
 
 - a. een motorfiets,
 
-- b. bromfiets op twee wielen,
+- b. een bedrijfsauto met een maximum massa van meer dan 3500 kg,
 
-- c. een bedrijfsauto met een maximum massa van meer dan 3500 kg,
+- c. een landbouw- of bosbouwtrekker,
 
-- d. een landbouw- of bosbouwtrekker,
+- d. een motorrijtuig met beperkte snelheid,
 
-- e. een motorrijtuig met beperkte snelheid,
+- e. een mobiele machine,
 
-- f. een mobiele machine,
+- f. een aanhangwagen, of;
 
-- g. een aanhangwagen, of;
-
-- h. een ander voertuig dan de in de onderdelen a tot en met g genoemde, niet zijnde een voertuig als genoemd in [artikel 1 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1), voor zover het voertuig 15 jaar of ouder is.
+- g. een ander voertuig dan de in de onderdelen a tot en met g genoemde, niet zijnde een voertuig als genoemd in [artikel 1 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1), voor zover het voertuig 15 jaar of ouder is.
 
 3. Indien het voertuig definitief bestemd is voor gebruik buiten de weg, bedoeld in [artikel 40b, derde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=40b), verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het voertuig bestemd is om als voertuig buiten de weg te worden gebruikt ten behoeve van:
 
