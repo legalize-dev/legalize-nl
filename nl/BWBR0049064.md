@@ -4,7 +4,7 @@ identifier: "BWBR0049064"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-10-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049064"
 soort: "ministeriele-regeling"
@@ -172,7 +172,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1.3a. (aanvulling [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.7) – specificering leidingen en hulpmiddelen)
 
-In aanvulling op [artikel 2.7, onder B, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.7) omvat het net op zee, bedoeld in [artikel 15a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=15a), niet leidingen en daarmee verbonden hulpmiddelen ten behoeve van het transport van elektriciteit die één of meer windparken op zee verbinden met het landelijk hoogspanningsnet en waarvoor voor 1 januari 2016 een vergunning is verleend die na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) geldt als een omgevingsvergunning voor een beperkingengebiedactiviteit met betrekking tot een waterstaatswerk als bedoeld in [artikel 5.1, tweede lid, aanhef en onder f, onder 2°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1).
+Vervallen
 
 ### Hoofdstuk 2. Aanvullingen op [hoofdstuk 22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=22)
 
@@ -232,7 +232,7 @@ In aanvulling op artikel 22.61a van de bruidsschat geldt dat artikel ook voor ac
 
 ##### Artikel 7.1a. (vervallen bij inwerkingtreding Energiewet)
 
-[Artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0049064&hoofdstuk=1&artikel=1.3a&z=2025-10-01&g=2025-10-01) vervalt indien het bij koninklijke boodschap van 9 juni 2023 ingediende voorstel van wet houdende regels over energiemarkten en energiesystemen (Energiewet) tot wet is of wordt verheven en artikel 3.82 van die wet in werking treedt.
+[Artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0049064&hoofdstuk=1&artikel=1.3a&z=2026-01-01&g=2026-01-01) vervalt indien het bij koninklijke boodschap van 9 juni 2023 ingediende voorstel van wet houdende regels over energiemarkten en energiesystemen (Energiewet) tot wet is of wordt verheven en artikel 3.82 van die wet in werking treedt.
 
 ### Hoofdstuk 2. Aanvullingen op [hoofdstuk 22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=22)
 
