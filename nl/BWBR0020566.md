@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-07-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 - c. voor metingen bij handelsgebruik of lichtindustrieel gebruik van elektriciteit de meter voldoet aan de eisen van klasse B.
 
-2. Voordat een kilowattuurmeter op de bestemde plaats voor de eerste maal wordt gebruikt, wordt door degene die krachtens [artikel 27 van de Regeling inzake tariefstructuren en voorwaarden elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0017883&artikel=27) verantwoordelijk is voor de aanleg van de meter bij de installatie van de meter overeenkomstig onderdeel 7, onder c, van bijlage V van de richtlijn meetinstrumenten het stroombereik vastgesteld met het oog op de geschiktheid van de meter voor een correcte meting van het te verwachten gebruik.
+2. Voordat een kilowattuurmeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorgdraagt voor de installatie hiervan vast of in de gegeven omstandigheden de kilowattuurmeter geschikt is voor een correcte meting van het te verwachten gebruik.
 
 ##### Artikel 8
 
@@ -318,7 +318,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Voordat een thermische energiemeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie hiervan vast of in de gegeven omstandigheden de thermische energiemeter geschikt is voor een correcte meting van het te verwachten gebruik.
 
-3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2019-07-01&g=2019-07-01) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
+3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
 
 #### § 4. Specifieke bepalingen inzake niet-automatische weegwerktuigen
 
