@@ -4,7 +4,7 @@ identifier: "BWBR0036097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-05-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036097"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten AC
 
 ##### Artikel 2
 
-1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2025-05-01&g=2025-05-01) bedoelde bedragen, met dien verstande dat indien de hier bedoelde beschikkingen worden genomen vanwege het feit dat de oorspronkelijke nummerhouder is gefuseerd of gesplitst in de zin van [artikel 2:309](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309) respectievelijk [artikel 2:334a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a), het bedrag per beschikking € 64 is, in afwijking van de in bijlage 1 bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2026-01-01&g=2026-01-01) bedoelde bedragen, met dien verstande dat indien de hier bedoelde beschikkingen worden genomen vanwege het feit dat de oorspronkelijke nummerhouder is gefuseerd of gesplitst in de zin van [artikel 2:309](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309) respectievelijk [artikel 2:334a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a), het bedrag per beschikking € 64 is, in afwijking van de in bijlage 1 bedoelde bedragen.
 
-2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2025-05-01&g=2025-05-01) bedoelde bedragen.
+2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2026-01-01&g=2026-01-01) bedoelde bedragen.
 
 3. Het bedrag ter vergoeding van de kosten van de beschikking, bedoeld in [artikel 4, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) is € 4.700.
 
@@ -108,7 +108,7 @@ Het bedrag van de omzet, bedoeld in [artikel 12, derde lid, van het besluit](htt
 
 - c. nummers bestemd voor elektronische communicatiediensten voor geautomatiseerde toepassingen.
 
-2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2025-05-01&g=2025-05-01). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
+2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2026-01-01&g=2026-01-01). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
 
 3. De correctie vindt plaats per marktorganisatie, tenzij er sprake is van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b). Alsdan vindt de correctie plaats per groep.
 
@@ -140,7 +140,7 @@ Wijzigt de Regeling kostenverhaal energie.
 
 Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
 
-#### § 5. Slotbepalingen
+#### § 4. Wijziging van andere regelingen
 
 ##### Artikel 11
 
@@ -166,16 +166,7 @@ Deze regeling wordt aangehaald als: Regeling doorberekening kosten ACM.
 
 ### A
 
-## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2015-01-01&g=2015-01-01), van de Regeling doorberekening kosten ACM
-
-| Beschikking | Bedrag voor het inwilligen van de aanvraag, het geheel of gedeeltelijk afwijzen ervan of ingeval van intrekking van de aanvraag voordat daarop door de ACM is beslist |
-| --- | --- |
-| Beschikking omtrent de registratie van een certificatiedienstverlener zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) | € 3.030 |
-| Beschikking als bedoeld in [artikel 25 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25) | € 2.325 |
-| Beschikking als bedoeld in [artikel 37 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37) | € 17.450 |
-| Beschikking als bedoeld in [artikel 40 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=40) | € 2.325 |
-| Beschikking als bedoeld in [artikel 44 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44) | € 34.900 |
-| Beschikking als bedoeld in [artikel 46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46) | € 2.325 |
+## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2026-01-01&g=2026-01-01), van de Regeling doorbereking kosten ACM
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -185,9 +176,9 @@ Vervallen
 
 ##### Artikel 7a
 
-1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2025-05-01&g=2025-05-01) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2026-01-01&g=2026-01-01) bedoelde bedragen.
 
-2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2025-05-01&g=2025-05-01) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
+2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2026-01-01&g=2026-01-01) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
 
 #### § 4. Wijziging van andere regelingen
 
@@ -197,7 +188,7 @@ Vervallen
 
 ### A
 
-### B
+### A
 
 ## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2017-04-19&g=2017-04-19), van de Regeling doorberekening kosten ACM
 
@@ -231,16 +222,70 @@ Het aantal transacties waaronder geen kosten in rekening worden gebracht aan mar
 
 ## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2025-05-01&g=2025-05-01), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2025-05-01&g=2025-05-01), van de Regeling doorbereking kosten ACM
 
+### B
+
+## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), van de Regeling doorberekening kosten ACM
+
+| Beschikking | Bedrag voor het inwilligen van de aanvraag, het geheel of gedeeltelijk afwijzen ervan of ingeval van intrekking van de aanvraag voordat daarop door de ACM is beslist |
+| --- | --- |
+| Beschikking als bedoeld in [artikel 25 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25) | € 2.325 |
+| Beschikking als bedoeld in [artikel 37 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37) | € 17.450 |
+| Beschikking als bedoeld in [artikel 40 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=40) | € 2.325 |
+| Beschikking als bedoeld in [artikel 44 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44) | € 34.900 |
+| Beschikking als bedoeld in [artikel 46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46) | € 2.325 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Voor de behandeling van een aanvraag voor:
+
+- a. een vergunning als bedoeld in [artikel 2.18, derde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.18) is de aanvrager een retributie verschuldigd van:
+
+- 1°. € 1.705, indien de aanvraag betrekking heeft op een vergunning voor het leveren van elektriciteit;
+
+- 2°. € 1.705, indien de aanvraag betrekking heeft op een vergunning voor het leveren van gas;
+
+- b. erkenning als bedoeld in [artikel 2.50, vierde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.50) is de aanvrager een retributie verschuldigd van:
+
+- 1°. € 4.000, indien de aanvraag betrekking heeft op een erkenning als meetverantwoordelijke partij voor elektriciteit;
+
+- 2°. € 4.000, indien de aanvraag betrekking heeft op een erkenning als meetverantwoordelijke partij voor gas;
+
+- c. wijziging van een erkenning van een meetverantwoordelijke partij als bedoeld in [artikel 2.51, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.51) is de aanvrager een retributie verschuldigd van € 1.000;
+
+- d. toestemming voor overdracht van een erkenning van een meetverantwoordelijke partij als bedoeld in [artikel 2.53, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.53) is de aanvrager een retributie verschuldigd van € 1.500;
+
+- e. certificering van een vergelijkingsinstrument als bedoeld in [artikel 2.68, derde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.68) is de aanvrager een retributie verschuldigd van € 16.000;
+
+- f. aanwijzing van een beheerder van een erkend gesloten systeem als bedoeld in [artikel 3.6 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.6) is de aanvrager een retributie verschuldigd van:
+
+- 1°. € 15.000, indien de aanvrager eigenaar is van een transmissie- of distributiesysteem voor elektriciteit;
+
+- 2°. € 15.000, indien de aanvrager eigenaar is van een distributiesysteem voor gas;
+
+- g. erkenning van een systeem als gesloten systeem als bedoeld in [artikel 3.7, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.7) is de aanvrager een retributie verschuldigd van:
+
+- 1°. € 15.000, indien de aanvrager eigenaar is van een transmissie- of distributiesysteem voor elektriciteit;
+
+- 2°. € 15.000, indien de aanvrager eigenaar is van een distributiesysteem voor gas;
+
+- h. een besluit inzake geschilbeslechting als bedoeld in [artikel 5.5, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.5) is de aanvrager een retributie verschuldigd van € 19.000.
+
+#### § 3. Doorberekening door middel van toerekening
+
+#### § 5. Slotbepalingen
+
 ### C
 
-## Bijlage 3. behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2025-05-01&g=2025-05-01), van de Regeling doorberekening kosten ACM
+## Bijlage 3. behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2026-01-01&g=2026-01-01), van de Regeling doorberekening kosten ACM
 
 | Categorie | Bedrag ter vergoeding van de kosten van de ACM die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekeningen worden doorberekend in 2025 |
 | --- | --- |
-| Regionaal netbeheer elektriciteit | 0,08004% van de relevante omzet |
-| Regionaal netbeheer gas | 0,12882% van de relevante omzet |
-| Landelijk netbeheer elektriciteit | € 4.826.538 |
-| Landelijk netbeheer gas | € 2.195.654 |
+| Distributiesysteembeheer voor elektriciteit | 0,08004% van de relevante omzet |
+| Distributiesysteembeheerder voor gas | 0,12882% van de relevante omzet |
+| Transmissiesysteembeheerder voor elektriciteit | € 4.826.538 |
+| Transmissiesysteembeheerder voor gas | € 2.195.654 |
 | Warmtelevering | 0,18354% van de relevante omzet |
 | Universele postdienst | € 617.999 |
 | Niet-universele postdienst | 0,03735% van de relevante omzet |
