@@ -4,7 +4,7 @@ identifier: "BWBR0041348"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2025-01-01"
+last_updated: "2026-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041348"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **de militair** de militair in werkelijke dienst als bedoeld in [artikel 90, eerste lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=90).
 
-- b. **heffingsgrondslag** de bezoldiging bedoel in artikel 1, vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie-uitkering, tot een maximum van € 4.008,– of; indien sprake is van een afwijkende bezoldiging, de afwijkende bezoldiging, vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie-uitkering, tot een maximum van € 4.008,–.
+- b. **heffingsgrondslag** de bezoldiging bedoel in artikel 1, vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie-uitkering, tot een maximum van € 4.088,– of; indien sprake is van een afwijkende bezoldiging, de afwijkende bezoldiging, vermeerderd met de eindejaarsuitkering alsmede de daarover berekende vakantie-uitkering, met inachtneming van het minimumbedrag van de vakantie-uitkering, tot een maximum van € 4.088,–.
 
 - c. **afwijkende bezoldiging de bezoldiging in geval van:**
 
@@ -69,19 +69,19 @@ Bij het vaststellen van de premie voor de militair is [artikel 3, eerste en twee
 
 ##### Artikel 3. Omvang pakket geneeskundige zorg
 
-De omvang van de geneeskundige zorg van de militair alsmede de procedures met betrekking tot realisering van de aanspraak daar op zijn neergelegd in Verzekeringsvoorwaarden Ziektekostenverzekering Krijgsmacht 2025.
+De omvang van de geneeskundige zorg van de militair alsmede de procedures met betrekking tot realisering van de aanspraak daar op zijn neergelegd in Verzekeringsvoorwaarden Ziektekostenverzekering Krijgsmacht 2026.
 
 ##### Artikel 4. Verschuldigde premie
 
-Met ingang van 1 januari 2025 bedraagt de door de militair verschuldigde premie 6,35% van de heffingsgrondslag.
+Met ingang van 1 januari 2026 bedraagt de door de militair verschuldigde premie 6,40% van de heffingsgrondslag.
 
 ##### Artikel 5. Werkgeversbijdrage in de premie
 
-1. De Minister draagt voor 61,42% bij in de door de militair verschuldigde premie. Per 1 januari 2025 is dat 3,90% van de heffingsgrondslag. De militair is loonheffing verschuldigd over de werkgeversbijdrage.
+1. De Minister draagt voor 61,72% bij in de door de militair verschuldigde premie. Per 1 januari 2026 is dat 3,95% van de heffingsgrondslag. De militair is loonheffing verschuldigd over de werkgeversbijdrage.
 
 2. Dit percentage wordt herzien indien:
 
-- a. de aanspraken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041348&artikel=3&z=2025-01-01&g=2025-01-01) wijziging ondergaan of;
+- a. de aanspraken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041348&artikel=3&z=2026-01-01&g=2026-01-01) wijziging ondergaan of;
 
 - b. de maximum heffingsgrondslag geen gelijke tred houdt met de loonontwikkeling.
 
