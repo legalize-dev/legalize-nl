@@ -4,7 +4,7 @@ identifier: "BWBR0052105"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-03"
-last_updated: "2026-01-01"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052105"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&art
 
 ##### Artikel 2. Ondermandaat
 
-1. De Inspecteur-Generaal van de Inspectie van het Onderwijs kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052105&artikel=1&z=2026-01-03&g=2026-01-01), ondermandaat of machtiging in een door hem te bepalen omvang verlenen aan een of meer onder hem ressorterende functionarissen.
+1. De Inspecteur-Generaal van de Inspectie van het Onderwijs kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052105&artikel=1&z=2026-01-03&g=2026-01-03), ondermandaat of machtiging in een door hem te bepalen omvang verlenen aan een of meer onder hem ressorterende functionarissen.
 
 2. Besluiten tot het verlenen van ondermandaat en machtiging kunnen uitsluitend schriftelijk geschieden en worden ter kennis gebracht aan de mandaatgever.
 
 ##### Artikel 3. Ondertekening
 
-De Inspecteur-Generaal van de Inspectie van het Onderwijs en de onder hem ressorterende functionarissen aan wie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052105&artikel=2&z=2026-01-03&g=2026-01-01) ondermandaat of machtiging is verleend, ondertekenen besluiten namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid met de volgende formulering:
+De Inspecteur-Generaal van de Inspectie van het Onderwijs en de onder hem ressorterende functionarissen aan wie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052105&artikel=2&z=2026-01-03&g=2026-01-03) ondermandaat of machtiging is verleend, ondertekenen besluiten namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid met de volgende formulering:
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,
 
