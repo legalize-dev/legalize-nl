@@ -4,7 +4,7 @@ identifier: "BWBR0049534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-06"
-last_updated: "2025-03-01"
+last_updated: "2026-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049534"
 soort: "ministeriele-regeling"
@@ -44,19 +44,19 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap, handelend in overeenstemming met de Minister voor Primair- en Voortgezet onderwijs;
+- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap, handelend in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** Programmaraad Onderwijsregio’s, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=2&z=2026-01-06&g=2025-03-01);
+- b. **commissie:** Programmaraad Onderwijsregio’s, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=2&z=2026-01-06&g=2026-01-06);
 
 - c. **landelijke organisaties:** organisaties die zijn vertegenwoordigd in het Bestuurlijk Overleg Leraren, te weten de sectorraden, de opleiders, de Realisatie Eenheid van het Ministerie van Onderwijs, Cultuur en Wetenschap en diverse vak- en beroepsorganisaties;
 
-- d. **BO-Leraren:** Bestuurlijk Overleg Leraren.
+- d. **BO-Leraren:** Bestuurlijk Overleg Lerarenstrategie.
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een commissie, genaamd de Programmaraad Onderwijsregio’s.
 
-2. De commissie ziet erop toe dat de afspraken die gemaakt zijn in het BO-Leraren effectief worden uitgevoerd. De commissie geeft daarbij gevraagd en ongevraagd advies op de inhoud van de opdracht, de uitvoeringsstrategie en het realiseren van de beoogde resultaten. Daarbij houdt de commissie het lange termijnperspectief voor ogen: een goed werkende (regionale) onderwijsarbeidsmarkt.
+2. De commissie geeft gevraagd en ongevraagd advies aan de Realisatie-Eenheid op de opdracht van de maatschappelijke opgave van de onderwijsarbeidsmarkt in de onderwijsregio’s, de uitvoeringsstrategie en het realiseren van de beoogde resultaten. De commissie geeft daarbij gevraagd en ongevraagd advies op de inhoud van de opdracht, de uitvoeringsstrategie en het realiseren van de beoogde resultaten. Daarbij houdt de commissie het lange termijnperspectief voor ogen: een goed werkende (regionale) onderwijsarbeidsmarkt.
 
 3. De commissie heeft tot taak te:
 
@@ -66,25 +66,23 @@ In dit besluit wordt verstaan onder:
 
 - c). klankborden: kennisdelen tussen verschillende betrokken actoren, ondersteunen en sparren op vraagstukken vanuit de praktijk.
 
-4. De commissie gaat uit van de thema’s die het BO-Leraren benoemd en markeert als opdracht. De opdracht wordt via de Realisatie Eenheid aangedragen bij de commissie;
+4. De commissie gaat uit van de thema's die raken aan de maatschappelijke opgave van de onderwijsarbeidsmarkt in de onderwijsregio's. De opdracht wordt via de Realisatie Eenheid aangedragen bij de commissie;
 
 5. De commissie kan op basis van de signalerende functie ook zelf onderwerpen agenderen voor het BO-Leraren, door tussenkomst van de Realisatie Eenheid.
 
 6. De voorzitter en de secretaris van de commissie zorgen in afstemming met de directeur van de Realisatie Eenheid voor een plan, waarin in ieder geval de hierboven genoemde elementen zijn opgenomen.
 
-7. De commissie adviseert de minister na afloop van elke bijeenkomst als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=4&z=2026-01-06&g=2025-03-01) over de voortgang die besproken moet worden in het BO-leraren.
-
-8. De leden van de commissie zijn te consulteren door de minister in verband met de verplichtingen en afspraken die voortvloeien uit de in dit artikel genoemde taken van de commissie.
+7. De leden van de commissie zijn te consulteren door de minister in verband met de verplichtingen en afspraken die voortvloeien uit de in dit artikel genoemde taken van de commissie.
 
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
-1. De commissie bestaat uit een voorzitter en 15 andere leden.
+1. De commissie bestaat uit een voorzitter en maximaal 13 andere leden.
 
 2. De voorzitter wordt door de minister benoemd.
 
 3. De overige leden worden op voordracht van de landelijke organisaties benoemd door de minister.
 
-4. De benoeming geschiedt voor de duur van de commissie zoals genomen onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=4&z=2026-01-06&g=2025-03-01).
+4. De benoeming geschiedt voor de duur van de commissie zoals genomen onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049534&artikel=4&z=2026-01-06&g=2026-01-06).
 
 5. Bij tussentijds vertrek van een lid kan verantwoordelijke organisatie een ander lid voordragen.
 
@@ -92,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-De commissie wordt ingesteld met ingang van 1 februari 2024 tot 1 maart 2025.
+De commissie wordt ingesteld met ingang van 1 februari 2024 tot 1 januari 2028.
 
 ##### Artikel 5. Voorzitter commissie
 
@@ -104,9 +102,9 @@ Met ingang van 1 februari 2024 wordt tot voorzitter benoemd: Chris van Meurs.
 
 - a. Vertegenwoordiging onderwijsregio (schoolbestuur en/of HR) vanuit de sector Primair Onderwijs, voorgedragen door de PO-Raad: Ton Groot Zwaaftink.
 
-- b. Schoolleider (vak- en beroepsorganisaties) vanuit de sector Primair Onderwijs, voorgedragen door de vak- en beroepsorganisaties: Louise Kortman.
+- b. Schoolleider (vak- en beroepsorganisaties) vanuit de sector Primair Onderwijs, voorgedragen door de vak- en beroepsorganisaties: Louise Kortman, met ingang van 1 september 2025 is deze positie vacant.
 
-- c. Leraar (vak- en beroepsorganisaties) vanuit de sector Primair Onderwijs, voorgedragen door de vak- en beroepsorganisaties: Dorien König.
+- c. Leraar (vak- en beroepsorganisaties) vanuit de sector Primair Onderwijs, voorgedragen door de vak- en beroepsorganisaties: Dorien König, met ingang van 1 september 2025 vervangen door Sophie Piccart-Brouwer.
 
 - d. vertegenwoordiging onderwijsregio (schoolbestuur en/of HR) vanuit de sector Voortgezet Onderwijs, voorgedragen door de VO-Raad: Reinier van de Wal.
 
@@ -114,11 +112,11 @@ Met ingang van 1 februari 2024 wordt tot voorzitter benoemd: Chris van Meurs.
 
 - f. Leraar (vak- en beroepsorganisaties) vanuit de sector Voortgezet Onderwijs, voorgedragen door de vak- en beroepsorganisaties: Jan Jaap Wietsma.
 
-- g. vertegenwoordiging onderwijsregio (schoolbestuur en/of HR) vanuit de sector Middelbaarberoepsonderwijs, voorgedragen door de MBO-Raad: Hendrik-Jan van Arenthals.
+- g. vertegenwoordiging onderwijsregio (schoolbestuur en/of HR) vanuit de sector Middelbaarberoepsonderwijs, voorgedragen door de MBO-Raad: Hendrik-Jan van Arenthals, met ingang van 1 december 2025 vervangen door Age Wim van de Zee.
 
 - h. Docent (vak- en beroepsorganisaties) vanuit de sector Middelbaarberoepsonderwijs, voorgedragen door de vak- en beroepsorganisaties: Thomas Oosterkamp.
 
-- i. Verantwoordelijke voor onderwijsassistenten opleiding vanuit de sector Middelbaarberoepsonderwijs als werkgever, voorgedragen door de MBO-Raad: Tjeerd Biesterbosch.
+- i. Verantwoordelijke voor onderwijsassistenten opleiding vanuit de sector Middelbaarberoepsonderwijs als werkgever, voorgedragen door de MBO-Raad: Tjeerd Biesterbosch, met ingang van 1 september 2025 vervangen door Bastiaan Pellikaan.
 
 - j. Verantwoordelijke voor educatieve opleidingen vanuit de hogescholen als werkgever, voorgedragen door de Vereniging Hogescholen (VH): Sander Nieuwland
 
@@ -126,7 +124,7 @@ Met ingang van 1 februari 2024 wordt tot voorzitter benoemd: Chris van Meurs.
 
 - l. Vertegenwoordiger beroepsgroep leraren en opleidingen, voorgedragen door de vak- en beroepsorganisaties (AOb): Carry Quint
 
-- m. Afgevaardigde vanuit het Directoraat Generaal Funderend Onderwijs (DGFO) van het Ministerie van Onderwijs, Cultuur en Wetenschap; voorgedragen door de minister: Directeur Onderwijspersoneel en Primair onderwijs (OPO), Daniëlle Schiet.
+- m. Afgevaardigde vanuit het Directoraat Generaal Funderend Onderwijs (DGFO) van het Ministerie van Onderwijs, Cultuur en Wetenschap; voorgedragen door de minister: Directeur Onderwijspersoneel en Primair onderwijs (OPO), Daniëlle Schiet, met ingang van 1 oktober 2025 is deze positie vacant.
 
 2. De directeur van en een secretaris uit de Realisatie Eenheid nemen deel aan de Programmaraad maar hebben geen stemrecht.
 
@@ -142,7 +140,7 @@ Met ingang van 1 februari 2024 wordt tot voorzitter benoemd: Chris van Meurs.
 
 ##### Artikel 8. Werkwijze
 
-1. De commissie stelt haar eigen werkwijze vast.
+1. De commissie stelt in afstemming met de Realisatie-Eenheid haar eigen werkwijze vast.
 
 2. De commissie kan zich, na toestemming van de minister, door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
@@ -152,11 +150,11 @@ De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichti
 
 ##### Artikel 10. Evaluatierapport
 
-De commissie brengt uiterlijk 1 maart 2024 zijn evaluatierapport op aan de minister.
+De commissie brengt uiterlijk 1 december 2027 zijn evaluatierapport op aan de minister.
 
 ##### Artikel 11. Vergoeding
 
-1. De voorzitter komt niet in dienst van het rijk, maar aan hem wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van de laatstelijk afgesloten collectieve arbeidsovereenkomst (CAO) voor rijksambtenaren en een arbeidsduurfactor van 10 uur per week.
+1. De voorzitter komt niet in dienst van het rijk, maar aan hem wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van de laatstelijk afgesloten collectieve arbeidsovereenkomst (CAO) voor rijksambtenaren en een arbeidsduurfactor van 10 uur per week. Met ingang van 1 september 2025 wordt de arbeidsduurfactor vastgesteld op 6 uur per week.
 
 2. De voorzitter en leden ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door het secretariaat afgehandeld.
 
@@ -166,7 +164,7 @@ De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de m
 
 ##### Artikel 13. Verantwoording
 
-De commissie biedt de minister vóór 1 maart 2025 in het BO-Leraren een (eind)verslag aan waarin verslag wordt gedaan van de activiteiten van de periode waarin de commissie werkzaam is geweest.
+De commissie biedt de minister vóór 1 december 2027 door tussenkomst van de Realisatie-Eenheid een (eind)verslag aan waarin verslag wordt gedaan van de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
 ##### Artikel 14. Openbaarmaking
 
