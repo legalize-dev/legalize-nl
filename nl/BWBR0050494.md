@@ -4,7 +4,7 @@ identifier: "BWBR0050494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-06"
-last_updated: "2025-11-30"
+last_updated: "2026-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050494"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **adviesorgaan:** het adviesorgaan zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050494&artikel=2&z=2026-01-06&g=2025-11-30).
+- b. **adviesorgaan:** het adviesorgaan zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050494&artikel=2&z=2026-01-06&g=2026-01-06).
 
 ##### Artikel 2. Instelling en taak
 
@@ -86,11 +86,11 @@ Het adviesorgaan wordt opgeheven vier weken nadat het eindrapport is uitgebracht
 
 ##### Artikel 8. Eindrapport tussenrapport en uiterste datum voor oplevering
 
-1. De voorzitter brengt voor 1 januari 2026 een eindrapport uit aan de minister.
+1. De voorzitter brengt voor 1 maart 2027 een eindrapport uit aan de minister.
 
 2. Het adviesorgaan is bevoegd één of meer tussenrapporten uit te brengen.
 
-3. De voorzitter kan tot 1 december 2025 aan de minister om uitstel verzoeken voor wat betreft het uitbrengen van het eindrapport.
+3. De voorzitter kan tot 1 februari 2027 aan de minister om uitstel verzoeken voor wat betreft het uitbrengen van het eindrapport.
 
 4. Een verzoek tot uitstel van het eindrapport is met redenen omkleed en vermeldt een nieuwe einddatum die redelijk is ten opzichte van de in lid 1 genoemde datum.
 
