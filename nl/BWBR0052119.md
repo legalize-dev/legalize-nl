@@ -4,7 +4,7 @@ identifier: "BWBR0052119"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-06"
-last_updated: "2025-12-01"
+last_updated: "2026-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052119"
 soort: "ministeriele-regeling"
@@ -56,13 +56,13 @@ Aan de programmadirecteur-generaal blijft voorbehouden:
 
 - a. de bevoegdheid om beslissingen te nemen inzake aanstelling, bevordering en ontslag van alsmede treffen van disciplinaire maatregelen jegens functionarissen op managementfuncties van schaal 14 en hoger direct onder het niveau van het hoofd van de directie of dienst;
 
-- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052119&artikel=1&z=2026-01-06&g=2025-12-01) genoemde ambtenaar betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies.
+- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052119&artikel=1&z=2026-01-06&g=2026-01-06) genoemde ambtenaar betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies.
 
 ##### Artikel 3
 
 1. Ondermandaat wordt verleend voor het beschikken over bedragen voor het aangaan van verplichtingen en het verrichten van uitgaven, in overeenstemming met [artikel 3.3. van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3).
 
-2. Onverminderd artikel 2 van dit besluit, is de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052119&artikel=1&z=2026-01-06&g=2025-12-01) genoemde ambtenaar bevoegd tot uitoefening van alle bevoegdheden die conform paragraaf 1.3 van de CAO Rijk bij of krachtens de wet aan het bevoegd gezag zijn toegekend ten aanzien van de onder haar organisatieonderdeel ressorterende ambtenaren.
+2. Onverminderd artikel 2 van dit besluit, is de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052119&artikel=1&z=2026-01-06&g=2026-01-06) genoemde ambtenaar bevoegd tot uitoefening van alle bevoegdheden die conform paragraaf 1.3 van de CAO Rijk bij of krachtens de wet aan het bevoegd gezag zijn toegekend ten aanzien van de onder haar organisatieonderdeel ressorterende ambtenaren.
 
 ##### Artikel 4
 
