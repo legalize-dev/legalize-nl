@@ -4,7 +4,7 @@ identifier: "BWBR0047757"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-07"
-last_updated: "2026-01-01"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047757"
 soort: "beleidsregel"
@@ -81,7 +81,7 @@ The following definitions are used in these Regulations:
 
 - p. **local usage:** what is standard practice locally at the foreign representations of the United States, the United Kingdom, Germany, Canada and the European Union. If there are fewer than three of the aforementioned foreign representations in the place where the mission is located, HDPO will designate one or more other foreign representations established locally, after consultation with the head of mission;
 
-- q. **in-house emergency officer:** an employee working at the mission who has been designated by the head of mission to perform the emergency service activities referred to in [article 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.8&z=2026-01-07&g=2026-01-01) in addition to their normal duties;
+- q. **in-house emergency officer:** an employee working at the mission who has been designated by the head of mission to perform the emergency service activities referred to in [article 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.8&z=2026-01-07&g=2026-01-07) in addition to their normal duties;
 
 - r. **3W:** the director of 3W WorldWide Working (3W **WereldWijd Werken**) at the Ministry of Foreign Affairs.
 
@@ -115,7 +115,7 @@ The following definitions are used in these Regulations:
 
 5. The right to give an advisory opinion as referred to in paragraph 4 does not apply to:
 
-- a. amendments to the [annexe](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-01) to a mission version containing the salary amounts fixed by HDPO or 3W using the instruments devised for this purpose, as referred to in [article 4.1, paragraph 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.1&z=2026-01-07&g=2026-01-01);
+- a. amendments to the [annexe](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-07) to a mission version containing the salary amounts fixed by HDPO or 3W using the instruments devised for this purpose, as referred to in [article 4.1, paragraph 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.1&z=2026-01-07&g=2026-01-07);
 
 - b. thb adoption, amendment or withdrawal of a mission version in connection with an amendment to these Regulations that entails the adoption, amendment or withdrawal of a number of mission versions.
 
@@ -247,7 +247,11 @@ The following information is included in the mission version, with due observanc
 
 - 1°. the number of working hours per week for employees;
 
-- 2°. a schedule of the start and end of daily working times and, unless this is not in keeping with local regulations and local usage, breaks during the working day;
+- 2°. a schedule of the start and end of daily working times and, unless this is not in keeping with local regulations and local usage, breaks during the working day on the understanding that, provided the number of working hours is not exceeded, provisions that differ from the working times arrangement contained in the mission version may be laid down in the employment contract of:
+
+- –. **an employee who usually works at least half of their working hours at the official residence and who enters into employment on or after 1 January 2026; or**
+
+- –. **a driver/senior driver or security officer/senior security officer who enters into employment on or after 1 January 2026;**
 
 - 3°. the number of days of rest and public holidays when no work is required, except as necessary in the interests of the service for special reasons;
 
@@ -301,7 +305,7 @@ The following information is included in the mission version, with due observanc
 
 ##### Article 4.1. Job evaluation, pay scales, pay numbers and salary amounts
 
-1. The employer assigns one of the pay scales set out in [annexe 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-01) to each job performed at a mission.
+1. The employer assigns one of the pay scales set out in [annexe 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-07) to each job performed at a mission.
 
 2. Each pay scale consists of 16 pay numbers.
 
@@ -325,7 +329,7 @@ The following information is included in the mission version, with due observanc
 
 ##### Article 4.3. The pay scale, pay number and salary amount applicable to an employee
 
-1. The pay scale applicable to an employee is the pay scale attached to the employee’s job in accordance with [annexe 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-01).
+1. The pay scale applicable to an employee is the pay scale attached to the employee’s job in accordance with [annexe 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-07).
 
 2. The salary amount received by an employee is based on the applicable pay scale and pay number. At the start of employment, an employee is assigned the lowest pay number unless there are special circumstances which warrant a higher pay number. In the case of a part-time employment contract, the salary amount is reduced proportionately.
 
@@ -365,7 +369,7 @@ The following information is included in the mission version, with due observanc
 
 ##### Article 4.7. Emergency service allowance
 
-1. An employee designated as an in-house emergency officer as referred to in [article 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.8&z=2026-01-07&g=2026-01-01) is entitled to an emergency service allowance immediately after the end of each calendar year if the employee has performed the emergency service duties to an adequate extent. This allowance is a percentage of the monthly salary for the highest pay number of pay scale 5 at the time of payment at the mission in question, namely:
+1. An employee designated as an in-house emergency officer as referred to in [article 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.8&z=2026-01-07&g=2026-01-07) is entitled to an emergency service allowance immediately after the end of each calendar year if the employee has performed the emergency service duties to an adequate extent. This allowance is a percentage of the monthly salary for the highest pay number of pay scale 5 at the time of payment at the mission in question, namely:
 
 - a. 8% for a non-specialised in-house emergency officer;
 
@@ -405,13 +409,13 @@ The following information is included in the mission version, with due observanc
 
 1. An employee’s salary is fixed as a gross amount.
 
-2. The contributions to be remitted by the employer that are payable by the employee pursuant to [article 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.3&z=2026-01-07&g=2026-01-01), or the amounts to be withheld pursuant to [article 5.5, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.5&z=2026-01-07&g=2026-01-01) or [article 5.6, paragraphs 1 and 2 (a)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.6&z=2026-01-07&g=2026-01-01) are in any event deducted from the gross salary.
+2. The contributions to be remitted by the employer that are payable by the employee pursuant to [article 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.3&z=2026-01-07&g=2026-01-07), or the amounts to be withheld pursuant to [article 5.5, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.5&z=2026-01-07&g=2026-01-07) or [article 5.6, paragraphs 1 and 2 (a)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.6&z=2026-01-07&g=2026-01-07) are in any event deducted from the gross salary.
 
 ##### Article 4.9. Payment of gross or net salary; local tax liability
 
-1. If salary is not taxable under the [Salaries Tax Act 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), it is paid net. The net salary is calculated by deducting from the salary amount referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-01):
+1. If salary is not taxable under the [Salaries Tax Act 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), it is paid net. The net salary is calculated by deducting from the salary amount referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07):
 
-- a. the contributions or amounts referred to in [article 4.8, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-01); and
+- a. the contributions or amounts referred to in [article 4.8, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07); and
 
 - b. the amount of tax owed locally by the employee on the salary; or
 
@@ -429,9 +433,9 @@ The following information is included in the mission version, with due observanc
 
 ##### Article 4.10. Payment of net salary; Dutch tax liability
 
-1. If salary is taxable under the [Salaries Tax Act 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), it is paid net. This net salary is calculated by deducting from the salary amount referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-01):
+1. If salary is taxable under the [Salaries Tax Act 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), it is paid net. This net salary is calculated by deducting from the salary amount referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07):
 
-- a. the contributions or amounts referred to in [article 4.8, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-01); and
+- a. the contributions or amounts referred to in [article 4.8, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07); and
 
 - b. the amount of tax that the employee would owe locally if the local tax authorities levied the tax payable locally on the employee’s salary, without taking into account any personal deductions the employee or their family members would have been entitled to.
 
@@ -439,17 +443,17 @@ The following information is included in the mission version, with due observanc
 
 3. In calculating the amount of salaries tax owed in the Netherlands, the employer takes account of the general tax credit and employment tax credit prescribed in the [Salaries Tax Act 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) or comparable tax credits, by whatever name they are known.
 
-4. If, at the written request of the employee, the employer has decided to disregard the credits referred to in paragraph 3 in the calculation referred to in that paragraph despite the employee being eligible for these credits, both the amount referred to in paragraph 1 and an additional amount, equal to the difference between the amount of salaries tax owed in the Netherlands and the lower amount of salaries tax that would have been owed if the employee had not requested that the credits referred to in the previous sentence be disregarded, will be deducted from the employee’s salary as referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-01).
+4. If, at the written request of the employee, the employer has decided to disregard the credits referred to in paragraph 3 in the calculation referred to in that paragraph despite the employee being eligible for these credits, both the amount referred to in paragraph 1 and an additional amount, equal to the difference between the amount of salaries tax owed in the Netherlands and the lower amount of salaries tax that would have been owed if the employee had not requested that the credits referred to in the previous sentence be disregarded, will be deducted from the employee’s salary as referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07).
 
 5. If the employer has remitted too much salaries tax to the Dutch tax authorities, the employee is required to cooperate in claiming a refund of the excess tax from the Dutch tax authorities. If the employee fails to cooperate, an amount equal to the excess tax will be withheld from the employee’s salary.
 
 ##### Article 4.11. Payment of gross or net salary; double tax liability
 
-1. If salary is taxable both locally and in the Netherlands, [article 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.9&z=2026-01-07&g=2026-01-01) applies **mutatis mutandis.**
+1. If salary is taxable both locally and in the Netherlands, [article 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.9&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis.**
 
 2. Salaries tax owed in the Netherlands is payable and remitted by the employer.
 
-3. [Paragraph 5 of article 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.10&z=2026-01-07&g=2026-01-01) applies **mutatis mutandis**.
+3. [Paragraph 5 of article 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.10&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**.
 
 ### § 5. Official travel and travel for the purposes of training
 
@@ -593,7 +597,7 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 - b. for the air travel portion of a journey, with the exception of costs necessarily and demonstrably incurred for meals on board;
 
-- c. for a visit home as referred to in [article 4.16, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.16&z=2026-01-07&g=2026-01-01), with the exception of the parts of the journey that relate to travel between the places of temporary stay and permanent residence.
+- c. for a visit home as referred to in [article 4.16, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.16&z=2026-01-07&g=2026-01-07), with the exception of the parts of the journey that relate to travel between the places of temporary stay and permanent residence.
 
 7. The employer may grant a lower allowance for subsistence costs than under the rules referred to in paragraph 3 if an employee undertakes frequent official trips and if the employer deems that this is warranted in view of the nature of the work or the travel conditions.
 
@@ -615,7 +619,7 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 1. An employee who undertakes an official trip or a trip for the purposes of training lasting at least seven days, including days spent in transit, is eligible for reimbursement of the costs necessarily incurred to launder clothes the employee expects to wear again during the trip.
 
-2. An extension of the period of travel for private purposes as referred to in [article 4.13, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.13&z=2026-01-07&g=2026-01-01) is not taken into account for the purposes of paragraph 1.
+2. An extension of the period of travel for private purposes as referred to in [article 4.13, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.13&z=2026-01-07&g=2026-01-07) is not taken into account for the purposes of paragraph 1.
 
 3. An employee who undertakes an official trip or a trip for the purposes of training is eligible for reimbursement of the costs of vaccination and medication prescribed by the occupational health service in so far as such costs are not reimbursed under health insurance or otherwise.
 
@@ -661,7 +665,7 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 1. The employer may provide fair indemnification to an employee, except in the cases referred to in paragraph 2.
 
-2. If an employee becomes permanently disabled or dies in the course of carrying out their duties at the mission or during an official trip, as a consequence of an occupational sickness or work-related accident as referred to in [article 5.10, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.10&z=2026-01-07&g=2026-01-01), the employer will, on request, award a one-off payment to the employee or, as the case may be, to the employee’s surviving partner or dependent children in accordance with paragraphs 3 to 7.
+2. If an employee becomes permanently disabled or dies in the course of carrying out their duties at the mission or during an official trip, as a consequence of an occupational sickness or work-related accident as referred to in [article 5.10, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.10&z=2026-01-07&g=2026-01-07), the employer will, on request, award a one-off payment to the employee or, as the case may be, to the employee’s surviving partner or dependent children in accordance with paragraphs 3 to 7.
 
 3. In the event of permanent disability the payment is not more than 3 times the gross salary amount applicable at the mission concerned to the maximum pay number of pay scale 7, multiplied by 12. In the event of death the payment is 1.5 times the gross salary amount applicable at the mission concerned to the maximum pay number of pay scale 7, multiplied by 12.
 
@@ -693,7 +697,7 @@ No salary or other payments are owed in respect of a period during which the emp
 
 4. Payments under these Regulations are made in the country where the mission is located.
 
-5. The salary amount referred to in [article 4.3, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.3&z=2026-01-07&g=2026-01-01) is paid monthly. The frequency and dates of other payments, such as allowances, are included in the mission version.
+5. The salary amount referred to in [article 4.3, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.3&z=2026-01-07&g=2026-01-07) is paid monthly. The frequency and dates of other payments, such as allowances, are included in the mission version.
 
 ### Chapter 5. Social provisions, occupational health support, sickness and pregnancy
 
@@ -743,7 +747,7 @@ If the Dutch social security system is applicable to an employee, 3W arranges fo
 
 - b. all or part of the amount which the employer would pay in social insurance contributions if the local social security system applied to the employee is to be paid to the employee.
 
-The mission version also stipulates to what extent the employee and any surviving dependants may still claim old age pension, surviving dependants and invalidity provisions under [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-01).
+The mission version also stipulates to what extent the employee and any surviving dependants may still claim old age pension, surviving dependants and invalidity provisions under [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-07).
 
 ### § 5. Occupational health support
 
@@ -767,7 +771,7 @@ The mission version also stipulates to what extent the employee and any survivin
 
 - b. if the employee has proved to be no longer fully fit to perform their duties and it is necessary to ascertain whether this is due to medical factors and, if so, whether the employee may be deemed fit to perform a different job; or
 
-- c. to ascertain whether a situation exists as referred to in [article 5.12 (a), (b), (c), (d), 2° or 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.12&z=2026-01-07&g=2026-01-01).
+- c. to ascertain whether a situation exists as referred to in [article 5.12 (a), (b), (c), (d), 2° or 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.12&z=2026-01-07&g=2026-01-07).
 
 The employee is required to cooperate with such a medical examination.
 
@@ -831,13 +835,13 @@ The amount of the contribution towards medical expenses and any further conditio
 
 ##### Article 5.12. Article 5.12 Limitation of pay entitlement
 
-No entitlement to salary as referred to in [article 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.11&z=2026-01-07&g=2026-01-01) exists:
+No entitlement to salary as referred to in [article 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.11&z=2026-01-07&g=2026-01-07) exists:
 
 - a. if the sickness has been feigned or has in any event been exaggerated to such an extent that unfitness for work due to sickness cannot be presumed;
 
 - b. if the employee has caused the unfitness for work due to sickness intentionally or through gross negligence, unless the employee cannot be held responsible for this owing to the mental state of the employee;
 
-- c. if the unfitness for work due to sickness occurs within six months of the medical examination referred to in [article 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.2&z=2026-01-07&g=2026-01-01) and it also transpires that the employee provided incorrect information about their state of health or concealed information as a result of which the declaration of fitness to perform the duties of the relevant job was wrongly issued, unless the employee can show that they acted in good faith;
+- c. if the unfitness for work due to sickness occurs within six months of the medical examination referred to in [article 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.2&z=2026-01-07&g=2026-01-07) and it also transpires that the employee provided incorrect information about their state of health or concealed information as a result of which the declaration of fitness to perform the duties of the relevant job was wrongly issued, unless the employee can show that they acted in good faith;
 
 - d. during a period that the employee:
 
@@ -887,7 +891,7 @@ No entitlement to salary as referred to in [article 5.11](https://wetten.overhei
 
 - a. annul the termination of her employment contract within two months of termination by sending written notification to this effect to the head of mission; or
 
-- b. invoke [article 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.9&z=2026-01-07&g=2026-01-01).
+- b. invoke [article 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.9&z=2026-01-07&g=2026-01-07).
 
 3. Any claim in connection with an annulment as referred to in paragraph 2 (a) is subject to a limitation period of six months from the date on which termination took effect.
 
@@ -969,7 +973,7 @@ The employer may require an employee temporarily to perform duties other than th
 
 - c. raising the alarm in emergencies and evacuating all employees and other people at the mission.
 
-3. An employee who is appointed as an in-house emergency officer is entitled to an emergency service allowance as referred to in [article 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.7&z=2026-01-07&g=2026-01-01).
+3. An employee who is appointed as an in-house emergency officer is entitled to an emergency service allowance as referred to in [article 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.7&z=2026-01-07&g=2026-01-07).
 
 ### § 2. Staff residences
 
@@ -1001,13 +1005,13 @@ The conditions that apply when a staff residence is made available to an employe
 
 - b. the employee enters the service of another Dutch central government body within a month after the termination of employment; or
 
-- c. after the termination of employment, the employee is entitled to benefit as referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-01).
+- c. after the termination of employment, the employee is entitled to benefit as referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-07).
 
 ##### Article 6.12. Training on the employee’s initiative
 
 1. Employees who take the initiative to undergo training may at their request be fully or partially reimbursed for the necessary costs of training or granted paid training leave, if training is the interests of the service.
 
-2. [Article 6.11, paragraphs 4 and 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.11&z=2026-01-07&g=2026-01-01) apply **mutatis mutandis**.
+2. [Article 6.11, paragraphs 4 and 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.11&z=2026-01-07&g=2026-01-07) apply **mutatis mutandis**.
 
 ### § 4. Introductory interviews, staff interviews and assessments
 
@@ -1087,7 +1091,7 @@ A job loser who is informed by the employer that, on reflection, the employment 
 
 ##### Article 6.20. Article 6.20 Priority in the event of job vacancies
 
-1. Notwithstanding [article 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.1&z=2026-01-07&g=2026-01-01), the head of mission must first notify any vacancies entailing an employment contract solely to any job losers employed at the mission or at other missions in the same country.
+1. Notwithstanding [article 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.1&z=2026-01-07&g=2026-01-07), the head of mission must first notify any vacancies entailing an employment contract solely to any job losers employed at the mission or at other missions in the same country.
 
 2. A job loser who expresses interest within two weeks in a vacancy as referred to in paragraph 1 that:
 
@@ -1105,13 +1109,13 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 2. If a job loser is employed in another job for fewer hours than the job loser is currently employed to work, the employment contract is terminated in respect of the additional hours with effect from the date on which the job ceases to exist unless the employment contract is for a fixed term and automatically ends on that date. In special cases the employer may set a later date.
 
-3. The termination of the employment contract can be postponed for, in principle, up to six months, if a job loser is given the opportunity to perform similar work at another mission or another unit of the employer in the Netherlands to which the tasks in question have been transferred, at the job loser’s own request and with the consent of the job loser’s head of mission and the head of mission of the other mission concerned or the director concerned. Such a request will be granted only if the local authorities in the country in question permit the job loser to live there and perform the work in question. The performance of the duties in question is deemed official travel within the meaning of [articles 4.12 to 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.12&z=2026-01-07&g=2026-01-01).
+3. The termination of the employment contract can be postponed for, in principle, up to six months, if a job loser is given the opportunity to perform similar work at another mission or another unit of the employer in the Netherlands to which the tasks in question have been transferred, at the job loser’s own request and with the consent of the job loser’s head of mission and the head of mission of the other mission concerned or the director concerned. Such a request will be granted only if the local authorities in the country in question permit the job loser to live there and perform the work in question. The performance of the duties in question is deemed official travel within the meaning of [articles 4.12 to 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.12&z=2026-01-07&g=2026-01-07).
 
 ##### Article 6.22. Redundancy payment in the event of reorganisation
 
-1. Notwithstanding [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-01), second sentence, if the employer terminates a job loser’s employment contract as a result of the job loser’s job ceasing to exist, the transition redundancy payment is a month’s salary for each year the employment contract or successive employment contracts have been in effect.
+1. Notwithstanding [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07), second sentence, if the employer terminates a job loser’s employment contract as a result of the job loser’s job ceasing to exist, the transition redundancy payment is a month’s salary for each year the employment contract or successive employment contracts have been in effect.
 
-2. Notwithstanding [article 8.3, paragraph 1 (b)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-01), a job loser who terminates their employment contract is awarded a transition redundancy payment amounting to half a month’s salary for each year the employment contract or successive employment contracts have been in effect. A job loser who partially terminates their employment contract is entitled to the transition redundancy payment for the number of hours for which the employment contract has been terminated.
+2. Notwithstanding [article 8.3, paragraph 1 (b)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07), a job loser who terminates their employment contract is awarded a transition redundancy payment amounting to half a month’s salary for each year the employment contract or successive employment contracts have been in effect. A job loser who partially terminates their employment contract is entitled to the transition redundancy payment for the number of hours for which the employment contract has been terminated.
 
 3. If a job loser does not accept an offer of continued employment for a reduced number of hours or on a lower scale and the employment contract is subsequently terminated in full, the job loser will be compensated in accordance with paragraph 1.
 
@@ -1125,7 +1129,7 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 ##### Article 6.24. Contribution towards training costs
 
-1. Notwithstanding [article 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.12&z=2026-01-07&g=2026-01-01), at the request of a job loser who undergoes training that increases the job loser’s chances of finding a new job with a different employer or of setting up a business, the employer may grant a contribution towards the training costs.
+1. Notwithstanding [article 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.12&z=2026-01-07&g=2026-01-07), at the request of a job loser who undergoes training that increases the job loser’s chances of finding a new job with a different employer or of setting up a business, the employer may grant a contribution towards the training costs.
 
 2. The contribution is paid on submission of an invoice from a recognised educational institution.
 
@@ -1135,7 +1139,7 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 ##### Article 6.25. Training leave
 
-1. At the request of a job loser who begins training as referred to in [article 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.24&z=2026-01-07&g=2026-01-01) before the date on which the employment contract ends, the employer may grant paid training leave, until that date, of up to 20% of the job loser’s normal working hours. In special cases the employer may grant more leave.
+1. At the request of a job loser who begins training as referred to in [article 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.24&z=2026-01-07&g=2026-01-07) before the date on which the employment contract ends, the employer may grant paid training leave, until that date, of up to 20% of the job loser’s normal working hours. In special cases the employer may grant more leave.
 
 2. If the employer considers that it is not in the interests of the service to grant leave as referred to in paragraph 1, the job loser is granted one hour’s gross pay for every hour of leave not granted for that reason, subject to a maximum of twice the full-time equivalent of the job loser’s gross monthly salary.
 
@@ -1147,7 +1151,7 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 ##### Article 6.27. Contribution amounts
 
-The total sum of the contributions referred to in [articles 6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.23&z=2026-01-07&g=2026-01-01), [6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.24&z=2026-01-07&g=2026-01-01) and [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.26&z=2026-01-07&g=2026-01-01) must not exceed four times the full-time equivalent of the job loser’s gross monthly salary.
+The total sum of the contributions referred to in [articles 6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.23&z=2026-01-07&g=2026-01-07), [6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.24&z=2026-01-07&g=2026-01-07) and [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.26&z=2026-01-07&g=2026-01-07) must not exceed four times the full-time equivalent of the job loser’s gross monthly salary.
 
 ##### Article 6.28. Contribution towards removal and refurbishment costs
 
@@ -1183,11 +1187,11 @@ The total sum of the contributions referred to in [articles 6.23](https://wetten
 
 7. The exchange rate applicable at the time is used to calculate the allowances referred to in paragraphs 2 and 4 that are paid in currencies other than euros.
 
-8. [Article 6.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.28&z=2026-01-07&g=2026-01-01) does not apply for the purposes of this article.
+8. [Article 6.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.28&z=2026-01-07&g=2026-01-07) does not apply for the purposes of this article.
 
 ##### Article 6.30. Internal candidate status
 
-An ex-employee whose employment contract has been terminated by the employer due to the job ceasing to exist is given the opportunity for up to one year after the date on which the employment contract ends to apply as an internal candidate for vacancies entailing an employment contract at the mission where the ex-employee worked or at another mission in the same country, in accordance with [article 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.1&z=2026-01-07&g=2026-01-01).
+An ex-employee whose employment contract has been terminated by the employer due to the job ceasing to exist is given the opportunity for up to one year after the date on which the employment contract ends to apply as an internal candidate for vacancies entailing an employment contract at the mission where the ex-employee worked or at another mission in the same country, in accordance with [article 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.1&z=2026-01-07&g=2026-01-07).
 
 ### Chapter 7. Prohibition of entry, suspension, compensation, dereliction of duty and disciplinary penalties
 
@@ -1229,7 +1233,7 @@ The following disciplinary penalties may be imposed for dereliction of duty:
 
 - f. suspension for a fixed period with all or part of the employee’s salary withheld;
 
-- g. dismissal in accordance with [chapter 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&z=2026-01-07&g=2026-01-01).
+- g. dismissal in accordance with [chapter 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&z=2026-01-07&g=2026-01-07).
 
 ### Chapter 8. End of an employment contract
 
@@ -1241,7 +1245,7 @@ The following disciplinary penalties may be imposed for dereliction of duty:
 
 2. If, in the absence of an objection from either party, the employment contract is renewed after the expiry of the period referred to in paragraph 1, it will be deemed to have been entered into once again under the same conditions that previously applied and for the same period subject to a maximum of one year on each renewal.
 
-3. Notwithstanding the provisions of paragraph 1, a fixed-term contract may also be ended prematurely in accordance with [article 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.2&z=2026-01-07&g=2026-01-01).
+3. Notwithstanding the provisions of paragraph 1, a fixed-term contract may also be ended prematurely in accordance with [article 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.2&z=2026-01-07&g=2026-01-07).
 
 ##### Article 8.2. Termination of an open-ended employment contract
 
@@ -1271,27 +1275,27 @@ The following disciplinary penalties may be imposed for dereliction of duty:
 
 - c. the employer has terminated the employment contract due to a seriously culpable act or omission by the employee;
 
-- d. the employment contract has automatically expired or been terminated by the employer or the employee, and the employee is subsequently entitled to supplementation of old age pension as referred to in [article 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01) or payments made under an insurance policy taken out by or on behalf of the employer or a similar provision made by or on behalf of the employer to ensure the accrual of an old age pension as referred to in [article 9.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-01); or
+- d. the employment contract has automatically expired or been terminated by the employer or the employee, and the employee is subsequently entitled to supplementation of old age pension as referred to in [article 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) or payments made under an insurance policy taken out by or on behalf of the employer or a similar provision made by or on behalf of the employer to ensure the accrual of an old age pension as referred to in [article 9.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07); or
 
-- e. the employment contract has been terminated after the period referred to in [article 8.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.4&z=2026-01-07&g=2026-01-01) because the employee is partly or wholly unfit to perform their duties due to sickness.
+- e. the employment contract has been terminated after the period referred to in [article 8.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.4&z=2026-01-07&g=2026-01-07) because the employee is partly or wholly unfit to perform their duties due to sickness.
 
 The transition redundancy payment amounts to half a month’s salary for each year the employment contract or successive employment contracts have been in effect.
 
-2. Without prejudice to paragraph 1, an employee whose employment contract ends is entitled to a one-off redundancy payment to make provision for their old age pension, the old age pension redundancy payment. The old age pension redundancy payment amounts to half a month’s salary for each year the employment contract or successive employment contracts have been in effect without an insurance policy or comparable provision to ensure the accrual of old age pension as referred to in [article 9.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-01) having been taken out or made and without entitlement to supplementation of old age pension as referred to in [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01) having been accrued.
+2. Without prejudice to paragraph 1, an employee whose employment contract ends is entitled to a one-off redundancy payment to make provision for their old age pension, the old age pension redundancy payment. The old age pension redundancy payment amounts to half a month’s salary for each year the employment contract or successive employment contracts have been in effect without an insurance policy or comparable provision to ensure the accrual of old age pension as referred to in [article 9.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07) having been taken out or made and without entitlement to supplementation of old age pension as referred to in [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) having been accrued.
 
-3. The transition redundancy payments and old age pension redundancy payment referred to in paragraphs 1 and 2 are determined proportionately for part of a year of service. [Article 8.2, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.2&z=2026-01-07&g=2026-01-01) applies mutatis mutandis to the calculation of the duration of the employment contract. An employee whose employment contract partially ends is entitled to the payments referred to in paragraphs 1 and 2 for the number of hours for which the employment contract has ended.
+3. The transition redundancy payments and old age pension redundancy payment referred to in paragraphs 1 and 2 are determined proportionately for part of a year of service. [Article 8.2, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.2&z=2026-01-07&g=2026-01-07) applies mutatis mutandis to the calculation of the duration of the employment contract. An employee whose employment contract partially ends is entitled to the payments referred to in paragraphs 1 and 2 for the number of hours for which the employment contract has ended.
 
-4. The number of monthly salaries to which the transition redundancy payment referred to in paragraph 1 amounts must not exceed the number of full calendar months between the date of termination and the pension date as referred to in [article 9.1, paragraph 1 (d)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01).
+4. The number of monthly salaries to which the transition redundancy payment referred to in paragraph 1 amounts must not exceed the number of full calendar months between the date of termination and the pension date as referred to in [article 9.1, paragraph 1 (d)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07).
 
 5. If a transition redundancy payment or an old age pension redundancy payment as referred to in paragraph 1 or 2 has already been made for a part of the duration of the employment contract or successive employment contracts, this period will not count towards the payment referred to in paragraph 1 or 2.
 
-6. For the purposes of this article and notwithstanding [article 1.1 (m)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=1&artikel=1.1&z=2026-01-07&g=2026-01-01), monthly salary means: the monthly salary referred to in article 1.1 (m) as paid on average over the 12-month period immediately preceding the date on which employment ends. For the purposes of this article any general retroactive adjustment of salary amounts and related amounts decided on or after the date of termination is disregarded.
+6. For the purposes of this article and notwithstanding [article 1.1 (m)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=1&artikel=1.1&z=2026-01-07&g=2026-01-07), monthly salary means: the monthly salary referred to in article 1.1 (m) as paid on average over the 12-month period immediately preceding the date on which employment ends. For the purposes of this article any general retroactive adjustment of salary amounts and related amounts decided on or after the date of termination is disregarded.
 
-7. [Articles 4.8 to 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-01) apply mutatis mutandis to fixing and paying the transition redundancy payments and old age pension redundancy payments referred to in paragraphs 1 and 2.
+7. [Articles 4.8 to 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07) apply mutatis mutandis to fixing and paying the transition redundancy payments and old age pension redundancy payments referred to in paragraphs 1 and 2.
 
-8. If local regulations require that, notwithstanding paragraph 1, a one-off redundancy payment be made, this redundancy payment will be converted into a monthly amount after disbursement, using the formula referred to in [article 9.1, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01). This monthly amount will be deducted from the monthly supplement referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-01).
+8. If local regulations require that, notwithstanding paragraph 1, a one-off redundancy payment be made, this redundancy payment will be converted into a monthly amount after disbursement, using the formula referred to in [article 9.1, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07). This monthly amount will be deducted from the monthly supplement referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-07).
 
-9. If for reasons other than compliance with local regulation, and notwithstanding paragraph 1, a one-off redundancy payment is made in the case of termination of employment, the employee who chooses to receive this redundancy payment forfeits the right to supplementation as referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-01).
+9. If for reasons other than compliance with local regulation, and notwithstanding paragraph 1, a one-off redundancy payment is made in the case of termination of employment, the employee who chooses to receive this redundancy payment forfeits the right to supplementation as referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-07).
 
 ### § 2. End of an employment contract due to sickness, retirement, death or a compelling reason
 
@@ -1307,7 +1311,7 @@ The transition redundancy payment amounts to half a month’s salary for each ye
 
 - a. annul the termination within two months thereof by sending written notification to that effect to the employer; or
 
-- b. invoke [article 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.9&z=2026-01-07&g=2026-01-01).
+- b. invoke [article 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.9&z=2026-01-07&g=2026-01-07).
 
 5. Paragraph 1 does not apply to termination during the probationary period.
 
@@ -1321,15 +1325,15 @@ The employment contract ends on the first day following the day on which the emp
 
 1. The death of the employee ends the employment contract. From the day after the death of the employee, no further salary is paid.
 
-2. On the death of an employee, the surviving partner will as soon as possible be paid a lump sum equal to the monthly salary referred to in [article 8.3, paragraph 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-01). In the absence of a surviving partner, the lump sum will be paid to the dependent children of the deceased.
+2. On the death of an employee, the surviving partner will as soon as possible be paid a lump sum equal to the monthly salary referred to in [article 8.3, paragraph 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07). In the absence of a surviving partner, the lump sum will be paid to the dependent children of the deceased.
 
 3. If the deceased has no surviving partner or dependent children, the lump sum referred to in paragraph 2 may be used in whole or part to cover the costs of the employee’s final illness and funeral expenses, if the estate of the deceased is insufficient for these purposes.
 
 ##### Article 8.7. End of an employment contract when an employee is missing
 
-1. If an employee is missing and, considering all the circumstances, it can be regarded as certain that the employee is dead, the employee will be deemed to have died on a date to be determined by the employer. In such a case [article 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-01) applies **mutatis mutandis**.
+1. If an employee is missing and, considering all the circumstances, it can be regarded as certain that the employee is dead, the employee will be deemed to have died on a date to be determined by the employer. In such a case [article 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**.
 
-2. [Article 8.6, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-01) does not apply if there is good reason to believe that the employee is absent without leave.
+2. [Article 8.6, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-07) does not apply if there is good reason to believe that the employee is absent without leave.
 
 ##### Article 8.8. Termination of an employment contract for a compelling reason
 
@@ -1357,7 +1361,7 @@ The employment contract ends on the first day following the day on which the emp
 
 - c. if termination takes place solely because the employee refuses to perform assigned duties due to a serious conscientious objection;
 
-- d. if termination is contrary to [article 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.15&z=2026-01-07&g=2026-01-01) or [article 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.4&z=2026-01-07&g=2026-01-01).
+- d. if termination is contrary to [article 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.15&z=2026-01-07&g=2026-01-07) or [article 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.4&z=2026-01-07&g=2026-01-07).
 
 3. Paragraph 1 does not apply to termination during the probationary period, or to lawful termination for a compelling reason or due to serious dereliction of duty.
 
@@ -1385,11 +1389,11 @@ The employment contract ends on the first day following the day on which the emp
 
 - 2°. the amount of the provisions referred to in this chapter to which the employee is entitled on other grounds;
 
-- b. supplementation ceiling: the maximum supplement which may be granted pursuant to [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01), [article 9.6, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-01), [article 9.7, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-01) and [article 9.8, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-01);
+- b. supplementation ceiling: the maximum supplement which may be granted pursuant to [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), [article 9.6, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-07), [article 9.7, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-07) and [article 9.8, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-07);
 
-- c. qualifying period for supplementation: the period during which an employee was entitled to receive salary from the employer, including the period during which the employee was entitled to an invalidity benefit supplement as referred to in [article 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-01), with the exception of the period during which an insurance policy as referred to in [article 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-01) was in effect. Part of a month will be rounded up to a full month. A proportionate part of the period during which the employee was entitled to salary on the basis of a contract for part-time employment will be counted. The period during which the employee was entitled to salary on the basis of an employment contract that started more than a month after the employee’s pension date will not be counted. The qualifying period for supplementation is 40 years at most, unless the mission version provides for an age of retirement of 66 or 67 years, in which case the qualifying period for supplementation is at most 41 or 42 years respectively;
+- c. qualifying period for supplementation: the period during which an employee was entitled to receive salary from the employer, including the period during which the employee was entitled to an invalidity benefit supplement as referred to in [article 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-07), with the exception of the period during which an insurance policy as referred to in [article 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07) was in effect. Part of a month will be rounded up to a full month. A proportionate part of the period during which the employee was entitled to salary on the basis of a contract for part-time employment will be counted. The period during which the employee was entitled to salary on the basis of an employment contract that started more than a month after the employee’s pension date will not be counted. The qualifying period for supplementation is 40 years at most, unless the mission version provides for an age of retirement of 66 or 67 years, in which case the qualifying period for supplementation is at most 41 or 42 years respectively;
 
-- d. pension date: the first day following the day on which the employee or ex-employee reaches the age of retirement referred to in [article 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.5&z=2026-01-07&g=2026-01-01);
+- d. pension date: the first day following the day on which the employee or ex-employee reaches the age of retirement referred to in [article 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.5&z=2026-01-07&g=2026-01-07);
 
 - e. qualifying salary: the salary amount, calculated over a period of one year, belonging to the pay scale and the pay number which last applied to the employee, for which purpose the salary amount is taken to be that which applies to the pay scale and the pay number at the moment of payment, on the understanding that if the salary amount referred to above is less than the salary amount previously applicable, the latter is treated as the qualifying salary until the salary amount at the moment of payment is equal to or higher than the salary amount previously applicable. This amount is increased by the allowances referred to in chapter 4, part 2 (as at the moment of payment), calculated over a period of one year, in so far as such allowances were granted for an open-ended period or for a period of at least five consecutive years immediately preceding the termination of the employment contract. If on the date of payment of the supplement major changes have been made to the system of pay scales and pay numbers that most recently applied to the employee, 3W must reasonably and fairly reposition the employee’s most recent salary amount within the structure in use at that moment for the purposes of calculating the qualifying salary.
 
@@ -1427,7 +1431,7 @@ Where necessary, this calculation must take into account the average life expect
 
 ##### Article 9.4. Supplementation of old age pensions; general provisions
 
-1. If during the period of the employment contract no insurance is in effect and no comparable provision is made to ensure the accrual of an old age pension, as referred to in [article 9.3, paragraph 1 (i)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-01), the ex-employee will be entitled to supplementation of old age pension if the employment contract was in effect for at least seven years. The term ‘employment contract’ is deemed to include the following for the purposes of this article:
+1. If during the period of the employment contract no insurance is in effect and no comparable provision is made to ensure the accrual of an old age pension, as referred to in [article 9.3, paragraph 1 (i)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07), the ex-employee will be entitled to supplementation of old age pension if the employment contract was in effect for at least seven years. The term ‘employment contract’ is deemed to include the following for the purposes of this article:
 
 - a. before 1 January 2005: multiple employment contracts that succeeded one another at intervals of no more than 31 days;
 
@@ -1439,13 +1443,13 @@ Where necessary, this calculation must take into account the average life expect
 
 - b. for the period of the employment contract after 1 January 2005: 1.5% of the qualifying salary multiplied by the qualifying period for supplementation.
 
-3. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) (2°)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01) are in any event deemed to be all the provisions under social insurance legislation to which the employee is entitled:
+3. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) (2°)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07) are in any event deemed to be all the provisions under social insurance legislation to which the employee is entitled:
 
 - a. unless the employee has paid for such provisions solely on a voluntary basis without any contribution from the employer;
 
 - b. unless and in so far as the entitlement was accrued outside the period of the employment contract.
 
-The provisions referred to in the first sentence are deemed to include a transition redundancy payment as referred to in [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-01), in so far as the employee received this payment on the grounds of local regulations or for another reason notwithstanding article 8.3, paragraph 1 (d) and (e) or paragraph 4.
+The provisions referred to in the first sentence are deemed to include a transition redundancy payment as referred to in [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07), in so far as the employee received this payment on the grounds of local regulations or for another reason notwithstanding article 8.3, paragraph 1 (d) and (e) or paragraph 4.
 
 4. The supplement referred to in paragraph 1 is granted to an ex-employee with effect from the pension date or, if a new employment contract is concluded immediately following the pension date, with effect from the date that the employment contract is terminated, but not if the ex-employee is under 60 years of age. Entitlement ends on the first day of the month following the month in which the ex-employee dies.
 
@@ -1453,21 +1457,21 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ##### Article 9.5. Supplementation of surviving dependants’ benefits; general provisions
 
-1. On the death of an employee or of an ex-employee who was receiving a supplement to invalidity benefits as referred to in [article 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-01) or a supplement to old age pension as referred to in [article 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01), if no insurance providing cover in the event of death as referred to in [article 9.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-01) has been taken out, any surviving partner or any child who was the employee’s or ex-employee’s dependant at the time of the employee’s or ex-employee’s death will be entitled to a supplement to surviving dependants’ benefits. This entitlement lapses if the partner or dependent child is culpable for the death of the employee or ex-employee.
+1. On the death of an employee or of an ex-employee who was receiving a supplement to invalidity benefits as referred to in [article 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-07) or a supplement to old age pension as referred to in [article 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), if no insurance providing cover in the event of death as referred to in [article 9.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07) has been taken out, any surviving partner or any child who was the employee’s or ex-employee’s dependant at the time of the employee’s or ex-employee’s death will be entitled to a supplement to surviving dependants’ benefits. This entitlement lapses if the partner or dependent child is culpable for the death of the employee or ex-employee.
 
-2. The total supplementation ceiling for entitlements under [article 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-01), or [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-01) and 9.7 jointly, must not exceed the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01), which applied to the employee or would have applied to the employee on the pension date if the employment contract had continued without change. If necessary, the entitlements under [article 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-01) will be reduced proportionately.
+2. The total supplementation ceiling for entitlements under [article 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-07), or [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-07) and 9.7 jointly, must not exceed the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), which applied to the employee or would have applied to the employee on the pension date if the employment contract had continued without change. If necessary, the entitlements under [article 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-07) will be reduced proportionately.
 
-3. Only a partner who has been married to, in a registered partnership with or cohabiting, as referred to in [article 1.1 (g)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=1&artikel=1.1&z=2026-01-07&g=2026-01-01), with an employee for at least one year on the last day of the employee’s employment contract is entitled to a supplement under this part.
+3. Only a partner who has been married to, in a registered partnership with or cohabiting, as referred to in [article 1.1 (g)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=1&artikel=1.1&z=2026-01-07&g=2026-01-07), with an employee for at least one year on the last day of the employee’s employment contract is entitled to a supplement under this part.
 
 4. If the employee or ex-employee’s marriage, registered partnership or cohabitation agreement, as referred to in paragraph 3, ends other than as a result of the death of the employee or ex-employee, the partner will cease to have any entitlement under this part.
 
 ##### Article 9.6. Supplementation of surviving partners’ benefits
 
-1. The supplement to surviving dependants’ benefits for the partner referred to in [article 9.5, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.5&z=2026-01-07&g=2026-01-01) equals 70% of the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01), on the understanding that in such a case the calculation is based on the qualifying period for supplementation which would have applied for the employee or ex-employee on the pension date if the employment contract had continued until that date.
+1. The supplement to surviving dependants’ benefits for the partner referred to in [article 9.5, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.5&z=2026-01-07&g=2026-01-07) equals 70% of the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), on the understanding that in such a case the calculation is based on the qualifying period for supplementation which would have applied for the employee or ex-employee on the pension date if the employment contract had continued until that date.
 
 2. If the partner was more than 10 years younger than the employee or ex-employee, the supplement for the surviving partner is reduced by 2.5% for each entire year that the age difference exceeded 10 years. This reduction does not apply if, on the date of death of the employee or ex-employee, the surviving partner had been the partner of the employee or ex-employee for at least five years.
 
-3. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01) are deemed to include at least:
+3. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07) are deemed to include at least:
 
 - a. surviving dependants’ benefits to which entitlement exists under the applicable social security system;
 
@@ -1475,17 +1479,17 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 4. The supplement referred to in paragraph 1 is granted to the surviving dependant with effect from the first day of the month following the month in which the employee or ex-employee died. The provision of the supplement ends:
 
-- a. on the first day of the month following the month in which the period during which the supplement was paid is equal to the period of employment, but no sooner than five years after the death of the employee or ex-employee. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01) applies **mutatis mutandis**;
+- a. on the first day of the month following the month in which the period during which the supplement was paid is equal to the period of employment, but no sooner than five years after the death of the employee or ex-employee. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**;
 
 - b. on the first day of the month following the month in which the surviving dependant dies;
 
-- c. on the first day of the month following the month in which the surviving dependant enters into a new marriage, registered partnership or cohabitation agreement with a partner as referred to in [article 1.1 (g)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=1&artikel=1.1&z=2026-01-07&g=2026-01-01).
+- c. on the first day of the month following the month in which the surviving dependant enters into a new marriage, registered partnership or cohabitation agreement with a partner as referred to in [article 1.1 (g)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=1&artikel=1.1&z=2026-01-07&g=2026-01-07).
 
 ##### Article 9.7. Supplementation of orphan’s benefits
 
-1. Without prejudice to [article 9.5, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.5&z=2026-01-07&g=2026-01-01), the supplementation ceiling that applies to the supplement to surviving dependants’ benefits for dependent children, as referred to in article 9.5, paragraph 1, equals 14% of the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01). If there is no partner on the date of the employee’s or ex-employee’s death, the percentage referred to in the previous sentence is 28%.
+1. Without prejudice to [article 9.5, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.5&z=2026-01-07&g=2026-01-07), the supplementation ceiling that applies to the supplement to surviving dependants’ benefits for dependent children, as referred to in article 9.5, paragraph 1, equals 14% of the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07). If there is no partner on the date of the employee’s or ex-employee’s death, the percentage referred to in the previous sentence is 28%.
 
-2. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01) are deemed to include at least:
+2. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07) are deemed to include at least:
 
 - a. orphans’ benefits to which entitlement exists under the applicable social security system;
 
@@ -1501,15 +1505,15 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ##### Article 9.8. Supplementation of invalidity benefits; general provisions
 
-1. If an employee’s employment contract is terminated due to sickness and the employee is not covered at that time by invalidity insurance as referred to in [article 9.3, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-01) and, subsequent to the termination of employment, is unfit to perform any other suitable employment, the employee is entitled to supplementation of invalidity benefits.
+1. If an employee’s employment contract is terminated due to sickness and the employee is not covered at that time by invalidity insurance as referred to in [article 9.3, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07) and, subsequent to the termination of employment, is unfit to perform any other suitable employment, the employee is entitled to supplementation of invalidity benefits.
 
-2. The supplementation ceiling for the supplement referred to in paragraph 1 equals the qualifying salary, multiplied by the percentage of the salary received by the employee under [article 5.11, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.11&z=2026-01-07&g=2026-01-01) immediately before the termination of employment, but at most by:
+2. The supplementation ceiling for the supplement referred to in paragraph 1 equals the qualifying salary, multiplied by the percentage of the salary received by the employee under [article 5.11, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.11&z=2026-01-07&g=2026-01-07) immediately before the termination of employment, but at most by:
 
 - a. 70% if the termination of employment referred to in paragraph 1 took place before 1 January 2005;
 
 - b. 60% if the termination of employment referred to in paragraph 1 took place on or after 1 January 2005.
 
-3. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01) are deemed to include at least:
+3. For the purposes of this article, the provisions referred to in [article 9.1, paragraph 1 (a) 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07) are deemed to include at least:
 
 - a. all provisions to which the employee is entitled by virtue of the termination of the employment contract, including in any event those under the applicable social security system;
 
@@ -1525,7 +1529,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 - c. the ex-employee dies; or
 
-- d. the supplement has been paid for a period equal to the period of employment, subject to a minimum period of five years. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01) applies **mutatis mutandis**.
+- d. the supplement has been paid for a period equal to the period of employment, subject to a minimum period of five years. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**.
 
 5. Paragraph 4 (d) does not apply if the invalidity is, in the opinion of the employer, largely due to the nature of the duties which the employee was instructed to perform or to the special circumstances in which they had to be performed and is not attributable to the employee’s fault or actions.
 
@@ -1549,13 +1553,13 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ##### Article 9.10. Fixing and payment of supplements
 
-1. [Articles 4.8 to 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-01) and [4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.28&z=2026-01-07&g=2026-01-01) apply **mutatis mutandis** to fixing and paying supplements. 3W may, in individual cases, deviate from article 4.28, paragraph 5.
+1. [Articles 4.8 to 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07) and [4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.28&z=2026-01-07&g=2026-01-07) apply **mutatis mutandis** to fixing and paying supplements. 3W may, in individual cases, deviate from article 4.28, paragraph 5.
 
-2. A supplement to be paid periodically, as referred to in [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-01), [article 9.6, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-01), [article 9.7, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-01), and [article 9.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-01) is set by the employer as a fixed amount which will remain unchanged for a period not exceeding 12 months. Early adjustment of that amount is possible if the employer believes that this is necessary due to special circumstances.
+2. A supplement to be paid periodically, as referred to in [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), [article 9.6, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-07), [article 9.7, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-07), and [article 9.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-07) is set by the employer as a fixed amount which will remain unchanged for a period not exceeding 12 months. Early adjustment of that amount is possible if the employer believes that this is necessary due to special circumstances.
 
-3. The supplement is paid monthly by the employer to the person entitled. If special circumstances necessitate this, the employer may modify the intervals at which the supplement is paid, where necessary in accordance with [article 9.1, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01).
+3. The supplement is paid monthly by the employer to the person entitled. If special circumstances necessitate this, the employer may modify the intervals at which the supplement is paid, where necessary in accordance with [article 9.1, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07).
 
-4. Notwithstanding paragraph 3, the employer may fix and pay a supplement as a one-off payment upon or after the termination of the employment contract at the written request of an employee or an ex-employee who may or may not already be receiving a supplement referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-01). The employee’s or ex-employee’s request for commutation must be honoured unless the employer is of the opinion that this is contrary to compelling interests of the service.
+4. Notwithstanding paragraph 3, the employer may fix and pay a supplement as a one-off payment upon or after the termination of the employment contract at the written request of an employee or an ex-employee who may or may not already be receiving a supplement referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-07). The employee’s or ex-employee’s request for commutation must be honoured unless the employer is of the opinion that this is contrary to compelling interests of the service.
 
 5. The amount of the one-off payment is calculated using the formulas established by HDPO for this purpose, which in any event take account of the following:
 
@@ -1573,7 +1577,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 6. Paragraph 4 may be applied **mutatis mutandis** by the employer to an employee or ex-employee who is not yet receiving a supplement and whose employment contract or successive employment contracts has/have lasted for 15 years or less, if the mission where the person concerned is or was most recently employed has been closed or is scheduled to close within six months and no employees are or will be employed in that country after the closure.
 
-7. Notwithstanding [article 9.1, paragraph 1 (e)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-01), the qualifying salary for an employee or ex-employee to whom neither paragraph 4 nor paragraph 6 applies is determined as follows. From 1 January of the year following that in which pay scales were last fixed for the closed mission, the salary amount referred to in article 9.1, paragraph 1 (e) is to be adjusted by the employer in each case by reference to the rate of inflation in the country where the mission was located, subject to a maximum of 15%. If the inflation rate exceeds 15% HDPO may decide to fix the adjustment level at more than 15%. The inflation rate is based on data from the Economist Intelligence Unit (EIU).
+7. Notwithstanding [article 9.1, paragraph 1 (e)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07), the qualifying salary for an employee or ex-employee to whom neither paragraph 4 nor paragraph 6 applies is determined as follows. From 1 January of the year following that in which pay scales were last fixed for the closed mission, the salary amount referred to in article 9.1, paragraph 1 (e) is to be adjusted by the employer in each case by reference to the rate of inflation in the country where the mission was located, subject to a maximum of 15%. If the inflation rate exceeds 15% HDPO may decide to fix the adjustment level at more than 15%. The inflation rate is based on data from the Economist Intelligence Unit (EIU).
 
 8. If special costs are incurred as a result of the payment of a supplement, these may be deducted from the supplement.
 
@@ -1581,7 +1585,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ##### Article 10.1. Transitional provision concerning social plans
 
-Any social plan that applies to an employee or ex-employee on the date of entry into force of these Regulations will continue to apply to that employee or ex-employee and [articles 6.16 to 6.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.16&z=2026-01-07&g=2026-01-01) of these Regulations will not apply.
+Any social plan that applies to an employee or ex-employee on the date of entry into force of these Regulations will continue to apply to that employee or ex-employee and [articles 6.16 to 6.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.16&z=2026-01-07&g=2026-01-07) of these Regulations will not apply.
 
 ##### Article 10.2. Entry into force
 
@@ -1589,9 +1593,9 @@ These Regulations enter into force on 1 January 2020.
 
 ##### Article 10.2a. Transitional provisions concerning one-off redundancy payments
 
-1. [Article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-01) concerning one-off redundancy payments is repealed in the various mission versions.
+1. [Article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) concerning one-off redundancy payments is repealed in the various mission versions.
 
-2. Notwithstanding paragraph 1, in the following mission versions [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-01) is not repealed but will be amended as soon as possible with due observance of [article 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-01) of these Regulations and local regulations:
+2. Notwithstanding paragraph 1, in the following mission versions [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) is not repealed but will be amended as soon as possible with due observance of [article 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07) of these Regulations and local regulations:
 
 - −. the Mission Version for Costa Rica 2020;
 
@@ -1605,11 +1609,11 @@ These Regulations enter into force on 1 January 2020.
 
 - −. the Mission Version for the United States of America 2020.
 
-Until [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-01) of these mission versions has been amended, the provisions of that article relate only to a one-off transition redundancy payment as compensation for the disadvantageous consequences of termination of employment as referred to in [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-01) of these Regulations and not to a one-off old age pension redundancy payment to make provision for old age pension as referred to in article 8.3, paragraph 2 of these Regulations.
+Until [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) of these mission versions has been amended, the provisions of that article relate only to a one-off transition redundancy payment as compensation for the disadvantageous consequences of termination of employment as referred to in [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07) of these Regulations and not to a one-off old age pension redundancy payment to make provision for old age pension as referred to in article 8.3, paragraph 2 of these Regulations.
 
-3. Notwithstanding [paragraph 1, article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-01) is not repealed in the Mission version for Australia 2020.
+3. Notwithstanding [paragraph 1, article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) is not repealed in the Mission version for Australia 2020.
 
-4. Notwithstanding paragraph 1, in the Mission version for Libya 2020 [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-01) is not repealed but article 8.1a concerning one-off redundancy payments.
+4. Notwithstanding paragraph 1, in the Mission version for Libya 2020 [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) is not repealed but article 8.1a concerning one-off redundancy payments.
 
 ##### Article 10.3. Short title
 
@@ -1620,12 +1624,15 @@ These Regulations are to be cited as: Legal Status (Local Employees) Regulations
 | cleaning staff | scale 1 |
 | --- | --- |
 | catering staff | scale 1 |
+| housekeeping coordinator | scale 2 |
 | garden maintenance staff | scale 1 |
 | messenger | scale 2 |
 | security guard | scale 1 |
 | senior security guard | scale 2 |
 | facilities officer | scale 3 |
 | senior facilities officer | scale 4 |
+| chef | scale 3 |
+| head chef | scale 6 |
 | driver | scale 3 |
 | senior driver | scale 4 |
 | receptionist/telephone operator | scale 4 |
@@ -1645,4 +1652,4 @@ These Regulations are to be cited as: Legal Status (Local Employees) Regulations
 | policy officer | scale 9 |
 | senior policy officer | scale 10 |
 
-These Regulations are to be published in the Government Gazette with the explanatory notes and [annexes](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-01).
+These Regulations are to be published in the Government Gazette with the explanatory notes and [annexes](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-07).
