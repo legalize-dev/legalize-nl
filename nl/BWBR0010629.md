@@ -4,7 +4,7 @@ identifier: "BWBR0010629"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-09"
-last_updated: "2024-02-20"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010629"
 soort: "AMvB"
@@ -54,6 +54,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **ASO:** bewijs van bevoegdheid voor het bedienen van een luchtvaartstation (Aeronautical Station Operator);
 
+- **ATCO:** het bewijs van bevoegdheid voor luchtverkeersleider als bedoeld in [verordening (EU) 2015/340](32015R0340) , of het bewijs van bevoegdheid voor luchtverkeersleider afgegeven door Onze Minister van Defensie overeenkomstig de eisen als bedoeld in [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2);
+
+- **basisopleiding:** theorie- en praktijkopleiding die basiskennis en praktische vaardigheden in verband met elementaire operationele procedures bijbrengt;
+
 - **bevoegdverklaring:** op een bewijs van bevoegdheid aangebrachte of daarmee samenhangende en van de vergunning deel uitmakende machtiging waarin specifieke aan de vergunning verbonden voorwaarden, rechten of beperkingen zijn aangegeven
 
 - **EVLOS:** bevoegdverklaring om een RPA te bedienen binnen een vergrote zichtafstand (extended visual line of sight);
@@ -84,6 +88,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
 
+- **OFS:** communicatie ten behoeve van het uitwisselen van berichten tussen het grondstation van een offshore productieplatform en luchtvaartuigen op en nabij dit platform (Offshore);
+
 - **Onze Minister:** Onze Minister van Infrastructuur en Waterstaat;
 
 - **OPC:** Communicatie ten behoeve van het uitwisselen van berichten tussen het grondstation van de luchtvaartmaatschappij en haar luchtvaartuigen, of tussen grondstation en luchtvaartuigen waarvoor het station de uitvoerende organisatie is (Operational Control Communication);
@@ -109,6 +115,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - **RT:** bevoegdverklaring radiotelefonie (Radio Telephony);
 
 - **schermvliegtuig:** zweeftoestel zonder starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder;
+
+- **SUR:** bevoegdverklaring tot het verstrekken van advies en inlichtingen met behulp van surveillance apparatuur (Surveillance);
 
 - **TMG:** motorzweefvliegtuig met een integraal gemonteerde niet intrekbare motor en een niet intrekbare propeller, dat in staat is om op eigen kracht op te stijgen en te klimmen (Touring Motor Glider);
 
@@ -252,7 +260,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-02-20&g=2024-02-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-02-20&g=2024-02-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-02-20&g=2024-02-20) wordt het bewijs van bevoegdheid of de bevoegdverklaring op aanvraag afgegeven aan een ieder die:
+1. Met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-09&g=2026-01-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2026-01-09&g=2026-01-09) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-09&g=2026-01-09) wordt het bewijs van bevoegdheid of de bevoegdverklaring op aanvraag afgegeven aan een ieder die:
 
 - a. voldoet aan de bij ministeriële regeling vast te stellen vereisten inzake kennis, bedrevenheid, ervaring en opleiding, en,
 
@@ -260,7 +268,7 @@ Vervallen
 
 2. In afwijking van het eerste lid, onderdeel b, volstaat, in plaats van een geldige medische verklaring klasse II, een geldige medische verklaring voor het LAPL voor het verkrijgen van:
 
-- a. het bewijs van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-02-20&g=2024-02-20);
+- a. het bewijs van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-09&g=2026-01-09);
 
 - b. het bewijs van bevoegdheid RPL voor het besturen van Micro Light Aeroplanes, Micro Light Helicopters, lichte gyrokopters, historische gemotoriseerde vliegtuigen of amateur vliegtuigbouwproducten tot een gewicht van 2000 kilogram.
 
@@ -270,7 +278,7 @@ Vervallen
 
 ##### Artikel 9
 
-De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-02-20&g=2024-02-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-02-20&g=2024-02-20), worden verlengd indien de houder van het bewijs van bevoegdheid op bij ministeriële regeling te bepalen wijze heeft aangetoond, dat hij zijn kennis, bedrevenheid en ervaring heeft behouden.
+De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2026-01-09&g=2026-01-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-09&g=2026-01-09), worden verlengd indien de houder van het bewijs van bevoegdheid op bij ministeriële regeling te bepalen wijze heeft aangetoond, dat hij zijn kennis, bedrevenheid en ervaring heeft behouden.
 
 ##### Artikel 10
 
@@ -378,7 +386,7 @@ Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijze
 
 ##### Artikel 14
 
-1. Als bewijs, dat wordt voldaan aan de eisen met betrekking tot de nodige kennis en bedrevenheid voor een bewijs van bevoegdheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-02-20&g=2024-02-20) of een bevoegdverklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-02-20&g=2024-02-20) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-02-20&g=2024-02-20), wordt met goed gevolg een examen afgelegd.
+1. Als bewijs, dat wordt voldaan aan de eisen met betrekking tot de nodige kennis en bedrevenheid voor een bewijs van bevoegdheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-09&g=2026-01-09) of een bevoegdverklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2026-01-09&g=2026-01-09) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-09&g=2026-01-09), wordt met goed gevolg een examen afgelegd.
 
 2. Het examen kan bestaan uit een theorie- en een praktijkgedeelte.
 
@@ -470,55 +478,67 @@ Onze Minister kan de bewijzen van bevoegdheid ASO onderscheidenlijk FISO afgeven
 
 - b. **TOW** (Towing), die de bevoegdheid geeft tot het verstrekken van dienstberichten aan sleepvoertuigen niet zijnde luchtvaartuigen op het landingsterrein van een gecontroleerde luchthaven onder verantwoordelijkheid van een luchtverkeersleider;
 
-- c. **CLD** (Clearance Delivery), die de bevoegdheid geeft tot het doorgeven van een klaring en informatie in opdracht en onder verantwoordelijkheid van een luchtverkeersleider;
+- c. **GCO** (Ground Communications Officer), die de bevoegdheid geeft tot het voeren van communicatie met luchtvaartuigen en voertuigen op een gecontroleerde luchthaven;
 
-- d. **DIS** (Display), die de bevoegdheid geeft tot het verstrekken van informatie aan luchtverkeer dat deelneemt aan een luchtvaartvertoning overeenkomstig de bij regeling van Onze Minister gestelde regels;
+- d. **DIS** (Display), die de bevoegdheid geeft tot het verstrekken van luchtvaartvertoningsinformatie aan luchtverkeer dat deelneemt aan een luchtvaartvertoning overeenkomstig de bij regeling van Onze Minister gestelde regels;
 
 - e. **OFS** (Offshore), die de bevoegdheid geeft tot het verstrekken van informatie aan luchtverkeer op en nabij een offshore productieplatform.
 
-2. Aan een houder van een ASO worden, nadat deze de desbetreffende opleiding met goed resultaat heeft gevolgd, één of meer van de volgende aantekeningen, die van overeenkomstige toepassing zijn als de gelijkluidende aantekeningen in artikel 4 van verordening (EU) nr. 2015/340, bij het bewijs van bevoegdheid afgegeven:
+2. Op de bevoegdverklaring GCO is ten minste één van de volgende aantekeningen aangebracht:
+
+- a. CLD (Clearance Delivery), die de bevoegdheid geeft tot het geven van route- en startupklaringen alsmede voor de vluchtuitvoering relevante informatie aan luchtvaartuigen op platforms;
+
+- b. GMS (Ground Movement Service), die de bevoegdheid geeft tot het verstrekken van dienstberichten aan of begeleiden van voertuigen, sleepverkeer, luchthavendiensten, hulpdiensten en andere betrokkenen op het landingsterrein, onder verantwoordelijkheid van de luchtverkeersleider.
+
+3. De in het tweede lid genoemde aantekening wordt afgegeven indien hiervoor de desbetreffende opleiding met goed resultaat is afgerond.
+
+4. Aan een houder van een ASO worden, nadat deze de desbetreffende opleiding met goed resultaat heeft gevolgd, één of meer van de volgende aantekeningen, die van overeenkomstige toepassing zijn als de gelijkluidende aantekeningen in artikel 4 van verordening (EU) nr. 2015/340, bij het bewijs van bevoegdheid afgegeven:
 
 - a. **Assessor,** waarmee wordt aangegeven dat de houder bevoegd is om praktische vaardigheden van (leerling-)bedieners van een luchtvaartstation te beoordelen;
 
 - b. **OJTI** (On the Job Training Instructor endorsement), waarmee wordt aangegeven dat de houder bevoegd is om opleiding op de werkplek en opleiding met synthetische opleidingstoestellen te geven;
 
-- c. **aantekening betreffende de eenheid** (unit endorsement), de op het bewijs van bevoegdheid aangebrachte en daarvan deel uitmakende machtiging die de ICAO-locatie-indicator of de naam van de luchthaven weergeeft;
+- c. **STDI** (Synthetic Training Device Instructor endorsement), waarmee wordt aangegeven dat de houder bevoegd is om opleiding met synthetische opleidingstoestellen te geven;
 
-- d. **aantekening betreffende de taalvaardigheid** (language proficiency endorsement), de op het bewijs van bevoegdheid aangebrachte en daarvan deel uitmakende machtiging die de taalvaardigheid van de houder aangeeft.
+- d. **aantekening betreffende de eenheid** (unit endorsement), de op het bewijs van bevoegdheid aangebrachte en daarvan deel uitmakende machtiging die de ICAO-locatie-indicator of de naam van de luchthaven weergeeft;
 
-3. Een bevoegdverklaring als bedoeld in het eerste lid is slechts geldig indien daaraan de in het tweede lid, onderdeel c, bedoelde aantekening betreffende de eenheid, is verbonden.
+- e. **aantekening betreffende de taalvaardigheid** (language proficiency endorsement), de op het bewijs van bevoegdheid aangebrachte en daarvan deel uitmakende machtiging die de taalvaardigheid van de houder aangeeft.
 
-4. Een aantekening als bedoeld in het tweede lid, onderdelen a en b, is slechts geldig in combinatie met het bewijs van bevoegdheid en de bevoegdverklaring waarvan zij deel uitmaakt.
+5. Een bevoegdverklaring als bedoeld in het eerste lid is slechts geldig indien daaraan de in het vierde lid, onderdeel d, bedoelde aantekening betreffende de eenheid, is verbonden.
+
+6. Een aantekening als bedoeld in het vierde lid, onderdelen a tot en met c, is slechts geldig in combinatie met het bewijs van bevoegdheid en de bevoegdverklaring waarvan zij deel uitmaakt.
+
+7. Een aantekening als bedoeld in het vierde lid, onderdeel e, kan worden afgegeven indien de houder van een ASO reeds beschikt over een geldige aantekening betreffende de taalvaardigheid op een ATCO of FISO met geldige eenheidsaantekening.
 
 ##### Artikel 19
 
-De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2024-02-20&g=2024-02-20) bedraagt 18 jaar.
+De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-09&g=2026-01-09) bedraagt 18 jaar.
 
 ##### Artikel 20
 
-1. Met inachtneming van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-02-20&g=2024-02-20) wordt een FISO op aanvraag verleend aan een ieder die:
+1. Met inachtneming van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=19&z=2026-01-09&g=2026-01-09) wordt een FISO en ASO op aanvraag verleend aan een ieder die:
 
-- a. in het bezit is van een geldige medische verklaring, klasse 3, als bedoeld in bijlage IV van verordening (EU) nr. 2015/340,
+- a. voldoet aan bij ministeriële regeling te stellen eisen inzake kennis, bedrevenheid en ervaring, en
 
-- b. voldoet aan bij ministeriële regeling te stellen eisen inzake kennis, bedrevenheid en ervaring, en
+- b. overeenkomstig Bijlage 1 bij het op 7 december 1944 te Chicago gesloten Verdrag inzake de Internationale Burgerluchtvaart (Trb. 1973, 109) voldoet aan de vereisten inzake het vermogen tot beheersing van de Engelse taal op de niveaus 4, 5 of 6.
 
-- c. overeenkomstig Bijlage 1 bij het op 7 december 1944 te Chicago gesloten Verdrag inzake de Internationale Burgerluchtvaart (Trb. 1973, 109) voldoet aan de vereisten inzake het vermogen tot beheersing van de Engelse taal op de niveaus 4, 5 of 6.
+2. Het eerste lid is van overeenkomstige toepassing op het verlenen van bevoegdverklaringen en aantekeningen als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2026-01-09&g=2026-01-09) en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18a&z=2026-01-09&g=2026-01-09), met uitzondering van de bevoegdverklaring TOW waarop onderdeel b van het eerste lid niet van toepassing is.
 
-2. Het eerste lid, onderdelen b en c, zijn van overeenkomstige toepassing op het verlenen van een ASO alsmede op het verlenen van bevoegdverklaringen en aantekeningen als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2024-02-20&g=2024-02-20) en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18a&z=2024-02-20&g=2024-02-20), met uitzondering van de bevoegdverklaring TOW waarop onderdeel c van het eerste lid niet van toepassing is.
+3. In aanvulling op het eerste lid is voor het verlenen van een FISO vereist dat de aanvrager in het bezit is van een geldige medische verklaring, klasse 3, als bedoeld in bijlage IV van [verordening (EU) nr. 2015/340](32015R0340).
 
-3. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3), worden vergoed.
+4. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3), worden vergoed.
 
 ##### Artikel 21
 
 1. Een FISO of een ASO en de bevoegdverklaring of aantekening bij de bevoegdverklaring wordt voor onbepaalde tijd afgegeven.
 
-2. Een aantekening bij het bewijs van bevoegdheid als bedoeld in [artikel 18, tweede lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2024-02-20&g=2024-02-20), respectievelijk [artikel 18a, derde lid, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18a&z=2024-02-20&g=2024-02-20), wordt voor een termijn van 3 jaar verstrekt.
+2. Een aantekening bij het bewijs van bevoegdheid als bedoeld in [artikel 18, vierde lid, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2026-01-09&g=2026-01-09), respectievelijk [artikel 18a, derde lid, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18a&z=2026-01-09&g=2026-01-09), wordt voor een termijn van 3 jaar verstrekt.
 
-3. Bij regeling van Onze Minister worden nadere regels gesteld voor de afgifte van de in het tweede lid bedoelde aantekeningen.
+3. Bij regeling van Onze Minister worden nadere regels gesteld voor de afgifte, vernieuwing en verlenging van de in het tweede, vijfde en zesde lid bedoelde aantekeningen.
 
 4. De termijnen, bedoeld in het tweede lid, worden met eenzelfde termijn verlengd indien de houder voldoet aan bij ministeriële regeling te stellen regels inzake kennis, bedrevenheid en ervaring.
 
-5. Een aantekening bij het bewijs van bevoegdheid als bedoeld in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2024-02-20&g=2024-02-20), wordt verstrekt voor een termijn van:
+5. Een aantekening bij het bewijs van bevoegdheid als bedoeld in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2026-01-09&g=2026-01-09), wordt verstrekt voor een termijn van:
 
 - a. 3 jaar, indien de aantekening taalvaardigheidsniveau 4 betreft;
 
@@ -526,7 +546,7 @@ De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in
 
 - c. onbeperkte duur, indien de aantekening taalvaardigheidsniveau 6 betreft.
 
-6. Een aantekening bij het bewijs van bevoegdheid als bedoeld in [artikel 18a, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18a&z=2024-02-20&g=2024-02-20), wordt verstrekt voor een termijn van:
+6. Een aantekening bij het bewijs van bevoegdheid als bedoeld in [artikel 18a, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18a&z=2026-01-09&g=2026-01-09), wordt verstrekt voor een termijn van:
 
 - a. 3 jaar, indien de aantekening taalvaardigheidsniveau 4 betreft;
 
@@ -534,15 +554,19 @@ De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in
 
 - c. 9 jaar, indien de aantekening taalvaardigheidsniveau 6 betreft.
 
-7. Met betrekking tot de afgifte, vernieuwing en verlenging van de in het vijfde en zesde lid bedoelde aantekeningen is verordening (EU) nr. 2015/340, bijlage I, artikel ATCO.B.035, onderdelen b tot en met e, van overeenkomstige toepassing.
-
 ##### Artikel 22
 
-De vereisten inzake kennis, bedrevenheid en ervaring voor het verkrijgen van een FISO zijn niet van toepassing op personen die maximaal 24 maanden voor de datum van aanvraag in het bezit waren van:
+1. De vereisten inzake kennis, bedrevenheid en ervaring behorende bij de basisopleiding en de opleiding voor de bevoegdverklaring ADR voor het verkrijgen van een FISO zijn niet van toepassing op personen die 24 maanden voor de datum van aanvraag in het bezit waren van:
 
-- a. een geldig bewijs van bevoegdheid voor luchtverkeersleider;
+- a. een geldig ATCO met de bevoegdverklaring ADC overeenkomstig [verordening (EU) nr. 2015/340](32015R0340); of
 
-- b. een geldig bewijs van bevoegdheid voor luchtverkeersleider of FISO afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
+- b. een geldig ATCO met de bevoegdverklaring ADI en ADV afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
+
+2. De vereisten inzake kennis, bedrevenheid en ervaring behorende bij de basisopleiding en de opleiding voor de bevoegdverklaring AER met de aantekening SUR voor het verkrijgen van een FISO zijn niet van toepassing op personen die 24 maanden voor de datum van aanvraag in het bezit waren van:
+
+- a. een geldig ATCO met de bevoegdverklaring APS of ACS overeenkomstig [verordening (EU) nr. 2015/340](32015R0340); of
+
+- b. een geldig ATCO met bevoegdverklaring APS of ACS of FISO met bevoegdverklaring AER met de aantekening RAD afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
 
 ##### Artikel 23
 
@@ -610,7 +634,7 @@ Vervallen
 
 ##### Artikel 31
 
-1. De geldigheidsduur van een medische verklaring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2024-02-20&g=2024-02-20) wordt bepaald overeenkomstig verordening (EU) nr. 1178/2011.
+1. De geldigheidsduur van een medische verklaring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2026-01-09&g=2026-01-09) wordt bepaald overeenkomstig verordening (EU) nr. 1178/2011.
 
 2. De geldigheidsduur van de medische verklaring klasse 3, bedoeld in bijlage IV van verordening (EU) nr. 2015/340, voor houders van een FISO bedraagt ten hoogste 24 maanden voor houders tot 40 jaar en 12 maanden voor houders van 40 jaar en ouder.
 
@@ -652,7 +676,7 @@ Zolang in een vacature in de Adviescommissie niet is voorzien, vormen de overbli
 
 ##### Artikel 37
 
-In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2024-02-20&g=2024-02-20) kan een luchtvaartstation tot 1 januari 2019 eveneens worden bediend, onderscheidenlijk vluchtinformatie eveneens worden verstrekt, door de houder van een geldig bewijs van bevoegdheid voor luchthaveninformatieverstrekker onderscheidenlijk een geldig bewijs van bevoegdheid voor vluchtinformatieverstrekker dat is afgegeven vóór 1 januari 2018.
+In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-09&g=2026-01-09) kan een luchtvaartstation tot 1 januari 2019 eveneens worden bediend, onderscheidenlijk vluchtinformatie eveneens worden verstrekt, door de houder van een geldig bewijs van bevoegdheid voor luchthaveninformatieverstrekker onderscheidenlijk een geldig bewijs van bevoegdheid voor vluchtinformatieverstrekker dat is afgegeven vóór 1 januari 2018.
 
 ##### Artikel 38
 
@@ -746,7 +770,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 24b
 
-Onze Minister geeft regels met betrekking tot de kwalificatie van STD’s. [Artikel 13, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-02-20&g=2024-02-20), is van overeenkomstige toepassing.
+Vervallen
 
 #### Paragraaf 2. Opleiding en kwalificatie
 
@@ -955,7 +979,7 @@ Dit besluit berust tevens op de [artikelen 1.5](https://wetten.overheid.nl/jci1.
 
 1. Met betrekking tot de certificering van FISO-opleidingen zijn de voorschriften bedoeld in verordening (EU) nr. 2015/340, Bijlage III, Deel ATCO.OR, subdelen A tot en met D, van overeenkomstige toepassing.
 
-2. [Artikel 2.2, eerste lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) is niet van toepassing op de afgifte van een ASO als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2024-02-20&g=2024-02-20) indien de afgifte geschiedt na een positieve kennis- en vaardigheidsbeoordeling van de aanvrager op basis van een opleidingenplan dat voldoet aan de krachtens [artikel 24a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=2&artikel=24a&z=2024-02-20&g=2024-02-20), gestelde regels.
+2. [Artikel 2.2, eerste lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) is niet van toepassing op de afgifte van een ASO als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-09&g=2026-01-09) indien de afgifte geschiedt na een positieve kennis- en vaardigheidsbeoordeling van de aanvrager op basis van een opleidingenplan dat voldoet aan de krachtens [artikel 24a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=2&artikel=24a&z=2026-01-09&g=2026-01-09), gestelde regels.
 
 #### Paragraaf 3. Het examen
 
@@ -1247,11 +1271,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Van overeenkomstige toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, zijn:
 
-- a. de basisverordening, voor zover het Hoofdstuk III, Deel II en Afdeling V betreft,
+- a. de basisverordening, voor zover het Hoofdstuk III, Deel II en Afdeling VI betreft,
 
 - b. [verordening (EU) nr. 1321/2014](32014R1321),
 
-- c. verordening (EU) nr. 2015/340, en
+- c. verordening (EU) nr. 2015/340, met uitzondering van Bijlage III, Deel ATCO.OR als de opleidingsorganisatie gecertificeerd is door de bevoegde autoriteit van Curaçao of Sint Maarten, en
 
 - d. verordening (EU) nr. 1178/2011,
 
@@ -1533,7 +1557,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. **AER** (Area), die de bevoegdheid geeft tot het verstrekken van advies en inlichtingen aan luchtverkeer dan wel tot het verstrekken van alarmeringen.
 
-2. Aan de houder van een bevoegdverklaring AER wordt, nadat deze de desbetreffende opleiding met goed resultaat heeft gevolgd, de aantekening (rating endorsement) RAD afgegeven, die de bevoegdheid geeft tot het verstrekken van advies en inlichtingen met behulp van surveillance apparatuur.
+2. Aan de houder van een bevoegdverklaring AER wordt, nadat deze de desbetreffende opleiding met goed resultaat heeft gevolgd, de aantekening (rating endorsement) SUR afgegeven, die de bevoegdheid geeft tot het verstrekken van advies en inlichtingen met behulp van surveillance apparatuur.
 
 3. Aan de houder van een FISO worden, nadat deze de desbetreffende opleiding met goed resultaat heeft gevolgd, één of meer van de volgende aantekeningen, die van overeenkomstige toepassing zijn als de gelijkluidende aantekeningen in artikel 4 van verordening (EU) nr. 2015/340, bij het bewijs van bevoegdheid afgegeven:
 
@@ -1551,29 +1575,39 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Een aantekening als bedoeld in het derde lid onderdeel a, b en c, is slechts geldig in combinatie met het bewijs van bevoegdheid en de bevoegdverklaring waarvan zij deel uitmaakt.
 
+6. Een aantekening als bedoeld in het derde lid, onderdeel e, kan worden afgegeven indien de houder van een FISO reeds beschikt over een geldige aantekening betreffende de taalvaardigheid op een ATCO met geldige eenheidsaantekening.
+
 ##### Artikel 22a
 
-De vereisten inzake kennis, bedrevenheid en ervaring voor het verkrijgen van een ASO zijn niet van toepassing op personen die maximaal 24 maanden voor de datum van de aanvraag in het bezit waren van:
+1. De vereisten inzake kennis, bedrevenheid en ervaring behorende bij de basisopleiding en de opleiding voor de bevoegdverklaring ADR voor het verkrijgen van een ASO zijn niet van toepassing op personen die 24 maanden voor de datum van aanvraag in het bezit waren van:
 
-- a. een geldig FISO met bevoegdverklaring ADR of een geldig bewijs van bevoegdheid voor luchtverkeersleider met de bevoegdverklaring ADI of ADV overeenkomstig verordening (EU) nr. 2015/340;
+- a. een geldig ATCO met de bevoegdverklaring ADC overeenkomstig [verordening (EU) nr. 2015/340](32015R0340) of een geldig FISO met bevoegdverklaring ADR; of
 
-- b. een geldig bewijs van bevoegdheid voor luchtverkeersleider, FISO of ASO afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
+- b. een geldig ATCO met bevoegdverklaring ADI en ADV afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2); of
+
+- c. een geldig FISO of ASO afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
+
+2. De vereisten inzake kennis, bedrevenheid en ervaring behorende bij de basisopleiding en de opleiding voor de bevoegdverklaring GCO met de aantekening CLD en GMS voor het verkrijgen van een ASO zijn niet van toepassing op personen die 24 maanden voor de datum van aanvraag in het bezit waren van:
+
+- a. een geldig ATCO met de bevoegdverklaring ADC overeenkomstig [verordening (EU) nr. 2015/340](32015R0340) of een geldig FISO met bevoegdverklaring ADR; of
+
+- b. een geldig ATCO met bevoegdverklaring ADI, ADV en ADG afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
 
 ##### Artikel 22b
 
-De vereisten inzake kennis, bedrevenheid en ervaring voor het verkrijgen van een FISO of een ASO met één of meer bevoegdverklaringen en aantekeningen, met uitzondering van de aantekeningen assessor en OJTI, zijn niet van toepassing op houders van gelijksoortige bewijzen van bevoegdheid, bevoegdverklaringen en aantekeningen, afgegeven krachtens dit besluit vóór 1 januari 2018, die hun geldigheid uitsluitend hebben verloren door het verstrijken van de geldigheidsduur, indien zij beschikken over bij regeling van Onze Minister voor te schrijven eisen voor het handhaven van vakbekwaamheid.
+Vervallen
 
 ##### Artikel 22c
 
-De vereisten inzake kennis, bedrevenheid en ervaring voor het verkrijgen van een ASO met één of meer bevoegdverklaringen en aantekeningen zijn niet van toepassing op degenen die vóór 1 januari 2018 de opleiding luchthaveninformatieverstrekker met goed gevolg hebben voltooid, zonder houder te zijn van het desbetreffende bewijs van bevoegdheid, indien zij beschikken over bij regeling van Onze Minister voor te schrijven vergelijkbare vereisten inzake kennis, bedrevenheid en ervaring.
+Vervallen
 
 ##### Artikel 22d
 
-1. Onze Minister kan de aanvrager van een ASO, een FISO , of van bevoegdverklaringen of aantekeningen daarop, die de desbetreffende examens en beoordelingen met succes heeft afgelegd, toestaan om gedurende ten hoogste acht weken voorafgaand aan de afgifte daarvan de aan dat document verbonden rechten uit te oefenen.
+1. Onze Minister kan de aanvrager van een ASO, een FISO, of van bevoegdverklaringen of aantekeningen daarop toestaan dat de bevoegdheden door de aanvrager worden uitgeoefend gedurende een periode van maximaal acht weken na succesvolle afronding van de toepasselijke examen(s) en beoordeling(en), in afwachting van de afgifte van het ASO, het FISO, de bevoegdverklaring of de aantekening.
 
-2. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de in het eerste lid bedoelde toestemming wordt verleend.
+2. Voor het verkrijgen van de in het eerste lid bedoelde toestemming stuurt de aanvrager een afschrift van het hiervoor door Onze Minister beschikbaar gestelde en door de aanvrager volledig ingevulde en ondertekende formulier met de aanvraag mee.
 
-3. Het eerste lid is niet van toepassing op tijdelijke machtigingen als bedoeld in [artikel 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=2&artikel=24a&z=2024-02-20&g=2024-02-20).
+3. Het eerste lid is niet van toepassing op tijdelijke machtigingen als bedoeld in [artikel 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=2&artikel=24a&z=2026-01-09&g=2026-01-09).
 
 ##### Artikel 24d
 
@@ -1599,7 +1633,7 @@ Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artik
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-## Bijlage. behorende bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2024-02-20&g=2024-02-20) van het Besluit bewijzen van bevoegdheid voor de luchtvaart
+## Bijlage. behorende bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2026-01-09&g=2026-01-09) van het Besluit bewijzen van bevoegdheid voor de luchtvaart
 
 Vervallen
 
