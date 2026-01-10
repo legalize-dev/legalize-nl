@@ -4,7 +4,7 @@ identifier: "BWBR0049455"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-10"
-last_updated: "2024-04-01"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049455"
 soort: "ministeriele-regeling"
@@ -48,11 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **besluit:** [Besluit bestuurlijke boete Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0049263);
 
-- **kerngegevens:** de lettertekens en het nummer van het vissersvaartuig, de naam van de kapitein, de tijdstippen van vertrek, terugkeer en aanlanding, gegevens betreffende het gebruikte vistuig en de maaswijdte, de datum van vangst, en de gegevens van het betrokken geografische gebied, bedoeld in artikel 4, onderdeel 30, van de controleverordening, waar de vangsten zijn gedaan;
-
-- **uitvoeringsverordening controleverordening:** uitvoeringsverordening controleverordening als bedoeld in [artikel 1, tweede lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=1);
-
-- **verordening nr. 1005/2008:** [verordening nr. 1005/2008](32008R1005) als bedoeld in [artikel 1, tweede lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=1).
+- **uitvoeringsverordening controleverordening:** uitvoeringsverordening controleverordening als bedoeld in [artikel 1, tweede lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=1).
 
 ##### Artikel 2
 
@@ -78,41 +74,19 @@ Overtreding van de in kolom IV van de bijlage opgenomen bepalingen geldt als soo
 
 ##### Artikel 4
 
-1. Voor zover een of meer van de kerngegevens in het papieren visserijlogboek, bedoeld in artikel 14 van de controleverordening, in de papieren aangifte van aanlanding, respectievelijk de papieren aangifte van overlading niet juist, niet volledig, niet tijdig of niet wordt of is bijgehouden of ingediend, wordt overtreding van de volgende artikelen als ernstige inbreuk als bedoeld in artikel 42, onderdeel a, in samenhang met artikel 3, eerste lid, onderdeel b, van [verordening nr. 1005/2008](32008R1005) aangemerkt:
-
-- a. [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 14, eerste, vierde, zesde of achtste lid, van de controleverordening;
-
-- b. [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 21, eerste of vierde lid, van de controleverordening;
-
-- c. [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 23, eerst of derde lid, van de controleverordening;
-
-- d. [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 31, eerste lid, van de uitvoeringsverordening controleverordening.
-
-2. Overtreding van [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 14, eerste en tweede lid, onderdeel f, van de controleverordening wordt tevens als ernstige inbreuk als bedoeld in artikel 42, onderdeel a, in samenhang met artikel 3, eerste lid, onderdeel b, van [verordening nr. 1005/2008](32008R1005) aangemerkt indien de in de papieren aangifte van aanlanding vermelde vangsthoeveelheid, bedoeld in artikel 23, tweede lid, onderdeel c, van de controleverordening, althans de vangsthoeveelheid zoals die met toepassing van artikel 60, vijfde lid, van de controleverordening in de papieren aangifte van aanlanding vermeld had moeten worden, per soort en per visreis meer dan 15 procent, met een minimum van 200 kilogram, afwijkt ten opzichte van de geschatte hoeveelheid die vermeld is in het papieren visserijlogboek.
+Vervallen
 
 ##### Artikel 5
 
-1. Voor zover een of meer van de kerngegevens in de aangifte van vertrek of de aangifte van terugkeer naar de haven in het elektronische visserijlogboek, bedoeld in artikel 15, eerste lid, van de controleverordening, in de elektronische aangifte van aanlanding of in de elektronische aangifte van overlading niet juist, niet volledig, niet tijdig of niet wordt of is bijgehouden of ingediend, wordt overtreding van de volgende artikelen als ernstige inbreuk als bedoeld in artikel 42, onderdeel a, in samenhang met artikel 3, eerste lid, onderdeel b, van [verordening nr. 1005/2008](32008R1005) aangemerkt:
-
-- a. [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=105), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 15, eerste of tweede lid, van de controleverordening;
-
-- b. [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=108), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 22, eerste lid, van de controleverordening;
-
-- c. [artikel 109, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=109), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 24, eerste lid, van de controleverordening;
-
-- d. [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=105), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 37, tweede alinea, van de uitvoeringsverordening controleverordening;
-
-- e. [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=105), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 47, lid 1bis, van de uitvoeringsverordening controleverordening.
-
-2. Overtreding van [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=105), in samenhang met [artikel 141 van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=141) en met artikel 15, eerste lid, van de controleverordening wordt tevens als ernstige inbreuk als bedoeld on artikel 42, onderdeel a, in samenhang met artikel 3, eerste lid, onderdeel b, van [verordening nr. 1005/2008](32008R1005) aangemerkt indien de in de elektronische aangifte van aanlanding vermelde vangsthoeveelheid als bedoeld in artikel 24, eerste lid, in samenhang met artikel 23, tweede lid, onderdeel c, van de controleverordening, althans de vangsthoeveelheid, zoals die met toepassing van artikel 60, vijfde lid, van de controleverordening in de elektronische aangifte van aanlanding vermeld had moeten worden, per soort en per visreis meer dan 15 procent, met een minimum van 200 kilogram, afwijkt ten opzichte van de geschatte hoeveelheid die vermeld is in het elektronische visserijlogboek, bedoeld in artikel 15, eerste lid, van de controleverordening.
+Vervallen
 
 ##### Artikel 6
 
-Overtreding van [artikel 124, tweede lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=124) in samenhang met artikel 60, vijfde lid, van de controleverordening wordt aangemerkt als ernstige inbreuk als bedoeld in artikel 42, onderdeel a, in samenhang met artikel 3, eerste lid, onderdeel b, van [verordening nr. 1005/2008](32008R1005) voor zover het gaat om de aangifte van aanlanding.
+Vervallen
 
 ##### Artikel 7
 
-Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=4&z=2024-04-01&g=2024-04-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=5&z=2024-04-01&g=2024-04-01), wordt voor het bepalen of een in dat lid bedoelde vangsthoeveelheid afwijkt ten opzichte van de geschatte hoeveelheid die is vermeld in het papieren respectievelijk elektronische visserijlogboek uitgegaan van de vangsthoeveelheid na omrekening in levend visgewicht overeenkomstig artikel 49, eerste lid, van de uitvoeringsverordening controleverordening ofwel artikel 49, derde lid, van de uitvoeringsverordening controleverordening in samenhang met [artikel 104, zevende lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104).
+Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=4&z=2026-01-10&g=2026-01-10), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=5&z=2026-01-10&g=2026-01-10), wordt voor het bepalen of een in dat lid bedoelde vangsthoeveelheid afwijkt ten opzichte van de geschatte hoeveelheid die is vermeld in het papieren respectievelijk elektronische visserijlogboek uitgegaan van de vangsthoeveelheid na omrekening in levend visgewicht overeenkomstig artikel 49, eerste lid, van de uitvoeringsverordening controleverordening ofwel artikel 49, derde lid, van de uitvoeringsverordening controleverordening in samenhang met [artikel 104, zevende lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104).
 
 ##### Artikel 8
 
@@ -126,7 +100,7 @@ Deze regeling treedt in werking op het tijdstip waarop de Wet van 22 augustus 20
 
 Deze regeling wordt aangehaald als: Regeling bestuurlijke boete Visserijwet 1963.
 
-## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=2&z=2024-04-01&g=2024-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=3&z=2024-04-01&g=2024-04-01) van de Regeling bestuurlijke boete Visserijwet 1963
+## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=2&z=2026-01-10&g=2026-01-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0049455&artikel=3&z=2026-01-10&g=2026-01-10) van de Regeling bestuurlijke boete Visserijwet 1963
 
 | I – Overtreden bepaling | II – Betreffende Europeesrechtelijke bepaling | III – Boetecategorie | IV – Soortgelijke overtredingen |
 | --- | --- | --- | --- |
