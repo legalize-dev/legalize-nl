@@ -4,7 +4,7 @@ identifier: "BWBR0051448"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-10-06"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051448"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=2&z=2025-10-06&g=2025-10-06).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=2&z=2026-01-14&g=2026-01-14).
 
 ##### Artikel 2
 
@@ -62,7 +62,7 @@ De personen, werkzaam in de functie van buitengewoon opsporingsambtenaar in dien
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend) aangevuld met de wetten op het gebied van de volksgezondheid en de aangevuld met de wetten op het gebied van de volksgezondheid en de [artikelen 227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227), [227a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227a), [228](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=228), [231](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=255), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=257), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), [294](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), [titel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XX) ([300 tot en met 306](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300)), [309](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=309) en [322 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend) aangevuld met de wetten op het gebied van de volksgezondheid en de [artikelen 227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227), [227a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227a), [228](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=228), [231](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=255), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=257), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [293](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), [294](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), [titel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XX) ([300 tot en met 306](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300)), [309](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=309) en [322 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -82,17 +82,17 @@ Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporings
 
 1. De Inspectie Gezondheidszorg en Jeugd brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=2&z=2025-10-06&g=2025-10-06) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=2&z=2026-01-14&g=2026-01-14) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister van Justitie en Veiligheid goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=5&z=2025-10-06&g=2025-10-06) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=5&z=2026-01-14&g=2026-01-14) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=9&z=2025-10-06&g=2025-10-06) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051448&artikel=9&z=2026-01-14&g=2026-01-14) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
