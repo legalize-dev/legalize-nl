@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2026-01-01"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -150,7 +150,7 @@ Besluiten:
 | [Titel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.7): Investeringssubsidie maakindustrie klimaatneutrale economie (IMKE) | [4.7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Batterijen |   |   | 01-10-2024 t/m 31-01-2025 | € 20.000.000 |
 |   | [4.7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Elektrolyse-installaties |   |   | 01-10-2024 t/m 31-01-2025 | € 100.000.000 |
 |   | [4.7.3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Essentiële onderdelen voor de zonnepanelen, genoemd in [artikel 4.7.3, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3), namelijk heterojunctionzonnecellen, perovskietfolies, perovskietzonnecellen of tandemzonnecellen |   |   | 02-12-2024 t/m 31-01-2025 | € 28.000.000 |
-| [Titel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.10): Warmtenetten Investeringssubsidie | [4.10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.10.2) |   | De aanleg van een energie-efficiënt warmtenet | De aanleg van een energie-efficiënt warmtenet | 01-08-2025 t/m 16-01-2026 | € 200.000.000 |
+| [Titel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.10): Warmtenetten Investeringssubsidie | [4.10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.10.2) |   | De aanleg van een energie-efficiënt warmtenet | De aanleg van een energie-efficiënt warmtenet | 01-08-2025 t/m 30-08-2026 | € 200.000.000 |
 | [Titel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.11): Beperking ammoniakemissie bij industriële piekbelasters | [4.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.11.2) |   |   |   | 02-12-2024 t/m 29-01-2025 | € 54.000.000 |
 | [Titel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.12): Flexibel elektriciteitsverbruik (Flex-e) | [4.12.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Flexibiliteitsscan | Flexibiliteitsscan | 01-04-2025 t/m 15-10-2025 | € 13.555.500 |
 |   | [4.12.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.12.2) |   | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | 01-04-2025 t/m 15-10-2025 | € 10.000.000 |
