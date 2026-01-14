@@ -4,7 +4,7 @@ identifier: "BWBR0052142"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-09-01"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052142"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **de ministers:** de Minister van Algemene Zaken van Aruba, de Minister van Algemene Zaken van Curaçao, de Minister van Algemene Zaken van Sint Maarten en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland gezamenlijk;
 
-- c. **de evaluatiecommissie:** de evaluatiecommissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2025-09-01).
+- c. **de evaluatiecommissie:** de evaluatiecommissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2026-01-14).
 
 ##### Artikel 2. Instelling en taak
 
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - e. de heer Cees Slager, namens Nederland.
 
-2. De benoeming loopt af van rechtswege wanneer de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2025-09-01) bedoelde taak door de evaluatiecommissie is afgerond.
+2. De benoeming loopt af van rechtswege wanneer de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2026-01-14) bedoelde taak door de evaluatiecommissie is afgerond.
 
 ##### Artikel 4. Ondersteuning evaluatiecommissie
 
@@ -124,7 +124,7 @@ De evaluatiecommissie draagt zo spoedig mogelijk na beëindiging van haar werkza
 
 1. Dit besluit treedt in werking met ingang van 1 september 2025. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2025, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2025.
 
-2. Dit besluit vervalt zodra de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2025-09-01) bedoelde taak door de evaluatiecommissie is afgerond.
+2. Dit besluit vervalt zodra de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052142&artikel=2&z=2026-01-14&g=2026-01-14) bedoelde taak door de evaluatiecommissie is afgerond.
 
 ##### Artikel 13. Citeertitel
 
