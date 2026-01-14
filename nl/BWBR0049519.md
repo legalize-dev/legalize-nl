@@ -4,7 +4,7 @@ identifier: "BWBR0049519"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-14"
-last_updated: "2024-07-01"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049519"
 soort: "beleidsregel"
@@ -60,9 +60,9 @@ In deze beleidsregel wordt verstaan onder:
 
 1. Het Instituut stelt een werkwijze vast op basis waarvan het een eenmalige vaste vergoeding aanbiedt indien een aanvrager als gevolg van een nieuwe aardbeving als bedoeld in [artikel 2.10, derde lid, van de werkwijze](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&artikel=2.10) nieuwe schade lijdt als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=1).
 
-2. Het Instituut verklaart [artikel 2.10 van de werkwijze](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&artikel=2.10) van overeenkomstige toepassing op de keuze voor daadwerkelijk herstel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=2&z=2024-07-01&g=2024-07-01), en de individuele maatwerkbeoordeling, bedoeld in [hoofdstuk 2a van de werkwijze](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a).
+2. Het Instituut verklaart [artikel 2.10 van de werkwijze](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&artikel=2.10) van overeenkomstige toepassing op de keuze voor daadwerkelijk herstel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=2&z=2026-01-14&g=2026-01-14), en ontwikkelt een werkwijze over de omgang met nieuwe schade die zich voordoet na de afronding van de individuele maatwerkbeoordeling, bedoeld in [hoofdstuk 2a van de werkwijze](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a).
 
-3. In afwijking van het tweede lid vergoedt het Instituut binnen de termijn, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=2&z=2024-07-01&g=2024-07-01), bij de toepassing van artikel 2 ook de redelijke kosten van nieuwe schade die binnen die termijn is ontstaan of opgemerkt, binnen het maximum van € 60.000.
+3. In afwijking van het tweede lid vergoedt het Instituut binnen de termijn, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=2&z=2026-01-14&g=2026-01-14), bij de toepassing van artikel 2 ook de redelijke kosten van nieuwe schade die binnen die termijn is ontstaan of opgemerkt, binnen het maximum van € 60.000.
 
 ##### Artikel 4. Vaste vergoeding
 
@@ -74,17 +74,19 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 5. Aanvullende vaste vergoeding
 
-1. Het Instituut ontwikkelt een werkwijze met betrekking tot een aanvullende vaste vergoeding voor aanvragers die voor 1 januari 2024 een aanvraag om schadevergoeding als bedoeld in [artikel 2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) hebben gedaan, of schade hebben gemeld bij het Centrum Veilig Wonen of de exploitant en tevens een aanvraag om schadevergoeding bij het Instituut hebben gedaan, en aan wie in totaal een bedrag van minder dan € 10.000 is toegekend, waarbij dit bedrag wordt aangevuld tot een maximum van € 10.000.
+1. Het Instituut ontwikkelt een werkwijze met betrekking tot een aanvullende vaste vergoeding om verschillen die zijn ontstaan door aanpassingen in de wijze van afhandeling van fysieke schade zo veel mogelijk te beperken. De aanvullende vaste vergoeding bedraagt ten hoogste € 10.000.
 
-2. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=4&z=2024-07-01&g=2024-07-01), is van overeenkomstige toepassing.
+2. Het Instituut kan daarbij voorwaarden stellen voor het verstrekken van deze vergoeding.
+
+3. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=4&z=2026-01-14&g=2026-01-14), is van overeenkomstige toepassing.
 
 ##### Artikel 6. Overgangsrecht
 
-Deze beleidsregel is, met uitzondering van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=3&z=2024-07-01&g=2024-07-01) voor zover dat betrekking heeft op de individuele maatwerkbeoordeling, van toepassing op aanvragen waarop op 14 december 2023 nog geen besluit is genomen en op besluiten die op die datum nog niet onherroepelijk zijn.
+Deze beleidsregel is, met uitzondering van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=3&z=2026-01-14&g=2026-01-14) voor zover dat betrekking heeft op de individuele maatwerkbeoordeling, van toepassing op aanvragen waarop op 14 december 2023 nog geen besluit is genomen en op besluiten die op die datum nog niet onherroepelijk zijn.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 juli 2024, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=1&z=2024-07-01&g=2024-07-01), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=2&z=2024-07-01&g=2024-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=4&z=2024-07-01&g=2024-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=6&z=2024-07-01&g=2024-07-01), die in werking treden met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst en terugwerken tot en met 14 december 2023.
+Deze beleidsregel treedt in werking met ingang van 1 juli 2024, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=1&z=2026-01-14&g=2026-01-14), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=2&z=2026-01-14&g=2026-01-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=4&z=2026-01-14&g=2026-01-14) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=6&z=2026-01-14&g=2026-01-14), die in werking treden met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst en terugwerken tot en met 14 december 2023.
 
 ##### Artikel 8. Citeertitel
 
