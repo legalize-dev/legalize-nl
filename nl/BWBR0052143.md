@@ -4,7 +4,7 @@ identifier: "BWBR0052143"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-16"
-last_updated: "2026-01-01"
+last_updated: "2026-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052143"
 soort: "ministeriele-regeling"
@@ -60,9 +60,9 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 ##### Artikel 2
 
-1. Aan de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&bijlage=1&z=2026-01-16&g=2026-01-01) bij dit besluit, wordt volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+1. Aan de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&bijlage=1&z=2026-01-16&g=2026-01-16) bij dit besluit, wordt volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
-2. Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&bijlage=2&z=2026-01-16&g=2026-01-01) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+2. Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&bijlage=2&z=2026-01-16&g=2026-01-16) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
@@ -90,11 +90,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Mandaatbesluit directeur-generaal DJI 2026.
 
-## Bijlage 1. behorend bij [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=2&z=2026-01-16&g=2026-01-01) van het Mandaatbesluit directeur-generaal DJI
+## Bijlage 1. behorend bij [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=2&z=2026-01-16&g=2026-01-16) van het Mandaatbesluit directeur-generaal DJI
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=3&z=2026-01-16&g=2026-01-01) van het mandaatbesluit directeur-generaal DJI, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=3&z=2026-01-16&g=2026-01-16) van het mandaatbesluit directeur-generaal DJI, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
 
-De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=3&z=2026-01-16&g=2026-01-01) van het mandaatbesluit directeur-generaal DJI, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=3&z=2026-01-16&g=2026-01-16) van het mandaatbesluit directeur-generaal DJI, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
 
 | 1 januari 2026 | kolom 1 Aangewezen functionarissen | kolom 1 Aangewezen functionarissen | kolom 1 Aangewezen functionarissen | kolom 1 Aangewezen functionarissen | kolom 1 Aangewezen functionarissen | kolom 2 | kolom 3 Opmerkingen |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -443,7 +443,7 @@ De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminder
 | SSC 1.7.1 |   |   |   | manager operations | manager operations | B |   |
 | SSC 1.7.1.1 |   |   |   |   | teamleider | B |   |
 
-## Bijlage 2. behorend bij [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=2&z=2026-01-16&g=2026-01-01) van het Mandaatbesluit directeur-generaal DJI
+## Bijlage 2. behorend bij [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&artikel=2&z=2026-01-16&g=2026-01-16) van het Mandaatbesluit directeur-generaal DJI
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3) en [artikel 4.6 lid 1 van van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) tot het aangaan van verplichtingen en het doen van uitgaven.
 
