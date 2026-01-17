@@ -4,7 +4,7 @@ identifier: "BWBR0023354"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2007-02-01"
+last_updated: "2026-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023354"
 soort: "ministeriele-regeling"
@@ -42,7 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Het bij het ministerie van Defensie in gebruik en beheer zijnde Netherlands armed forces integrated network (NAFIN) wordt op grond van [artikel 5.16 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5.16) aangewezen als elektronisch communicatienetwerk dat geheel of hoofdzakelijk gebruikt wordt voor vitale overheidstaken.
+Als netwerk dat geheel of hoofdzakelijk gebruikt wordt voor publieke taken als bedoeld in [artikel 5.16 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5.16) worden aangewezen:
+
+- a. het bij het Ministerie van Defensie in gebruik en beheer zijnde Netherlands armed forces integrated network (NAFIN);
+
+- b. het bij het Ministerie van Infrastructuur en Waterstaat, directoraat-generaal Rijkswaterstaat, in gebruik en beheer zijnde elektronisch communicatienetwerk voor de uitoefening van zijn publieke taken.
 
 ##### Artikel 2
 
