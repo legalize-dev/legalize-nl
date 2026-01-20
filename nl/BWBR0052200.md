@@ -4,7 +4,7 @@ identifier: "BWBR0052200"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2026-01-01"
+last_updated: "2026-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052200"
 soort: "zbo"
@@ -117,7 +117,7 @@ Cliënten kunnen uitsluitend met instemming van UWV een scholing met behoud van 
 
 ##### Artikel 4. Arbeidsmarktrelevantie van de scholing
 
-Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0052200&deel=A&artikel=3&z=2026-01-20&g=2026-01-01), als aan één van de navolgende vereisten is voldaan:
+Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0052200&deel=A&artikel=3&z=2026-01-20&g=2026-01-20), als aan één van de navolgende vereisten is voldaan:
 
 - a). Er is sprake van een baanintentie of baangarantie. Deze baanintentie of baangarantie blijkt uit een door de werkgever en de cliënt ondertekende verklaring of arbeidsovereenkomst, dan wel uit een mondelinge verklaring door de werkgever. De verklaring houdt in dat de werkgever voornemens is om de cliënt na het behalen van het certificaat, diploma of de praktijkverklaring een dienstbetrekking aan te bieden. De dienstbetrekking waarop de baanintentie of baangarantie betrekking heeft, start uiterlijk op de eerste dag van de maand direct volgend op de maand waarin de cliënt de scholing met een diploma, certificaat of praktijkverklaring heeft afgerond. De omvang van de dienstbetrekking bedraagt minimaal hetzelfde aantal uren per week als de wekelijkse studiebelasting van de scholing en duurt minimaal 6 maanden, óf
 
