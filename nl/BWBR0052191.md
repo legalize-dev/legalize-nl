@@ -4,7 +4,7 @@ identifier: "BWBR0052191"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2026-01-01"
+last_updated: "2026-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052191"
 soort: "zbo"
@@ -175,7 +175,7 @@ Het Zorginstituut stelt in januari van jaar t het beheerskostenbudget voor jaar 
 
 ##### Artikel 2.7. Voorlopig vastgesteld bedrag bij uitbesteding van overige taken aan een zorgkantoor
 
-1. Het Zorginstituut stelt het bedrag per verzekerde voor de uitbesteding van de overige taken van een Wlz-uitvoerder aan een zorgkantoor, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), voorlopig vast op de uitkomst van de volgende berekening: het na toepassing van [artikel 2.6, eerste lid, onderdelen a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.6&z=2026-01-20&g=2026-01-01) resterende budget voor de Wlz-uitvoerders gedeeld door het aantal bij hen ingeschreven Wlz-verzekerden.
+1. Het Zorginstituut stelt het bedrag per verzekerde voor de uitbesteding van de overige taken van een Wlz-uitvoerder aan een zorgkantoor, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), voorlopig vast op de uitkomst van de volgende berekening: het na toepassing van [artikel 2.6, eerste lid, onderdelen a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.6&z=2026-01-20&g=2026-01-20) resterende budget voor de Wlz-uitvoerders gedeeld door het aantal bij hen ingeschreven Wlz-verzekerden.
 
 2. Het Zorginstituut rondt het bedrag per Wlz-verzekerde af op 9 decimalen.
 
@@ -185,13 +185,13 @@ Het Zorginstituut stelt in januari van jaar t het beheerskostenbudget voor jaar 
 
 1. Uiterlijk op de eerste werkdag van februari van jaar t+1 stelt het Zorginstituut het beheerskostenbudget voor het jaar t voor de zorgkantoren en de Wlz-uitvoerders nader vast op basis van de bedragen in de meest recente Aanwijzing voor jaar t.
 
-2. Het Zorginstituut berekent de nadere vaststelling van het beheerskostenbudget voor de zorgkantoren overeenkomstig de verdeelmethode in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.5&z=2026-01-20&g=2026-01-01).
+2. Het Zorginstituut berekent de nadere vaststelling van het beheerskostenbudget voor de zorgkantoren overeenkomstig de verdeelmethode in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.5&z=2026-01-20&g=2026-01-20).
 
-3. Het Zorginstituut berekent de nadere vaststelling van het beheerskostenbudget voor de Wlz-uitvoerders overeenkomstig de verdeelmethode in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.6&z=2026-01-20&g=2026-01-01).
+3. Het Zorginstituut berekent de nadere vaststelling van het beheerskostenbudget voor de Wlz-uitvoerders overeenkomstig de verdeelmethode in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.6&z=2026-01-20&g=2026-01-20).
 
 ##### Artikel 2.9. Nader vastgesteld bedrag bij uitbesteding van overige taken aan een zorgkantoor
 
-Het Zorginstituut stelt het bedrag voor de uitbesteding van de overige taken van een Wlz-uitvoerder aan een zorgkantoor, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), nader vast met de bedragen uit [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=3&artikel=2.8&z=2026-01-20&g=2026-01-01) en overeenkomstig de methode in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.7&z=2026-01-20&g=2026-01-01).
+Het Zorginstituut stelt het bedrag voor de uitbesteding van de overige taken van een Wlz-uitvoerder aan een zorgkantoor, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), nader vast met de bedragen uit [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=3&artikel=2.8&z=2026-01-20&g=2026-01-20) en overeenkomstig de methode in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.7&z=2026-01-20&g=2026-01-20).
 
 #### § 4. Definitieve vaststelling van het beheerskostenbudget jaar t
 
@@ -199,15 +199,15 @@ Het Zorginstituut stelt het bedrag voor de uitbesteding van de overige taken van
 
 1. Uiterlijk in december van jaar t+2 stelt het Zorginstituut het beheerskostenbudget voor het jaar t voor de zorgkantoren en de Wlz-uitvoerders definitief vast op basis van de bedragen in de meest recente Aanwijzing voor jaar t.
 
-2. Het Zorginstituut berekent de definitieve vaststelling van het beheerskostenbudget voor de zorgkantoren overeenkomstig de verdeelmethode in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.5&z=2026-01-20&g=2026-01-01).
+2. Het Zorginstituut berekent de definitieve vaststelling van het beheerskostenbudget voor de zorgkantoren overeenkomstig de verdeelmethode in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.5&z=2026-01-20&g=2026-01-20).
 
-3. Het Zorginstituut berekent het beheerskostenbudget voor de Wlz-uitvoerders overeenkomstig de verdeelmethode in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.6&z=2026-01-20&g=2026-01-01).
+3. Het Zorginstituut berekent het beheerskostenbudget voor de Wlz-uitvoerders overeenkomstig de verdeelmethode in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.6&z=2026-01-20&g=2026-01-20).
 
 4. Het Zorginstituut betrekt bij de definitieve vaststelling eventuele correcties van de Nederlandse Zorgautoriteit voor het beheerskostenbudget van de zorgkantoren en de Wlz-uitvoerders.
 
 ##### Artikel 2.11. Definitief vastgesteld bedrag bij uitbesteding van overige taken aan een zorgkantoor
 
-Het Zorginstituut stelt het bedrag voor de uitbesteding van de overige taken van een Wlz-uitvoerder aan een zorgkantoor, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), definitief vast met de bedragen uit [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=4&artikel=2.10&z=2026-01-20&g=2026-01-01) en overeenkomstig de methode in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.7&z=2026-01-20&g=2026-01-01).
+Het Zorginstituut stelt het bedrag voor de uitbesteding van de overige taken van een Wlz-uitvoerder aan een zorgkantoor, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), definitief vast met de bedragen uit [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=4&artikel=2.10&z=2026-01-20&g=2026-01-20) en overeenkomstig de methode in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.7&z=2026-01-20&g=2026-01-20).
 
 ### Hoofdstuk III. Overschrijding reserve uitvoering [wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
@@ -243,7 +243,7 @@ Het Zorginstituut stelt uiterlijk in december van jaar t+1 de overschrijding van
 
 ##### Artikel 5.2. Betaling voorlopig vastgesteld beheerskostenbudget
 
-1. Het Zorginstituut betaalt het voorlopig vastgesteld beheerskostenbudget voor jaar t, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.4&z=2026-01-20&g=2026-01-01), uit aan de zorgkantoren en de Wlz-uitvoerders.
+1. Het Zorginstituut betaalt het voorlopig vastgesteld beheerskostenbudget voor jaar t, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=2&artikel=2.4&z=2026-01-20&g=2026-01-20), uit aan de zorgkantoren en de Wlz-uitvoerders.
 
 2. Het Zorginstituut stelt de maandelijks te betalen termijnen voor het voorlopig vastgesteld beheerkostenbudget vast met het percentage in het betalingsschema in het vierde lid.
 
@@ -267,9 +267,9 @@ Het Zorginstituut stelt uiterlijk in december van jaar t+1 de overschrijding van
 
 ##### Artikel 5.3. Aanpassing beheerskostenbudget
 
-1. Bij de nadere vaststelling van het beheerskostenbudget voor jaar t, op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=3&artikel=2.8&z=2026-01-20&g=2026-01-01), verrekent het Zorginstituut het verschil tussen de reeds betaalde termijnen en het nader vastgesteld beheerskostenbudget.
+1. Bij de nadere vaststelling van het beheerskostenbudget voor jaar t, op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=3&artikel=2.8&z=2026-01-20&g=2026-01-20), verrekent het Zorginstituut het verschil tussen de reeds betaalde termijnen en het nader vastgesteld beheerskostenbudget.
 
-2. Bij de definitieve vaststelling van het beheerskostenbudget voor jaar t, op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=4&artikel=2.10&z=2026-01-20&g=2026-01-01), verrekent het Zorginstituut het verschil tussen het nader vastgesteld beheerskostenbudget en het definitief vastgesteld beheerskostenbudget.
+2. Bij de definitieve vaststelling van het beheerskostenbudget voor jaar t, op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=II&paragraaf=4&artikel=2.10&z=2026-01-20&g=2026-01-20), verrekent het Zorginstituut het verschil tussen het nader vastgesteld beheerskostenbudget en het definitief vastgesteld beheerskostenbudget.
 
 3. Indien toepassing van onderscheidenlijk het eerste en tweede lid resulteert in een positief saldo voor een zorgkantoor of Wlz-uitvoerder, betaalt het Zorginstituut dat saldo in één keer uit aan het betreffende zorgkantoor of de betreffende Wlz-uitvoerder.
 
@@ -277,39 +277,39 @@ Het Zorginstituut stelt uiterlijk in december van jaar t+1 de overschrijding van
 
 ##### Artikel 5.4. Renteberekening bij aanpassing beheerskostenbudget
 
-1. Het Zorginstituut en het zorgkantoor of de Wlz-uitvoerder zijn over en weer rente verschuldigd over de verschillen, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=2&artikel=5.3&z=2026-01-20&g=2026-01-01).
+1. Het Zorginstituut en het zorgkantoor of de Wlz-uitvoerder zijn over en weer rente verschuldigd over de verschillen, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=2&artikel=5.3&z=2026-01-20&g=2026-01-20).
 
 2. Het Zorginstituut berekent de rente, bedoeld in het eerste lid, bij de nadere vaststelling en de definitieve vaststelling van het beheerskostenbudget en verrekent de rente met afrekeningen die uit deze vaststellingen voortvloeien.
 
-3. Bij de verrekening van verschillen, bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=2&artikel=5.3&z=2026-01-20&g=2026-01-01), berekent het Zorginstituut rente over het verschil voor de periode van 1 juli van het jaar t tot de datum waarop de nadere vaststelling van het beheerskostenbudget wordt verrekend.
+3. Bij de verrekening van verschillen, bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=2&artikel=5.3&z=2026-01-20&g=2026-01-20), berekent het Zorginstituut rente over het verschil voor de periode van 1 juli van het jaar t tot de datum waarop de nadere vaststelling van het beheerskostenbudget wordt verrekend.
 
-4. Bij de verrekening van verschillen, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=2&artikel=5.3&z=2026-01-20&g=2026-01-01), berekent het Zorginstituut rente over het verschil over de periode van 1 juli van het jaar t tot de datum waarop de definitieve vaststelling van het beheerskostenbudget wordt verrekend.
+4. Bij de verrekening van verschillen, bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=2&artikel=5.3&z=2026-01-20&g=2026-01-20), berekent het Zorginstituut rente over het verschil over de periode van 1 juli van het jaar t tot de datum waarop de definitieve vaststelling van het beheerskostenbudget wordt verrekend.
 
 #### § 3. Betalingen voor de overschrijding reserve uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 ##### Artikel 5.5. Percentage rente
 
-Het Zorginstituut stelt het percentage rente dat de Wlz-uitvoerder over de reserve geacht wordt te maken vast conform het rentepercentage in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=1&artikel=5.1&z=2026-01-20&g=2026-01-01).
+Het Zorginstituut stelt het percentage rente dat de Wlz-uitvoerder over de reserve geacht wordt te maken vast conform het rentepercentage in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=V&paragraaf=1&artikel=5.1&z=2026-01-20&g=2026-01-20).
 
 ##### Artikel 5.6. Vordering bij overschrijding reserve uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
-Het Zorginstituut vordert de overschrijding van de reserve uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=III&artikel=3.1&z=2026-01-20&g=2026-01-01), in één keer van de betreffende Wlz-uitvoerder.
+Het Zorginstituut vordert de overschrijding van de reserve uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=III&artikel=3.1&z=2026-01-20&g=2026-01-20), in één keer van de betreffende Wlz-uitvoerder.
 
 #### § 4. Betalingen voor de vergoeding kosten van zorg die niet door CAK worden uitbetaald
 
 ##### Artikel 5.7. Afrekening definitief vastgestelde vergoeding voor de kosten van zorg die niet door CAK worden uitbetaald
 
-1. Indien de definitieve vaststelling, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-01), resulteert in een positief saldo voor een Wlz-uitvoerder, betaalt het Zorginstituut dat saldo in één keer uit aan de betreffende Wlz-uitvoerder.
+1. Indien de definitieve vaststelling, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-20), resulteert in een positief saldo voor een Wlz-uitvoerder, betaalt het Zorginstituut dat saldo in één keer uit aan de betreffende Wlz-uitvoerder.
 
-2. Indien de definitieve vaststelling, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-01), resulteert in een negatief saldo voor een Wlz-uitvoerder, vordert het Zorginstituut dat saldo in één keer van de betreffende Wlz-uitvoerder.
+2. Indien de definitieve vaststelling, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-20), resulteert in een negatief saldo voor een Wlz-uitvoerder, vordert het Zorginstituut dat saldo in één keer van de betreffende Wlz-uitvoerder.
 
 ##### Artikel 5.8. Rente en renteberekening bij vergoeding voor de kosten van zorg die niet door CAK worden uitbetaald
 
-1. Het Zorginstituut en de Wlz-uitvoerder zijn over en weer rente verschuldigd over het saldo, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-01).
+1. Het Zorginstituut en de Wlz-uitvoerder zijn over en weer rente verschuldigd over het saldo, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-20).
 
 2. Het Zorginstituut verwerkt de rente, bedoeld in het eerste lid, bij de definitieve vaststelling en verrekent de rente zo mogelijk met de betaling die uit deze vaststelling voortvloeit.
 
-3. Het Zorginstituut berekent rente over het saldo, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-01), voor de periode van 1 juli van het jaar t tot de datum waarop de definitieve vaststelling wordt verrekend.
+3. Het Zorginstituut berekent rente over het saldo, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052191&hoofdstuk=IV&artikel=4.1&z=2026-01-20&g=2026-01-20), voor de periode van 1 juli van het jaar t tot de datum waarop de definitieve vaststelling wordt verrekend.
 
 ### Hoofdstuk VI. Slotbepalingen
 
