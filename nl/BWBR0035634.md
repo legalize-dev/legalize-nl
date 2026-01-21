@@ -4,7 +4,7 @@ identifier: "BWBR0035634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-21"
-last_updated: "2025-01-01"
+last_updated: "2026-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035634"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1:2
 
-Deze regeling is, met uitzondering van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=5&z=2025-01-01&g=2025-01-01), niet van toepassing op producentenorganisaties of unies van producentenorganisaties in de sector groenten en fruit.
+Deze regeling is, met uitzondering van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=5&z=2026-01-21&g=2026-01-21), niet van toepassing op producentenorganisaties of unies van producentenorganisaties in de sector groenten en fruit.
 
 ##### Artikel 1:3
 
@@ -142,7 +142,7 @@ Een brancheorganisatie die verzoekt om erkenning verstrekt bij dat verzoek de vo
 
 - b. een omschrijving van de sector of sectoren, bedoeld in artikel 1, tweede lid, van [verordening 1308/2013](32013R1308), waarin de brancheorganisatie actief is;
 
-- c. een omschrijving van de doelstelling of de doelstellingen, bedoeld in artikel 157, eerste lid, onder c, van [verordening 1308/2013](32013R1308), die de brancheorganisatie nastreeft, of, voor zover van toepassing, van de activiteit of de activiteiten, bedoeld in artikel 157, derde lid, onderdeel c, van die verordening, die de brancheorganisatie nastreeft;
+- c. een omschrijving van de doelstelling of de doelstellingen, bedoeld in artikel 157, eerste lid, onder c, van [verordening 1308/2013](32013R1308), die de brancheorganisatie nastreeft;
 
 - d. een verklaring dat de brancheorganisatie bekend is met artikel 210 van [verordening 1308/2013](32013R1308);
 
@@ -256,7 +256,7 @@ Een erkende organisatie leeft, voor zover van toepassing, de voorschriften na al
 
 ##### Artikel 6:3
 
-In geval van niet-naleving van een voorschrift als bedoeld in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2025-01-01&g=2025-01-01) of [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2025-01-01&g=2025-01-01) kan de minister:
+In geval van niet-naleving van een voorschrift als bedoeld in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2026-01-21&g=2026-01-21) of [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2026-01-21&g=2026-01-21) kan de minister:
 
 - a. de erkenning intrekken;
 
@@ -266,7 +266,7 @@ In geval van niet-naleving van een voorschrift als bedoeld in de [artikelen 6:1]
 
 ##### Artikel 6:4
 
-Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2025-01-01&g=2025-01-01), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
+Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2026-01-21&g=2026-01-21), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
 
 ##### Artikel 6:5
 
