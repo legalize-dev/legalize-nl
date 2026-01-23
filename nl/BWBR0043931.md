@@ -4,7 +4,7 @@ identifier: "BWBR0043931"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-23"
-last_updated: "2020-07-25"
+last_updated: "2026-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043931"
 soort: "AMvB"
@@ -64,11 +64,7 @@ De onderstaande meldkamers hebben als locatie de achter die meldkamer vermelde g
 
 ##### Artikel 2
 
-1. In afwijking van [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043931&artikel=1&z=2020-07-25&g=2020-07-25), wordt tot het moment dat de meldkamerfunctie voor het aangewezen werkgebied van de meldkamer Oost-Nederland wordt uitgevoerd op de meldkamer in Apeldoorn, de meldkamerfunctie in dat gebied uitgevoerd op een of meer van de meldkamers die op het tijdstip van inwerkingtreding van dit besluit in dat gebied gevestigd en operationeel zijn.
-
-2. In afwijking van [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0043931&artikel=1&z=2020-07-25&g=2020-07-25), wordt tot het moment dat de meldkamerfunctie voor het aangewezen werkgebied van de meldkamer Midden-Nederland wordt uitgevoerd op de meldkamer in Hilversum, de meldkamerfunctie in dat gebied uitgevoerd op een of meer van de meldkamers die op het tijdstip van inwerkingtreding van dit besluit in dat gebied gevestigd en operationeel zijn.
-
-3. Dit artikel vervalt op het tijdstip dat alle artikelen en onderdelen daarvan van de [Wijzigingswet meldkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0043532) in werking zijn getreden.
+Vervallen
 
 ##### Artikel 3
 
