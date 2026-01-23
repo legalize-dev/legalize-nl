@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2025-10-21"
+last_updated: "2026-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-10-21&g=2025-10-21) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2026-01-23&g=2026-01-23) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-10-21&g=2025-10-21).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2026-01-23&g=2026-01-23).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-10-21&g=2025-10-21)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2026-01-23&g=2026-01-23)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -470,10 +470,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 |   |   |
 | **Certificaten voor keuzedelen vanaf oktober 2025** | **Certificaten voor keuzedelen vanaf oktober 2025** |
 | K0793 | BSO 4 tot 8 jaar |
+|   |   |
+| **Certificaten voor keuzedelen vanaf januari 2026** | **Certificaten voor keuzedelen vanaf januari 2026** |
+| K1533 | Hoogspanningstechniek |
+| K1397 | Vakkundig werken in het agrarisch loonwerk |
+| K1396 | Vakkundig werken in groen en cultuurtechniek |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-10-21&g=2025-10-21)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2026-01-23&g=2026-01-23)
 
 | c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -683,6 +688,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0197 | Regelt en begeleidt het onderhoud van het industriële productieproces | 25802 | Operator C |
 | C0198 | Sturen en regelen vanuit de controlekamer | 25802 | Operator C |
 | C0199 | Werken in de groene wijk | 25621 | Medewerker hovenier |
+|   |   |   |   |
 | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2025** |
 | C0200 | Begeleiden van collega’s en derden in het industriële productieproces | 25802 | Operator C |
 | C0203 | Projectmanagement in de techniek | 27048 | Leidinggevende van technici |
@@ -692,6 +698,11 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0208 | Uitvoeren van stukadoorswerk | 25038 | Stukadoor |
 | C0209 | Verzwaren meterkast laagspanning | 27007 | Monteur laagspanningsdistributie (Gewijzigd 2024) |
 | C0210 | Werken aan warmtedistributienetten | 27010 | Eerste monteur gas-, water- of warmtedistributie (Gewijzigd 2024) |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf januari 2026** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2026** |   |   |
+| C0211 | Bouwkundig demonteren en slopen met handgereedschap | 27021 | Sloper (Gewijzigd 2025) |
+| C0212 | Bouwkundig demonteren en slopen machinaal | 27021 | Sloper (Gewijzigd 2025) |
+| C0213 | Prefab montage | 25829 | Timmerman (Gewijzigd 2022) |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
