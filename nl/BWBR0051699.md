@@ -4,7 +4,7 @@ identifier: "BWBR0051699"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-24"
-last_updated: "2025-11-05"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051699"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Voor subsidieverlening van [artikel 1.2 van de Kaderregeling subsidies OCW, SZW 
 
 ##### Artikel 2
 
-1. De subsidieverlening voor het Landelijk Sociaal Innovatiefonds (hierna: SIF) geldt voor de periode vanaf de inwerkingtreding van dit besluit tot het einde van de projectperiode van vijf jaar. Hierbij geldt een subsidieplafond van EUR 6,795 mln.
+1. De subsidieverlening voor het Landelijk Sociaal Innovatiefonds (hierna: SIF) geldt voor de periode vanaf de ingangsdatum van het subsidieverleningsbesluit tot het einde van de projectperiode van vijf jaar. Hierbij geldt een subsidieplafond van EUR 6,795 mln.
 
 2. De op grond van het in het eerste lid genoemde beschikbare middelen zijn als volgt verdeeld over de volgende doelstellingen:
 
-- a. **De uitvoering ter dekking van de werkgeversondersteuning en het fondsenbeheer** (maximaal EUR 420.000 per jaar t/m 2029 en EUR 315.000 in 2030). De uitvoering is tweeledig:
+- a. **De uitvoering ter dekking van de werkgeversondersteuning en het fondsenbeheer** (maximaal EUR 420.000 per jaar t/m 2029 en EUR 315.000 in 2030 en 2031). De uitvoering is tweeledig:
 
 - •. Het stimuleren en ondersteunen van werkgevers bij het doen van investeringen om groepen mensen met een ondersteuningsbehoefte duurzaam aan te nemen.
 
@@ -70,7 +70,7 @@ Voor subsidieverlening van [artikel 1.2 van de Kaderregeling subsidies OCW, SZW 
 
 ##### Artikel 4
 
-1. Uit oogpunt van doelmatigheid zal slechts één van de ingezonden subsidieaanvragen voor subsidieverlening in aanmerking kunnen komen. Van alle aanvragen die voldoen aan de criteria, vermeld in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051699&artikel=1&z=2025-11-05&g=2025-11-05), genoemde beleidsregels, zal slechts de aanvraag die de hoogste score behaald op grond die criteria voor subsidie in aanmerking kunnen komen.
+1. Uit oogpunt van doelmatigheid zal slechts één van de ingezonden subsidieaanvragen voor subsidieverlening in aanmerking kunnen komen. Van alle aanvragen die voldoen aan de criteria, vermeld in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051699&artikel=1&z=2026-01-24&g=2026-01-24), genoemde beleidsregels, zal slechts de aanvraag die de hoogste score behaald op grond die criteria voor subsidie in aanmerking kunnen komen.
 
 ##### Artikel 5
 
