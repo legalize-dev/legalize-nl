@@ -4,7 +4,7 @@ identifier: "BWBR0050338"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-27"
-last_updated: "2024-10-29"
+last_updated: "2026-01-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050338"
 soort: "zbo"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **bestuur:** de voorzitter en de plaatsvervangend voorzitter van de ANVS;
 
-- **directeur:** directeur als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=2&z=2024-10-29&g=2024-10-29);
+- **directeur:** directeur als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=2&z=2026-01-27&g=2026-01-27);
 
 - **inspecteur:** ambtenaar als bedoeld in [artikel 1, eerste lid, van het Besluit aanwijzing ANVS-toezichthouders Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0039897&artikel=1);
 
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu;
 
-- **teamleider:** teamleider als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=3&z=2024-10-29&g=2024-10-29).
+- **teamleider:** teamleider als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=3&z=2026-01-27&g=2026-01-27).
 
 ### Hoofdstuk 2. Organisatiestructuur
 
@@ -94,17 +94,19 @@ In dit besluit wordt verstaan onder:
 
 2. De Directie Beoordeling & Advies omvat de volgende teams:
 
-- a. Team Effecten op de leefomgeving, Crisisbeheersing en Onderzoek, Onderwijs en Ontwikkeling van kennis;
+- a. Team Crisis- & Kennismanagement;
 
-- b. Team Organisatie-aspecten en Nucleaire Techniek;
+- b. Team Afval, Milieu, Organisatie en Stralingsbescherming;
 
-- c. Team Juridische Zaken;
+- c. Team Beveiliging, Elektro, Techniek en Analyses;
 
-- d. Team Uitvoeringsbeleid & Advies;
+- d. Team Juridische Zaken;
 
-- e. Team Communicatie & (Publieks)-Voorlichting;
+- e. Team Uitvoeringsbeleid & Advies;
 
-- f. Bureau Bestuurszaken.
+- f. Team Communicatie & (Publieks)-Voorlichting;
+
+- g. Bureau Bestuurszaken.
 
 3. De Directie Bedrijfsvoering en Informatievoorziening omvat de volgende teams:
 
@@ -186,9 +188,11 @@ Elk van de directeuren is binnen de ANVS-organisatie verantwoordelijk voor het v
 
 - a. Chief Legal Officer;
 
-- b. Chief Communication Officer; en
+- b. Chief Communication Officer;
 
-- c. Algemeen Coördinerend Deskundige Stralingsbescherming.
+- c. Algemeen Coördinerend Deskundige Stralingsbescherming; en
+
+- d. Algemeen Stralingsdeskundige.
 
 ##### Artikel 7. Directie Bedrijfsvoering & Informatievoorziening
 
@@ -280,7 +284,7 @@ BESLUIT:
 
 - a. mandaat en ondermandaat verleend voor het nemen van de beschikkingen waartoe de ANVS bevoegd is te besluiten,
 
-- b. volmacht verleend tot het verrichten van privaatrechtelijke rechtshandelingen tot een bedrag van € 33.000,–, exclusief omzetbelasting, per rechtshandeling, en
+- b. volmacht verleend tot het verrichten van privaatrechtelijke rechtshandelingen tot een bedrag van € 50.000,–, exclusief omzetbelasting, per rechtshandeling, en
 
 - c. machtiging verleend voor het verrichten van handelingen die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
@@ -304,13 +308,13 @@ BESLUIT:
 
 - b. een lid van de ANVS.
 
-3. In het geval, bedoeld in het tweede lid, onderdeel a, alsmede bij de afwezigheid of verhindering van de Directeur Beoordeling & Advies, wordt de beslissing op het bezwaarschrift genomen door een lid van de ANVS. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=9&z=2024-10-29&g=2024-10-29), is niet van toepassing.
+3. In het geval, bedoeld in het tweede lid, onderdeel a, alsmede bij de afwezigheid of verhindering van de Directeur Beoordeling & Advies, wordt de beslissing op het bezwaarschrift genomen door een lid van de ANVS. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=9&z=2026-01-27&g=2026-01-27), is niet van toepassing.
 
 4. In het geval, bedoeld in het tweede lid, onderdeel b, wordt de beslissing op het bezwaarschrift genomen door een ander lid van de ANVS.
 
 ##### Artikel 13. Verlenen ondermandaat
 
-1. Onverminderd het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=8&z=2024-10-29&g=2024-10-29) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=9&z=2024-10-29&g=2024-10-29) kunnen de leden van de ANVS, respectievelijk directeuren, aan hun gemandateerde bevoegdheden in ondermandaat verlenen aan directeuren, respectievelijk teamleiders, voor zover het betreft beschikkingen die onderliggen aan of samenhangen met de verlening van een beschikking op grond van de Kernenergiewet.
+1. Onverminderd het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=8&z=2026-01-27&g=2026-01-27) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=9&z=2026-01-27&g=2026-01-27) kunnen de leden van de ANVS, respectievelijk directeuren, aan hun gemandateerde bevoegdheden in ondermandaat verlenen aan directeuren, respectievelijk teamleiders, voor zover het betreft beschikkingen die onderliggen aan of samenhangen met de verlening van een beschikking op grond van de Kernenergiewet.
 
 2. De teamleider Vergunningverlening Stralingstoepassingen kan ondermandaat verlenen aan medewerkers van dat team voor het verlenen, wijzigen en intrekken van registraties als bedoeld in [artikel 3.9, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9), en [3.10 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.10).
 
@@ -348,7 +352,7 @@ Na inwerkingtreding van dit besluit berust het Besluit ondermandaat verlening re
 
 ##### Artikel 17. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=1&artikel=1&z=2024-10-29&g=2024-10-29) terug tot en met 1 februari 2023.
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=1&artikel=1&z=2026-01-27&g=2026-01-27) terug tot en met 1 februari 2023.
 
 ##### Artikel 18. Citeertitel
 
