@@ -4,7 +4,7 @@ identifier: "BWBR0046804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-27"
-last_updated: "2024-03-19"
+last_updated: "2026-01-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046804"
 soort: "ministeriele-regeling"
@@ -62,15 +62,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de afdeling A&O, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. Team A;
+- 1°. Team Analyse;
 
-- 2°. Team B;
+- 2°. Teams Onderzoek, waarbinnen de volgende subteams zijn ingericht: Team Eerlijk Werk, Team Veilig en Gezond Werk en Team Bestaanszekerheid en Stelsel;
 
-- 3°. Team C;
+- 3°. Team Data-Analyse en Bronnen;
 
-- 4°. Team Data-analyse en Bronnen;
-
-- 5°. Team Data Science Lab;
+- 4°. Team Data Science Lab;
 
 - b. de afdeling IMV, waarbinnen de volgende teams zijn ingericht:
 
@@ -160,15 +158,13 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - c. het uitvoeren van analyses, onderzoeken en experimenten.
 
-2. De teams A, B en C zijn verantwoordelijk voor:
+2. Het Team Analyse is verantwoordelijk voor het analyseren welke risico’s kunnen optreden bij diverse groeperingen en welke gevolgen die kunnen hebben voor gezond, veilig, en eerlijk werken en bestaanszekerheid.
 
-- a. het analyseren welke risico’s kunnen optreden bij diverse groeperingen en welke gevolgen die kunnen hebben voor gezond, veilig, en eerlijk werken en bestaanszekerheid;
+3. De Teams Onderzoek zijn verantwoordelijk voor het leveren van kennis- en informatieproducten op het gebied van onderzoek die bijdragen aan innovatieve, kennisgedreven en risicogerichte aanpakken in toezicht en opsporing.
 
-- b. het leveren van kennis- en informatieproducten op het gebied van onderzoek die bijdragen aan innovatieve, kennisgedreven en risicogerichte aanpakken in toezicht en opsporing.
+4. Het Team Data-analyse en Bronnen is verantwoordelijk voor het opleveren van datagedreven informatieproducten die overzicht en inzicht bieden aan de opdrachtgevers, waaronder in ieder geval begrepen programma’s en andere directies, waaronder de directie Opsporing.
 
-3. Het Team Data-analyse en Bronnen is verantwoordelijk voor het opleveren van datagedreven informatieproducten die overzicht en inzicht bieden aan de opdrachtgevers, waaronder in ieder geval begrepen programma’s en andere directies, waaronder de directie Opsporing.
-
-4. Het Team Data Science Lab is verantwoordelijk voor:
+5. Het Team Data Science Lab is verantwoordelijk voor:
 
 - a. het toepassen van de mogelijkheden van data science en het uitdragen daarvan binnen de andere onderdelen van de Nederlandse Arbeidsinspectie;
 
