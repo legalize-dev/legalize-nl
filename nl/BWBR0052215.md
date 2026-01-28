@@ -4,7 +4,7 @@ identifier: "BWBR0052215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-28"
-last_updated: "2026-01-01"
+last_updated: "2026-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052215"
 soort: "ministeriele-regeling"
@@ -58,23 +58,23 @@ Besluiten:
 
 Woonruimte waarvan een gemeente aan het COA heeft meegedeeld dat zij bestemd of geschikt is voor permanente bewoning kan:
 
-- a. tijdelijk aan vreemdelingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-01) beschikbaar worden gesteld indien in de woonruimte een vreemdeling gehuisvest is aan wie een verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is verleend, totdat de nareizende gezinsleden van de laatstgenoemde vreemdeling zich bij hem hebben gevoegd;
+- a. tijdelijk aan vreemdelingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-28) beschikbaar worden gesteld indien in de woonruimte een vreemdeling gehuisvest is aan wie een verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is verleend, totdat de nareizende gezinsleden van de laatstgenoemde vreemdeling zich bij hem hebben gevoegd;
 
 - b. beschikbaar worden gesteld als onzelfstandige woonruimte voor bewoning door meerdere vreemdelingen.
 
 ##### Artikel 3
 
-1. Het COA verstrekt aan de gemeente per vreemdeling, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-01), een eenmalige financiële toelage van € 30.000,– ten behoeve van de bekostiging van in ieder geval het tijdelijk onderdak dan wel de onzelfstandige woonruimte en de begeleiding van de vreemdeling.
+1. Het COA verstrekt aan de gemeente per vreemdeling, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-28), een eenmalige financiële toelage van € 30.000,– ten behoeve van de bekostiging van in ieder geval het tijdelijk onderdak dan wel de onzelfstandige woonruimte en de begeleiding van de vreemdeling.
 
 2. Indien de vreemdeling in het beschikbaar gestelde tijdelijk onderdak niet zelf zijn eigen maaltijden kan verzorgen, verstrekt het COA, in afwijking van het eerste lid, aan de gemeente per vreemdeling een eenmalige financiële toelage van € 38.000,– ten behoeve van de bekostiging van in ieder geval het tijdelijke onderdak, de begeleiding en de maaltijden van de vreemdeling.
 
-3. Indien de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-01), een nagereisd familielid is van de vreemdeling aan wie reeds tijdelijk onderdak, als bedoeld in deze regeling, wordt geboden, ontvangt de gemeente voor dat familielid de financiële toelage, bedoeld in het eerste en tweede lid, naar rato van de in de [Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959) genoemde termijn gedurende welke de eerstgenoemde vreemdeling de verstrekkingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=4&z=2026-01-28&g=2026-01-01) ontvangt.
+3. Indien de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-28), een nagereisd familielid is van de vreemdeling aan wie reeds tijdelijk onderdak, als bedoeld in deze regeling, wordt geboden, ontvangt de gemeente voor dat familielid de financiële toelage, bedoeld in het eerste en tweede lid, naar rato van de in de [Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959) genoemde termijn gedurende welke de eerstgenoemde vreemdeling de verstrekkingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=4&z=2026-01-28&g=2026-01-28) ontvangt.
 
-4. Indien uit de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-01), aan wie reeds tijdelijk onderdak als bedoeld in deze regeling wordt geboden, een kind wordt geboren, ontvangt de gemeente voor dat kind de financiële toelage, bedoeld in het eerste en tweede lid, naar rato van de in de [Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959) genoemde termijn gedurende welke de eerstgenoemde vreemdeling de verstrekkingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=4&z=2026-01-28&g=2026-01-01) ontvangt.
+4. Indien uit de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-28), aan wie reeds tijdelijk onderdak als bedoeld in deze regeling wordt geboden, een kind wordt geboren, ontvangt de gemeente voor dat kind de financiële toelage, bedoeld in het eerste en tweede lid, naar rato van de in de [Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959) genoemde termijn gedurende welke de eerstgenoemde vreemdeling de verstrekkingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=4&z=2026-01-28&g=2026-01-28) ontvangt.
 
 ##### Artikel 4
 
-1. Het COA verstrekt aan de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-01), aan wie de gemeente tijdelijk onderdak, niet zijnde woonruimte die bestemd of geschikt is voor permanente bewoning, beschikbaar heeft gesteld, de verstrekkingen, bedoeld in [artikel 9, eerste lid, onder b, e, f en g, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9) gedurende de in de Rva 2005 genoemde termijn.
+1. Het COA verstrekt aan de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-28), aan wie de gemeente tijdelijk onderdak, niet zijnde woonruimte die bestemd of geschikt is voor permanente bewoning, beschikbaar heeft gesteld, de verstrekkingen, bedoeld in [artikel 9, eerste lid, onder b, e, f en g, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9) gedurende de in de Rva 2005 genoemde termijn.
 
 2. Indien het tijdelijk onderdak, niet zijnde woonruimte die bestemd of geschikt is voor permanente bewoning, ter beschikking is gesteld aan een gezin, verstrekt het COA aan het eerste gezinslid een wekelijkse financiële toelage van € 75,–, aan een tweede gezinslid een wekelijkse financiële toelage van € 25,– en aan een derde en vierde gezinslid een wekelijkse financiële toelage van € 12,50. De wekelijkse financiële toelage per gezin bedraagt in totaal niet meer dan € 125,–.
 
@@ -84,11 +84,11 @@ Woonruimte waarvan een gemeente aan het COA heeft meegedeeld dat zij bestemd of 
 
 ##### Artikel 5
 
-Op de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-01), aan wie de gemeente tijdelijk onderdak, niet zijnde woonruimte die bestemd of geschikt is voor permanente bewoning, beschikbaar heeft gesteld, is de [Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959) van overeenkomstige toepassing, met uitzondering van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9a), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=10), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=12), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=18) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=19).
+Op de vreemdeling, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-28), aan wie de gemeente tijdelijk onderdak, niet zijnde woonruimte die bestemd of geschikt is voor permanente bewoning, beschikbaar heeft gesteld, is de [Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959) van overeenkomstige toepassing, met uitzondering van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9a), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=10), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=12), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=18) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=19).
 
 ##### Artikel 6
 
-1. Deze regeling vervalt zodra 1.500 vreemdelingen op grond van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-01), zijn uitgesloten van de in dat lid bedoelde verstrekkingen, maar uiterlijk met ingang van 1 juli 2026.
+1. Deze regeling vervalt zodra 1.500 vreemdelingen op grond van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052215&artikel=1&z=2026-01-28&g=2026-01-28), zijn uitgesloten van de in dat lid bedoelde verstrekkingen, maar uiterlijk met ingang van 1 juli 2026.
 
 2. Deze regeling blijft van toepassing op vreemdelingen voor wie voor het vervallen van deze regeling, bedoeld in het eerste lid, tijdelijk onderdak of onzelfstandige woonruimte als bedoeld in deze regeling is gerealiseerd.
 
