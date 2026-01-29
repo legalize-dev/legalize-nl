@@ -4,7 +4,7 @@ identifier: "BWBR0052226"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-29"
-last_updated: "2026-01-01"
+last_updated: "2026-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052226"
 soort: "zbo"
@@ -104,7 +104,7 @@ Deze regeling heeft tot doel subsidie te verstrekken ten behoeve van en met het 
 
 - c. het vermogen van rechtzoekende of diens partner in het peiljaar niet hoger is dan het vermogen genoemd in [artikel 34, tweede lid Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34) en;
 
-- d. bewijsstukken als genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=IV&artikel=8&z=2026-01-29&g=2026-01-01) zijn overgelegd waaruit naar het oordeel van de Raad genoegzaam blijkt dat aan de voorwaarden onder sub a en b zijn voldaan.
+- d. bewijsstukken als genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=IV&artikel=8&z=2026-01-29&g=2026-01-29) zijn overgelegd waaruit naar het oordeel van de Raad genoegzaam blijkt dat aan de voorwaarden onder sub a en b zijn voldaan.
 
 2. Het eerste lid is overeenkomstig van toepassing in die gevallen waarin op grond van [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2b) of [artikel 2c Bebr](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2c) een tweede eigen bijdrage verschuldigd is en waarin op het moment van het verschuldigd zijn van de tweede eigen bijdrage beslag is gelegd als bedoeld in het eerste lid.
 
@@ -134,7 +134,7 @@ Deze regeling heeft tot doel subsidie te verstrekken ten behoeve van en met het 
 
 - c. het inkomen van rechtzoekende of diens partner in het peiljaar niet hoger is dan het inkomen genoemd in [artikel 34, eerste lid Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34) en;
 
-- d. bewijsstukken als genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=IV&artikel=8&z=2026-01-29&g=2026-01-01) zijn overgelegd waaruit naar het oordeel van de Raad genoegzaam blijkt dat aan de voorwaarden onder sub a, b en het tweede lid van dit artikel zijn voldaan.
+- d. bewijsstukken als genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=IV&artikel=8&z=2026-01-29&g=2026-01-29) zijn overgelegd waaruit naar het oordeel van de Raad genoegzaam blijkt dat aan de voorwaarden onder sub a, b en het tweede lid van dit artikel zijn voldaan.
 
 2. Rechtzoekende of diens partner beschikken over onvoldoende vermogen om de kosten van rechtsbijstand, als bedoeld in het eerste lid, te betalen als na beslag naar verwachting een vermogen van maximaal € 5.000 in bank- en spaartegoeden resteert, dan wel beschikbaar is.
 
@@ -190,7 +190,7 @@ De hoogte van de subsidie is overeenkomstig de bepalingen van het [Bvr](https://
 
 - ii. bij beslag op vermogen op het moment van betaling door de bank aan de deurwaarder een vermogen resteerde van meer dan € 5.000.
 
-2. Het bestuur verzoekt de advocaat of mediator daartoe recente bewijsstukken als genoemd in [artikel 8, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=IV&artikel=8&z=2026-01-29&g=2026-01-01) te overleggen.
+2. Het bestuur verzoekt de advocaat of mediator daartoe recente bewijsstukken als genoemd in [artikel 8, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=IV&artikel=8&z=2026-01-29&g=2026-01-29) te overleggen.
 
 3. Onverminderd het bepaalde in het eerste lid, doet de advocaat of mediator uit eigen beweging melding bij de Raad als het beslag wordt opgeheven binnen een periode van 6 maanden vanaf de datum van aanvraag bij de toevoeging onder overlegging van de bewijsstukken, genoemd in het tweede lid. Het bestuur neemt vervolgens het besluit, genoemd in het eerste lid.
 
@@ -218,7 +218,7 @@ Deze regeling is niet van toepassing in die gevallen waarin reeds op grond van [
 
 2. Deze regeling heeft betrekking op besluiten op toevoegingen waarvan de afgiftedatum is gelegen op of na 1 januari 2026.
 
-3. Deze regeling vervalt als het subsidieplafond zoals beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=VI&artikel=11&z=2026-01-29&g=2026-01-01) bereikt is of op het tijdstip waarop het Besluit tot Wijziging van de Wet op de rechtsbijstand en besluit tot wijziging van het Besluit Eigen Bijdrage Rechtsbijstand waarbij de subsidie voor rechtsbijstand zoals omschreven in deze regeling is geregeld, doch uiterlijk uiterlijk op 1 april 2028.
+3. Deze regeling vervalt als het subsidieplafond zoals beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052226&hoofdstuk=VI&artikel=11&z=2026-01-29&g=2026-01-29) bereikt is of op het tijdstip waarop het Besluit tot Wijziging van de Wet op de rechtsbijstand en besluit tot wijziging van het Besluit Eigen Bijdrage Rechtsbijstand waarbij de subsidie voor rechtsbijstand zoals omschreven in deze regeling is geregeld, doch uiterlijk uiterlijk op 1 april 2028.
 
 ##### Artikel 14. Citeertitel
 
