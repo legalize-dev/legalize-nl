@@ -4,7 +4,7 @@ identifier: "BWBR0031708"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-31"
-last_updated: "2012-07-01"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031708"
 soort: "ministeriele-regeling-BES"
@@ -53,6 +53,134 @@ Deze regeling treedt in werking met ingang van 1 juli 2012, met dien verstande d
 Deze regeling wordt aangehaald als: Regeling functionele indeling BES.
 
 ## Bijlage. behorende bij de Regeling functionele indeling BES
+
+**Hoofdfunctie 0. Bestuur en burgerzaken**
+
+001 Bestuur
+
+002 Overhead
+
+003 Burgerzaken en verkiezingen
+
+004 Digitalisering en basisregister
+
+020 Beheer overige gebouwen en gronden
+
+**Hoofdfunctie 1. Veiligheid**
+
+130 Rampenbestrijding en crisisbeheersing
+
+140 Openbare orde en veiligheid
+
+**Hoofdfunctie 2. Infrastructuur en mobiliteit**
+
+210 Wegen, straten en pleinen
+
+211 Verkeersveiligheid en rijvaardigheid
+
+220 Zeehavens
+
+230 Luchthavens
+
+240 Regenwaterafvoer
+
+250 Openbaar vervoer
+
+**Hoofdfunctie 3. Economie**
+
+300 Economische ontwikkeling
+
+301 Economische promotie (toerisme)
+
+302 Toezicht en handhaving economisch domein
+
+320 Nutsvoorzieningen
+
+341 Agrarische aangelegenheden en visserij
+
+342 Toezichtstaken levende dieren en slacht
+
+**Hoofdfunctie 4. Onderwijs**
+
+400 Onderwijs algemeen
+
+440 Leerlingenvervoer
+
+450 Preventie voortijdig schoolverlaten
+
+480 Onderwijshuisvesting
+
+**Hoofdfunctie 5. Cultuur en sport**
+
+510 Bibliotheken
+
+520 Sportbeleid en -activering
+
+530 Sportaccommodaties
+
+560 Cultuur en maatschappij
+
+**Hoofdfunctie 6. Sociaal domein**
+
+610 Armoedebestrijding en schuldhulpverlening
+
+611 Arbeidsbemiddeling en arbeidsparticipatie
+
+620 Algemeen toegankelijke voorzieningen maatschappelijk werk
+
+621 Individuele ondersteuning
+
+622 Tegengaan huiselijk geweld (opvang)
+
+630 Jongerenprojecten (12+)
+
+650 Kinderopvang en buitenschoolse opvang en activiteiten (0–12 jaar)
+
+**Hoofdfunctie 7. Publieke gezondheid, natuur en milieu**
+
+710 Publieke gezondheid
+
+715 Milieubeleid
+
+716 Vergunningverlening en handhaving milieu
+
+721 Afval en riolering
+
+722 Riolering en afvalwaterzuivering
+
+723 Natuurbeheer en -bescherming
+
+724 Begraafplaatsen
+
+725 Vector control en voedselgezondheid
+
+**Hoofdfunctie 8. Ruimtelijke ordening en volkshuisvesting**
+
+810 Ruimte en leefomgeving
+
+820 Grondexploitatie
+
+822 Wonen en bouwen
+
+830 Betaalbaar wonen
+
+**Hoofdfunctie 9. Financiering en algemene dekkingsmiddelen**
+
+910 Mutaties reserves
+
+913 Geldleningen en uitzettingen
+
+914 Deelnemingen
+
+918 Motorrijtuigenbelasting
+
+919 Toeristenbelasting
+
+920 Overige belastingen
+
+921 Vrije uitkering
+
+922 Overige, zoals onvoorzien
 
 ### Functionele indeling
 
@@ -193,5 +321,7 @@ Deze regeling wordt aangehaald als: Regeling functionele indeling BES.
 921 Vrije uitkeringen
 
 922 Algemene uitgaven en inkomsten
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
