@@ -4,7 +4,7 @@ identifier: "BWBR0051544"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-31"
-last_updated: "2025-10-08"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051544"
 soort: "zbo"
@@ -236,7 +236,7 @@ Indien gebruik wordt gemaakt van advisering worden aanvragen per landsdeel voorg
 
 8. In de situatie dat in een of meer landsdelen het subsidieplafond niet wordt bereikt, wordt het resterende budget toegevoegd aan het subsidieplafond van een of meer van de overige landsdelen.
 
-9. Indien het subsidiebudget op basis van deze paragraaf niet volledig wordt benut, wordt het resterende budget toegevoegd aan het subsidieplafond voor subsidieverstrekking op grond van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&paragraaf=3&z=2025-10-08&g=2025-10-08).
+9. Indien het subsidiebudget op basis van deze paragraaf niet volledig wordt benut, wordt het resterende budget toegevoegd aan het subsidieplafond voor subsidieverstrekking op grond van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&paragraaf=3&z=2026-01-31&g=2026-01-31).
 
 #### Paragraaf 3. Programma- en Presentatiebijdrage met een focus op onderscheidende programmering
 
@@ -266,7 +266,7 @@ Aanvragen worden gelijktijdig behandeld en beoordeeld op de volgende criteria:
 
 3. Als het subsidieplafond ontoereikend is om alle aanvragen met een positief advies te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de toegekende scores.
 
-4. Aanvragen die een gelijke score hebben behaald, worden gerangschikt op basis van de behaalde scores op de criteria als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&paragraaf=3&artikel=3.3&z=2025-10-08&g=2025-10-08) in de volgorde: criterium a, criterium b en criterium c.
+4. Aanvragen die een gelijke score hebben behaald, worden gerangschikt op basis van de behaalde scores op de criteria als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&paragraaf=3&artikel=3.3&z=2026-01-31&g=2026-01-31) in de volgorde: criterium a, criterium b en criterium c.
 
 5. Aanvragen die na toepassing van het derde en vierde lid alsnog gelijk eindigen in de rangorde, worden gerangschikt door middel van loting door een notaris.
 
@@ -274,7 +274,7 @@ Aanvragen worden gelijktijdig behandeld en beoordeeld op de volgende criteria:
 
 7. Indien het bestuur een subsidieplafond verhoogt, wordt eerst de subsidie van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was gehonoreerd alsnog verhoogd tot het geadviseerde bedrag. Vervolgens wordt steeds de eerstvolgende aanvraag toegewezen totdat het subsidieplafond is bereikt.
 
-8. Indien het subsidiebudget op basis van deze paragraaf niet volledig wordt benut, wordt het resterende budget toegevoegd aan één of meerdere subsidieplafonds voor subsidieverstrekking op basis van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&paragraaf=2&z=2025-10-08&g=2025-10-08).
+8. Indien het subsidiebudget op basis van deze paragraaf niet volledig wordt benut, wordt het resterende budget toegevoegd aan één of meerdere subsidieplafonds voor subsidieverstrekking op basis van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&paragraaf=2&z=2026-01-31&g=2026-01-31).
 
 #### Paragraaf 4. Overige bepalingen
 
@@ -320,7 +320,7 @@ Deze regeling treedt in werking met ingang van 8 oktober 2025. Indien de Staatsc
 
 ##### Artikel 4.6. Intrekking
 
-1. [Paragraaf 3 (Programmeringssubsidie kleinschalige of incidentele programmering)](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3) en [paragraaf 8 (Programmeringssubsidie festivals popmuziek) van de Deelregeling Programmeringssubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=8) vervallen.
+1. [Paragraaf 3 (Programmeringssubsidie kleinschalige of incidentele programmering) van de Deelregeling Programmeringssubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3) vervalt.
 
 2. Subsidies die zijn verleend op basis van de in het eerste lid genoemde [deelregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029360) worden afgehandeld conform het bepaalde in die regeling.
 
