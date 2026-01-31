@@ -4,7 +4,7 @@ identifier: "BWBR0047808"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-31"
-last_updated: "2026-01-01"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047808"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Treedt in werking op het tijdstip waarop artikel VII van het Aanvullingsbesluit 
 
 - **andere relevante parameter:** parameter, niet zijnde een stof of bodemvreemd materiaal, die een partij van een bouwstof of een partij grond of baggerspecie ongeschikt kan maken voor het toepassen op of in de bodem of in een oppervlaktewaterlichaam volgens [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.11) en [paragraaf 4.123](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.123), onderscheidenlijk [paragraaf 4.124, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
 
-- **andere verontreinigende stof dan in bijlage A vermeld:** stof die niet in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) is vermeld en die een partij van een bouwstof ongeschikt kan maken voor het toepassen volgens [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.11) en [paragraaf 4.123 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.123);
+- **andere verontreinigende stof dan in bijlage A vermeld:** stof die niet in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) is vermeld en die een partij van een bouwstof ongeschikt kan maken voor het toepassen volgens [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.11) en [paragraaf 4.123 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.123);
 
-- **andere verontreinigende stof dan in bijlage B vermeld:** stof die niet in kolom 1 van tabel 1 of tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is vermeld en die een partij grond of baggerspecie ongeschikt kan maken voor het toepassen op of in de bodem of in een oppervlaktewaterlichaam volgens [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.11) en [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
+- **andere verontreinigende stof dan in bijlage B vermeld:** stof die niet in kolom 1 van tabel 1 of tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is vermeld en die een partij grond of baggerspecie ongeschikt kan maken voor het toepassen op of in de bodem of in een oppervlaktewaterlichaam volgens [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.11) en [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
 
 - **AP 04:** door de Stichting Infrastructuur Kwaliteitsborging Bodembeheer in het kader van het Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen uitgegeven normdocument;
 
@@ -60,7 +60,7 @@ Treedt in werking op het tijdstip waarop artikel VII van het Aanvullingsbesluit 
 
 - **ASTM-norm:** door de American Society for Testing and Materials uitgegeven normdocument;
 
-- **bepalingsgrens:** laagste concentratie van een stof die met een redelijkerwijs te vergen nauwkeurigheid kan worden bepaald, zoals opgenomen in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-01&g=2026-01-01);
+- **bepalingsgrens:** laagste concentratie van een stof die met een redelijkerwijs te vergen nauwkeurigheid kan worden bepaald, zoals opgenomen in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-31&g=2026-01-31);
 
 - **besluit:** [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929);
 
@@ -78,9 +78,9 @@ Treedt in werking op het tijdstip waarop artikel VII van het Aanvullingsbesluit 
 
 - **CAS-nr:** uniek identificatienummer dat is toegekend aan alle chemische stoffen die zijn geregistreerd door de Chemical Abstracts Service, die onderdeel is van de American Chemical Society;
 
-- **gammatoets:** methode ter bepaling van de keuringsfrequentie als bedoeld in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01);
+- **gammatoets:** methode ter bepaling van de keuringsfrequentie als bedoeld in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31);
 
-- **k-waardetoets:** methode ter bepaling van de keuringsfrequentie als bedoeld in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01);
+- **k-waardetoets:** methode ter bepaling van de keuringsfrequentie als bedoeld in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31);
 
 - **MsPAF:** Meer stoffen-Potentieel Aangetaste Fractie van lagere organismen, waarmee de potentiële risico’s van bodemverontreiniging voor het ecosysteem worden aangeduid;
 
@@ -106,13 +106,13 @@ Treedt in werking op het tijdstip waarop artikel VII van het Aanvullingsbesluit 
 
 - **producttype:** producten die dezelfde kenmerken en eigenschappen gemeenschappelijk hebben, waarmee zij zich onderscheiden van vergelijkbare producten, zoals benaming, productiewijze, herkomst, grondstoffen, samenstelling en toepassingsgebied;
 
-- **standaardonderzoekspakket:** geheel van alle stoffen die in een onderzoek ten behoeve van een milieuverklaring bodemkwaliteit voor een partij grond of baggerspecie altijd moeten worden onderzocht, zoals opgenomen in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=J&z=2026-01-01&g=2026-01-01);
+- **standaardonderzoekspakket:** geheel van alle stoffen die in een onderzoek ten behoeve van een milieuverklaring bodemkwaliteit voor een partij grond of baggerspecie altijd moeten worden onderzocht, zoals opgenomen in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=J&z=2026-01-31&g=2026-01-31);
 
 - **toepassingslocatie:** bodemlocatie waar een partij grond of baggerspecie wordt toegepast;
 
-- **verdelingsvrije toets:** methode ter bepaling van de keuringsfrequentie als bedoeld in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01);
+- **verdelingsvrije toets:** methode ter bepaling van de keuringsfrequentie als bedoeld in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31);
 
-- **verificatiekeuring:** keuring die volgens [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-01&g=2026-01-01), of [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01), moet worden uitgevoerd om gebruik te mogen blijven maken van het recht om voor partijen van een bouwstof, onderscheidenlijk partijen grond of baggerspecie, een erkende kwaliteitsverklaring af te geven;
+- **verificatiekeuring:** keuring die volgens [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-31&g=2026-01-31), of [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31), moet worden uitgevoerd om gebruik te mogen blijven maken van het recht om voor partijen van een bouwstof, onderscheidenlijk partijen grond of baggerspecie, een erkende kwaliteitsverklaring af te geven;
 
 - **voormalige mijnbouwgebieden:** bij ministeriële regeling op grond van [artikel 3.48r, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r) aangewezen herkomstgebieden en toepassingsgebieden van mijnsteen en vermengde mijnsteen in de provincie Limburg;
 
@@ -168,35 +168,35 @@ Treedt in werking op het tijdstip waarop artikel VII van het Aanvullingsbesluit 
 
 Als in deze regeling naar normdocumenten wordt verwezen, worden de volgende uitgaven bedoeld:
 
-- a. als het een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) aangewezen normdocument betreft: de uitgave van het normdocument die in bijlage C is vermeld; en
+- a. als het een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) aangewezen normdocument betreft: de uitgave van het normdocument die in bijlage C is vermeld; en
 
-- b. als het een niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) aangewezen normdocument betreft: de uitgave van het normdocument die in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=D&z=2026-01-01&g=2026-01-01) is vermeld.
+- b. als het een niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) aangewezen normdocument betreft: de uitgave van het normdocument die in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=D&z=2026-01-31&g=2026-01-31) is vermeld.
 
 ### Hoofdstuk 2. Kwaliteit van de uitvoering
 
 ##### Artikel 2.1. (aanwijzing van werkzaamheden)
 
-Als werkzaamheden als bedoeld in [artikel 8a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=8a) zijn aangewezen de werkzaamheden die zijn omschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01).
+Als werkzaamheden als bedoeld in [artikel 8a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=8a) zijn aangewezen de werkzaamheden die zijn omschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 2.2. (vereiste van een erkenning bodemkwaliteit)
 
-1. Als werkzaamheden waarvoor op grond van [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=15) een erkenning bodemkwaliteit is vereist om ze te mogen uitvoeren, zijn aangewezen de werkzaamheden die zijn omschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01).
+1. Als werkzaamheden waarvoor op grond van [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=15) een erkenning bodemkwaliteit is vereist om ze te mogen uitvoeren, zijn aangewezen de werkzaamheden die zijn omschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31).
 
-2. Een erkenning bodemkwaliteit kan worden beperkt tot het uitvoeren van een of meer deelwerkzaamheden of werkgebieden die vallen binnen de reikwijdte van het normdocument dat achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) is vermeld.
+2. Een erkenning bodemkwaliteit kan worden beperkt tot het uitvoeren van een of meer deelwerkzaamheden of werkgebieden die vallen binnen de reikwijdte van het normdocument dat achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) is vermeld.
 
-3. Als normdocumenten die dienen als grondslag voor de verlening van een erkenning bodemkwaliteit voor een werkzaamheid die in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) is aangewezen, zijn aangewezen de normdocumenten die voor die werkzaamheid zijn vermeld in bijlage C.
+3. Als normdocumenten die dienen als grondslag voor de verlening van een erkenning bodemkwaliteit voor een werkzaamheid die in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) is aangewezen, zijn aangewezen de normdocumenten die voor die werkzaamheid zijn vermeld in bijlage C.
 
-4. Als normdocumenten waarin voorschriften zijn opgenomen die gelden voor het uitvoeren van een werkzaamheid die in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) is aangewezen, zijn aangewezen: de normdocumenten die voor die werkzaamheid zijn vermeld in bijlage C.
+4. Als normdocumenten waarin voorschriften zijn opgenomen die gelden voor het uitvoeren van een werkzaamheid die in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) is aangewezen, zijn aangewezen: de normdocumenten die voor die werkzaamheid zijn vermeld in bijlage C.
 
 ##### Artikel 2.3. (certificatie, accreditatie)
 
 1. Een erkenning bodemkwaliteit voor het uitvoeren van een werkzaamheid waarvoor op grond van [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=15) een erkenning bodemkwaliteit is vereist om ze te mogen uitvoeren, wordt gebaseerd op een certificaat of een accreditatie die voor die werkzaamheid is verstrekt aan de persoon of instelling die de erkenning bodemkwaliteit aanvraagt.
 
-2. Een erkenning bodemkwaliteit wordt gebaseerd op een certificaat of een accreditatie, volgens de vermelding achter de omschrijving van de werkzaamheid waarop de erkenning bodemkwaliteit betrekking heeft, in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01).
+2. Een erkenning bodemkwaliteit wordt gebaseerd op een certificaat of een accreditatie, volgens de vermelding achter de omschrijving van de werkzaamheid waarop de erkenning bodemkwaliteit betrekking heeft, in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 2.4. (persoonsregistratie)
 
-Als handelingen als bedoeld in [artikel 9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=9), waarvoor in een erkenning bodemkwaliteit die aan een persoon of instelling is verleend, de naam moet worden vermeld van de natuurlijke persoon die bij de erkende persoon of instelling werkzaam is en een dergelijke handeling uitvoert, zijn aangewezen: de handelingen waarvoor het vereiste van persoonsregistratie achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) is vermeld.
+Als handelingen als bedoeld in [artikel 9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=9), waarvoor in een erkenning bodemkwaliteit die aan een persoon of instelling is verleend, de naam moet worden vermeld van de natuurlijke persoon die bij de erkende persoon of instelling werkzaam is en een dergelijke handeling uitvoert, zijn aangewezen: de handelingen waarvoor het vereiste van persoonsregistratie achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) is vermeld.
 
 ##### Artikel 2.5. (aanwijzing website voor lijsten met erkende personen en instellingen)
 
@@ -204,9 +204,9 @@ Als website waarop lijsten met erkende personen en instellingen als bedoeld in [
 
 ##### Artikel 2.6. (werkzaamheden die in onafhankelijkheid moeten worden verricht)
 
-1. Als handelingen als bedoeld in [artikel 17, eerste of tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=17) die in verband met de onafhankelijkheid waarmee de handelingen moeten worden verricht, niet mogen worden verricht in gevallen als in artikel 17, eerste en tweede lid, van het besluit bedoeld, zijn aangewezen de handelingen waarvoor dat achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) is vermeld.
+1. Als handelingen als bedoeld in [artikel 17, eerste of tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=17) die in verband met de onafhankelijkheid waarmee de handelingen moeten worden verricht, niet mogen worden verricht in gevallen als in artikel 17, eerste en tweede lid, van het besluit bedoeld, zijn aangewezen de handelingen waarvoor dat achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) is vermeld.
 
-2. Als personen of instellingen als bedoeld in [artikel 17, eerste of tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=17) die in verband met de onafhankelijkheid waarmee handelingen als bedoeld in het eerste lid moeten worden verricht, een dergelijke handeling niet mogen verrichten in gevallen als in artikel 17, eerste en tweede lid, bedoeld, zijn aangewezen de personen en instellingen waarvoor dat achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) is vermeld.
+2. Als personen of instellingen als bedoeld in [artikel 17, eerste of tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=17) die in verband met de onafhankelijkheid waarmee handelingen als bedoeld in het eerste lid moeten worden verricht, een dergelijke handeling niet mogen verrichten in gevallen als in artikel 17, eerste en tweede lid, bedoeld, zijn aangewezen de personen en instellingen waarvoor dat achter de omschrijving van de werkzaamheid in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) is vermeld.
 
 ##### Artikel 2.7. (aanvraagformulieren)
 
@@ -222,7 +222,7 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 1. In geval van twijfel of materiaal moet worden aangemerkt als een bouwstof wordt volgens deze paragraaf het totaalgehalte aluminium, calcium en silicium bepaald en getoetst aan de omschrijving van het begrip bouwstof in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1).
 
-2. In geval van twijfel of materiaal moet worden aangemerkt als een bouwstof dan wel als grond of baggerspecie wordt volgens [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.3&z=2026-01-01&g=2026-01-01) eerst uitgesloten dat sprake is van grond of baggerspecie.
+2. In geval van twijfel of materiaal moet worden aangemerkt als een bouwstof dan wel als grond of baggerspecie wordt volgens [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.3&z=2026-01-31&g=2026-01-31) eerst uitgesloten dat sprake is van grond of baggerspecie.
 
 ##### Artikel 3.2. (monsterneming en voorbehandeling)
 
@@ -238,7 +238,7 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 3.3. (monsterneming en voorbehandeling: elementen en proefstukken)
 
-1. Als het te onderzoeken materiaal bestaat uit elementen of proefstukken worden daar, in afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.2&z=2026-01-01&g=2026-01-01), aselect twaalf stukken van ten minste 80 gram vanaf gehaald, die om beurten over drie mengmonsters van een gelijk aantal stukken worden verdeeld.
+1. Als het te onderzoeken materiaal bestaat uit elementen of proefstukken worden daar, in afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.2&z=2026-01-31&g=2026-01-31), aselect twaalf stukken van ten minste 80 gram vanaf gehaald, die om beurten over drie mengmonsters van een gelijk aantal stukken worden verdeeld.
 
 2. Elk mengmonster wordt vermalen met een kruisslagmolen of een vergelijkbare molen met een zeef van 500 µm.
 
@@ -248,7 +248,7 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 3.4. (analyse)
 
-1. Voor elk vermalen deelmonster van het te onderzoeken materiaal dat volgens [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.2&z=2026-01-01&g=2026-01-01) of [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.3&z=2026-01-01&g=2026-01-01) is verkregen, worden eerst afzonderlijk de gehalten aluminium, calcium en silicium bepaald en wordt vervolgens het totaalgehalte bepaald door optelling van de gehalten aluminium, calcium en silicium, uitgedrukt in gewichtsprocenten.
+1. Voor elk vermalen deelmonster van het te onderzoeken materiaal dat volgens [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.2&z=2026-01-31&g=2026-01-31) of [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.3&z=2026-01-31&g=2026-01-31) is verkregen, worden eerst afzonderlijk de gehalten aluminium, calcium en silicium bepaald en wordt vervolgens het totaalgehalte bepaald door optelling van de gehalten aluminium, calcium en silicium, uitgedrukt in gewichtsprocenten.
 
 2. De gehalten van elk deelmonster worden bepaald volgens ASTM-norm D 3682-13, uitgedrukt in gewichtsprocenten.
 
@@ -268,15 +268,15 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 2. Om te bepalen of sprake is van een vormgegeven bouwstof worden het volume per kleinste eenheid en de duurzame vormvastheid van de bouwstof bepaald.
 
-3. Het volume per kleinste eenheid van een bouwstof wordt bepaald volgens het toepasselijke [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.7&z=2026-01-01&g=2026-01-01) of [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.8&z=2026-01-01&g=2026-01-01).
+3. Het volume per kleinste eenheid van een bouwstof wordt bepaald volgens het toepasselijke [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.7&z=2026-01-31&g=2026-01-31) of [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.8&z=2026-01-31&g=2026-01-31).
 
-4. De duurzame vormvastheid van een bouwstof wordt bepaald volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.9&z=2026-01-01&g=2026-01-01).
+4. De duurzame vormvastheid van een bouwstof wordt bepaald volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.9&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 3.7. (bepaling volume kleinste eenheid op basis van afmetingen)
 
 1. Als sprake is van een bouwstof die uit eenheden van ongeveer gelijke grootte bestaat, wordt het volume van de kleinste eenheid van de bouwstof bepaald door de lengte, breedte en hoogte ervan, uitgedrukt in cm, met elkaar te vermenigvuldigen en vervolgens van het aldus berekende volume het volume van de holten en gaten aan het oppervlak af te trekken.
 
-2. Als het volgens het eerste lid berekende volume van de kleinste eenheid van de bouwstof tussen 50 cm3 en 100 cm3 bedraagt, wordt het volume nader bepaald door de te onderzoeken eenheid in water onder te dompelen volgens hoofdstuk 8 van NEN-EN 13383-2 en vervolgens het volume te berekenen met toepassing van de formule die is weergegeven in paragraaf 1 van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=F&z=2026-01-01&g=2026-01-01).
+2. Als het volgens het eerste lid berekende volume van de kleinste eenheid van de bouwstof tussen 50 cm3 en 100 cm3 bedraagt, wordt het volume nader bepaald door de te onderzoeken eenheid in water onder te dompelen volgens hoofdstuk 8 van NEN-EN 13383-2 en vervolgens het volume te berekenen met toepassing van de formule die is weergegeven in paragraaf 1 van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=F&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 3.8. (bepaling volume kleinste eenheid op basis van zeefproef)
 
@@ -292,7 +292,7 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 4. De korrelverdeling van de bouwstof wordt voor het totaal van de genomen monsters bepaald volgens hoofdstuk 5 van NEN-EN 13383-2.
 
-5. Het volume van de kleinste eenheid van de onderzochte bouwstof bedraagt ten minste 50 cm3 als de volgens het vierde lid bepaalde korrelverdeling voldoet aan paragraaf 2 van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=F&z=2026-01-01&g=2026-01-01).
+5. Het volume van de kleinste eenheid van de onderzochte bouwstof bedraagt ten minste 50 cm3 als de volgens het vierde lid bepaalde korrelverdeling voldoet aan paragraaf 2 van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=F&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 3.9. (bepaling duurzame vormvastheid)
 
@@ -308,7 +308,7 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 - d. als sprake is van andere materialen: 30 g/m2.
 
-3. De bouwstoffen, bedoeld in paragraaf 3 van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=F&z=2026-01-01&g=2026-01-01), worden niet als duurzaam vormvast aangemerkt als de bouwstoffen bestemd zijn om toe te passen op de wijze die is beschreven in paragraaf 3 van bijlage F.
+3. De bouwstoffen, bedoeld in paragraaf 3 van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=F&z=2026-01-31&g=2026-01-31), worden niet als duurzaam vormvast aangemerkt als de bouwstoffen bestemd zijn om toe te passen op de wijze die is beschreven in paragraaf 3 van bijlage F.
 
 ##### Artikel 3.10. (rapportage)
 
@@ -332,13 +332,13 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 6. Het gehalte organische stof wordt bepaald volgens NEN 5754.
 
-7. De hoeveelheden minerale delen, uitgesplitst naar lutum, silt, zand, en schelpen en grind, worden bepaald volgens NEN 5753 en NEN 5104.
+7. De hoeveelheden minerale delen, uitgesplitst naar lutum, silt, zand, en schelpen en grind, worden bepaald volgens NEN 5753 en NEN 6693.
 
-8. Op grond van de resultaten van het onderzoek volgens deze bepaling wordt met gebruikmaking van de methodiek die is beschreven in NEN 5104, bepaald of sprake is van een partij grond of baggerspecie.
+8. Op grond van de resultaten van het onderzoek volgens deze bepaling wordt met gebruikmaking van de methodiek die is beschreven in NEN 6693, bepaald of sprake is van een partij grond of baggerspecie.
 
 ##### Artikel 3.12. (rapportage)
 
-1. De wijze waarop aan [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.3&artikel=3.11&z=2026-01-01&g=2026-01-01) toepassing is gegeven, en de resultaten die aldus zijn verkregen, worden vastgelegd in een rapport.
+1. De wijze waarop aan [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.3&artikel=3.11&z=2026-01-31&g=2026-01-31) toepassing is gegeven, en de resultaten die aldus zijn verkregen, worden vastgelegd in een rapport.
 
 2. In het rapport wordt een conclusie opgenomen of het onderzochte materiaal grond of baggerspecie betreft en worden de naam en het adres vermeld van de persoon of instelling die het rapport heeft opgesteld en de datum van vaststelling van het rapport.
 
@@ -364,11 +364,11 @@ Een formulier als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl
 
 In een partijkeuring wordt onderzocht in hoeverre de partij van een bouwstof:
 
-- a. voor alle stoffen, uitgezonderd asbest, die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
+- a. voor alle stoffen, uitgezonderd asbest, die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
 
-- b. ingeval de bouwstof blijkens een verkennend onderzoek als bedoeld in NEN 5897 verdacht is op de aanwezigheid van asbest, voldoet aan de kwaliteitseis die voor asbest is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01); en
+- b. ingeval de bouwstof blijkens een verkennend onderzoek als bedoeld in NEN 5897 verdacht is op de aanwezigheid van asbest, voldoet aan de kwaliteitseis die voor asbest is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31); en
 
-- c. andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevat.
+- c. andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevat.
 
 ##### Artikel 4.3. (grootte van de partij)
 
@@ -386,7 +386,7 @@ In een partijkeuring wordt onderzocht in hoeverre de partij van een bouwstof:
 
 ##### Artikel 4.5. (bepaling emissies)
 
-1. De emissies van de te onderzoeken stoffen die in tabel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, in de volgens [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-01&g=2026-01-01) verkregen mengmonsters worden bepaald door het verrichten van een beschikbaarheidsproef volgens NEN 7371 of, naar keuze van de opdrachtgever voor het onderzoek, een kolomproef volgens NEN 7373 of NEN 7383.
+1. De emissies van de te onderzoeken stoffen die in tabel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, in de volgens [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-31&g=2026-01-31) verkregen mengmonsters worden bepaald door het verrichten van een beschikbaarheidsproef volgens NEN 7371 of, naar keuze van de opdrachtgever voor het onderzoek, een kolomproef volgens NEN 7373 of NEN 7383.
 
 2. Als voor een van de te onderzoeken stoffen in een vormgegeven bouwstof een diffusiegecontroleerd traject kan worden vastgesteld volgens NEN 7375, mogen de emissies van alle te onderzoeken stoffen uit de bouwstof ook worden bepaald door het uitvoeren van een diffusieproef volgens NEN 7375.
 
@@ -400,27 +400,27 @@ In een partijkeuring wordt onderzocht in hoeverre de partij van een bouwstof:
 
 ##### Artikel 4.6. (bepaling emissies uit slecht doorlatende bouwstoffen)
 
-Als bij een kolomproef als bedoeld in [artikel 4.5, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.5&z=2026-01-01&g=2026-01-01), door slechte doorlatendheid van de bouwstof onvoldoende vloeistof door de kolom stroomt, worden de emissies van de te onderzoeken stoffen uit de bouwstof berekend met toepassing van de formule in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=K&z=2026-01-01&g=2026-01-01).
+Als bij een kolomproef als bedoeld in [artikel 4.5, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.5&z=2026-01-31&g=2026-01-31), door slechte doorlatendheid van de bouwstof onvoldoende vloeistof door de kolom stroomt, worden de emissies van de te onderzoeken stoffen uit de bouwstof berekend met toepassing van de formule in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=K&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 4.7. (bepaling samenstelling)
 
-De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, andere verontreinigende stoffen dan in bijlage A vermeld en andere relevante parameters in de volgens [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-01&g=2026-01-01) verkregen mengmonsters worden bepaald met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
+De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, andere verontreinigende stoffen dan in bijlage A vermeld en andere relevante parameters in de volgens [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-31&g=2026-01-31) verkregen mengmonsters worden bepaald met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
 
 ##### Artikel 4.8. (toetsing)
 
-1. De resultaten van het onderzoek naar de emissies en concentraties van de stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, worden getoetst aan de kwaliteitseisen die voor die stoffen zijn opgenomen in bijlage A.
+1. De resultaten van het onderzoek naar de emissies en concentraties van de stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, worden getoetst aan de kwaliteitseisen die voor die stoffen zijn opgenomen in bijlage A.
 
-2. De toetsing aan de kwaliteitseisen vindt plaats met toepassing van onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01), wanneer zich een daarin omschreven situatie voordoet.
+2. De toetsing aan de kwaliteitseisen vindt plaats met toepassing van onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31), wanneer zich een daarin omschreven situatie voordoet.
 
-3. Een vormgegeven bouwstof die is onderzocht met een beschikbaarheidsproef of een kolomproef, wordt voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, getoetst aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen voor niet-vormgegeven bouwstoffen.
+3. Een vormgegeven bouwstof die is onderzocht met een beschikbaarheidsproef of een kolomproef, wordt voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, getoetst aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen voor niet-vormgegeven bouwstoffen.
 
-4. Een bouwstof voldoet aan de kwaliteitseisen wanneer het rekenkundig gemiddelde van de emissies dan wel concentraties, die voor elk onderzocht mengmonster zijn bepaald, voor geen van de stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, de daarin voor die stoffen opgenomen kwaliteitseisen overschrijdt.
+4. Een bouwstof voldoet aan de kwaliteitseisen wanneer het rekenkundig gemiddelde van de emissies dan wel concentraties, die voor elk onderzocht mengmonster zijn bepaald, voor geen van de stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, de daarin voor die stoffen opgenomen kwaliteitseisen overschrijdt.
 
-5. In afwijking van het vierde lid voldoet een bouwstof die is onderzocht op de aanwezigheid van asbest, in geval de concentraties asbest in de mengmonsters niet binnen elkaars betrouwbaarheidsintervallen liggen, aan de kwaliteitseis die voor asbest is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01), als de hoogst gemeten concentratie asbest aan die kwaliteitseis voldoet.
+5. In afwijking van het vierde lid voldoet een bouwstof die is onderzocht op de aanwezigheid van asbest, in geval de concentraties asbest in de mengmonsters niet binnen elkaars betrouwbaarheidsintervallen liggen, aan de kwaliteitseis die voor asbest is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31), als de hoogst gemeten concentratie asbest aan die kwaliteitseis voldoet.
 
 6. Als blijkt dat tussen de emissies dan wel concentraties die voor de onderscheiden mengmonsters voor een stof, uitgezonderd asbest, zijn bepaald, een verschil van meer dan een factor 2,1 bestaat, wordt het vierde lid niet toegepast dan nadat de werkwijze die tot die uitkomst heeft geleid, met inbegrip van de monsterneming en de samenstelling van mengmonsters, op mogelijke fouten is gecontroleerd en daarbij geen fouten zijn gesignaleerd. Deze controle op fouten wordt uitgevoerd met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
 
-7. In afwijking van het vierde lid voldoet een bouwstof die voor 1 juli 2008 was toegepast, ook aan de kwaliteitseisen wanneer de emissie of concentratie voor ten hoogste twee stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, uitgezonderd asbest en, als het een asfaltproduct betreft, PAK’s (som), de daarin voor die stoffen opgenomen kwaliteitseisen overschrijdt en de emissie of concentratie ten hoogste tweemaal de waarde van de kwaliteitseis bedraagt.
+7. In afwijking van het vierde lid voldoet een bouwstof die voor 1 juli 2008 was toegepast, ook aan de kwaliteitseisen wanneer de emissie of concentratie voor ten hoogste twee stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, uitgezonderd asbest en, als het een asfaltproduct betreft, PAK’s (som), de daarin voor die stoffen opgenomen kwaliteitseisen overschrijdt en de emissie of concentratie ten hoogste tweemaal de waarde van de kwaliteitseis bedraagt.
 
 ##### Artikel 4.9. (rapportage partijkeuring)
 
@@ -448,9 +448,9 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - j. het rapport van de analyse van de monsters, met vermelding van de emissies, onderscheidenlijk concentraties, van de onderzochte stoffen in elk mengmonster;
 
-- k. een conclusie in hoeverre de onderzochte partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
+- k. een conclusie in hoeverre de onderzochte partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
 
-- l. een conclusie in hoeverre de onderzochte partij andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevat;
+- l. een conclusie in hoeverre de onderzochte partij andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevat;
 
 - m. de naam en het adres van de persoon of instelling die het rapport heeft opgesteld, en de datum van vaststelling van het rapport; en
 
@@ -464,13 +464,13 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - a. ten behoeve van de afgifte een partijkeuring volgens deze regeling is verricht;
 
-- b. voor de partij een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01), is opgesteld;
+- b. voor de partij een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- c. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01), is beschreven, tenzij de partij is gesplitst volgens [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2026-01-01&g=2026-01-01);
+- c. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31), is beschreven, tenzij de partij is gesplitst volgens [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2026-01-31&g=2026-01-31);
 
-- d. uit de partijkeuring volgt dat de emissies en concentraties voor geen van de stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, de daarin voor die stoffen opgenomen kwaliteitseisen overschrijden; en
+- d. uit de partijkeuring volgt dat de emissies en concentraties voor geen van de stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, de daarin voor die stoffen opgenomen kwaliteitseisen overschrijden; en
 
-- e. melding wordt gemaakt van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, en de emissies, concentraties, gehalten of waarden daarvan.
+- e. melding wordt gemaakt van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, en de emissies, concentraties, gehalten of waarden daarvan.
 
 3. Een verklaring op grond van een partijkeuring wordt niet afgegeven voor een partij die door samenvoeging van partijen is ontstaan.
 
@@ -480,19 +480,19 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - a. de naam en het adres van de persoon die de verklaring heeft afgegeven;
 
-- b. het unieke nummer van het rapport, bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01);
+- b. het unieke nummer van het rapport, bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31);
 
-- c. de volgende informatie uit het rapport, bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01):
+- c. de volgende informatie uit het rapport, bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31):
 
 - 1°. de naam en een nauwkeurige omschrijving van de bouwstof waar de verklaring betrekking heeft;
 
 - 2°. de grootte van de partij in tonnen;
 
-- 3°. een vermelding dat de partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
+- 3°. een vermelding dat de partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
 
-- 4°. als het een bouwstof betreft die al voor 1 juli 2008 was toegepast en sprake is van een overschrijding van de kwaliteitseis als bedoeld in [artikel 4.8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.8&z=2026-01-01&g=2026-01-01): een vermelding van de overschrijding;
+- 4°. als het een bouwstof betreft die al voor 1 juli 2008 was toegepast en sprake is van een overschrijding van de kwaliteitseis als bedoeld in [artikel 4.8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.8&z=2026-01-31&g=2026-01-31): een vermelding van de overschrijding;
 
-- 5°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters en de concentraties, emissies, gehalten en waarden daarvan;
+- 5°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters en de concentraties, emissies, gehalten en waarden daarvan;
 
 - d. eventuele voorwaarden en beperkingen die volgens informatie van de producent of leverancier van de bouwstof bij de toepassing onder de daarbij aangegeven omstandigheden ter bescherming van het milieu in acht moeten worden genomen;
 
@@ -500,9 +500,9 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - f. een originele ondertekening door de natuurlijke persoon die daartoe is geautoriseerd door de persoon die de verklaring heeft afgegeven, dan wel de natuurlijke persoon die de verklaring onder eigen naam en verantwoordelijkheid heeft afgegeven, en de vermelding van de naam van de ondertekenaar en de datum van ondertekening.
 
-2. Als een verklaring op grond van een partijkeuring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) uitsluitend geschikt is voor toepassing in grote oppervlaktewaterlichamen die volgens de waterbeheerder geen bijzondere bescherming behoeven te krijgen, wordt dat in de verklaring op in het oog springende wijze vermeld.
+2. Als een verklaring op grond van een partijkeuring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) uitsluitend geschikt is voor toepassing in grote oppervlaktewaterlichamen die volgens de waterbeheerder geen bijzondere bescherming behoeven te krijgen, wordt dat in de verklaring op in het oog springende wijze vermeld.
 
-3. Als een verklaring op grond van een partijkeuring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt, wordt dat in de verklaring op in het oog springende wijze vermeld.
+3. Als een verklaring op grond van een partijkeuring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt, wordt dat in de verklaring op in het oog springende wijze vermeld.
 
 4. Als een verklaring op grond van een partijkeuring betrekking heeft op een bouwstof die al voor 1 juli 2008 was toegepast en in de verklaring overeenkomstig het eerste lid, 4°, een overschrijding van een kwaliteitseis is vermeld, wordt in de verklaring op in het oog springende wijze vermeld dat de partij uitsluitend geschikt is om bij wijze van hergebruik zonder bewerking te worden toegepast.
 
@@ -530,7 +530,7 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 3. Een kopie van de milieuverklaring bodemkwaliteit bevat de volgende extra informatie:
 
-- a. wanneer een of meer van de samengevoegde partijen blijkens de voor die partij verleende milieuverklaring bodemkwaliteit andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevat: voor elk van die stoffen of parameters de hoogste emissie, concentratie of waarde die in de milieuverklaringen bodemkwaliteit voor die partijen is vermeld;
+- a. wanneer een of meer van de samengevoegde partijen blijkens de voor die partij verleende milieuverklaring bodemkwaliteit andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevat: voor elk van die stoffen of parameters de hoogste emissie, concentratie of waarde die in de milieuverklaringen bodemkwaliteit voor die partijen is vermeld;
 
 - b. een uniek nummer van de kopie; en
 
@@ -544,9 +544,9 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - a. een door hem afgegeven afleverbon;
 
-- b. een kopie van de volgens [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2026-01-01&g=2026-01-01), afgegeven afleverbon die betrekking heeft op de gesplitste partij; en
+- b. een kopie van de volgens [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2026-01-31&g=2026-01-31), afgegeven afleverbon die betrekking heeft op de gesplitste partij; en
 
-- c. een kopie van de volgens [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2026-01-01&g=2026-01-01), verstrekte kopie van de milieuverklaring bodemkwaliteit die betrekking heeft op de gesplitste partij.
+- c. een kopie van de volgens [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2026-01-31&g=2026-01-31), verstrekte kopie van de milieuverklaring bodemkwaliteit die betrekking heeft op de gesplitste partij.
 
 3. De afleverbon, bedoeld in het eerste lid, onderscheidenlijk tweede lid, onder a, bevat de volgende informatie:
 
@@ -582,17 +582,17 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 ##### Artikel 4.15. (voorwaarden voor het afgeven van een erkende kwaliteitsverklaring)
 
-1. Om het recht te verkrijgen om voor partijen van een bepaald producttype van een bouwstof een erkende kwaliteitsverklaring af te geven, beschikt de producent van de bouwstof over een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01).
+1. Om het recht te verkrijgen om voor partijen van een bepaald producttype van een bouwstof een erkende kwaliteitsverklaring af te geven, beschikt de producent van de bouwstof over een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31).
 
-2. Een erkenning bodemkwaliteit voor het produceren van een bepaald producttype van een bouwstof is gebaseerd op een productcertificaat voor dat producttype dat is verleend op grond van een toelatingsonderzoek volgens de bepalingen van deze paragraaf en het normdocument voor de bouwstof, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01).
+2. Een erkenning bodemkwaliteit voor het produceren van een bepaald producttype van een bouwstof is gebaseerd op een productcertificaat voor dat producttype dat is verleend op grond van een toelatingsonderzoek volgens de bepalingen van deze paragraaf en het normdocument voor de bouwstof, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 4.16. (vereisten voor het toelatingsonderzoek)
 
 1. Een erkenning bodemkwaliteit voor het produceren van een bepaald producttype van een bouwstof wordt alleen afgegeven als het productcertificaat waarop de erkenning bodemkwaliteit is gebaseerd, is verleend op grond van een toelatingsonderzoek dat voldoet aan de bepalingen van deze paragraaf, door een certificeringsinstelling die:
 
-- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
+- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
 
-- b. op grond van een normdocument, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor de bouwstof.
+- b. op grond van een normdocument, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor de bouwstof.
 
 2. Het toelatingsonderzoek omvat:
 
@@ -600,21 +600,21 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - b. een beoordeling van het systeem van kwaliteitsbewaking dat de producent hanteert om te verzekeren dat de partijen van de bouwstof die hij produceert, tot hetzelfde producttype behoren en overeenkomen met de partijen van de bouwstof die in de productcontrole zijn onderzocht, en nog steeds voldoen aan de vereisten die in het derde lid zijn gesteld; en
 
-- c. de bepaling van de keuringsfrequentie waarmee voor stoffen en andere parameters volgens de [artikelen 4.19 tot en met 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-01&g=2026-01-01) verificatiekeuringen moeten worden verricht.
+- c. de bepaling van de keuringsfrequentie waarmee voor stoffen en andere parameters volgens de [artikelen 4.19 tot en met 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-31&g=2026-01-31) verificatiekeuringen moeten worden verricht.
 
 3. In het kader van de productcontrole en kwaliteitsbewaking wordt nagegaan in hoeverre partijen van het producttype van de bouwstof:
 
-- a. voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen; en
+- a. voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen; en
 
-- b. andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevatten.
+- b. andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevatten.
 
 ##### Artikel 4.17. (toelatingsonderzoek: productcontrole)
 
 1. De productcontrole in het kader van het toelatingsonderzoek omvat partijkeuringen van vijf of, naar keuze van de producent, tien partijen van de bouwstof, die representatief zijn voor de kwaliteit van de partijen van de bouwstof die worden geproduceerd, en wordt uitgevoerd op de locatie waar de partijen zijn geproduceerd.
 
-2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&z=2026-01-01&g=2026-01-01) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01).
+2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&z=2026-01-31&g=2026-01-31) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31).
 
-3. Bij de toepassing van het tweede lid hoeven in afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2026-01-01&g=2026-01-01), en [artikel 4.9, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01), stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, niet te worden onderzocht en gerapporteerd als hiervoor een uitzondering is aangegeven in het normdocument dat op de bouwstof betrekking heeft.
+3. Bij de toepassing van het tweede lid hoeven in afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2026-01-31&g=2026-01-31), en [artikel 4.9, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31), stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, niet te worden onderzocht en gerapporteerd als hiervoor een uitzondering is aangegeven in het normdocument dat op de bouwstof betrekking heeft.
 
 4. Verschillende producenten van bouwstoffen van hetzelfde producttype mogen partijkeuringen in het kader van het toelatingsonderzoek gemeenschappelijk uitvoeren.
 
@@ -636,9 +636,9 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - c. een beschrijving van de wijze waarop wordt gewaarborgd dat de partijen van de bouwstof die worden geproduceerd, behoren tot hetzelfde producttype van de bouwstof waartoe de partijen behoren die in de productcontrole zijn onderzocht, zodat:
 
-- 1°. de bouwstof voor alle stoffen als in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen; en
+- 1°. de bouwstof voor alle stoffen als in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen; en
 
-- 2°. de emissies, concentraties, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters geen toename vertonen ten opzichte van de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
+- 2°. de emissies, concentraties, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters geen toename vertonen ten opzichte van de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
 
 - d. een handboek dat een beschrijving geeft van de organisatie, procedures, voorschriften, instructies en interne controlemechanismen, met inbegrip van de meet- en bepalingsmethoden en frequenties, die samen moeten waarborgen dat het systeem van kwaliteitsbewaking naar behoren functioneert en de geproduceerde partijen bouwstoffen aan de kwaliteitseisen voldoen;
 
@@ -646,33 +646,33 @@ De concentraties, gehalten en waarden van de te onderzoeken stoffen die in [bijl
 
 - f. een register waarin op overzichtelijke en navolgbare wijze wordt bijgehouden hoe het systeem van kwaliteitsbewaking in de praktijk functioneert, met inbegrip van de controles die zijn verricht en de resultaten daarvan, waarbij in het bijzonder wordt vermeld in hoeverre de bouwstoffen aan alle daarvoor geldende vereisten voldoen en welke maatregelen als bedoeld in onderdeel e zijn genomen.
 
-##### Artikel 4.19. (toelatingsonderzoek: keuringsfrequentie voor in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermelde stoffen)
+##### Artikel 4.19. (toelatingsonderzoek: keuringsfrequentie voor in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermelde stoffen)
 
-1. In het toelatingsonderzoek wordt voor elke stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) is vermeld, met uitzondering van stoffen waarop [artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-01&g=2026-01-01), van toepassing is, de keuringsfrequentie voor het verrichten van de verificatiekeuringen bepaald, waarbij, naar keuze van de producent, gebruik kan worden gemaakt van de k-waardetoets, de gammatoets of de verdelingsvrije toets, en wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) wordt toegepast, met dien verstande dat niet voor elke stof dezelfde methode hoeft te worden gekozen.
+1. In het toelatingsonderzoek wordt voor elke stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) is vermeld, met uitzondering van stoffen waarop [artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-31&g=2026-01-31), van toepassing is, de keuringsfrequentie voor het verrichten van de verificatiekeuringen bepaald, waarbij, naar keuze van de producent, gebruik kan worden gemaakt van de k-waardetoets, de gammatoets of de verdelingsvrije toets, en wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) wordt toegepast, met dien verstande dat niet voor elke stof dezelfde methode hoeft te worden gekozen.
 
 2. De methoden ter bepaling van de keuringsfrequentie worden uitgevoerd volgens:
 
-- a. als het de k-waardetoets betreft: onderdeel 1 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01);
+- a. als het de k-waardetoets betreft: onderdeel 1 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31);
 
-- b. als het de gammatoets betreft: onderdeel 2 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01); en
+- b. als het de gammatoets betreft: onderdeel 2 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31); en
 
-- c. als het de verdelingsvrije toets betreft: onderdeel 3 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01).
+- c. als het de verdelingsvrije toets betreft: onderdeel 3 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31).
 
-3. Dit artikel is niet van toepassing op situaties waarin voor een stof op grond van [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.20&z=2026-01-01&g=2026-01-01) een bijzondere keuringsfrequentie geldt.
+3. Dit artikel is niet van toepassing op situaties waarin voor een stof op grond van [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.20&z=2026-01-31&g=2026-01-31) een bijzondere keuringsfrequentie geldt.
 
-##### Artikel 4.20. (toelatingsonderzoek: bijzondere bepalingsmethoden voor de keuringsfrequenties voor in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermelde stoffen)
+##### Artikel 4.20. (toelatingsonderzoek: bijzondere bepalingsmethoden voor de keuringsfrequenties voor in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermelde stoffen)
 
-1. Wanneer in het toelatingsonderzoek de emissies of concentraties van een stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) is vermeld, in alle onderzochte partijen lager zijn dan de bepalingsgrens die in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-01&g=2026-01-01) is opgenomen, geldt voor de stof een keuringsfrequentie van één verificatiekeuring per vijf jaar.
+1. Wanneer in het toelatingsonderzoek de emissies of concentraties van een stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) is vermeld, in alle onderzochte partijen lager zijn dan de bepalingsgrens die in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-31&g=2026-01-31) is opgenomen, geldt voor de stof een keuringsfrequentie van één verificatiekeuring per vijf jaar.
 
 2. Voor asbest gelden voor het verrichten van de verificatiekeuringen de volgende keuringsfrequenties:
 
-- a. als in een van de onderzochte partijen asbest is aangetroffen: de hoogste keuringsfrequentie die volgens [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-01&g=2026-01-01) is bepaald voor enige stof die in de bouwstof is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht; en
+- a. als in een van de onderzochte partijen asbest is aangetroffen: de hoogste keuringsfrequentie die volgens [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-31&g=2026-01-31) is bepaald voor enige stof die in de bouwstof is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht; en
 
-- b. als in geen van de partijen asbest is aangetroffen: de laagste keuringsfrequentie die volgens [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-01&g=2026-01-01) is bepaald voor enige stof die in de bouwstof is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht.
+- b. als in geen van de partijen asbest is aangetroffen: de laagste keuringsfrequentie die volgens [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-31&g=2026-01-31) is bepaald voor enige stof die in de bouwstof is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht.
 
-##### Artikel 4.21. (toelatingsonderzoek: keuringsfrequenties voor niet in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermelde stoffen en andere parameters)
+##### Artikel 4.21. (toelatingsonderzoek: keuringsfrequenties voor niet in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermelde stoffen en andere parameters)
 
-Als bij de partijkeuringen in het kader van de productcontrole in een partij van een bouwstof andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters zijn aangetroffen, geldt voor elk van die stoffen en andere parameters voor het verrichten van de verificatiekeuringen de hoogste keuringsfrequentie die voor enige stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) is vermeld en waarvoor verificatiekeuringen worden verricht, volgens [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-01&g=2026-01-01) is bepaald.
+Als bij de partijkeuringen in het kader van de productcontrole in een partij van een bouwstof andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters zijn aangetroffen, geldt voor elk van die stoffen en andere parameters voor het verrichten van de verificatiekeuringen de hoogste keuringsfrequentie die voor enige stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) is vermeld en waarvoor verificatiekeuringen worden verricht, volgens [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-31&g=2026-01-31) is bepaald.
 
 ##### Artikel 4.22. (toelatingsonderzoek: rapportage)
 
@@ -684,23 +684,23 @@ Als bij de partijkeuringen in het kader van de productcontrole in een partij van
 
 - b. de naam en een nauwkeurige omschrijving van het producttype van de bouwstof dat is onderzocht;
 
-- c. de naam en het adres van de producent van het producttype van de bouwstof of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 4.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-01&g=2026-01-01), de namen en adressen van elke deelnemende producent van het producttype van de bouwstof;
+- c. de naam en het adres van de producent van het producttype van de bouwstof of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 4.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-31&g=2026-01-31), de namen en adressen van elke deelnemende producent van het producttype van de bouwstof;
 
 - d. de unieke nummers van de rapporten van de partijkeuringen die zijn verricht;
 
 - e. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen die voldoen aan de vereisten die aan partijen worden gesteld op grond van het systeem van kwaliteitsbewaking dat de producent hanteert;
 
-- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen bouwstoffen van hetzelfde producttype met een overeenkomende kwaliteit, samenstelling en herkomst, wanneer er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 4.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-01&g=2026-01-01);
+- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen bouwstoffen van hetzelfde producttype met een overeenkomende kwaliteit, samenstelling en herkomst, wanneer er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 4.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-31&g=2026-01-31);
 
-- g. een conclusie in hoeverre de onderzochte partijen van de bouwstof voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen, met dien verstande dat voor stoffen waarop [artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-01&g=2026-01-01), van toepassing is, mag worden geconcludeerd dat aan de kwaliteitseisen is voldaan;
+- g. een conclusie in hoeverre de onderzochte partijen van de bouwstof voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen, met dien verstande dat voor stoffen waarop [artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-31&g=2026-01-31), van toepassing is, mag worden geconcludeerd dat aan de kwaliteitseisen is voldaan;
 
-- h. een conclusie in hoeverre de onderzochte partijen van de bouwstof andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevatten, en de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
+- h. een conclusie in hoeverre de onderzochte partijen van de bouwstof andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevatten, en de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
 
 - i. een conclusie of het systeem van kwaliteitsbewaking dat de producent hanteert, volledig en doeltreffend is en op juiste wijze wordt toegepast;
 
-- j. voor elke stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) is vermeld, met uitzondering van stoffen waarop [artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-01&g=2026-01-01), van toepassing is, de voor het verrichten van de verificatiekeuringen aan te houden keuringsfrequentie;
+- j. voor elke stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) is vermeld, met uitzondering van stoffen waarop [artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-31&g=2026-01-31), van toepassing is, de voor het verrichten van de verificatiekeuringen aan te houden keuringsfrequentie;
 
-- k. voor zover sprake is van de aanwezigheid van asbest, andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters, de voor het verrichten van de verificatiekeuringen aan te houden keuringsfrequentie;
+- k. voor zover sprake is van de aanwezigheid van asbest, andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters, de voor het verrichten van de verificatiekeuringen aan te houden keuringsfrequentie;
 
 - l. een conclusie in hoeverre bij het produceren van de bouwstoffen een naar behoren functionerend systeem van kwaliteitsbewaking wordt gehanteerd en de voorwaarden aanwezig zijn om het goede functioneren daarvan in de praktijk te verzekeren;
 
@@ -712,15 +712,15 @@ Als bij de partijkeuringen in het kader van de productcontrole in een partij van
 
 ##### Artikel 4.23. (aanvraag van een erkenning bodemkwaliteit voor het produceren van bouwstoffen)
 
-Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), worden naast de informatie die op grond van andere wettelijke bepalingen moet worden verstrekt, tevens de volgende documenten verstrekt:
+Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), worden naast de informatie die op grond van andere wettelijke bepalingen moet worden verstrekt, tevens de volgende documenten verstrekt:
 
-- a. het productcertificaat voor het producttype van de bouwstof waarop de aanvraag betrekking heeft, dat is verleend op grond van het normdocument voor de bouwstof, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01); en
+- a. het productcertificaat voor het producttype van de bouwstof waarop de aanvraag betrekking heeft, dat is verleend op grond van het normdocument voor de bouwstof, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31); en
 
-- b. het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-01&g=2026-01-01), behoudens, in afwijking van artikel 4.22, derde lid, de rapporten van de partijkeuringen die in het kader van het toelatingsonderzoek zijn verricht.
+- b. het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-31&g=2026-01-31), behoudens, in afwijking van artikel 4.22, derde lid, de rapporten van de partijkeuringen die in het kader van het toelatingsonderzoek zijn verricht.
 
 ##### Artikel 4.24. (recht op afgifte van een erkende kwaliteitsverklaring)
 
-1. De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is verleend, heeft het recht voor de door hem geproduceerde partijen van het producttype van een bouwstof een erkende kwaliteitsverklaring af te geven die is bestemd voor eenmalig gebruik bij het verrichten van een handeling met betrekking tot de partij van een bouwstof waarvoor zij is afgegeven, als aan de volgende voorwaarden is voldaan:
+1. De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is verleend, heeft het recht voor de door hem geproduceerde partijen van het producttype van een bouwstof een erkende kwaliteitsverklaring af te geven die is bestemd voor eenmalig gebruik bij het verrichten van een handeling met betrekking tot de partij van een bouwstof waarvoor zij is afgegeven, als aan de volgende voorwaarden is voldaan:
 
 - a. het systeem van kwaliteitsbewaking dat in het toelatingsonderzoek is onderzocht, wordt op juiste wijze toegepast; en
 
@@ -728,27 +728,27 @@ Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘producer
 
 2. Zo lang een producent gebruik maakt van het recht om voor een bepaald producttype van een bouwstof een erkende kwaliteitsverklaring af te geven wordt voor door hem geproduceerde partijen bouwstoffen van dat producttype geen ander type milieuverklaring bodemkwaliteit afgegeven.
 
-3. Als in een verificatiekeuring als bedoeld in [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-01&g=2026-01-01), volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01) is geconcludeerd dat voor een stof of andere parameter een partijkeuring moet worden verricht voor elke partij van de bouwstof, wordt voor een partij uitsluitend een erkende kwaliteitsverklaring afgegeven als voor de stof of andere parameter is voldaan aan alle voorwaarden die in [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-01-01&g=2026-01-01) zijn gesteld voor het afgeven van een verklaring op grond van een partijkeuring.
+3. Als in een verificatiekeuring als bedoeld in [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-31&g=2026-01-31), volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31) is geconcludeerd dat voor een stof of andere parameter een partijkeuring moet worden verricht voor elke partij van de bouwstof, wordt voor een partij uitsluitend een erkende kwaliteitsverklaring afgegeven als voor de stof of andere parameter is voldaan aan alle voorwaarden die in [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-01-31&g=2026-01-31) zijn gesteld voor het afgeven van een verklaring op grond van een partijkeuring.
 
-4. De producent geeft voor een partij van de bouwstof die hij heeft geproduceerd, geen erkende kwaliteitsverklaring af als uit een verificatiekeuring als bedoeld in [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-01&g=2026-01-01), een controle in het kader van zijn systeem van kwaliteitsbewaking of anderszins is gebleken dat de partij niet overeenkomt met de partijen van de bouwstof die in de productcontrole zijn onderzocht.
+4. De producent geeft voor een partij van de bouwstof die hij heeft geproduceerd, geen erkende kwaliteitsverklaring af als uit een verificatiekeuring als bedoeld in [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-31&g=2026-01-31), een controle in het kader van zijn systeem van kwaliteitsbewaking of anderszins is gebleken dat de partij niet overeenkomt met de partijen van de bouwstof die in de productcontrole zijn onderzocht.
 
 ##### Artikel 4.25. (inhoud erkende kwaliteitsverklaring)
 
 1. Een erkende kwaliteitsverklaring bevat voor de partij van de bouwstof waarop zij betrekking heeft, de volgende informatie:
 
-- a. de naam en het adres van de persoon die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01);
+- a. de naam en het adres van de persoon die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31);
 
 - b. het unieke nummer van het productcertificaat waarop de erkenning bodemkwaliteit is gebaseerd;
 
-- c. het unieke nummer van het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-01&g=2026-01-01);
+- c. het unieke nummer van het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-31&g=2026-01-31);
 
-- d. de volgende informatie uit het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-01&g=2026-01-01):
+- d. de volgende informatie uit het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-31&g=2026-01-31):
 
 - 1°. de naam en een nauwkeurige omschrijving van het producttype van de bouwstof waarop de verklaring betrekking heeft;
 
-- 2°. een vermelding dat de partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
+- 2°. een vermelding dat de partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
 
-- 3°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters, en de hoogste emissies, concentraties, gehalten en waarden die daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld;
+- 3°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters, en de hoogste emissies, concentraties, gehalten en waarden die daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld;
 
 - e. eventuele voorwaarden en beperkingen die volgens de producent van de bouwstof bij de toepassing onder de daarbij aangegeven omstandigheden ter bescherming van het milieu in acht moeten worden genomen;
 
@@ -756,11 +756,11 @@ Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘producer
 
 - g. een originele ondertekening door de natuurlijke persoon die daartoe is geautoriseerd door de persoon die de verklaring heeft afgegeven, en de vermelding van de naam van de ondertekenaar en de datum van ondertekening.
 
-2. Als een erkende kwaliteitsverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) uitsluitend geschikt is voor toepassing in grote oppervlaktewaterlichamen die volgens de waterbeheerder geen bijzondere bescherming behoeven te krijgen, wordt dat in de verklaring op in het oog springende wijze vermeld.
+2. Als een erkende kwaliteitsverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) uitsluitend geschikt is voor toepassing in grote oppervlaktewaterlichamen die volgens de waterbeheerder geen bijzondere bescherming behoeven te krijgen, wordt dat in de verklaring op in het oog springende wijze vermeld.
 
-3. Als een erkende kwaliteitsverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt, wordt dat in de verklaring op in het oog springende wijze vermeld.
+3. Als een erkende kwaliteitsverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt, wordt dat in de verklaring op in het oog springende wijze vermeld.
 
-4. Na elke verificatiekeuring wordt voor andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters de vermelding van de hoogste emissies, concentraties, gehalten en waarden daarvan in de erkende kwaliteitsverklaring zo nodig in overeenstemming gebracht met de resultaten van de verificatiekeuring, bedoeld in [artikel 4.29, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-01&g=2026-01-01).
+4. Na elke verificatiekeuring wordt voor andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters de vermelding van de hoogste emissies, concentraties, gehalten en waarden daarvan in de erkende kwaliteitsverklaring zo nodig in overeenstemming gebracht met de resultaten van de verificatiekeuring, bedoeld in [artikel 4.29, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 4.26. (afleverbon)
 
@@ -810,31 +810,31 @@ Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘producer
 
 ##### Artikel 4.28. (bewaarplicht)
 
-Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), bewaart gedurende ten minste vijf jaar nadat aan de erkenning bodemkwaliteit een eind is gekomen, de volgende informatie:
+Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), bewaart gedurende ten minste vijf jaar nadat aan de erkenning bodemkwaliteit een eind is gekomen, de volgende informatie:
 
-- a. het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-01&g=2026-01-01);
+- a. het rapport, bedoeld in [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.22&z=2026-01-31&g=2026-01-31);
 
-- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 4.18, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.18&z=2026-01-01&g=2026-01-01); en
+- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 4.18, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.18&z=2026-01-31&g=2026-01-31); en
 
-- c. de resultaten van de verificatiekeuringen die ter voldoening aan [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-01&g=2026-01-01), zijn verricht.
+- c. de resultaten van de verificatiekeuringen die ter voldoening aan [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-31&g=2026-01-31), zijn verricht.
 
 ##### Artikel 4.29. (verificatiekeuring)
 
-1. De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is verleend, verricht voor alle stoffen en andere parameters die in het kader van het toelatingsonderzoek zijn onderzocht, verificatiekeuringen.
+1. De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is verleend, verricht voor alle stoffen en andere parameters die in het kader van het toelatingsonderzoek zijn onderzocht, verificatiekeuringen.
 
-2. Als verschillende producenten het toelatingsonderzoek op grond van [artikel 4.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-01&g=2026-01-01), gemeenschappelijk hebben uitgevoerd, mogen producenten de verificatiekeuringen eveneens gemeenschappelijk uitvoeren, waarbij de verificatiekeuringen door een producent naar keuze mogen worden uitgevoerd.
+2. Als verschillende producenten het toelatingsonderzoek op grond van [artikel 4.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.17&z=2026-01-31&g=2026-01-31), gemeenschappelijk hebben uitgevoerd, mogen producenten de verificatiekeuringen eveneens gemeenschappelijk uitvoeren, waarbij de verificatiekeuringen door een producent naar keuze mogen worden uitgevoerd.
 
 3. Een verificatiekeuring omvat:
 
 - a. het verrichten van een partijkeuring van een representatieve partij van de geproduceerde bouwstoffen, voor zover het de stoffen en andere parameters betreft waarvoor volgens de aan te houden keuringsfrequentie een verificatiekeuring moet worden verricht;
 
-- b. het toetsen van de resultaten van het onderzoek aan de kwaliteitseisen die gelden voor de onderzochte stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld;
+- b. het toetsen van de resultaten van het onderzoek aan de kwaliteitseisen die gelden voor de onderzochte stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld;
 
-- c. het opnieuw bepalen van de hoogste emissies, concentraties, waarden en gehalten van de onderzochte andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters in de laatste vijf partijkeuringen; en
+- c. het opnieuw bepalen van de hoogste emissies, concentraties, waarden en gehalten van de onderzochte andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters in de laatste vijf partijkeuringen; en
 
-- d. het opnieuw bepalen, met overeenkomstige toepassing van de [artikelen 4.19 tot en met 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-01&g=2026-01-01) en [4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.30&z=2026-01-01&g=2026-01-01), van de keuringsfrequentie waarmee voor de onderzochte stoffen en andere parameters verificatiekeuringen moeten worden verricht.
+- d. het opnieuw bepalen, met overeenkomstige toepassing van de [artikelen 4.19 tot en met 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.19&z=2026-01-31&g=2026-01-31) en [4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.30&z=2026-01-31&g=2026-01-31), van de keuringsfrequentie waarmee voor de onderzochte stoffen en andere parameters verificatiekeuringen moeten worden verricht.
 
-4. De partijkeuringen in het kader van de verificatiekeuring worden verricht volgens [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&z=2026-01-01&g=2026-01-01), met dien verstande dat in afwijking van [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-01&g=2026-01-01), slechts één mengmonster hoeft te worden samengesteld, dat uit ten minste zes grepen bestaat, tenzij volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01) voor elke partij een partijkeuring moet worden verricht, in welk geval:
+4. De partijkeuringen in het kader van de verificatiekeuring worden verricht volgens [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&z=2026-01-31&g=2026-01-31), met dien verstande dat in afwijking van [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-31&g=2026-01-31), slechts één mengmonster hoeft te worden samengesteld, dat uit ten minste zes grepen bestaat, tenzij volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31) voor elke partij een partijkeuring moet worden verricht, in welk geval:
 
 - a. als het een vormgegeven bouwstof betreft: slechts één mengmonster hoeft te worden samengesteld, dat uit ten minste twaalf grepen bestaat; en
 
@@ -846,15 +846,15 @@ Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald p
 
 - b. de gegevens van de nieuwste keuring worden toegevoegd.
 
-6. De resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01). Het rapport bevat tevens voor elke onderzochte stof of andere parameter:
+6. De resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31). Het rapport bevat tevens voor elke onderzochte stof of andere parameter:
 
 - a. de opnieuw vastgestelde keuringsfrequentie voor het verrichten van de verificatiekeuringen; en
 
-- b. voor zover het andere stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters betreft: de hoogste emissies, concentraties, gehalten en waarden daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek en de verificatiekeuringen.
+- b. voor zover het andere stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters betreft: de hoogste emissies, concentraties, gehalten en waarden daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek en de verificatiekeuringen.
 
 ##### Artikel 4.30. (verificatiekeuring: bijzondere keuringsfrequenties)
 
-1. In afwijking van [artikel 4.29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01), hoeft bij het bepalen van de keuringsfrequentie voor het verrichten van verificatiekeuringen voor een stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) is vermeld, geen rekening te worden gehouden met de nieuwe spreiding van de resultaten van achtereenvolgende keuringen in geval van:
+1. In afwijking van [artikel 4.29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31), hoeft bij het bepalen van de keuringsfrequentie voor het verrichten van verificatiekeuringen voor een stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) is vermeld, geen rekening te worden gehouden met de nieuwe spreiding van de resultaten van achtereenvolgende keuringen in geval van:
 
 - a. een structurele verandering van de kwaliteit van de bouwstof waardoor de emissies of concentraties van de stof verbeteren; of
 
@@ -866,11 +866,11 @@ Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald p
 
 ##### Artikel 4.31. (verificatiekeuring: wisseling van keuringsfrequentie)
 
-Als voor een stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) is vermeld, in het kader van de verificatiekeuring volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01) voor elke partij een partijkeuring moest worden verricht, mag op een lagere keuringsfrequentie worden overgestapt wanneer die keuringsfrequentie volgens bijlage H volgt uit de k-waarde die is berekend op grond van ten minste tien partijkeuringen, waarvan ten minste vijf partijkeuringen voor opeenvolgend geproduceerde partijen zijn verricht.
+Als voor een stof die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) is vermeld, in het kader van de verificatiekeuring volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31) voor elke partij een partijkeuring moest worden verricht, mag op een lagere keuringsfrequentie worden overgestapt wanneer die keuringsfrequentie volgens bijlage H volgt uit de k-waarde die is berekend op grond van ten minste tien partijkeuringen, waarvan ten minste vijf partijkeuringen voor opeenvolgend geproduceerde partijen zijn verricht.
 
 ##### Artikel 4.32. (opschorting van recht op afgifte van een erkende kwaliteitsverklaring)
 
-De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is verleend, kan tijdelijk geen gebruik maken van het recht om voor het producttype van de bouwstof waarop de erkenning bodemkwaliteit betrekking heeft, een erkende kwaliteitsverklaring af te geven zo lang hij niet heeft voldaan aan de verplichting op grond van [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-01&g=2026-01-01), om verificatiekeuringen te verrichten.
+De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype van een bouwstof’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is verleend, kan tijdelijk geen gebruik maken van het recht om voor het producttype van de bouwstof waarop de erkenning bodemkwaliteit betrekking heeft, een erkende kwaliteitsverklaring af te geven zo lang hij niet heeft voldaan aan de verplichting op grond van [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.2&artikel=4.29&z=2026-01-31&g=2026-01-31), om verificatiekeuringen te verrichten.
 
 #### Paragraaf 4.3. Fabrikant-eigenverklaring
 
@@ -886,9 +886,9 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 2. Het toelatingsonderzoek wordt verricht onder toezicht van een certificeringsinstelling die:
 
-- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
+- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
 
-- b. op grond van een normdocument voor de bouwstof, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor de bouwstof, of, als het een bouwstof betreft waarvoor in categorie 2 van bijlage C geen normdocument is aangewezen, is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor een andere bouwstof.
+- b. op grond van een normdocument voor de bouwstof, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor de bouwstof, of, als het een bouwstof betreft waarvoor in categorie 2 van bijlage C geen normdocument is aangewezen, is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor een andere bouwstof.
 
 3. Het toelatingsonderzoek omvat:
 
@@ -898,27 +898,27 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 4. In het kader van de productcontrole en beoordeling van het systeem van kwaliteitsbewaking, wordt nagegaan in hoeverre partijen van de bouwstof die de producent produceert:
 
-- a. voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
+- a. voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
 
-- b. voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoen aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring; en
+- b. voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoen aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring; en
 
-- c. andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevatten.
+- c. andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevatten.
 
 ##### Artikel 4.35. (toelatingsonderzoek: productcontrole)
 
 1. De productcontrole in het kader van het toelatingsonderzoek omvat partijkeuringen van ten minste tien partijen van de bouwstof, die representatief zijn voor de kwaliteit van de partijen van het producttype van de bouwstof die worden geproduceerd, en wordt uitgevoerd op de locatie waar de partijen zijn geproduceerd.
 
-2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&z=2026-01-01&g=2026-01-01) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01).
+2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&z=2026-01-31&g=2026-01-31) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-31&g=2026-01-31).
 
-3. Voor stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, is aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voldaan als uit de resultaten van de partijkeuringen die in het kader van de productcontrole zijn verricht, voor elke stof, met uitzondering van asbest, is gebleken dat:
+3. Voor stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, is aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voldaan als uit de resultaten van de partijkeuringen die in het kader van de productcontrole zijn verricht, voor elke stof, met uitzondering van asbest, is gebleken dat:
 
 - a. de emissie dan wel concentratie in alle partijkeuringen is gelegen onder de bepalingsgrens;
 
-- b. de emissie dan wel concentratie voldoet aan de k-waardetoets die in onderdeel 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=I&z=2026-01-01&g=2026-01-01) is opgenomen; of
+- b. de emissie dan wel concentratie voldoet aan de k-waardetoets die in onderdeel 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=I&z=2026-01-31&g=2026-01-31) is opgenomen; of
 
-- c. de emissie dan wel concentratie voldoet aan de gammatoets die in onderdeel 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=I&z=2026-01-01&g=2026-01-01) is opgenomen.
+- c. de emissie dan wel concentratie voldoet aan de gammatoets die in onderdeel 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=I&z=2026-01-31&g=2026-01-31) is opgenomen.
 
-4. Voor asbest is aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voldaan als uit de resultaten van de partijkeuringen die in het kader van de productcontrole zijn verricht, is gebleken dat elke onderzochte partij van de bouwstof voldoet aan de volgens noot 9 onder tabel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) gewogen concentratie asbest van 10 mg/kg droge stof.
+4. Voor asbest is aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voldaan als uit de resultaten van de partijkeuringen die in het kader van de productcontrole zijn verricht, is gebleken dat elke onderzochte partij van de bouwstof voldoet aan de volgens noot 9 onder tabel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) gewogen concentratie asbest van 10 mg/kg droge stof.
 
 5. Verschillende producenten van hetzelfde producttype van een bouwstof mogen partijkeuringen in het kader van het toelatingsonderzoek gemeenschappelijk uitvoeren.
 
@@ -946,9 +946,9 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 - c. een beschrijving van de wijze waarop wordt gewaarborgd dat de partijen van de bouwstof die worden geproduceerd, behoren tot hetzelfde producttype van de bouwstof waartoe de partijen behoren die in de productcontrole zijn onderzocht, zodat:
 
-- 1°. de bouwstof voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen; en
+- 1°. de bouwstof voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen; en
 
-- 2°. de emissies, concentraties, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters geen overschrijding vertonen van de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
+- 2°. de emissies, concentraties, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters geen overschrijding vertonen van de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
 
 - d. een handboek dat een beschrijving geeft van de organisatie, procedures, voorschriften, instructies en interne controlemechanismen, met inbegrip van de meet- en bepalingsmethoden en frequenties, die samen moeten waarborgen dat het systeem van kwaliteitsbewaking naar behoren functioneert en de geproduceerde partijen bouwstoffen aan de kwaliteitseisen voldoen;
 
@@ -962,7 +962,7 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 2. Het rapport bevat de volgende informatie:
 
-- a. de naam en het adres van de producent van de bouwstof of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 4.35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01), de namen en adressen van elke deelnemende producent van de bouwstof;
+- a. de naam en het adres van de producent van de bouwstof of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 4.35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31), de namen en adressen van elke deelnemende producent van de bouwstof;
 
 - b. de naam en een nauwkeurige omschrijving van het producttype van de bouwstof dat is onderzocht;
 
@@ -972,13 +972,13 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 - e. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen die voldoen aan de vereisten die aan partijen worden gesteld op grond van het systeem van kwaliteitsbewaking dat de producent hanteert;
 
-- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen van bouwstoffen van hetzelfde producttype met een overeenkomende kwaliteit, samenstelling en herkomst, wanneer zich een geval voordoet als bedoeld in [artikel 4.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.36&z=2026-01-01&g=2026-01-01), of er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 4.35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01);
+- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen van bouwstoffen van hetzelfde producttype met een overeenkomende kwaliteit, samenstelling en herkomst, wanneer zich een geval voordoet als bedoeld in [artikel 4.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.36&z=2026-01-31&g=2026-01-31), of er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 4.35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31);
 
-- g. een conclusie in hoeverre de onderzochte partijen van de bouwstof voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
+- g. een conclusie in hoeverre de onderzochte partijen van de bouwstof voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoen aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
 
-- h. een conclusie in hoeverre de onderzochte partijen van de bouwstof andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevatten, en de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
+- h. een conclusie in hoeverre de onderzochte partijen van de bouwstof andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevatten, en de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
 
-- i. informatie waaruit blijkt in hoeverre is voldaan aan [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01);
+- i. informatie waaruit blijkt in hoeverre is voldaan aan [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31);
 
 - j. een conclusie in hoeverre bij het produceren van de bouwstoffen een naar behoren functionerend systeem van kwaliteitsbewaking wordt gehanteerd en de voorwaarden aanwezig zijn om het goede functioneren daarvan in de praktijk te verzekeren;
 
@@ -992,9 +992,9 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 1. De producent van bouwstoffen heeft het recht om gedurende een periode van vijf jaar voor de door hem geproduceerde partijen van het producttype van een bouwstof een fabrikant-eigenverklaring af te geven die is bestemd voor eenmalig gebruik bij het verrichten van een handeling met betrekking tot de partij van een bouwstof waarvoor zij is afgegeven, als aan de volgende voorwaarden is voldaan:
 
-- a. het toelatingsonderzoek rechtvaardigt blijkens het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-01&g=2026-01-01), de conclusie dat is voldaan aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01), zijn gesteld;
+- a. het toelatingsonderzoek rechtvaardigt blijkens het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-31&g=2026-01-31), de conclusie dat is voldaan aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31), zijn gesteld;
 
-- b. een certificeringsinstelling die is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor producten op grond van een nationale BRL, heeft bevestigd dat het toelatingsonderzoek op juiste wijze is uitgevoerd en de conclusie rechtvaardigt dat is voldaan aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01), zijn gesteld;
+- b. een certificeringsinstelling die is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor producten op grond van een nationale BRL, heeft bevestigd dat het toelatingsonderzoek op juiste wijze is uitgevoerd en de conclusie rechtvaardigt dat is voldaan aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31), zijn gesteld;
 
 - c. de door hem geproduceerde partijen van de bouwstof behoren tot hetzelfde producttype en komen overeen met de partijen die in de productcontrole zijn onderzocht;
 
@@ -1016,15 +1016,15 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 - a. de naam en het adres van de producent die de bouwstof produceert;
 
-- b. het unieke nummer van het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-01&g=2026-01-01);
+- b. het unieke nummer van het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-31&g=2026-01-31);
 
-- c. de volgende informatie uit het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-01&g=2026-01-01):
+- c. de volgende informatie uit het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-31&g=2026-01-31):
 
 - 1°. de naam en een nauwkeurige omschrijving van het producttype van de bouwstof waarop de verklaring betrekking heeft;
 
-- 2°. een vermelding dat de partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
+- 2°. een vermelding dat de partij voor alle stoffen die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) zijn vermeld, voldoet aan de kwaliteitseisen die daarin voor die stoffen zijn opgenomen;
 
-- 3°. een vermelding van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, en de hoogste emissies, concentraties, gehalten en waarden die daarvan in de partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld;
+- 3°. een vermelding van andere verontreinigende stoffen dan in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, en de hoogste emissies, concentraties, gehalten en waarden die daarvan in de partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld;
 
 - d. eventuele voorwaarden en beperkingen die volgens de producent van de bouwstof bij de toepassing onder de daarbij aangegeven omstandigheden ter bescherming van het milieu in acht moeten worden genomen;
 
@@ -1032,9 +1032,9 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 - f. een originele ondertekening door de natuurlijke persoon die daartoe is geautoriseerd door de persoon die de verklaring heeft afgegeven, en de vermelding van de naam van de ondertekenaar en de datum van ondertekening.
 
-2. Als een fabrikant-eigenverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) uitsluitend geschikt is voor toepassing in grote oppervlaktewaterlichamen die volgens de waterbeheerder geen bijzondere bescherming behoeven te krijgen, wordt dat in de verklaring op in het oog springende wijze vermeld.
+2. Als een fabrikant-eigenverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) uitsluitend geschikt is voor toepassing in grote oppervlaktewaterlichamen die volgens de waterbeheerder geen bijzondere bescherming behoeven te krijgen, wordt dat in de verklaring op in het oog springende wijze vermeld.
 
-3. Als een fabrikant-eigenverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt, wordt dat in de verklaring op in het oog springende wijze vermeld.
+3. Als een fabrikant-eigenverklaring betrekking heeft op een partij van een bouwstof die blijkens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt, wordt dat in de verklaring op in het oog springende wijze vermeld.
 
 ##### Artikel 4.41. (afleverbon)
 
@@ -1084,21 +1084,21 @@ De producent van bouwstoffen aan wie een erkenning bodemkwaliteit voor de werkza
 
 ##### Artikel 4.43. (bewaarplicht)
 
-Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af te geven, bewaart gedurende ten minste vijf jaar na de einddatum van de periode waarin gebruik mag worden gemaakt van het recht om de verklaring af te geven, met inbegrip van de periode waarin dat recht volgens [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.44&z=2026-01-01&g=2026-01-01) is verlengd, de volgende informatie:
+Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af te geven, bewaart gedurende ten minste vijf jaar na de einddatum van de periode waarin gebruik mag worden gemaakt van het recht om de verklaring af te geven, met inbegrip van de periode waarin dat recht volgens [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.44&z=2026-01-31&g=2026-01-31) is verlengd, de volgende informatie:
 
-- a. het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-01&g=2026-01-01); en
+- a. het rapport, bedoeld in [artikel 4.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.38&z=2026-01-31&g=2026-01-31); en
 
-- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 4.37, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.37&z=2026-01-01&g=2026-01-01).
+- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 4.37, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.37&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 4.44. (verlenging)
 
-1. Een producent die het recht heeft verkregen om gedurende een periode van vijf jaar voor de door hem geproduceerde partijen van een bouwstof een fabrikant-eigenverklaring af te geven en na afloop van deze periode van dit recht gebruik wil blijven maken, stelt een rapport op waarin hij aantoont dat hij de komende vijf jaar in staat is om te blijven voldoen aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01), voor het afgeven van een fabrikant-eigenverklaring zijn gesteld.
+1. Een producent die het recht heeft verkregen om gedurende een periode van vijf jaar voor de door hem geproduceerde partijen van een bouwstof een fabrikant-eigenverklaring af te geven en na afloop van deze periode van dit recht gebruik wil blijven maken, stelt een rapport op waarin hij aantoont dat hij de komende vijf jaar in staat is om te blijven voldoen aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31), voor het afgeven van een fabrikant-eigenverklaring zijn gesteld.
 
 2. De producent heeft het recht om opnieuw gedurende een periode van vijf jaar voor de door hem geproduceerde partijen bouwstoffen een fabrikant-eigenverklaring af te geven als aan de volgende voorwaarden is voldaan:
 
-- a. het door hem opgestelde rapport rechtvaardigt de conclusie dat hij nog steeds voldoet aan alle voorwaarden die in [artikele4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01), zijn gesteld;
+- a. het door hem opgestelde rapport rechtvaardigt de conclusie dat hij nog steeds voldoet aan alle voorwaarden die in [artikele4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31), zijn gesteld;
 
-- b. een certificeringsinstelling die is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor producten op grond van een nationale BRL, heeft bevestigd dat het rapport, bedoeld in onderdeel a, op juiste wijze is opgesteld, en de conclusie rechtvaardigt dat is voldaan aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-01&g=2026-01-01), zijn gesteld;
+- b. een certificeringsinstelling die is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor producten op grond van een nationale BRL, heeft bevestigd dat het rapport, bedoeld in onderdeel a, op juiste wijze is opgesteld, en de conclusie rechtvaardigt dat is voldaan aan de voorwaarden die in [artikel 4.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.35&z=2026-01-31&g=2026-01-31), zijn gesteld;
 
 - c. de door hem geproduceerde partijen van de bouwstof komen overeen met de partijen die in de productcontrole zijn onderzocht;
 
@@ -1108,7 +1108,7 @@ Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af 
 
 3. Voor het doen van een melding als bedoeld het tweede lid, onder e, wordt gebruikt gemaakt van de modelverklaring die is gepubliceerd op de website [https://loket.rijkswaterstaat.nl](https://loket.rijkswaterstaat.nl), onder bijvoeging van de bevestiging van de certificeringsinstelling, bedoeld in het tweede lid, onder b.
 
-4. De einddatum, bedoeld in [artikel 4.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.39&z=2026-01-01&g=2026-01-01), wordt op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
+4. De einddatum, bedoeld in [artikel 4.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.39&z=2026-01-31&g=2026-01-31), wordt op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
 
 ##### Artikel 4.45. (tussentijdse wijzigingen)
 
@@ -1122,7 +1122,7 @@ Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af 
 
 3. In een geval als bedoeld in het eerste lid geeft de producent geen fabrikant-eigenverklaring meer af voor de door hem geproduceerde bouwstof.
 
-4. In een geval als bedoeld in het eerste lid wordt de einddatum, bedoeld in [artikel 4.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.39&z=2026-01-01&g=2026-01-01), op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
+4. In een geval als bedoeld in het eerste lid wordt de einddatum, bedoeld in [artikel 4.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=4&paragraaf=4.3&artikel=4.39&z=2026-01-31&g=2026-01-31), op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
 
 ### Hoofdstuk 5. Het afgeven van een milieuverklaring bodemkwaliteit voor partijen grond en baggerspecie
 
@@ -1150,7 +1150,7 @@ In een partijkeuring wordt voor een partij grond of baggerspecie onderzocht:
 
 - b. in hoeverre de partij een specifieke kwaliteit bezit, als de wens bestaat deze in de verklaring op grond van een partijkeuring te vermelden;
 
-- c. in hoeverre de partij andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevat; en
+- c. in hoeverre de partij andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevat; en
 
 - d. in hoeverre de partij bodemvreemd materiaal bevat.
 
@@ -1166,11 +1166,11 @@ In een partijkeuring wordt voor een partij grond of baggerspecie onderzocht:
 
 2. In het vooronderzoek wordt nagegaan welke bodemonderzoeken, activiteiten en ontwikkelingen op de ontgravingslocatie hebben plaatsgevonden en wordt op grond van de aldus verkregen informatie afgeleid en gerapporteerd in hoeverre in de bodem van de ontgravingslocatie rekening moet worden gehouden met de waarschijnlijke aanwezigheid van:
 
-- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die deel uitmaken van het standaardonderzoekspakket;
+- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die deel uitmaken van het standaardonderzoekspakket;
 
-- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die geen deel uitmaken van het standaardonderzoekspakket, in een concentratie die de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
+- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die geen deel uitmaken van het standaardonderzoekspakket, in een concentratie die de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
 
-- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters; en
+- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters; en
 
 - d. bodemvreemd materiaal.
 
@@ -1196,11 +1196,11 @@ In een partijkeuring wordt voor een partij grond of baggerspecie onderzocht:
 
 - d. een beschrijving van de ontstaansgeschiedenis van de partij, in het bijzonder of de partij als nevenproduct is vrijgekomen of door samenvoeging van partijen of splitsing van een partij is ontstaan dan wel bewerking of reiniging van de partij heeft plaatsgevonden;
 
-- e. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die deel uitmaken van het standaardonderzoekspakket;
+- e. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die deel uitmaken van het standaardonderzoekspakket;
 
-- f. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die geen deel uitmaken van het standaardonderzoekspakket waarvan de concentratie de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
+- f. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die geen deel uitmaken van het standaardonderzoekspakket waarvan de concentratie de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
 
-- g. een vermelding van de waarschijnlijke aanwezigheid van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld, andere relevante parameters en bodemvreemd materiaal;
+- g. een vermelding van de waarschijnlijke aanwezigheid van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld, andere relevante parameters en bodemvreemd materiaal;
 
 - h. de naam en het adres van de persoon of instelling die het rapport heeft opgesteld en de datum van vaststelling van het rapport; en
 
@@ -1208,21 +1208,21 @@ In een partijkeuring wordt voor een partij grond of baggerspecie onderzocht:
 
 ##### Artikel 5.6. (uitvoering onderzoek)
 
-1. Ter voorbereiding van de afgifte van een verklaring op grond van een partijkeuring voor een partij grond of baggerspecie wordt in het kader van een partijkeuring een onderzoek verricht volgens de [artikelen 5.7 tot en met 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-01&g=2026-01-01).
+1. Ter voorbereiding van de afgifte van een verklaring op grond van een partijkeuring voor een partij grond of baggerspecie wordt in het kader van een partijkeuring een onderzoek verricht volgens de [artikelen 5.7 tot en met 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-31&g=2026-01-31).
 
 2. In het onderzoek worden voor verontreinigende stoffen, andere parameters en bodemvreemd materiaal bepaald:
 
-- a. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld en deel uitmaken van het standaardonderzoekspakket en de gehalten van de parameters lutum en organische stof;
+- a. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld en deel uitmaken van het standaardonderzoekspakket en de gehalten van de parameters lutum en organische stof;
 
-- b. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld en geen deel uitmaken van het standaardonderzoekspakket, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-01&g=2026-01-01);
+- b. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld en geen deel uitmaken van het standaardonderzoekspakket, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-31&g=2026-01-31);
 
-- c. de concentraties van de andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-01&g=2026-01-01);
+- c. de concentraties van de andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-31&g=2026-01-31);
 
-- d. de waarden of gehalten van andere relevante parameters als de parameters zijn vermeld in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-01&g=2026-01-01);
+- d. de waarden of gehalten van andere relevante parameters als de parameters zijn vermeld in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-31&g=2026-01-31);
 
-- e. de aard en hoeveelheid van het bodemvreemde materiaal als daarvan melding is gemaakt in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-01&g=2026-01-01); en
+- e. de aard en hoeveelheid van het bodemvreemde materiaal als daarvan melding is gemaakt in het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-31&g=2026-01-31); en
 
-- f. de emissies van stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld, als de wens bestaat om in de verklaring op grond van een partijkeuring te vermelden dat de partij de specifieke kwaliteit ‘emissiearme grond’ of ‘emissiearme baggerspecie’ bezit.
+- f. de emissies van stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld, als de wens bestaat om in de verklaring op grond van een partijkeuring te vermelden dat de partij de specifieke kwaliteit ‘emissiearme grond’ of ‘emissiearme baggerspecie’ bezit.
 
 ##### Artikel 5.7. (monsterneming en voorbehandeling)
 
@@ -1244,27 +1244,27 @@ in aanvulling op het eerste lid aanvullende monsters ten behoeve van het onderzo
 
 ##### Artikel 5.8. (bepaling samenstelling)
 
-1. De concentraties, gehalten en waarden van de volgens [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2026-01-01&g=2026-01-01), te onderzoeken verontreinigende stoffen, andere relevante parameters en het bodemvreemde materiaal in de volgens [artikel 5.7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-01&g=2026-01-01), voorbehandelde mengmonsters en monsters worden bepaald met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
+1. De concentraties, gehalten en waarden van de volgens [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2026-01-31&g=2026-01-31), te onderzoeken verontreinigende stoffen, andere relevante parameters en het bodemvreemde materiaal in de volgens [artikel 5.7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-31&g=2026-01-31), voorbehandelde mengmonsters en monsters worden bepaald met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
 
-2. Als blijkt dat tussen de concentraties, gehalten of waarden van een verontreinigende stof, uitgezonderd asbest, of andere relevante parameter, die volgens het eerste lid, en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01), voor de onderscheiden mengmonsters en monsters een verschil van meer dan een factor 2,5 bestaat, wordt [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-01&g=2026-01-01) niet toegepast dan nadat de werkwijze die tot die uitkomst heeft geleid, met inbegrip van de monsterneming en de samenstelling van mengmonsters, op mogelijke fouten is gecontroleerd en daarbij geen fouten zijn gesignaleerd. Deze controle op fouten wordt uitgevoerd met toepassing van de technieken, beschreven in AP 04, of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
+2. Als blijkt dat tussen de concentraties, gehalten of waarden van een verontreinigende stof, uitgezonderd asbest, of andere relevante parameter, die volgens het eerste lid, en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31), voor de onderscheiden mengmonsters en monsters een verschil van meer dan een factor 2,5 bestaat, wordt [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-31&g=2026-01-31) niet toegepast dan nadat de werkwijze die tot die uitkomst heeft geleid, met inbegrip van de monsterneming en de samenstelling van mengmonsters, op mogelijke fouten is gecontroleerd en daarbij geen fouten zijn gesignaleerd. Deze controle op fouten wordt uitgevoerd met toepassing van de technieken, beschreven in AP 04, of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
 
-3. In afwijking van het tweede lid wordt een factor 2,1 in plaats van 2,5 gehanteerd wanneer de monstername volgens [artikel 5.7, vierde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-01&g=2026-01-01), heeft bestaan uit het nemen van twaalf grepen.
+3. In afwijking van het tweede lid wordt een factor 2,1 in plaats van 2,5 gehanteerd wanneer de monstername volgens [artikel 5.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-31&g=2026-01-31), heeft bestaan uit het nemen van ten minste twaalf grepen.
 
 ##### Artikel 5.9. (omrekening voor lutum en organische stof)
 
-1. De volgens [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.8&z=2026-01-01&g=2026-01-01) bepaalde concentraties van de onderzochte stoffen worden ten behoeve van de toetsing aan de kwaliteitseisen die voor die stoffen voor de standaardbodem zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), omgerekend naar concentraties in een standaardbodem met behulp van de gemeten gehalten lutum en organische stof.
+1. De volgens [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.8&z=2026-01-31&g=2026-01-31) bepaalde concentraties van de onderzochte stoffen worden ten behoeve van de toetsing aan de kwaliteitseisen die voor die stoffen voor de standaardbodem zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), omgerekend naar concentraties in een standaardbodem met behulp van de gemeten gehalten lutum en organische stof.
 
-2. De omrekening wordt verricht volgens onderdeel II van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01).
+2. De omrekening wordt verricht volgens onderdeel II van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 5.10. (bepaling emissies)
 
-1. Als de wens bestaat om in de verklaring op grond van een partijkeuring te vermelden dat een partij grond of baggerspecie de kwaliteit ‘emissiearme grond’ dan wel ‘emissiearme baggerspecie’ bezit, worden de emissies bepaald van de stoffen die in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld.
+1. Als de wens bestaat om in de verklaring op grond van een partijkeuring te vermelden dat een partij grond of baggerspecie de kwaliteit ‘emissiearme grond’ dan wel ‘emissiearme baggerspecie’ bezit, worden de emissies bepaald van de stoffen die in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld.
 
-2. De emissies worden bepaald door voor ten minste één van de volgens [artikel 5.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-01&g=2026-01-01), verkregen mengmonsters een kolomproef te verrichten volgens, naar keuze van de opdrachtgever voor het onderzoek, NEN 7373 of NEN 7383.
+2. De emissies worden bepaald door voor ten minste één van de volgens [artikel 5.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-31&g=2026-01-31), verkregen mengmonsters een kolomproef te verrichten volgens, naar keuze van de opdrachtgever voor het onderzoek, NEN 7373 of NEN 7383.
 
-3. Als bij de kolomproef door slechte doorlatendheid van de grond of baggerspecie onvoldoende vloeistof door de kolom stroomt, worden de emissies van de te onderzoeken stoffen uit de grond of baggerspecie berekend met toepassing van de formule in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=K&z=2026-01-01&g=2026-01-01).
+3. Als bij de kolomproef door slechte doorlatendheid van de grond of baggerspecie onvoldoende vloeistof door de kolom stroomt, worden de emissies van de te onderzoeken stoffen uit de grond of baggerspecie berekend met toepassing van de formule in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=K&z=2026-01-31&g=2026-01-31).
 
-4. In afwijking van het eerste lid hoeft de emissie van een stof niet te worden bepaald wanneer de volgens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-01&g=2026-01-01) omgerekende rekenkundig gemiddelde concentratie van de stof in de mengmonsters lager is dan de emissietoetswaarde die voor die stof in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen.
+4. In afwijking van het eerste lid hoeft de emissie van een stof niet te worden bepaald wanneer de volgens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-31&g=2026-01-31) omgerekende rekenkundig gemiddelde concentratie van de stof in de mengmonsters lager is dan de emissietoetswaarde die voor die stof in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen.
 
 5. Het vierde lid is niet van toepassing indien er sprake is van thermisch gereinigde grond of deelstromen uit thermisch gereinigde grond voor zover die als grond worden toegepast.
 
@@ -1274,19 +1274,19 @@ in aanvulling op het eerste lid aanvullende monsters ten behoeve van het onderzo
 
 1. Een partij grond of baggerspecie wordt ten behoeve van de vermelding van de kwaliteitsklasse volgens [artikel 25d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d) in de volgende kwaliteitsklassen ingedeeld:
 
-- a. voor het toepassen op of in de landbodem volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘landbouw/natuur’, ‘wonen’, ‘industrie’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01); en
+- a. voor het toepassen op of in de landbodem volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘landbouw/natuur’, ‘wonen’, ‘industrie’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31); en
 
-- b. voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘algemeen toepasbaar’, ‘licht verontreinigd’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+- b. voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘algemeen toepasbaar’, ‘licht verontreinigd’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
-2. De indeling van de partij in een kwaliteitsklasse als bedoeld in het eerste lid, onder a of b, vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-01&g=2026-01-01) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
+2. De indeling van de partij in een kwaliteitsklasse als bedoeld in het eerste lid, onder a of b, vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-31&g=2026-01-31) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
 
 3. Een partij grond die voorafgaand aan het ontgraven volgens de [artikelen 4.1221](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1221) of [4.1229 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1229) op grond van een bodemonderzoek volgens [paragraaf 5.2.2 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=5.2.2) is ingedeeld in de kwaliteitsklasse ‘matig verontreinigd’ of ‘sterk verontreinigd’, wordt, ongeacht de resultaten van de partijkeuring die is verricht, ingedeeld in de kwaliteitsklasse ‘matig verontreinigd’, onderscheidenlijk ‘sterk verontreinigd’.
 
 4. Voor asbest wordt de hoogst gemeten concentratie in plaats van het rekenkundig gemiddelde gehanteerd wanneer de concentraties in de mengmonsters niet binnen de ondergrens en bovengrens van elkaars betrouwbaarheidsintervallen vallen.
 
-5. De partij grond of baggerspecie wordt ingedeeld in de slechtste kwaliteitsklasse waarin een van de onderzochte stoffen is ingedeeld. Een stof wordt ingedeeld in de kwaliteitsklasse die wordt begrensd door de concentratiewaarden waartussen de concentratie van de stof is gelegen, die zijn opgenomen in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+5. De partij grond of baggerspecie wordt ingedeeld in de slechtste kwaliteitsklasse waarin een van de onderzochte stoffen is ingedeeld. Een stof wordt ingedeeld in de kwaliteitsklasse die wordt begrensd door de concentratiewaarden waartussen de concentratie van de stof is gelegen, die zijn opgenomen in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
-6. De indeling in een kwaliteitsklasse vindt plaats volgens onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01), wanneer zich een in dat onderdeel omschreven situatie voordoet.
+6. De indeling in een kwaliteitsklasse vindt plaats volgens onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31), wanneer zich een in dat onderdeel omschreven situatie voordoet.
 
 7. In afwijking van het eerste lid, onder b, wordt een partij tarragrond niet ingedeeld in een kwaliteitsklasse voor het toepassen in een oppervlaktewaterlichaam.
 
@@ -1302,19 +1302,19 @@ in aanvulling op het eerste lid aanvullende monsters ten behoeve van het onderzo
 
 - e. wanneer ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste vijf stoffen de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, overschrijden.
 
-9. Bij de toepassing van het achtste lid worden als onderzochte stoffen alleen meegeteld de onderzochte stoffen waarvoor in kolom 2 van de toepasselijke tabel 1 of 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) een kwaliteitseis is opgenomen.
+9. Bij de toepassing van het achtste lid worden als onderzochte stoffen alleen meegeteld de onderzochte stoffen waarvoor in kolom 2 van de toepasselijke tabel 1 of 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) een kwaliteitseis is opgenomen.
 
-10. In geval van een overschrijding als bedoeld in het achtste lid van de kwaliteitseisen voor de kwaliteitsklasse ‘landbouw/natuur’ of de kwaliteitsklasse ‘algemeen toepasbaar’ bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de concentratiewaarde die voor de stof in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de klasse ‘landbouw/natuur’, onderscheidenlijk de kwaliteitsklasse ‘algemeen toepasbaar’, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’.
+10. In geval van een overschrijding als bedoeld in het achtste lid van de kwaliteitseisen voor de kwaliteitsklasse ‘landbouw/natuur’ of de kwaliteitsklasse ‘algemeen toepasbaar’ bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de concentratiewaarde die voor de stof in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de klasse ‘landbouw/natuur’, onderscheidenlijk de kwaliteitsklasse ‘algemeen toepasbaar’, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’.
 
 ##### Artikel 5.12. (toetsing specifieke kwaliteit)
 
-1. Als de wens bestaat om in de verklaring op grond van een partijkeuring te vermelden dat een partij grond of baggerspecie een specifieke kwaliteit bezit, worden de resultaten van het onderzoek naar de concentraties en emissies van de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld, getoetst volgens dit artikel, de toetsingsregels die zijn opgenomen in de op de specifieke kwaliteit toepasselijke tabel van bijlage B en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01).
+1. Als de wens bestaat om in de verklaring op grond van een partijkeuring te vermelden dat een partij grond of baggerspecie een specifieke kwaliteit bezit, worden de resultaten van het onderzoek naar de concentraties en emissies van de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld, getoetst volgens dit artikel, de toetsingsregels die zijn opgenomen in de op de specifieke kwaliteit toepasselijke tabel van bijlage B en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31).
 
-2. De toetsing vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-01&g=2026-01-01) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
+2. De toetsing vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.9&z=2026-01-31&g=2026-01-31) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
 
 3. Voor asbest wordt de hoogst gemeten concentratie in plaats van het rekenkundig gemiddelde gehanteerd wanneer de concentraties in de mengmonsters niet binnen de ondergrens en bovengrens van elkaars betrouwbaarheidsintervallen vallen.
 
-4. De rekenkundig gemiddelde concentratie of emissie van een stof wordt getoetst aan de kwaliteitseis die voor de stof in de tabel die betrekking heeft op de in de verklaring op grond van een partijkeuring te vermelden specifieke kwaliteit, is opgenomen in de tabellen 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) en voor tarragrond, voor zover van toepassing, aan de kwaliteitseis die is aangegeven in tabel 1 van bijlage B.
+4. De rekenkundig gemiddelde concentratie of emissie van een stof wordt getoetst aan de kwaliteitseis die voor de stof in de tabel die betrekking heeft op de in de verklaring op grond van een partijkeuring te vermelden specifieke kwaliteit, is opgenomen in de tabellen 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) en voor tarragrond, voor zover van toepassing, aan de kwaliteitseis die is aangegeven in tabel 1 van bijlage B.
 
 5. Een partij grond of baggerspecie bezit een specifieke kwaliteit wanneer de rekenkundig gemiddelde concentraties of emissies van alle onderzochte stoffen voldoen aan de voor de specifieke kwaliteit geldende kwaliteitseisen.
 
@@ -1332,7 +1332,7 @@ in aanvulling op het eerste lid aanvullende monsters ten behoeve van het onderzo
 
 - d. de naam en het adres van de instelling die de monsters heeft voorbehandeld en geanalyseerd;
 
-- e. het unieke nummer van het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-01&g=2026-01-01), met de resultaten van het vooronderzoek;
+- e. het unieke nummer van het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-31&g=2026-01-31), met de resultaten van het vooronderzoek;
 
 - f. de data waarop de monsterneming, voorbehandeling en analyse van de monsters zijn uitgevoerd;
 
@@ -1368,17 +1368,17 @@ in aanvulling op het eerste lid aanvullende monsters ten behoeve van het onderzo
 
 - a. ten behoeve van de afgifte een vooronderzoek en partijkeuring volgens deze regeling zijn verricht;
 
-- b. voor de partij een rapport als bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01), is opgesteld;
+- b. voor de partij een rapport als bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- c. voor de partij een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-01&g=2026-01-01), is opgesteld;
+- c. voor de partij een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-01&g=2026-01-01), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.16&z=2026-01-01&g=2026-01-01);
+- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-31&g=2026-01-31), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.16&z=2026-01-31&g=2026-01-31);
 
 - e. de partij niet is ontstaan door samenvoeging van partijen;
 
-- f. de partij voor de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld, in een kwaliteitsklasse wordt ingedeeld, zowel voor het toepassen op of in de landbodem als voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
+- f. de partij voor de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld, in een kwaliteitsklasse wordt ingedeeld, zowel voor het toepassen op of in de landbodem als voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
 
-- g. melding wordt gemaakt van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, en de concentraties, emissies, gehalten of waarden daarvan; en
+- g. melding wordt gemaakt van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, en de concentraties, emissies, gehalten of waarden daarvan; en
 
 - h. melding wordt gemaakt van bodemvreemd materiaal waarvan de aanwezigheid in de partij waarschijnlijk is, en de aard en hoeveelheid daarvan.
 
@@ -1390,11 +1390,11 @@ in aanvulling op het eerste lid aanvullende monsters ten behoeve van het onderzo
 
 - a. de naam en het adres van de persoon die de verklaring heeft afgegeven;
 
-- b. het unieke nummer van het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-01&g=2026-01-01);
+- b. het unieke nummer van het rapport, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2026-01-31&g=2026-01-31);
 
-- c. het unieke nummer van het rapport, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-01&g=2026-01-01);
+- c. het unieke nummer van het rapport, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-31&g=2026-01-31);
 
-- d. de volgende informatie uit het rapport, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-01&g=2026-01-01):
+- d. de volgende informatie uit het rapport, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-31&g=2026-01-31):
 
 - 1°. een nauwkeurige omschrijving van het type grond of baggerspecie;
 
@@ -1404,7 +1404,7 @@ in aanvulling op het eerste lid aanvullende monsters ten behoeve van het onderzo
 
 - 4°. een vermelding van de specifieke kwaliteit van de partij, wanneer daarnaar onderzoek heeft plaatsgevonden en de partij aan de daarvoor geldende kwaliteitseisen voldoet;
 
-- 5°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters en de concentraties, emissies, gehalten en waarden daarvan;
+- 5°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters en de concentraties, emissies, gehalten en waarden daarvan;
 
 - 6°. een vermelding van de aard en hoeveelheid bodemvreemd materiaal;
 
@@ -1464,7 +1464,7 @@ In het bodemonderzoek wordt voor een partij grond of baggerspecie die uit de te 
 
 - b. in hoeverre de partij een specifieke kwaliteit bezit, als de wens bestaat deze in de verklaring op grond van een bodemonderzoek te vermelden;
 
-- c. in hoeverre de partij andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevat; en
+- c. in hoeverre de partij andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevat; en
 
 - d. in hoeverre de partij bodemvreemd materiaal bevat.
 
@@ -1474,13 +1474,13 @@ In het bodemonderzoek wordt voor een partij grond of baggerspecie die uit de te 
 
 2. In het vooronderzoek worden nagegaan welke bodemonderzoeken, activiteiten en ontwikkelingen op de ontgravingslocatie hebben plaatsgevonden en wordt op grond van de aldus verkregen informatie afgeleid en gerapporteerd in hoeverre rekening moet worden gehouden met de waarschijnlijke aanwezigheid in de bodem op de ontgravingslocatie van:
 
-- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die deel uitmaken van het standaardonderzoekspakket;
+- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die deel uitmaken van het standaardonderzoekspakket;
 
-- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die geen deel uitmaken van het standaardonderzoekspakket, in een concentratie die de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
+- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die geen deel uitmaken van het standaardonderzoekspakket, in een concentratie die de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
 
-- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters;
+- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters;
 
-- d. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) in een van nature verhoogde concentratie;
+- d. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) in een van nature verhoogde concentratie;
 
 - e. verschillende van elkaar te onderscheiden partijen; en
 
@@ -1498,7 +1498,7 @@ In het bodemonderzoek wordt voor een partij grond of baggerspecie die uit de te 
 
 - b. als het betrekking heeft op de waterbodem: NEN 5717.
 
-5. In afwijking van het eerste lid kan een vooronderzoek ten behoeve van de afgifte van een verklaring op grond van een bodemonderzoek voor een partij baggerspecie ook worden verricht om na te gaan of kan worden afgezien van het verrichten van een bodemonderzoek als bedoeld in [artikel 5.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01), als de verklaring wordt afgegeven ten behoeve van:
+5. In afwijking van het eerste lid kan een vooronderzoek ten behoeve van de afgifte van een verklaring op grond van een bodemonderzoek voor een partij baggerspecie ook worden verricht om na te gaan of kan worden afgezien van het verrichten van een bodemonderzoek als bedoeld in [artikel 5.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31), als de verklaring wordt afgegeven ten behoeve van:
 
 - a. suppleties van baggerspecie die afkomstig is uit de territoriale zee, langs de kustlijn als bedoeld in [artikel 4.1269, tweede lid, onder g, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1269); en
 
@@ -1516,11 +1516,11 @@ In het bodemonderzoek wordt voor een partij grond of baggerspecie die uit de te 
 
 - c. een beschrijving van de bodemonderzoeken die zijn verricht en de activiteiten en ontwikkelingen die hebben plaatsgevonden, die van invloed kunnen zijn op de kwaliteit van de bodem op de ontgravingslocatie;
 
-- d. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die deel uitmaken van het standaardonderzoekspakket;
+- d. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die deel uitmaken van het standaardonderzoekspakket;
 
-- e. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die geen deel uitmaken van het standaardonderzoekspakket, waarvan de concentratie de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
+- e. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die geen deel uitmaken van het standaardonderzoekspakket, waarvan de concentratie de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
 
-- f. een vermelding van de waarschijnlijke aanwezigheid van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld, andere relevante parameters en bodemvreemd materiaal;
+- f. een vermelding van de waarschijnlijke aanwezigheid van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld, andere relevante parameters en bodemvreemd materiaal;
 
 - g. een aanduiding welke te onderscheiden partijen op de te ontgraven bodemlocatie voorkomen;
 
@@ -1530,7 +1530,7 @@ In het bodemonderzoek wordt voor een partij grond of baggerspecie die uit de te 
 
 - j. een uniek nummer van het rapport.
 
-3. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-01&g=2026-01-01), bevat het rapport ten minste:
+3. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-31&g=2026-01-31), bevat het rapport ten minste:
 
 - a. een conclusie of de partij afkomstig is uit de territoriale zee; en
 
@@ -1538,7 +1538,7 @@ In het bodemonderzoek wordt voor een partij grond of baggerspecie die uit de te 
 
 met dien verstande dat in geval van een negatieve conclusie als bedoeld in onderdeel b kan worden volstaan met de informatie, bedoeld in het tweede lid, onder a, b, c, g, i en j.
 
-4. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-01&g=2026-01-01), bevat het rapport ten minste:
+4. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-31&g=2026-01-31), bevat het rapport ten minste:
 
 - a. een conclusie in hoeverre de baggerspecie afkomstig is uit een oppervlaktewaterlichaam dat in beheer is bij een waterschap;
 
@@ -1574,21 +1574,21 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 - b. uit het vooronderzoek niet is gebleken dat de baggerspecie mogelijk niet voldoet aan de kwaliteitseisen voor de kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’; en
 
-- c. uit het vooronderzoek niet is gebleken dat sprake is van omstandigheden als bedoeld in [artikel 5.20, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01).
+- c. uit het vooronderzoek niet is gebleken dat sprake is van omstandigheden als bedoeld in [artikel 5.20, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31).
 
 4. In het bodemonderzoek worden voor verontreinigende stoffen, andere parameters en bodemvreemd materiaal bepaald:
 
-- a. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld en deel uitmaken van het standaardonderzoekspakket en de gehalten van de parameters lutum en organische stof;
+- a. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld en deel uitmaken van het standaardonderzoekspakket en de gehalten van de parameters lutum en organische stof;
 
-- b. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld en geen deel uitmaken van het standaardonderzoekspakket, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01);
+- b. de concentraties van de stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld en geen deel uitmaken van het standaardonderzoekspakket, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31);
 
-- c. de concentraties van de andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01);
+- c. de concentraties van de andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld, als de stoffen zijn vermeld in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31);
 
-- d. de waarden of gehalten van andere relevante parameters als de parameters zijn vermeld in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01);
+- d. de waarden of gehalten van andere relevante parameters als de parameters zijn vermeld in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31);
 
-- e. de aard en hoeveelheid van het bodemvreemde materiaal als daarvan melding is gemaakt in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01); en
+- e. de aard en hoeveelheid van het bodemvreemde materiaal als daarvan melding is gemaakt in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31); en
 
-- f. de emissies van stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld, als de wens bestaat om in de verklaring op grond van een bodemonderzoek te vermelden dat de partij de specifieke kwaliteit ‘emissiearme grond’ of ‘emissiearme baggerspecie’ bezit.
+- f. de emissies van stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld, als de wens bestaat om in de verklaring op grond van een bodemonderzoek te vermelden dat de partij de specifieke kwaliteit ‘emissiearme grond’ of ‘emissiearme baggerspecie’ bezit.
 
 5. Bodemonderzoek dat op de landbodem betrekking heeft, kan alleen als grondslag voor het afgeven voor een verklaring op grond van een bodemonderzoek worden gebruikt als uit het vooronderzoek is gebleken dat de onderzoeksstrategie moet worden gevolgd die in NEN 5740 is beschreven voor:
 
@@ -1612,29 +1612,29 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 ##### Artikel 5.22. (bepaling samenstelling)
 
-1. De concentraties, gehalten en waarden van de volgens [artikel 5.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01), te onderzoeken verontreinigende stoffen en andere relevante parameters en de aard en hoeveelheid bodemvreemd materiaal in de volgens artikel 5.21, vierde lid, onderscheidenlijk zevende lid, voorbehandelde mengmonsters en monsters worden bepaald met toepassing van de technieken, beschreven in AP 04, of, als het baggerspecie betreft, naar keuze van de opdrachtgever voor het onderzoek, AS 3000 in plaats van AP 04, of, als hiervoor in AP 04, onderscheidenlijk AS 3000, geen methode wordt beschreven, de best beschikbare technieken.
+1. De concentraties, gehalten en waarden van de volgens [artikel 5.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31), te onderzoeken verontreinigende stoffen en andere relevante parameters en de aard en hoeveelheid bodemvreemd materiaal in de volgens artikel 5.21, vierde lid, onderscheidenlijk zevende lid, voorbehandelde mengmonsters en monsters worden bepaald met toepassing van de technieken, beschreven in AP 04, of, als het baggerspecie betreft, naar keuze van de opdrachtgever voor het onderzoek, AS 3000 in plaats van AP 04, of, als hiervoor in AP 04, onderscheidenlijk AS 3000, geen methode wordt beschreven, de best beschikbare technieken.
 
-2. Als bij een bodemonderzoek op de landbodem blijkt dat tussen de concentraties, gehalten of waarden van een verontreinigende stof, uitgezonderd asbest, of andere parameter die volgens het eerste lid, en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01), voor de onderscheiden mengmonsters en monsters zijn bepaald, een verschil van meer dan een factor 2,5 bestaat, wordt [artikel 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.25&z=2026-01-01&g=2026-01-01) niet toegepast dan nadat de werkwijze die tot die uitkomst heeft geleid, met inbegrip van de monsterneming en de samenstelling van mengmonsters, op mogelijke fouten is gecontroleerd en daarbij geen fouten zijn gesignaleerd. Deze controle op fouten wordt uitgevoerd met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
+2. Als bij een bodemonderzoek op de landbodem blijkt dat tussen de concentraties, gehalten of waarden van een verontreinigende stof, uitgezonderd asbest, of andere parameter die volgens het eerste lid, en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31), voor de onderscheiden mengmonsters en monsters zijn bepaald, een verschil van meer dan een factor 2,5 bestaat, wordt [artikel 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.25&z=2026-01-31&g=2026-01-31) niet toegepast dan nadat de werkwijze die tot die uitkomst heeft geleid, met inbegrip van de monsterneming en de samenstelling van mengmonsters, op mogelijke fouten is gecontroleerd en daarbij geen fouten zijn gesignaleerd. Deze controle op fouten wordt uitgevoerd met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
 
-3. In afwijking van het tweede lid wordt een factor 2,1 in plaats van 2,5 gehanteerd wanneer de monstername volgens [artikel 5.21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01), heeft bestaan uit het nemen van twaalf grepen.
+3. In afwijking van het tweede lid wordt een factor 2,1 in plaats van 2,5 gehanteerd wanneer de monstername volgens [artikel 5.21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31), heeft bestaan uit het nemen van twaalf grepen.
 
 ##### Artikel 5.23. (omrekening voor lutum en organische stof)
 
-1. De volgens [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.22&z=2026-01-01&g=2026-01-01) bepaalde concentraties van de onderzochte stoffen worden ten behoeve van de toetsing aan de kwaliteitseisen die voor die stoffen voor de standaardbodem zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), omgerekend naar concentraties in een standaardbodem met behulp van de gemeten gehalten lutum en organische stof.
+1. De volgens [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.22&z=2026-01-31&g=2026-01-31) bepaalde concentraties van de onderzochte stoffen worden ten behoeve van de toetsing aan de kwaliteitseisen die voor die stoffen voor de standaardbodem zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), omgerekend naar concentraties in een standaardbodem met behulp van de gemeten gehalten lutum en organische stof.
 
-2. De omrekening wordt verricht volgens onderdeel II van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01).
+2. De omrekening wordt verricht volgens onderdeel II van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 5.24. (bepaling emissies)
 
-1. Als de wens bestaat om in de verklaring op grond van een bodemonderzoek te vermelden dat een partij grond of baggerspecie de kwaliteit ‘emissiearme grond’ dan wel ‘emissiearme baggerspecie’ bezit, worden de emissies bepaald van de stoffen die in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld.
+1. Als de wens bestaat om in de verklaring op grond van een bodemonderzoek te vermelden dat een partij grond of baggerspecie de kwaliteit ‘emissiearme grond’ dan wel ‘emissiearme baggerspecie’ bezit, worden de emissies bepaald van de stoffen die in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld.
 
-2. De emissies worden bepaald door voor ten minste één van de volgens [artikel 5.21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01), verkregen mengmonsters een kolomproef te verrichten volgens, naar keuze van de opdrachtgever voor het onderzoek, NEN 7373 of NEN 7383.
+2. De emissies worden bepaald door voor ten minste één van de volgens [artikel 5.21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31), verkregen mengmonsters een kolomproef te verrichten volgens, naar keuze van de opdrachtgever voor het onderzoek, NEN 7373 of NEN 7383.
 
-3. De emissies worden voor een partij baggerspecie bepaald door voor alle volgens [artikel 5.21, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01), verkregen mengmonsters een kolomproef te verrichten volgens, naar keuze van de opdrachtgever voor het onderzoek, NEN 7373 of NEN 7383.
+3. De emissies worden voor een partij baggerspecie bepaald door voor alle volgens [artikel 5.21, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31), verkregen mengmonsters een kolomproef te verrichten volgens, naar keuze van de opdrachtgever voor het onderzoek, NEN 7373 of NEN 7383.
 
-4. Als bij de kolomproef door slechte doorlatendheid van de grond of baggerspecie onvoldoende vloeistof door de kolom stroomt, worden de emissies van de te onderzoeken stoffen uit de grond of baggerspecie berekend met toepassing van de formule in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=K&z=2026-01-01&g=2026-01-01).
+4. Als bij de kolomproef door slechte doorlatendheid van de grond of baggerspecie onvoldoende vloeistof door de kolom stroomt, worden de emissies van de te onderzoeken stoffen uit de grond of baggerspecie berekend met toepassing van de formule in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=K&z=2026-01-31&g=2026-01-31).
 
-5. In afwijking van het eerste lid hoeft de emissie van een stof niet te worden bepaald wanneer de volgens [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.23&z=2026-01-01&g=2026-01-01) omgerekende rekenkundig gemiddelde concentratie van de stof in de mengmonsters lager is dan de emissietoetswaarde die voor die stof in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen.
+5. In afwijking van het eerste lid hoeft de emissie van een stof niet te worden bepaald wanneer de volgens [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.23&z=2026-01-31&g=2026-01-31) omgerekende rekenkundig gemiddelde concentratie van de stof in de mengmonsters lager is dan de emissietoetswaarde die voor die stof in tabel 3a van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen.
 
 6. De emissies van de te onderzoeken stoffen die volgens dit artikel zijn bepaald, worden geanalyseerd met toepassing van de technieken, beschreven in AP 04 of, als hiervoor in AP 04 geen methode wordt beschreven, de best beschikbare technieken.
 
@@ -1642,17 +1642,17 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 1. Een partij grond of baggerspecie die uit de onderzochte bodemlocatie wordt ontgraven, wordt ten behoeve van de vermelding van de kwaliteitsklasse volgens [artikel 25d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d) in de volgende kwaliteitsklassen ingedeeld:
 
-- a. voor het toepassen op of in de landbodem volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘landbouw/natuur’, ‘wonen’, ‘industrie’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01); en
+- a. voor het toepassen op of in de landbodem volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘landbouw/natuur’, ‘wonen’, ‘industrie’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31); en
 
-- b. voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘algemeen toepasbaar’, ‘licht verontreinigd’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+- b. voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124): de kwaliteitsklasse ‘algemeen toepasbaar’, ‘licht verontreinigd’, ‘matig verontreinigd’ of ‘sterk verontreinigd’, zoals onderscheiden in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
-2. De indeling van de partij in een kwaliteitsklasse als bedoeld in het eerste lid, onder a of b, vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.23&z=2026-01-01&g=2026-01-01) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
+2. De indeling van de partij in een kwaliteitsklasse als bedoeld in het eerste lid, onder a of b, vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.23&z=2026-01-31&g=2026-01-31) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
 
 3. Voor asbest wordt de hoogst gemeten concentratie in plaats van het rekenkundig gemiddelde gehanteerd wanneer de concentraties in de mengmonsters niet binnen de ondergrens en bovengrens van elkaars betrouwbaarheidsintervallen vallen.
 
-4. De partij grond of baggerspecie wordt ingedeeld in de slechtste kwaliteitsklasse waarin een van de onderzochte stoffen is ingedeeld. Een stof wordt ingedeeld in de kwaliteitsklasse die wordt begrensd door de concentratiewaarden waartussen de concentratie van de stof is gelegen, die zijn opgenomen in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+4. De partij grond of baggerspecie wordt ingedeeld in de slechtste kwaliteitsklasse waarin een van de onderzochte stoffen is ingedeeld. Een stof wordt ingedeeld in de kwaliteitsklasse die wordt begrensd door de concentratiewaarden waartussen de concentratie van de stof is gelegen, die zijn opgenomen in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
-5. De indeling in een kwaliteitsklasse vindt plaats volgens onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01), wanneer zich een in dat onderdeel omschreven situatie voordoet.
+5. De indeling in een kwaliteitsklasse vindt plaats volgens onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31), wanneer zich een in dat onderdeel omschreven situatie voordoet.
 
 6. In afwijking van het eerste lid, onder b, wordt een partij tarragrond niet ingedeeld in een kwaliteitsklasse voor het toepassen in een oppervlaktewaterlichaam.
 
@@ -1668,25 +1668,25 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 - e. wanneer ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste vijf stoffen de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, overschrijden.
 
-8. Bij de toepassing van het zevende lid worden als onderzochte stoffen alleen meegeteld de onderzochte stoffen waarvoor in kolom 2 van de toepasselijke tabel 1 of 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) een kwaliteitseis is opgenomen.
+8. Bij de toepassing van het zevende lid worden als onderzochte stoffen alleen meegeteld de onderzochte stoffen waarvoor in kolom 2 van de toepasselijke tabel 1 of 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) een kwaliteitseis is opgenomen.
 
-9. In geval van een overschrijding als bedoeld in het zevende lid van de kwaliteitseisen voor de kwaliteitsklasse ‘landbouw/natuur’ of de kwaliteitsklasse ‘algemeen toepasbaar’ bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de concentratiewaarde die voor de stof in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de klasse ‘landbouw/natuur’, onderscheidenlijk de kwaliteitsklasse ‘algemeen toepasbaar’, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’.
+9. In geval van een overschrijding als bedoeld in het zevende lid van de kwaliteitseisen voor de kwaliteitsklasse ‘landbouw/natuur’ of de kwaliteitsklasse ‘algemeen toepasbaar’ bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de concentratiewaarde die voor de stof in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de klasse ‘landbouw/natuur’, onderscheidenlijk de kwaliteitsklasse ‘algemeen toepasbaar’, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’.
 
-10. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-01&g=2026-01-01), wordt een partij baggerspecie ten behoeve van de vermelding van de kwaliteitsklasse volgens [artikel 25d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d) ingedeeld in de kwaliteitsklasse ‘algemeen toepasbaar’, als de conclusie in het rapport bedoeld in [artikel 5.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), luidt dat er geen indicaties bestaan dat de zeebodem waaruit de partij baggerspecie afkomstig is, verontreinigd is.
+10. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-31&g=2026-01-31), wordt een partij baggerspecie ten behoeve van de vermelding van de kwaliteitsklasse volgens [artikel 25d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d) ingedeeld in de kwaliteitsklasse ‘algemeen toepasbaar’, als de conclusie in het rapport bedoeld in [artikel 5.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), luidt dat er geen indicaties bestaan dat de zeebodem waaruit de partij baggerspecie afkomstig is, verontreinigd is.
 
 ##### Artikel 5.26. (toetsing specifieke kwaliteit)
 
-1. Als de wens bestaat om in de verklaring op grond van een bodemonderzoek te vermelden dat een partij grond of baggerspecie die uit de onderzochte bodemlocatie wordt ontgraven, een specifieke kwaliteit bezit, worden de resultaten van het onderzoek naar de concentraties en emissies van de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld, getoetst volgens dit artikel, de toetsingsregels die zijn opgenomen in de op de specifieke kwaliteit toepasselijke tabel van bijlage B en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01).
+1. Als de wens bestaat om in de verklaring op grond van een bodemonderzoek te vermelden dat een partij grond of baggerspecie die uit de onderzochte bodemlocatie wordt ontgraven, een specifieke kwaliteit bezit, worden de resultaten van het onderzoek naar de concentraties en emissies van de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld, getoetst volgens dit artikel, de toetsingsregels die zijn opgenomen in de op de specifieke kwaliteit toepasselijke tabel van bijlage B en, wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31).
 
-2. De toetsing vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.23&z=2026-01-01&g=2026-01-01) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
+2. De toetsing vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.23&z=2026-01-31&g=2026-01-31) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
 
 3. Voor asbest wordt de hoogst gemeten concentratie in plaats van het rekenkundig gemiddelde gehanteerd wanneer de concentraties in de mengmonsters niet binnen de ondergrens en bovengrens van elkaars betrouwbaarheidsintervallen vallen.
 
-4. De rekenkundig gemiddelde concentratie of emissie van een stof wordt getoetst aan de kwaliteitseis die voor de stof in de tabel die betrekking heeft op de in de verklaring op grond van een bodemonderzoek te vermelden specifieke kwaliteit, is opgenomen in de tabellen 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) en voor tarragrond, voor zover van toepassing, aan de kwaliteitseis die is aangegeven in tabel 1 van bijlage B.
+4. De rekenkundig gemiddelde concentratie of emissie van een stof wordt getoetst aan de kwaliteitseis die voor de stof in de tabel die betrekking heeft op de in de verklaring op grond van een bodemonderzoek te vermelden specifieke kwaliteit, is opgenomen in de tabellen 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) en voor tarragrond, voor zover van toepassing, aan de kwaliteitseis die is aangegeven in tabel 1 van bijlage B.
 
 5. Een partij grond of baggerspecie bezit een specifieke kwaliteit wanneer de concentraties of emissies van alle onderzochte stoffen voldoen aan de voor de specifieke kwaliteit geldende kwaliteitseisen.
 
-6. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-01&g=2026-01-01), bezit een partij baggerspecie de specifieke kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’, als de conclusie in het rapport bedoeld in [artikel 5.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), luidt dat er geen indicaties bestaan dat de baggerspecie niet voldoet aan de kwaliteitseisen voor de kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’ of dat sprake is van omstandigheden als bedoeld in [artikel 5.21, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01).
+6. In een geval als bedoeld in [artikel 5.19, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.19&z=2026-01-31&g=2026-01-31), bezit een partij baggerspecie de specifieke kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’, als de conclusie in het rapport bedoeld in [artikel 5.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), luidt dat er geen indicaties bestaan dat de baggerspecie niet voldoet aan de kwaliteitseisen voor de kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’ of dat sprake is van omstandigheden als bedoeld in [artikel 5.21, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 5.27. (rapportage bodemonderzoek)
 
@@ -1704,7 +1704,7 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 - e. de naam en het adres van de instelling die de monsters heeft voorbehandeld en geanalyseerd;
 
-- f. het unieke nummer van het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), met de resultaten van het vooronderzoek;
+- f. het unieke nummer van het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), met de resultaten van het vooronderzoek;
 
 - g. de data waarop de monsterneming, voorbehandeling en analyse van de monsters zijn uitgevoerd;
 
@@ -1740,43 +1740,43 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 - a. ten behoeve van de afgifte een vooronderzoek en bodemonderzoek volgens deze regeling zijn verricht;
 
-- b. voor de partij een rapport als bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), is opgesteld;
+- b. voor de partij een rapport als bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- c. voor de partij een rapport als bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-01&g=2026-01-01), is opgesteld;
+- c. voor de partij een rapport als bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-01&g=2026-01-01), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.30&z=2026-01-01&g=2026-01-01);
+- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-31&g=2026-01-31), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.30&z=2026-01-31&g=2026-01-31);
 
 - e. de partij niet door samenvoeging van partijen is ontstaan;
 
-- f. de partij voor de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld, in een kwaliteitsklasse wordt ingedeeld, zowel voor het toepassen op of in de landbodem als voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
+- f. de partij voor de onderzochte stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld, in een kwaliteitsklasse wordt ingedeeld, zowel voor het toepassen op of in de landbodem als voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
 
-- g. melding wordt gemaakt van het voorkomen van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, de concentraties, emissies, gehalten of waarden daarvan; en
+- g. melding wordt gemaakt van het voorkomen van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters waarvan de aanwezigheid in de partij waarschijnlijk is, de concentraties, emissies, gehalten of waarden daarvan; en
 
 - h. melding wordt gemaakt van het voorkomen van bodemvreemd materiaal en de aard en hoeveelheid daarvan.
 
-3. In afwijking van het tweede lid, onder a, mag een verklaring op grond van een bodemonderzoek voor een partij baggerspecie ten behoeve van suppleties van baggerspecie langs de kustlijn als bedoeld in [artikel 4.1269, tweede lid, onder g, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1269) in een geval als bedoeld in [artikel 5.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01), ook worden afgegeven zonder dat een bodemonderzoek is verricht als:
+3. In afwijking van het tweede lid, onder a, mag een verklaring op grond van een bodemonderzoek voor een partij baggerspecie ten behoeve van suppleties van baggerspecie langs de kustlijn als bedoeld in [artikel 4.1269, tweede lid, onder g, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1269) in een geval als bedoeld in [artikel 5.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31), ook worden afgegeven zonder dat een bodemonderzoek is verricht als:
 
 - a. ten behoeve van de afgifte een vooronderzoek volgens deze regeling is verricht;
 
-- b. voor de partij een rapport als bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), is opgesteld;
+- b. voor de partij een rapport als bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- c. uit de conclusie in het in onderdeel b bedoelde rapport blijkt dat sprake is van een partij die afkomstig is uit de territoriale zee en geen sprake is van indicaties als bedoeld in [artikel 5.20, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01);
+- c. uit de conclusie in het in onderdeel b bedoelde rapport blijkt dat sprake is van een partij die afkomstig is uit de territoriale zee en geen sprake is van indicaties als bedoeld in [artikel 5.20, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31);
 
-- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.30&z=2026-01-01&g=2026-01-01);
+- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.30&z=2026-01-31&g=2026-01-31);
 
 - e. de partij niet door samenvoeging van partijen is ontstaan; en
 
-- f. de partij op grond van [artikel 5.25, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.25&z=2026-01-01&g=2026-01-01), in de kwaliteitsklasse ‘algemeen toepasbaar’ is ingedeeld.
+- f. de partij op grond van [artikel 5.25, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.25&z=2026-01-31&g=2026-01-31), in de kwaliteitsklasse ‘algemeen toepasbaar’ is ingedeeld.
 
-4. In afwijking van het tweede lid, onder a, mag een verklaring op grond van een bodemonderzoek voor een partij baggerspecie ten behoeve van verspreiding op gronden die liggen aan of in een oppervlaktewaterlichaam als bedoeld in [artikel 4.1269, derde lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1269) in een geval als bedoeld in [artikel 5.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-01&g=2026-01-01), ook worden afgegeven zonder dat een bodemonderzoek is verricht als:
+4. In afwijking van het tweede lid, onder a, mag een verklaring op grond van een bodemonderzoek voor een partij baggerspecie ten behoeve van verspreiding op gronden die liggen aan of in een oppervlaktewaterlichaam als bedoeld in [artikel 4.1269, derde lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1269) in een geval als bedoeld in [artikel 5.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.21&z=2026-01-31&g=2026-01-31), ook worden afgegeven zonder dat een bodemonderzoek is verricht als:
 
 - a. ten behoeve van de afgifte een vooronderzoek volgens deze regeling is verricht;
 
-- b. voor de partij een rapport als bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), is opgesteld;
+- b. voor de partij een rapport als bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- c. uit de conclusie in het in onderdeel b bedoelde rapport blijkt dat sprake is een partij afkomstig uit een oppervlaktewaterlichaam dat in beheer is bij een waterschap en geen sprake is van indicaties als bedoeld in [artikel 5.20, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), of van omstandigheden als bedoeld in artikel 5.20, vierde lid, onder c;
+- c. uit de conclusie in het in onderdeel b bedoelde rapport blijkt dat sprake is een partij afkomstig uit een oppervlaktewaterlichaam dat in beheer is bij een waterschap en geen sprake is van indicaties als bedoeld in [artikel 5.20, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), of van omstandigheden als bedoeld in artikel 5.20, vierde lid, onder c;
 
-- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.30&z=2026-01-01&g=2026-01-01);
+- d. de partij waarop de verklaring betrekking heeft, niet afwijkt van de partij die in het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31), is beschreven, tenzij de partij is gesplitst volgens [artikel 5.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.30&z=2026-01-31&g=2026-01-31);
 
 - e. de partij niet door samenvoeging van partijen is ontstaan; en
 
@@ -1794,11 +1794,11 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 - d. een nauwkeurige aanduiding of omschrijving van de onderzochte bodemlocatie, waaronder het adres en de coördinaten en een beschrijving van de belangrijkste kenmerken;
 
-- e. het unieke nummer van het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-01&g=2026-01-01);
+- e. het unieke nummer van het rapport, bedoeld in [artikel 5.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.20&z=2026-01-31&g=2026-01-31);
 
-- f. het unieke nummer van het rapport, bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-01&g=2026-01-01);
+- f. het unieke nummer van het rapport, bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-31&g=2026-01-31);
 
-- g. de volgende informatie uit het rapport, bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-01&g=2026-01-01):
+- g. de volgende informatie uit het rapport, bedoeld in [artikel 5.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.27&z=2026-01-31&g=2026-01-31):
 
 - 1°. een nauwkeurige omschrijving van het type grond of baggerspecie;
 
@@ -1808,7 +1808,7 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 - 4°. een vermelding van de specifieke kwaliteit van de partij, wanneer daarnaar onderzoek heeft plaatsgevonden en de partij aan de daarvoor geldende kwaliteitseisen voldoet;
 
-- 5°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters en de concentraties, emissies, gehalten en waarden daarvan; en
+- 5°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters en de concentraties, emissies, gehalten en waarden daarvan; en
 
 - 6°. een vermelding van de aard en hoeveelheid bodemvreemd materiaal;
 
@@ -1824,7 +1824,7 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 4. Als een verklaring op grond van een bodemonderzoek betrekking heeft op een partij baggerspecie met een gehalte Tributyltin meer dan 0,115 mg Sn/kg droge stof en niet meer dan 0,250 mg Sn/kg droge stof wordt in de verklaring op in het oog springende wijze vermeld dat de partij bij het verspreiden in een zout oppervlaktewaterlichaam uitsluitend geschikt is voor verspreiden in de Waddenzee en Zeeuwse Delta.
 
-5. In afwijking van het eerste lid bevat een verklaring op grond van een bodemonderzoek die voor een partij baggerspecie die uit de onderzochte bodemlocatie is ontgraven wordt afgegeven volgens [artikel 5.28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.28&z=2026-01-01&g=2026-01-01), de volgende informatie:
+5. In afwijking van het eerste lid bevat een verklaring op grond van een bodemonderzoek die voor een partij baggerspecie die uit de onderzochte bodemlocatie is ontgraven wordt afgegeven volgens [artikel 5.28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.28&z=2026-01-31&g=2026-01-31), de volgende informatie:
 
 - a. een in het oog springende vermelding dat de partij baggerspecie uitsluitend geschikt is voor toepassing in het kader van suppleties van baggerspecie langs de kustlijn als bedoeld in [artikel 4.1269, tweede lid, onder g, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1269);
 
@@ -1836,7 +1836,7 @@ met dien verstande dat in geval van een negatieve conclusie als bedoeld in onder
 
 - e. de informatie, bedoeld in het eerste lid, onder a, c, d, e, i en j.
 
-6. In afwijking van het eerste lid bevat een verklaring op grond van een bodemonderzoek die voor een partij baggerspecie die uit de onderzochte bodemlocatie is ontgraven, wordt afgegeven volgens [artikel 5.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.28&z=2026-01-01&g=2026-01-01), de volgende informatie:
+6. In afwijking van het eerste lid bevat een verklaring op grond van een bodemonderzoek die voor een partij baggerspecie die uit de onderzochte bodemlocatie is ontgraven, wordt afgegeven volgens [artikel 5.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&artikel=5.28&z=2026-01-31&g=2026-01-31), de volgende informatie:
 
 - a. een in het oog springende vermelding dat de partij baggerspecie uitsluitend geschikt is voor verspreiding op gronden die liggen aan of in een oppervlaktewaterlichaam als bedoeld in [artikel 4.1269, derde lid, onder a, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1269);
 
@@ -1934,11 +1934,11 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 3. Een bodemkwaliteitskaart geeft geen getrouw en actueel beeld van de kwaliteit van de bodem op de ontgravingslocatie als in de bodem van de ontgravingslocatie rekening moet worden gehouden met de waarschijnlijke aanwezigheid van:
 
-- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), waarover de kaart informatie geeft, als de bodem voor die stof in een slechtere kwaliteitsklasse moet worden ingedeeld dan op de kaart voor het gebied waarin de ontgravingslocatie ligt, is aangegeven;
+- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), waarover de kaart informatie geeft, als de bodem voor die stof in een slechtere kwaliteitsklasse moet worden ingedeeld dan op de kaart voor het gebied waarin de ontgravingslocatie ligt, is aangegeven;
 
-- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) waarover de kaart geen informatie geeft, in een concentratie die waarschijnlijk de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’ overschrijdt;
+- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) waarover de kaart geen informatie geeft, in een concentratie die waarschijnlijk de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’ overschrijdt;
 
-- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters waarover de bodemkwaliteitskaart geen informatie geeft; en
+- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters waarover de bodemkwaliteitskaart geen informatie geeft; en
 
 - d. bodemvreemd materiaal waarover de bodemkwaliteitskaart geen informatie geeft.
 
@@ -1960,9 +1960,9 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 6. Om het mogelijk te maken om in een geval als bedoeld in het derde lid toch een verklaring op grond van een bodemkwaliteitskaart af te geven, kan een aanvullend onderzoek worden verricht naar de aanwezigheid van de volgens het vooronderzoek relevante:
 
-- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), waarover de bodemkwaliteitskaart geen informatie geeft, in een concentratie die de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
+- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), waarover de bodemkwaliteitskaart geen informatie geeft, in een concentratie die de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, waarschijnlijk overschrijdt;
 
-- b. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters en waarover de bodemkwaliteitskaart geen informatie geeft; en
+- b. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters en waarover de bodemkwaliteitskaart geen informatie geeft; en
 
 - c. bodemvreemd materiaal waarover de bodemkwaliteitskaart geen informatie geeft.
 
@@ -1992,11 +1992,11 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - g. een uniek nummer van het rapport.
 
-3. In een geval als bedoeld in [artikel 5.33, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-01&g=2026-01-01), bevat het rapport tevens de volgende informatie als resultaat van het verrichte aanvullend onderzoek:
+3. In een geval als bedoeld in [artikel 5.33, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-31&g=2026-01-31), bevat het rapport tevens de volgende informatie als resultaat van het verrichte aanvullend onderzoek:
 
-- a. de concentraties van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), waarover de bodemkwaliteitskaart geen informatie geeft;
+- a. de concentraties van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), waarover de bodemkwaliteitskaart geen informatie geeft;
 
-- b. de concentraties van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters waarover de bodemkwaliteitskaart geen informatie geeft; en
+- b. de concentraties van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters waarover de bodemkwaliteitskaart geen informatie geeft; en
 
 - c. de aard en hoeveelheid van bodemvreemd materiaal waarover de bodemkwaliteitskaart geen informatie geeft.
 
@@ -2010,15 +2010,15 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - b. de ontgravingslocatie is gelegen in een gebied waarvoor een bodemkwaliteitskaart geldt die voor de afgifte van de verklaring een grondslag biedt;
 
-- c. ten behoeve van de afgifte een vooronderzoek volgens [artikel 5.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-01&g=2026-01-01), is verricht;
+- c. ten behoeve van de afgifte een vooronderzoek volgens [artikel 5.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-31&g=2026-01-31), is verricht;
 
-- d. een rapport als bedoeld in [artikel 5.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-01&g=2026-01-01), is opgesteld; en
+- d. een rapport als bedoeld in [artikel 5.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-31&g=2026-01-31), is opgesteld; en
 
 - e. het vooronderzoek geen reden heeft gegeven om aan te nemen dat de bodemkwaliteitskaart mogelijk geen getrouw en actueel beeld van de kwaliteit van de bodem op de ontgravingslocatie geeft;
 
-- f. de beperking van de geldigheid van de verklaring ingevolge [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.32&z=2026-01-01&g=2026-01-01) in de verklaring is vermeld met de tekst die is opgenomen in [artikel 5.36, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.36&z=2026-01-01&g=2026-01-01).
+- f. de beperking van de geldigheid van de verklaring ingevolge [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.32&z=2026-01-31&g=2026-01-31) in de verklaring is vermeld met de tekst die is opgenomen in [artikel 5.36, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.36&z=2026-01-31&g=2026-01-31).
 
-3. In afwijking van het tweede lid, onder e, mag een verklaring op grond van een bodemkwaliteitskaart in een geval als bedoeld in [artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-01&g=2026-01-01), ook worden afgegeven als een aanvullend onderzoek als bedoeld in artikel 5.33, zesde lid, is uitgevoerd en het rapport, bedoeld in [artikel 5.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-01&g=2026-01-01), tevens de relevante informatie bevat die is weergegeven in artikel 5.34, derde lid.
+3. In afwijking van het tweede lid, onder e, mag een verklaring op grond van een bodemkwaliteitskaart in een geval als bedoeld in [artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-31&g=2026-01-31), ook worden afgegeven als een aanvullend onderzoek als bedoeld in artikel 5.33, zesde lid, is uitgevoerd en het rapport, bedoeld in [artikel 5.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-31&g=2026-01-31), tevens de relevante informatie bevat die is weergegeven in artikel 5.34, derde lid.
 
 ##### Artikel 5.36. (inhoud verklaring op grond van een bodemkwaliteitskaart)
 
@@ -2026,13 +2026,13 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - a. een in het oog springende vermelding dat de verklaring op een partij grond, onderscheidenlijk baggerspecie, betrekking heeft;
 
-- b. een in het oog springende vermelding van de beperking van de geldigheid van de verklaring met de volgende tekst: ‘Van deze verklaring mag bij het toepassen van de partij grond of baggerspecie waarvoor zij is afgegeven, alleen gebruik worden gemaakt wanneer dit volgens [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.32&z=2026-01-01&g=2026-01-01) van de Regeling bodemkwaliteit 2022 is toegestaan’;
+- b. een in het oog springende vermelding van de beperking van de geldigheid van de verklaring met de volgende tekst: ‘Van deze verklaring mag bij het toepassen van de partij grond of baggerspecie waarvoor zij is afgegeven, alleen gebruik worden gemaakt wanneer dit volgens [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.32&z=2026-01-31&g=2026-01-31) van de Regeling bodemkwaliteit 2022 is toegestaan’;
 
 - c. de naam en het adres van de persoon die de verklaring heeft afgegeven;
 
 - d. een aanduiding van de bodemkwaliteitskaart die de grondslag biedt voor het afgeven van de verklaring, en de op die kaart onderscheiden zone en bodemlaag waarin de ontgravingslocatie is gelegen;
 
-- e. het unieke nummer van het rapport, bedoeld in [artikel 5.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-01&g=2026-01-01);
+- e. het unieke nummer van het rapport, bedoeld in [artikel 5.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-31&g=2026-01-31);
 
 - f. een conclusie of het vooronderzoek reden heeft gegeven om aan te nemen dat de in onderdeel d bedoelde bodemkwaliteitskaart mogelijk geen getrouw en actueel beeld van de kwaliteit van de bodem op de ontgravingslocatie geeft en een onderbouwing van de conclusie;
 
@@ -2050,17 +2050,17 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - 5°. een vermelding van de aard en hoeveelheid bodemvreemd materiaal dat volgens de in onderdeel d bedoelde bodemkwaliteitskaart of het aanvullend onderzoek op de ontgravingslocatie aanwezig is;
 
-- 6°. de concentraties, emissies, waarden en gehalten van relevante verontreinigende stoffen of andere relevante parameters als bedoeld in [artikel 5.34, derde lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-01&g=2026-01-01), die volgens de in onderdeel d bedoelde bodemkwaliteitskaart of het aanvullend onderzoek op de ontgravingslocatie aanwezig zijn;
+- 6°. de concentraties, emissies, waarden en gehalten van relevante verontreinigende stoffen of andere relevante parameters als bedoeld in [artikel 5.34, derde lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.34&z=2026-01-31&g=2026-01-31), die volgens de in onderdeel d bedoelde bodemkwaliteitskaart of het aanvullend onderzoek op de ontgravingslocatie aanwezig zijn;
 
 - i. een uniek nummer van de verklaring; en
 
 - j. een originele ondertekening door de natuurlijke persoon die daartoe is geautoriseerd door de persoon die de verklaring heeft afgegeven, dan wel de natuurlijke persoon die de verklaring onder eigen naam en verantwoordelijkheid heeft afgegeven, en de vermelding van de naam van de ondertekenaar en de datum van ondertekening.
 
-2. In een geval als bedoeld in [artikel 5.33, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-01&g=2026-01-01), bevat het rapport tevens de volgende informatie als resultaat van het verrichte aanvullend onderzoek:
+2. In een geval als bedoeld in [artikel 5.33, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-31&g=2026-01-31), bevat het rapport tevens de volgende informatie als resultaat van het verrichte aanvullend onderzoek:
 
-- a. de concentraties van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), waarover de in het eerste lid, onder d, bedoelde bodemkwaliteitskaart geen informatie geeft;
+- a. de concentraties van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), waarover de in het eerste lid, onder d, bedoelde bodemkwaliteitskaart geen informatie geeft;
 
-- b. de concentraties van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters waarover de in het eerste lid, onder d, bedoelde bodemkwaliteitskaart geen informatie geeft; en
+- b. de concentraties van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters waarover de in het eerste lid, onder d, bedoelde bodemkwaliteitskaart geen informatie geeft; en
 
 - c. de aard en hoeveelheid van bodemvreemd materiaal waarover de in het eerste lid, onder d, bedoelde bodemkwaliteitskaart geen informatie geeft.
 
@@ -2068,7 +2068,7 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 4. Bij vermelding van de kwaliteitsklasse waarin de partij is ingedeeld volgens het eerste lid, onder h, 3°, kan tevens de kwaliteitsklasse voor baggerspecie worden vermeld, als de in het eerste lid, onder d, bedoelde bodemkwaliteitskaart door de gemeenteraad is vastgesteld en die kwaliteitsklasse vermeldt of voldoende informatie bevat om de partij in die kwaliteitsklasse in te delen, dan wel de kwaliteitsklasse voor grond, als de in het eerste lid, onder d, bedoelde bodemkwaliteitskaart door de waterbeheerder is vastgesteld en die kwaliteitsklasse vermeldt of voldoende informatie bevat om de partij in die kwaliteitsklasse in te delen.
 
-5. Een verklaring op grond van een bodemkwaliteitskaart die voor een partij grond of baggerspecie wordt afgegeven, kan ten behoeve van de voorgenomen specifieke toepassing van de partij volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124) vermelden dat de partij voldoet aan de kwaliteitseisen die voor de vermelde specifieke kwaliteit zijn opgenomen in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) als de bodemkwaliteitskaart die specifieke kwaliteit uitdrukkelijk vermeldt.
+5. Een verklaring op grond van een bodemkwaliteitskaart die voor een partij grond of baggerspecie wordt afgegeven, kan ten behoeve van de voorgenomen specifieke toepassing van de partij volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124) vermelden dat de partij voldoet aan de kwaliteitseisen die voor de vermelde specifieke kwaliteit zijn opgenomen in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) als de bodemkwaliteitskaart die specifieke kwaliteit uitdrukkelijk vermeldt.
 
 ##### Artikel 5.37. (splitsing van een partij)
 
@@ -2104,7 +2104,7 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 1. Het afgeven van erkende kwaliteitsverklaringen en het onderzoek ten behoeve van de erkenning van producenten van grond of baggerspecie die het recht hebben om voor door hen geproduceerde partijen van een bepaald producttype grond of baggerspecie een erkende kwaliteitsverklaring af te geven vinden plaats volgens de bepalingen van deze paragraaf.
 
-2. Een erkende kwaliteitsverklaring heeft betrekking op partijen van een bepaald producttype grond of baggerspecie die uit een gecontroleerd productieproces komen en van gewaarborgde kwaliteit zijn, voor zover het partijen grond of baggerspecie betreft waarop een van de volgende normdocumenten, genoemd in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), van toepassing is:
+2. Een erkende kwaliteitsverklaring heeft betrekking op partijen van een bepaald producttype grond of baggerspecie die uit een gecontroleerd productieproces komen en van gewaarborgde kwaliteit zijn, voor zover het partijen grond of baggerspecie betreft waarop een van de volgende normdocumenten, genoemd in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), van toepassing is:
 
 - a. BRL 5078, over het product ‘groutmengsels voor het afdichten van boorgaten’, voor zover het grond betreft;
 
@@ -2118,23 +2118,25 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - f. BRL 9335 en het bijbehorende SIKB-protocol 9335-1 over het product ‘grond of baggerspecie’, waarvan de partijen het resultaat zijn van de werkzaamheden van een persoon die is erkend op grond van BRL 9335 en het bijbehorende SIKB-protocol 9335-1;
 
-- g. BRL 9335 en het bijbehorende SIKB-protocol 9335-2 over het product ‘grond waarvan de partijen vrijkomen bij grootschalige projecten of het resultaat zijn van procesmatige grondreinigingsinstallaties’; of
+- g. BRL 9335 en het bijbehorende SIKB-protocol 9335-2 over het product ‘grond waarvan de partijen vrijkomen bij grootschalige projecten';
 
-- h. BRL 9335 en het bijbehorende SIKB-protocol 9335-4 over ‘samengestelde grondproducten’.
+- h. BRL 9335 en het bijbehorende SIKB-protocol 9335-4 over ‘samengestelde grondproducten'; of
+
+- i. BRL 9335 en het bijbehorende SIKB-protocol 9335-10 over ‘grond waarvan de partijen het resultaat zijn van procesmatige grondreinigingsinstallaties’.
 
 ##### Artikel 5.39. (voorwaarden voor het afgeven van een erkende kwaliteitsverklaring)
 
-1. Om het recht te verkrijgen om voor partijen van een bepaald producttype grond of baggerspecie een erkende kwaliteitsverklaring af te geven, beschikt de producent van de grond of baggerspecie voor dat producttype over een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01).
+1. Om het recht te verkrijgen om voor partijen van een bepaald producttype grond of baggerspecie een erkende kwaliteitsverklaring af te geven, beschikt de producent van de grond of baggerspecie voor dat producttype over een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31).
 
-2. Een erkenning bodemkwaliteit voor het produceren van een bepaald producttype grond of baggerspecie is gebaseerd op een productcertificaat voor dat producttype dat is verleend op grond van een toelatingsonderzoek volgens de bepalingen van deze paragraaf en, het toepasselijke normdocument BRL 5078, BRL 5079, BRL 9313, BRL 9321, BRL 9326 of BRL 9335 en het bijbehorende SIKB-protocol 9335-1, 9335-2 of 9335-4, zoals aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01).
+2. Een erkenning bodemkwaliteit voor het produceren van een bepaald producttype grond of baggerspecie is gebaseerd op een productcertificaat voor dat producttype dat is verleend op grond van een toelatingsonderzoek volgens de bepalingen van deze paragraaf en het toepasselijke normdocument BRL 5078, BRL 5079, BRL 9313, BRL 9321, BRL 9326 of BRL 9335 en het bijbehorende SIKB protocol 9335-1, 9335-2, 9335-4 of 9335-10, zoals aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 5.40. (vereisten voor toelatingsonderzoek)
 
 1. Een erkenning bodemkwaliteit voor het produceren van een bepaald producttype grond of baggerspecie wordt alleen afgegeven als het productcertificaat waarop de erkenning bodemkwaliteit is gebaseerd, is verleend op grond van een toelatingsonderzoek dat voldoet aan de bepalingen van deze paragraaf, door een certificeringsinstelling die:
 
-- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
+- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
 
-- b. op grond van normdocument BRL 5708, BRL 5079, BRL 9313, BRL 9321, BRL 9326, BRL 9335 en het bijbehorende SIKB-protocol 9335-1, 9335-2 of 9335-4, zoals aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor de grond of baggerspecie.
+- b. op grond van normdocument BRL 5708, BRL 5079, BRL 9313, BRL 9321, BRL 9326, BRL 9335 en het bijbehorende SIKB-protocol 9335-1, 9335-2, 9335-4 of 9335-10, zoals aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor de grond of baggerspecie.
 
 2. Het toelatingsonderzoek omvat:
 
@@ -2142,9 +2144,9 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - b. een beoordeling van het systeem van kwaliteitsbewaking dat de producent hanteert om te verzekeren dat de partijen grond of baggerspecie die hij produceert, overeenkomen met de partijen grond of baggerspecie die in de productcontrole zijn onderzocht, en nog steeds voldoen aan de vereisten die in het derde lid zijn gesteld;
 
-- c. de bepaling van de keuringsfrequentie waarmee voor stoffen en andere parameters volgens de [artikelen 5.53 tot en met 5.55](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01) verificatiekeuringen moeten worden verricht; en
+- c. de bepaling van de keuringsfrequentie waarmee voor stoffen en andere parameters volgens de [artikelen 5.53 tot en met 5.55](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31) verificatiekeuringen moeten worden verricht; en
 
-- d. voor zover het grond of baggerspecie betreft waarop BRL 9335 en het bijbehorende SIKB-protocol 9335-1 van toepassing zijn en die is geproduceerd door een persoon die op grond van dat normdocument en protocol is erkend voor de werkzaamheid, bedoeld in categorie 18 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01): een beoordeling van het systeem van kwaliteitsbewaking dat de producent hanteert om te waarborgen dat de partijen grond of baggerspecie zijn samengevoegd volgens [artikel 4.1255 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1255).
+- d. voor zover het grond of baggerspecie betreft waarop BRL 9335 en het bijbehorende SIKB-protocol 9335-1 van toepassing zijn en die is geproduceerd door een persoon die op grond van dat normdocument en protocol is erkend voor de werkzaamheid, bedoeld in categorie 18 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31): een beoordeling van het systeem van kwaliteitsbewaking dat de producent hanteert om te waarborgen dat de partijen grond of baggerspecie zijn samengevoegd volgens [artikel 4.1255 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1255).
 
 3. In het kader van de productcontrole en de kwaliteitsbewaking wordt voor partijen van het producttype grond of baggerspecie onderzocht of de partij:
 
@@ -2152,7 +2154,7 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - b. de specifieke kwaliteit bezit die in de erkende kwaliteitsverklaring wordt vermeld;
 
-- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevat; en
+- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevat; en
 
 - d. bodemvreemd materiaal bevat.
 
@@ -2160,9 +2162,9 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 1. De productcontrole in het kader van het toelatingsonderzoek omvat partijkeuringen van vijf of, naar keuze van de producent, tien partijen grond of baggerspecie die representatief zijn voor de kwaliteit van de partijen grond of baggerspecie die worden geproduceerd, en wordt uitgevoerd op de locatie waar de partijen zijn geproduceerd.
 
-2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-01&g=2026-01-01) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-01&g=2026-01-01).
+2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-31&g=2026-01-31) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-31&g=2026-01-31).
 
-3. In afwijking van het tweede lid juncto [artikel 5.33, eerste lid of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-01&g=2026-01-01), hoeft geen vooronderzoek, onderscheidenlijk aanvullend onderzoek, te worden verricht als het een partij grond of baggerspecie betreft die in ontvangst is genomen door een persoon die is erkend op grond van BRL 9335 en het bijbehorende SIKB-protocol 9335-1 en de partij niet meer bedraagt dan 100 ton.
+3. In afwijking van het tweede lid juncto [artikel 5.33, eerste lid of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.3&artikel=5.33&z=2026-01-31&g=2026-01-31), hoeft geen vooronderzoek, onderscheidenlijk aanvullend onderzoek, te worden verricht als het een partij grond of baggerspecie betreft die in ontvangst is genomen door een persoon die is erkend op grond van BRL 9335 en het bijbehorende SIKB-protocol 9335-1 en de partij niet meer bedraagt dan 100 ton.
 
 4. Verschillende producenten van hetzelfde producttype grond of baggerspecie mogen partijkeuringen in het kader van het toelatingsonderzoek gemeenschappelijk uitvoeren.
 
@@ -2184,11 +2186,11 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - c. een beschrijving van de wijze waarop wordt gewaarborgd dat de partijen grond of baggerspecie die worden geproduceerd behoren tot hetzelfde producttype grond of baggerspecie waartoe de partijen behoren die in de productcontrole zijn onderzocht, zodat:
 
-- 1°. de grond of baggerspecie voldoen aan de kwaliteitseisen die in tabel 1 en tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) voor de relevante stoffen zijn opgenomen voor de kwaliteitsklassen die in de erkende kwaliteitsverklaring worden vermeld;
+- 1°. de grond of baggerspecie voldoen aan de kwaliteitseisen die in tabel 1 en tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) voor de relevante stoffen zijn opgenomen voor de kwaliteitsklassen die in de erkende kwaliteitsverklaring worden vermeld;
 
-- 2°. voldoen aan de kwaliteitseisen die in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) voor de relevante stoffen zijn opgenomen voor de specifieke kwaliteit grond of die in de erkende kwaliteitsverklaring wordt vermeld;
+- 2°. voldoen aan de kwaliteitseisen die in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) voor de relevante stoffen zijn opgenomen voor de specifieke kwaliteit grond of die in de erkende kwaliteitsverklaring wordt vermeld;
 
-- 3°. de concentraties, emissies, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters geen toename vertonen ten opzichte van de hoogste concentraties, emissies, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld; en
+- 3°. de concentraties, emissies, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters geen toename vertonen ten opzichte van de hoogste concentraties, emissies, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld; en
 
 - 4°. de aard en hoeveelheid bodemvreemd materiaal niet afwijken van wat in de partijkeuringen in het kader van de productcontrole is aangetroffen;
 
@@ -2198,17 +2200,17 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - f. een register waarin op overzichtelijke en navolgbare wijze wordt bijgehouden hoe het systeem van kwaliteitsbewaking in de praktijk functioneert, met inbegrip van de controles die zijn verricht en de resultaten daarvan, waarbij in het bijzonder wordt vermeld in hoeverre de grond of baggerspecie aan alle daarvoor geldende vereisten voldoet en welke maatregelen als bedoeld in onderdeel e zijn genomen.
 
-##### Artikel 5.43. (toelatingsonderzoek: keuringsfrequentie voor in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermelde stoffen)
+##### Artikel 5.43. (toelatingsonderzoek: keuringsfrequentie voor in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermelde stoffen)
 
-1. In het toelatingsonderzoek wordt voor elke stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is vermeld en die bij de productcontrole is onderzocht, de keuringsfrequentie voor het verrichten van de verificatiekeuringen bepaald, waarbij, naar keuze van de producent, gebruik kan worden gemaakt van de k-waardetoets, de gammatoets of de verdelingsvrije toets, en wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) wordt toegepast, met dien verstande dat niet voor elke stof dezelfde methode hoeft te worden gekozen.
+1. In het toelatingsonderzoek wordt voor elke stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is vermeld en die bij de productcontrole is onderzocht, de keuringsfrequentie voor het verrichten van de verificatiekeuringen bepaald, waarbij, naar keuze van de producent, gebruik kan worden gemaakt van de k-waardetoets, de gammatoets of de verdelingsvrije toets, en wanneer zich een in dat onderdeel omschreven situatie voordoet, onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) wordt toegepast, met dien verstande dat niet voor elke stof dezelfde methode hoeft te worden gekozen.
 
 2. De methoden ter bepaling van de keuringsfrequentie worden uitgevoerd volgens:
 
-- a. als het de k-waardetoets betreft: onderdeel 1 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01);
+- a. als het de k-waardetoets betreft: onderdeel 1 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31);
 
-- b. als het de gammatoets betreft: onderdeel 2 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01); en
+- b. als het de gammatoets betreft: onderdeel 2 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31); en
 
-- c. als het de verdelingsvrije toets betreft: onderdeel 3 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01).
+- c. als het de verdelingsvrije toets betreft: onderdeel 3 van [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31).
 
 3. In afwijking van het eerste en tweede lid wordt als keuringsfrequentie gehanteerd:
 
@@ -2216,21 +2218,21 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - b. voor zover het grond of baggerspecie betreft waarop BRL 9335 en het bijbehorende SIKB-protocol 9335-4 van toepassing zijn: de keuringsfrequentie die volgens paragraaf 6.8.2 van SIKB-protocol 9335-4 bij BRL 9335 is bepaald.
 
-4. Dit artikel is niet van toepassing op situaties waarin voor een stof op grond van [artikel 5.44](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.44&z=2026-01-01&g=2026-01-01) een bijzondere keuringsfrequentie geldt.
+4. Dit artikel is niet van toepassing op situaties waarin voor een stof op grond van [artikel 5.44](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.44&z=2026-01-31&g=2026-01-31) een bijzondere keuringsfrequentie geldt.
 
-##### Artikel 5.44. (toelatingsonderzoek: bijzondere bepalingsmethoden voor de keuringsfrequenties voor in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermelde stoffen en andere parameters)
+##### Artikel 5.44. (toelatingsonderzoek: bijzondere bepalingsmethoden voor de keuringsfrequenties voor in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermelde stoffen en andere parameters)
 
-1. Wanneer in het toelatingsonderzoek de concentraties van een stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is vermeld, in alle onderzochte partijen lager zijn dan de bepalingsgrens die in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-01&g=2026-01-01) is opgenomen, geldt voor de stof een keuringsfrequentie van één verificatiekeuring per vijf jaar.
+1. Wanneer in het toelatingsonderzoek de concentraties van een stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is vermeld, in alle onderzochte partijen lager zijn dan de bepalingsgrens die in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-31&g=2026-01-31) is opgenomen, geldt voor de stof een keuringsfrequentie van één verificatiekeuring per vijf jaar.
 
 2. Voor asbest gelden voor het verrichten van de verificatiekeuringen de volgende keuringsfrequenties:
 
-- a. als in een van de onderzochte partijen asbest is aangetroffen: de hoogste keuringsfrequentie die volgens dit artikel of [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-01&g=2026-01-01) is bepaald voor enige stof die in de grond of baggerspecie is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht; en
+- a. als in een van de onderzochte partijen asbest is aangetroffen: de hoogste keuringsfrequentie die volgens dit artikel of [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-31&g=2026-01-31) is bepaald voor enige stof die in de grond of baggerspecie is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht; en
 
-- b. als in geen van de partijen asbest is aangetroffen: de laagste keuringsfrequentie die volgens dit artikel of [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-01&g=2026-01-01) is bepaald voor enige stof die in de grond of baggerspecie is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht.
+- b. als in geen van de partijen asbest is aangetroffen: de laagste keuringsfrequentie die volgens dit artikel of [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-31&g=2026-01-31) is bepaald voor enige stof die in de grond of baggerspecie is aangetroffen en waarvoor verificatiekeuringen moeten worden verricht.
 
-##### Artikel 5.45. (toelatingsonderzoek: keuringsfrequenties voor niet in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermelde stoffen en andere parameters)
+##### Artikel 5.45. (toelatingsonderzoek: keuringsfrequenties voor niet in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermelde stoffen en andere parameters)
 
-Als bij de partijkeuringen in het kader van de productcontrole in een partij grond of baggerspecie andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters zijn aangetroffen, geldt voor elk van die stoffen en andere parameters voor het verrichten van de verificatiekeuringen de hoogste keuringsfrequentie die voor enige stof die in bijlage B is vermeld en waarvoor verificatiekeuringen moeten worden verricht, volgens [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-01&g=2026-01-01) is bepaald.
+Als bij de partijkeuringen in het kader van de productcontrole in een partij grond of baggerspecie andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters zijn aangetroffen, geldt voor elk van die stoffen en andere parameters voor het verrichten van de verificatiekeuringen de hoogste keuringsfrequentie die voor enige stof die in bijlage B is vermeld en waarvoor verificatiekeuringen moeten worden verricht, volgens [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-31&g=2026-01-31) is bepaald.
 
 ##### Artikel 5.46. (rapportage toelatingsonderzoek)
 
@@ -2242,17 +2244,17 @@ Als bij de partijkeuringen in het kader van de productcontrole in een partij gro
 
 - b. de naam en een nauwkeurige omschrijving van het producttype grond of baggerspecie dat is onderzocht;
 
-- c. de naam en het adres van de producent van het producttype grond of baggerspecie of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 5.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.41&z=2026-01-01&g=2026-01-01), de namen en adressen van de deelnemende producenten van grond of baggerspecie;
+- c. de naam en het adres van de producent van het producttype grond of baggerspecie of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 5.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.41&z=2026-01-31&g=2026-01-31), de namen en adressen van de deelnemende producenten van grond of baggerspecie;
 
 - d. de unieke nummers van de rapporten van de partijkeuringen die zijn verricht;
 
 - e. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen die voldoen aan de vereisten die aan partijen worden gesteld op grond van het systeem van kwaliteitsbewaking dat de producent hanteert;
 
-- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen grond of baggerspecie die tot hetzelfde producttype behoren en dezelfde kwaliteit, samenstelling en herkomst hebben, wanneer er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 5.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.41&z=2026-01-01&g=2026-01-01);
+- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen grond of baggerspecie die tot hetzelfde producttype behoren en dezelfde kwaliteit, samenstelling en herkomst hebben, wanneer er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 5.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.41&z=2026-01-31&g=2026-01-31);
 
 - g. een conclusie in hoeverre de onderzochte partijen grond of baggerspecie voldoen aan de kwaliteitseisen voor de kwaliteitsklassen die in de erkende kwaliteitsverklaring worden vermeld, zowel voor het toepassen op of in de landbodem als voor het toepassen in een oppervlaktewaterlichaam volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124);
 
-- h. een conclusie in hoeverre de onderzochte partijen grond of baggerspecie andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevatten, en de hoogste concentraties, emissies, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
+- h. een conclusie in hoeverre de onderzochte partijen grond of baggerspecie andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevatten, en de hoogste concentraties, emissies, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
 
 - i. een vermelding van het voorkomen van bodemvreemd materiaal en de aard en hoeveelheid daarvan;
 
@@ -2260,9 +2262,9 @@ Als bij de partijkeuringen in het kader van de productcontrole in een partij gro
 
 - k. een conclusie of het systeem van kwaliteitsbewaking dat de producent hanteert, volledig en doeltreffend is en op juiste wijze wordt toegepast;
 
-- l. voor elke stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is vermeld en die bij de productcontrole is onderzocht, de berekende keuringsfrequentie voor het verrichten van de verificatiekeuringen;
+- l. voor elke stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is vermeld en die bij de productcontrole is onderzocht, de berekende keuringsfrequentie voor het verrichten van de verificatiekeuringen;
 
-- m. voor zover sprake is van de aanwezigheid van asbest, andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters, de voor het verrichten van de verificatiekeuringen aan te houden keuringsfrequentie;
+- m. voor zover sprake is van de aanwezigheid van asbest, andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters, de voor het verrichten van de verificatiekeuringen aan te houden keuringsfrequentie;
 
 - n. een conclusie in hoeverre bij het produceren van de grond of baggerspecie een naar behoren functionerend systeem van kwaliteitsbewaking wordt gehanteerd en de voorwaarden aanwezig zijn om het goede functioneren daarvan in de praktijk te verzekeren;
 
@@ -2274,15 +2276,15 @@ Als bij de partijkeuringen in het kader van de productcontrole in een partij gro
 
 ##### Artikel 5.47. (aanvraag van een erkenning bodemkwaliteit voor het produceren van grond of baggerspecie)
 
-Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), worden naast de informatie die op grond van andere wettelijke bepalingen moet worden verstrekt, tevens de volgende documenten verstrekt:
+Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), worden naast de informatie die op grond van andere wettelijke bepalingen moet worden verstrekt, tevens de volgende documenten verstrekt:
 
-- a. het productcertificaat voor het producttype grond of baggerspecie waarop de aanvraag betrekking heeft, dat is verleend op grond van een normdocument als genoemd in [artikel 5.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.38&z=2026-01-01&g=2026-01-01); en
+- a. het productcertificaat voor het producttype grond of baggerspecie waarop de aanvraag betrekking heeft, dat is verleend op grond van een normdocument als genoemd in [artikel 5.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.38&z=2026-01-31&g=2026-01-31); en
 
-- b. het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-01&g=2026-01-01), behoudens, in afwijking van artikel 5.46, derde lid, de rapporten van de partijkeuringen die in het kader van het toelatingsonderzoek zijn verricht.
+- b. het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-31&g=2026-01-31), behoudens, in afwijking van artikel 5.46, derde lid, de rapporten van de partijkeuringen die in het kader van het toelatingsonderzoek zijn verricht.
 
 ##### Artikel 5.48. (recht op afgifte van een erkende kwaliteitsverklaring)
 
-1. De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is verleend, heeft het recht voor de door hem geproduceerde partijen van het producttype grond of baggerspecie, een erkende kwaliteitsverklaring af te geven die is bestemd voor eenmalig gebruik bij het toepassen van de partij grond of baggerspecie waarvoor zij is afgegeven, als aan de volgende voorwaarden is voldaan:
+1. De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is verleend, heeft het recht voor de door hem geproduceerde partijen van het producttype grond of baggerspecie, een erkende kwaliteitsverklaring af te geven die is bestemd voor eenmalig gebruik bij het toepassen van de partij grond of baggerspecie waarvoor zij is afgegeven, als aan de volgende voorwaarden is voldaan:
 
 - a. het systeem van kwaliteitsbewaking dat in het toelatingsonderzoek is onderzocht, wordt op juiste wijze toegepast; en
 
@@ -2290,21 +2292,21 @@ Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘producer
 
 2. Zo lang een producent gebruik maakt van het recht om voor een bepaald producttype grond of baggerspecie een erkende kwaliteitsverklaring af te geven wordt voor door hem geproduceerde partijen grond of baggerspecie van dat producttype geen ander type milieuverklaring bodemkwaliteit afgegeven.
 
-3. Als in een verificatiekeuring als bedoeld in [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01), volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01) is geconcludeerd dat voor een stof of andere parameter een partijkeuring moet worden verricht voor elke partij grond of baggerspecie, wordt voor een partij uitsluitend een erkende kwaliteitsverklaring afgegeven als voor de stof of andere parameter is voldaan aan alle voorwaarden die in [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.14&z=2026-01-01&g=2026-01-01) zijn gesteld voor het afgeven van een verklaring op grond van een partijkeuring.
+3. Als in een verificatiekeuring als bedoeld in [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31), volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31) is geconcludeerd dat voor een stof of andere parameter een partijkeuring moet worden verricht voor elke partij grond of baggerspecie, wordt voor een partij uitsluitend een erkende kwaliteitsverklaring afgegeven als voor de stof of andere parameter is voldaan aan alle voorwaarden die in [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.14&z=2026-01-31&g=2026-01-31) zijn gesteld voor het afgeven van een verklaring op grond van een partijkeuring.
 
-4. De producent geeft voor een partij grond of baggerspecie die hij heeft geproduceerd, geen erkende kwaliteitsverklaring af als uit een verificatiekeuring als bedoeld in [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01), een controle in het kader van zijn systeem van kwaliteitsbewaking of anderszins is gebleken dat de partij niet overeenkomt met de partijen grond of baggerspecie die in de productcontrole zijn onderzocht.
+4. De producent geeft voor een partij grond of baggerspecie die hij heeft geproduceerd, geen erkende kwaliteitsverklaring af als uit een verificatiekeuring als bedoeld in [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31), een controle in het kader van zijn systeem van kwaliteitsbewaking of anderszins is gebleken dat de partij niet overeenkomt met de partijen grond of baggerspecie die in de productcontrole zijn onderzocht.
 
 ##### Artikel 5.49. (inhoud erkende kwaliteitsverklaring)
 
 1. Een erkende kwaliteitsverklaring bevat voor de partij grond of baggerspecie waarop zij betrekking heeft, de volgende informatie:
 
-- a. de naam en het adres van de persoon die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01);
+- a. de naam en het adres van de persoon die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31);
 
 - b. het unieke nummer van het productcertificaat waarop de erkenning bodemkwaliteit is gebaseerd;
 
-- c. het unieke nummer van het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-01&g=2026-01-01);
+- c. het unieke nummer van het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-31&g=2026-01-31);
 
-- d. de volgende informatie uit het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-01&g=2026-01-01):
+- d. de volgende informatie uit het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-31&g=2026-01-31):
 
 - 1°. de naam en een nauwkeurige omschrijving van het producttype grond of baggerspecie waarop de verklaring betrekking heeft;
 
@@ -2312,7 +2314,7 @@ Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘producer
 
 - 3°. een vermelding van de specifieke kwaliteit van de partij, wanneer daarnaar onderzoek heeft plaatsgevonden en de partij aan de daarvoor geldende kwaliteitseisen voldoet;
 
-- 4°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters, en de hoogste concentraties, emissies, gehalten en waarden die daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld; en
+- 4°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters, en de hoogste concentraties, emissies, gehalten en waarden die daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld; en
 
 - 5°. een vermelding van de aard en hoeveelheid bodemvreemd materiaal;
 
@@ -2324,7 +2326,7 @@ Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘producer
 
 2. Als een erkende kwaliteitsverklaring betrekking heeft op een partij tarragrond wordt in de verklaring in afwijking van het eerste lid, onder d, 2°, geen kwaliteitsklasse voor het toepassen in een oppervlaktewaterlichaam vermeld.
 
-3. Na elke verificatiekeuring wordt voor andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters de vermelding van de hoogste concentraties, emissies, gehalten en waarden daarvan in de erkende kwaliteitsverklaring zo nodig in overeenstemming gebracht met de resultaten van de verificatiekeuring, bedoeld in [artikel 5.53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01).
+3. Na elke verificatiekeuring wordt voor andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters de vermelding van de hoogste concentraties, emissies, gehalten en waarden daarvan in de erkende kwaliteitsverklaring zo nodig in overeenstemming gebracht met de resultaten van de verificatiekeuring, bedoeld in [artikel 5.53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 5.50. (afleverbon)
 
@@ -2390,19 +2392,19 @@ Bij de aanvraag om een erkenning bodemkwaliteit voor de werkzaamheid ‘producer
 
 ##### Artikel 5.52. (bewaarplicht)
 
-Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), bewaart gedurende ten minste vijf jaar nadat aan de erkenning bodemkwaliteit een eind is gekomen, de volgende informatie:
+Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), bewaart gedurende ten minste vijf jaar nadat aan de erkenning bodemkwaliteit een eind is gekomen, de volgende informatie:
 
-- a. het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-01&g=2026-01-01);
+- a. het rapport, bedoeld in [artikel 5.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.46&z=2026-01-31&g=2026-01-31);
 
-- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 5.42, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.42&z=2026-01-01&g=2026-01-01); en
+- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 5.42, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.42&z=2026-01-31&g=2026-01-31); en
 
-- c. de resultaten van de verificatiekeuringen die ter voldoening aan [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01), zijn verricht.
+- c. de resultaten van de verificatiekeuringen die ter voldoening aan [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31), zijn verricht.
 
 ##### Artikel 5.53. (verificatiekeuring)
 
-1. De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is verleend, verricht voor alle stoffen en andere parameters die in het kader van het toelatingsonderzoek zijn onderzocht, verificatiekeuringen.
+1. De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is verleend, verricht voor alle stoffen en andere parameters die in het kader van het toelatingsonderzoek zijn onderzocht, verificatiekeuringen.
 
-2. Als verschillende producenten het toelatingsonderzoek op grond van [artikel 5.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.41&z=2026-01-01&g=2026-01-01), gemeenschappelijk hebben uitgevoerd, mogen producenten de verificatiekeuringen eveneens gemeenschappelijk uitvoeren, waarbij de verificatiekeuringen door een producent naar keuze mogen worden uitgevoerd.
+2. Als verschillende producenten het toelatingsonderzoek op grond van [artikel 5.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.41&z=2026-01-31&g=2026-01-31), gemeenschappelijk hebben uitgevoerd, mogen producenten de verificatiekeuringen eveneens gemeenschappelijk uitvoeren, waarbij de verificatiekeuringen door een producent naar keuze mogen worden uitgevoerd.
 
 3. Een verificatiekeuring omvat:
 
@@ -2410,11 +2412,11 @@ Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald p
 
 - b. het toetsen van de resultaten van het onderzoek aan de kwaliteitseisen die gelden voor indeling van de grond of baggerspecie in de kwaliteitsklassen voor het toepassen op of in de landbodem of het toepassen in een oppervlaktewaterlichaam die in de erkende kwaliteitsverklaring zijn vermeld;
 
-- c. het opnieuw bepalen van de hoogste concentraties, emissies, waarden en gehalten van de onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters in de laatste vijf partijkeuringen; en
+- c. het opnieuw bepalen van de hoogste concentraties, emissies, waarden en gehalten van de onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters in de laatste vijf partijkeuringen; en
 
-- d. het opnieuw bepalen, met overeenkomstige toepassing van de [artikelen 5.43 tot en met 5.45](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-01&g=2026-01-01), van de keuringsfrequentie waarmee voor de te onderzoeken stoffen en andere parameters verificatiekeuringen moeten worden verricht.
+- d. het opnieuw bepalen, met overeenkomstige toepassing van de [artikelen 5.43 tot en met 5.45](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.43&z=2026-01-31&g=2026-01-31), van de keuringsfrequentie waarmee voor de te onderzoeken stoffen en andere parameters verificatiekeuringen moeten worden verricht.
 
-4. De partijkeuringen in het kader van de verificatiekeuring worden verricht volgens [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-01&g=2026-01-01), met dien verstande dat, als niet elke partij hoeft te worden gekeurd, in afwijking van [artikel 5.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-01&g=2026-01-01), slechts één mengmonster hoeft te worden samengesteld, dat uit ten minste 50 grepen bestaat.
+4. De partijkeuringen in het kader van de verificatiekeuring worden verricht volgens [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-31&g=2026-01-31), met dien verstande dat, als niet elke partij hoeft te worden gekeurd, in afwijking van [artikel 5.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.7&z=2026-01-31&g=2026-01-31), slechts één mengmonster hoeft te worden samengesteld, dat uit ten minste 50 grepen bestaat.
 
 5. Na elke verificatiekeuring wordt de keuringsfrequentie waarmee voor de onderzochte stoffen en andere parameters verificatiekeuringen moeten worden verricht, opnieuw berekend op grond van de achtereenvolgende resultaten van de onmiddellijk voorafgaande partijkeuringen die hebben plaatsgevonden in het kader van het toelatingsonderzoek of de verificatiekeuringen, waarbij wanneer gebruik wordt gemaakt van de k-waardetoets of de gammatoets telkens:
 
@@ -2422,15 +2424,15 @@ Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald p
 
 - b. de gegevens van de nieuwste keuring worden toegevoegd.
 
-6. De resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-01&g=2026-01-01). Het rapport bevat tevens voor elke onderzochte stof of andere parameter:
+6. De resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-31&g=2026-01-31). Het rapport bevat tevens voor elke onderzochte stof of andere parameter:
 
 - a. de opnieuw vastgestelde keuringsfrequentie voor het verrichten van de verificatiekeuringen; en
 
-- b. voor zover het andere stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters betreft: de hoogste concentraties, emissies, gehalten en waarden daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek en de verificatiekeuringen.
+- b. voor zover het andere stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters betreft: de hoogste concentraties, emissies, gehalten en waarden daarvan in de laatste vijf partijkeuringen in het kader van het toelatingsonderzoek en de verificatiekeuringen.
 
 ##### Artikel 5.54. (verificatiekeuring: bijzondere keuringsfrequenties)
 
-1. In afwijking van [artikel 5.53, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01), hoeft bij het bepalen van de keuringsfrequentie voor het verrichten van verificatiekeuringen voor een stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is vermeld, geen rekening te worden gehouden met de nieuwe spreiding van de resultaten van achtereenvolgende keuringen in geval van:
+1. In afwijking van [artikel 5.53, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31), hoeft bij het bepalen van de keuringsfrequentie voor het verrichten van verificatiekeuringen voor een stof die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is vermeld, geen rekening te worden gehouden met de nieuwe spreiding van de resultaten van achtereenvolgende keuringen in geval van:
 
 - a. een structurele verandering van de kwaliteit van de grond of baggerspecie waardoor de concentraties van de stof verbeteren; of
 
@@ -2442,11 +2444,11 @@ Een producent die is erkend voor de werkzaamheid ‘produceren van een bepaald p
 
 ##### Artikel 5.55. (verificatiekeuring: wisseling van keuringsfrequentie)
 
-Als voor een stof in het kader van de verificatiekeuring volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-01&g=2026-01-01) voor elke partij een partijkeuring moest worden verricht, mag op een lagere keuringsfrequentie worden overgestapt wanneer die keuringsfrequentie volgens bijlage H volgt uit de k-waarde die is berekend op grond van ten minste tien partijkeuringen, waarvan ten minste vijf partijkeuringen voor opeenvolgend geproduceerde partijen zijn verricht.
+Als voor een stof in het kader van de verificatiekeuring volgens [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=H&z=2026-01-31&g=2026-01-31) voor elke partij een partijkeuring moest worden verricht, mag op een lagere keuringsfrequentie worden overgestapt wanneer die keuringsfrequentie volgens bijlage H volgt uit de k-waarde die is berekend op grond van ten minste tien partijkeuringen, waarvan ten minste vijf partijkeuringen voor opeenvolgend geproduceerde partijen zijn verricht.
 
 ##### Artikel 5.56. (opschorting van het recht op afgifte van een erkende kwaliteitsverklaring)
 
-De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is verleend, kan tijdelijk geen gebruik maken van het recht om voor het producttype grond of baggerspecie waarop de erkenning bodemkwaliteit betrekking heeft, een erkende kwaliteitsverklaring af te geven zo lang hij niet heeft voldaan aan de verplichting op grond van [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-01&g=2026-01-01), om verificatiekeuringen te verrichten.
+De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor de werkzaamheid ‘produceren van een bepaald producttype grond of baggerspecie’, aangewezen in categorie 10 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is verleend, kan tijdelijk geen gebruik maken van het recht om voor het producttype grond of baggerspecie waarop de erkenning bodemkwaliteit betrekking heeft, een erkende kwaliteitsverklaring af te geven zo lang hij niet heeft voldaan aan de verplichting op grond van [artikel 5.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&artikel=5.53&z=2026-01-31&g=2026-01-31), om verificatiekeuringen te verrichten.
 
 #### Paragraaf 5.5. Fabrikant-eigenverklaring
 
@@ -2462,9 +2464,9 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 2. Het toelatingsonderzoek wordt verricht onder toezicht van een certificeringsinstelling die:
 
-- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
+- a. op grond van de normdocumenten, aangewezen in categorie 6 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het certificeren van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd; en
 
-- b. op grond van een normdocument voor grond of baggerspecie, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor grond of baggerspecie.
+- b. op grond van een normdocument voor grond of baggerspecie, aangewezen in categorie 2 van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31), is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor grond of baggerspecie.
 
 3. Het toelatingsonderzoek omvat:
 
@@ -2474,23 +2476,23 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 4. In het kader van de productcontrole en de beoordeling van het systeem van kwaliteitsbewaking wordt nagegaan in hoeverre partijen grond of baggerspecie die de producent produceert:
 
-- a. voor de te onderzoeken stoffen ten behoeve van het toepassen op of in de landbodem voldoen aan de kwaliteitseisen die in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn opgenomen voor indeling in de kwaliteitsklasse ‘landbouw/natuur’;
+- a. voor de te onderzoeken stoffen ten behoeve van het toepassen op of in de landbodem voldoen aan de kwaliteitseisen die in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn opgenomen voor indeling in de kwaliteitsklasse ‘landbouw/natuur’;
 
-- b. voor de te onderzoeken stoffen ten behoeve van het toepassen in een oppervlaktewaterlichaam voldoen aan de kwaliteitseisen die in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) voor de relevante stoffen zijn opgenomen voor indeling in de kwaliteitsklasse ‘algemeen toepasbaar’;
+- b. voor de te onderzoeken stoffen ten behoeve van het toepassen in een oppervlaktewaterlichaam voldoen aan de kwaliteitseisen die in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) voor de relevante stoffen zijn opgenomen voor indeling in de kwaliteitsklasse ‘algemeen toepasbaar’;
 
-- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevatten; en
+- c. andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevatten; en
 
 - d. bodemvreemd materiaal bevatten.
 
-5. In afwijking van het vierde lid wordt voor tarragrond in het kader van de productcontrole niet nagegaan in hoeverre de tarragrond die de producent produceert, voldoet aan de kwaliteitseisen die in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) voor de te onderzoeken stoffen zijn opgenomen voor indeling in de kwaliteitsklasse ‘algemeen toepasbaar’.
+5. In afwijking van het vierde lid wordt voor tarragrond in het kader van de productcontrole niet nagegaan in hoeverre de tarragrond die de producent produceert, voldoet aan de kwaliteitseisen die in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) voor de te onderzoeken stoffen zijn opgenomen voor indeling in de kwaliteitsklasse ‘algemeen toepasbaar’.
 
 ##### Artikel 5.59. (toelatingsonderzoek: productcontrole)
 
 1. De productcontrole in het kader van het toelatingsonderzoek omvat partijkeuringen van ten minste tien partijen grond of baggerspecie die representatief zijn voor de kwaliteit van de partijen van het producttype grond of baggerspecie die worden geproduceerd, en wordt uitgevoerd op de locatie waar de partijen zijn geproduceerd.
 
-2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-01&g=2026-01-01) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-01&g=2026-01-01).
+2. De partijkeuringen in het kader van de productcontrole worden verricht volgens [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-31&g=2026-01-31) en de resultaten van elke partijkeuring worden vastgelegd in een rapport als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&artikel=5.13&z=2026-01-31&g=2026-01-31).
 
-3. Voor stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld, is aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voldaan als uit de resultaten van de partijkeuringen die in het kader van de productcontrole zijn verricht, is gebleken dat elke onderzochte partij kan worden ingedeeld in de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’.
+3. Voor stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld, is aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voldaan als uit de resultaten van de partijkeuringen die in het kader van de productcontrole zijn verricht, is gebleken dat elke onderzochte partij kan worden ingedeeld in de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’.
 
 4. Verschillende producenten van hetzelfde producttype grond of baggerspecie mogen partijkeuringen in het kader van het toelatingsonderzoek gemeenschappelijk uitvoeren.
 
@@ -2520,9 +2522,9 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 - 1°. alle partijen kunnen worden ingedeeld in de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’; en
 
-- 2°. voldoen aan de kwaliteitseisen die in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) voor de relevante stoffen zijn opgenomen voor een specifieke kwaliteit grond of baggerspecie die in de erkende kwaliteitsverklaring wordt vermeld;
+- 2°. voldoen aan de kwaliteitseisen die in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) voor de relevante stoffen zijn opgenomen voor een specifieke kwaliteit grond of baggerspecie die in de erkende kwaliteitsverklaring wordt vermeld;
 
-- 3°. de concentraties, emissies, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld en andere relevante parameters geen toename vertonen ten opzichte van de hoogste concentraties, emissies, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld; en
+- 3°. de concentraties, emissies, gehalten of waarden van andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld en andere relevante parameters geen toename vertonen ten opzichte van de hoogste concentraties, emissies, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld; en
 
 - 4°. de aard en hoeveelheid bodemvreemd materiaal niet afwijken van wat in de partijkeuringen in het kader van de productcontrole is aangetroffen;
 
@@ -2538,7 +2540,7 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 2. Het rapport bevat de volgende informatie:
 
-- a. de naam en het adres van de producent van de grond of baggerspecie of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 5.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-01&g=2026-01-01), de namen en adressen van de deelnemende producenten van grond of baggerspecie;
+- a. de naam en het adres van de producent van de grond of baggerspecie of, wanneer er sprake is van een gemeenschappelijk toelatingsonderzoek als bedoeld in [artikel 5.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-31&g=2026-01-31), de namen en adressen van de deelnemende producenten van grond of baggerspecie;
 
 - b. de naam en een nauwkeurige omschrijving van het producttype grond of baggerspecie dat is onderzocht;
 
@@ -2548,11 +2550,11 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 - e. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen grond of baggerspecie die voldoen aan de eisen die aan partijen worden gesteld op grond van het systeem van kwaliteitsbewaking dat de producent hanteert;
 
-- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen grond of baggerspecie van hetzelfde producttype met een overeenkomende kwaliteit, samenstelling en herkomst, wanneer zich een geval voordoet als bedoeld in [artikel 5.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.60&z=2026-01-01&g=2026-01-01), of er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 5.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-01&g=2026-01-01);
+- f. een conclusie in hoeverre de partijkeuringen die zijn verricht, betrekking hebben op partijen grond of baggerspecie van hetzelfde producttype met een overeenkomende kwaliteit, samenstelling en herkomst, wanneer zich een geval voordoet als bedoeld in [artikel 5.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.60&z=2026-01-31&g=2026-01-31), of er sprake is van een gemeenschappelijk onderzoek als bedoeld in [artikel 5.59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-31&g=2026-01-31);
 
 - g. een conclusie in hoeverre de onderzochte partijen grond of baggerspecie in de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘algemeen toepasbaar’, kunnen worden ingedeeld;
 
-- h. een conclusie in hoeverre de onderzochte partijen grond of baggerspecie andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters bevatten, en de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
+- h. een conclusie in hoeverre de onderzochte partijen grond of baggerspecie andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters bevatten, en de hoogste emissies, concentraties, gehalten of waarden die daarvan in de partijkeuringen in het kader van de productcontrole zijn vastgesteld;
 
 - i. wanneer daarnaar onderzoek heeft plaatsgevonden, een conclusie in hoeverre de onderzochte partijen grond of baggerspecie voldoen aan de kwaliteitseisen voor de specifieke kwaliteit die in de erkende kwaliteitsverklaring wordt vermeld;
 
@@ -2570,7 +2572,7 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 1. De producent van grond of baggerspecie heeft het recht om gedurende een periode van vijf jaar voor de door hem geproduceerde partijen van een bepaald producttype grond of baggerspecie een fabrikant-eigenverklaring af te geven die is bestemd voor eenmalig gebruik bij het toepassen van de partij grond of baggerspecie waarvoor zij is afgegeven, als aan de volgende voorwaarden is voldaan:
 
-- a. het toelatingsonderzoek rechtvaardigt blijkens het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-01&g=2026-01-01), de conclusie dat is voldaan aan het vereiste dat in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-01&g=2026-01-01), is gesteld;
+- a. het toelatingsonderzoek rechtvaardigt blijkens het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-31&g=2026-01-31), de conclusie dat is voldaan aan het vereiste dat in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-31&g=2026-01-31), is gesteld;
 
 - b. een certificeringsinstelling die is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor producten op grond van een nationale BRL, heeft bevestigd dat het toelatingsonderzoek op juiste wijze is uitgevoerd en de conclusie rechtvaardigt dat is voldaan aan het vereiste dat in artikel 5.59, derde lid, is gesteld;
 
@@ -2594,15 +2596,15 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 - a. de naam en het adres van de producent die de grond of baggerspecie produceert;
 
-- b. het unieke nummer van het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-01&g=2026-01-01);
+- b. het unieke nummer van het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-31&g=2026-01-31);
 
-- c. de volgende informatie uit het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-01&g=2026-01-01):
+- c. de volgende informatie uit het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-31&g=2026-01-31):
 
 - 1°. de naam en een nauwkeurige omschrijving van het producttype grond of baggerspecie waarop de verklaring betrekking heeft;
 
 - 2°. een vermelding dat de partij voor het toepassen op of in de landbodem volgens [paragraaf 4.124 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.124) is ingedeeld in de kwaliteitsklasse ‘landbouw/natuur’ en voor het toepassen in een oppervlaktewaterlichaam volgens paragraaf 4.124 van het Besluit activiteiten leefomgeving in de kwaliteitsklasse ‘algemeen toepasbaar’;
 
-- 3°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) vermeld of andere relevante parameters, en de hoogste concentraties, emissies, gehalten en waarden die daarvan in de partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld; en
+- 3°. een vermelding van de eventuele aanwezigheid van onderzochte andere verontreinigende stoffen dan in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) vermeld of andere relevante parameters, en de hoogste concentraties, emissies, gehalten en waarden die daarvan in de partijkeuringen in het kader van het toelatingsonderzoek zijn vastgesteld; en
 
 - 4°. een vermelding van de aard en hoeveelheid bodemvreemd materiaal.
 
@@ -2668,21 +2670,21 @@ De producent van grond of baggerspecie aan wie een erkenning bodemkwaliteit voor
 
 ##### Artikel 5.67. (bewaarplicht)
 
-Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af te geven, bewaart gedurende ten minste vijf jaar na de einddatum van de periode waarin gebruik mag worden gemaakt van het recht om de verklaring af te geven, met inbegrip van de periode waarin dat recht volgens [artikel 5.68](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.68&z=2026-01-01&g=2026-01-01) is verlengd, de volgende informatie:
+Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af te geven, bewaart gedurende ten minste vijf jaar na de einddatum van de periode waarin gebruik mag worden gemaakt van het recht om de verklaring af te geven, met inbegrip van de periode waarin dat recht volgens [artikel 5.68](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.68&z=2026-01-31&g=2026-01-31) is verlengd, de volgende informatie:
 
-- a. het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-01&g=2026-01-01); en
+- a. het rapport, bedoeld in [artikel 5.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.62&z=2026-01-31&g=2026-01-31); en
 
-- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 5.61, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.61&z=2026-01-01&g=2026-01-01).
+- b. de documentatie over het systeem van kwaliteitsbewaking en het register, bedoeld in [artikel 5.61, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.61&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 5.68. (verlenging)
 
-1. Een producent die het recht heeft verkregen om gedurende een periode van vijf jaar voor de door hem geproduceerde partijen grond of baggerspecie een fabrikant-eigenverklaring af te geven en na afloop van deze periode van dit recht gebruik wil blijven maken, stelt een rapport op waarin hij aantoont dat hij de komende vijf jaar in staat is om te blijven voldoen aan de voorwaarden die in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-01&g=2026-01-01), voor het afgeven van een fabrikant-eigenverklaring zijn gesteld.
+1. Een producent die het recht heeft verkregen om gedurende een periode van vijf jaar voor de door hem geproduceerde partijen grond of baggerspecie een fabrikant-eigenverklaring af te geven en na afloop van deze periode van dit recht gebruik wil blijven maken, stelt een rapport op waarin hij aantoont dat hij de komende vijf jaar in staat is om te blijven voldoen aan de voorwaarden die in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-31&g=2026-01-31), voor het afgeven van een fabrikant-eigenverklaring zijn gesteld.
 
 2. De producent heeft het recht om opnieuw gedurende een periode van vijf jaar voor de door hem geproduceerde grond of baggerspecie een fabrikant-eigenverklaring af te geven als aan de volgende voorwaarden is voldaan:
 
-- a. het door hem opgestelde rapport rechtvaardigt de conclusie dat hij nog steeds voldoet aan het vereiste dat in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-01&g=2026-01-01), is gesteld;
+- a. het door hem opgestelde rapport rechtvaardigt de conclusie dat hij nog steeds voldoet aan het vereiste dat in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-31&g=2026-01-31), is gesteld;
 
-- b. een certificeringsinstelling die is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor producten op grond van een nationale BRL, heeft bevestigd dat het rapport, bedoeld in onderdeel a, op juiste wijze is opgesteld en de conclusie rechtvaardigt dat is voldaan aan het vereiste dat in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-01&g=2026-01-01), is gesteld;
+- b. een certificeringsinstelling die is geaccrediteerd en erkend voor het verlenen van een productcertificaat voor producten op grond van een nationale BRL, heeft bevestigd dat het rapport, bedoeld in onderdeel a, op juiste wijze is opgesteld en de conclusie rechtvaardigt dat is voldaan aan het vereiste dat in [artikel 5.59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.59&z=2026-01-31&g=2026-01-31), is gesteld;
 
 - c. de door hem geproduceerd partijen grond of baggerspecie komen overeen met de partijen die in de productcontrole zijn onderzocht;
 
@@ -2692,7 +2694,7 @@ Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af 
 
 3. Voor het doen van een melding als bedoeld het tweede lid, onder e, wordt gebruikt gemaakt van de modelverklaring die is gepubliceerd op de website [https://loket.rijkswaterstaat.nl](https://loket.rijkswaterstaat.nl), onder bijvoeging van de bevestiging van de certificeringsinstelling, bedoeld in het tweede lid, onder b en een verklaring waarin degene die de melding doet, instemt met openbaarmaking van de informatie, bedoeld in het vijfde lid, op genoemde website.
 
-4. De einddatum, bedoeld in [artikel 5.63, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.63&z=2026-01-01&g=2026-01-01), wordt op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
+4. De einddatum, bedoeld in [artikel 5.63, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.63&z=2026-01-31&g=2026-01-31), wordt op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
 
 ##### Artikel 5.69. (tussentijdse wijzigingen)
 
@@ -2706,7 +2708,7 @@ Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af 
 
 3. In een geval als bedoeld in het eerste lid geeft de producent geen fabrikant-eigenverklaring meer af voor de door hem geproduceerde grond of baggerspecie.
 
-4. In een geval als bedoeld in het eerste lid wordt de einddatum, bedoeld in [artikel 5.63, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.63&z=2026-01-01&g=2026-01-01), op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
+4. In een geval als bedoeld in het eerste lid wordt de einddatum, bedoeld in [artikel 5.63, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.5&artikel=5.63&z=2026-01-31&g=2026-01-31), op de website [https://loket.rijkswaterstaat.nl/zoeken](https://loket.rijkswaterstaat.nl/zoeken) geactualiseerd.
 
 ### Hoofdstuk 6. Het afgeven van een milieuverklaring bodemkwaliteit voor partijen mijnsteen en vermengde mijnsteen ten behoeve van toepassing in de voormalige mijnbouwgebieden
 
@@ -2716,17 +2718,17 @@ Een producent die het recht heeft verkregen om een fabrikant-eigenverklaring af 
 
 2. In een milieuverklaring bodemkwaliteit die volgens dit hoofdstuk wordt afgegeven, wordt op in het oog springende wijze vermeld dat de mijnsteen of vermengde mijnsteen uitsluitend geschikt is voor toepassing in de voormalige mijnbouwgebieden volgens [paragraaf 4.125 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.125).
 
-##### Artikel 6.2. (van overeenkomstige toepassing verklaring van [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-01&g=2026-01-01))
+##### Artikel 6.2. (van overeenkomstige toepassing verklaring van [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-31&g=2026-01-31))
 
-Op het afgeven van een verklaring op grond van een partijkeuring voor een partij mijnsteen of vermengde mijnsteen en het verrichten van het onderzoek ter voorbereiding van de afgifte van de verklaring is [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat in de verklaring als specifieke kwaliteit alleen de kwaliteit ‘emissiearme mijnsteen’ of ‘emissiearme vermengde mijnsteen’ kan worden vermeld.
+Op het afgeven van een verklaring op grond van een partijkeuring voor een partij mijnsteen of vermengde mijnsteen en het verrichten van het onderzoek ter voorbereiding van de afgifte van de verklaring is [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.1&z=2026-01-31&g=2026-01-31) van overeenkomstige toepassing, met dien verstande dat in de verklaring als specifieke kwaliteit alleen de kwaliteit ‘emissiearme mijnsteen’ of ‘emissiearme vermengde mijnsteen’ kan worden vermeld.
 
-##### Artikel 6.3. (van overeenkomstige toepassing verklaring van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&z=2026-01-01&g=2026-01-01))
+##### Artikel 6.3. (van overeenkomstige toepassing verklaring van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&z=2026-01-31&g=2026-01-31))
 
-Op het afgeven van een verklaring op grond van een bodemonderzoek voor een partij mijnsteen of vermengde mijnsteen en het verrichten van het onderzoek ter voorbereiding van de afgifte van de verklaring is [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat in de verklaring als specifieke kwaliteit alleen de kwaliteit ‘emissiearme mijnsteen’ of ‘emissiearme vermengde mijnsteen’ kan worden vermeld.
+Op het afgeven van een verklaring op grond van een bodemonderzoek voor een partij mijnsteen of vermengde mijnsteen en het verrichten van het onderzoek ter voorbereiding van de afgifte van de verklaring is [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.2&z=2026-01-31&g=2026-01-31) van overeenkomstige toepassing, met dien verstande dat in de verklaring als specifieke kwaliteit alleen de kwaliteit ‘emissiearme mijnsteen’ of ‘emissiearme vermengde mijnsteen’ kan worden vermeld.
 
-##### Artikel 6.4. (van overeenkomstige toepassing verklaring van [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&z=2026-01-01&g=2026-01-01))
+##### Artikel 6.4. (van overeenkomstige toepassing verklaring van [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&z=2026-01-31&g=2026-01-31))
 
-Op het afgeven van een erkende kwaliteitsverklaring voor een partij mijnsteen of vermengde mijnsteen en het verrichten van het onderzoek ter voorbereiding van de afgifte van de verklaring is [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat in de verklaring als specifieke kwaliteit alleen de kwaliteit ‘emissiearme mijnsteen’ of ‘emissiearme vermengde mijnsteen’ kan worden vermeld.
+Op het afgeven van een erkende kwaliteitsverklaring voor een partij mijnsteen of vermengde mijnsteen en het verrichten van het onderzoek ter voorbereiding van de afgifte van de verklaring is [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=5&paragraaf=5.4&z=2026-01-31&g=2026-01-31) van overeenkomstige toepassing, met dien verstande dat in de verklaring als specifieke kwaliteit alleen de kwaliteit ‘emissiearme mijnsteen’ of ‘emissiearme vermengde mijnsteen’ kan worden vermeld.
 
 ### Hoofdstuk 7. Het afgeven van een milieuverklaring bodemkwaliteit voor de ontvangende bodem
 
@@ -2746,9 +2748,9 @@ In het bodemonderzoek wordt voor de toepassingslocatie onderzocht in welke kwali
 
 2. In het vooronderzoek wordt nagegaan welke bodemonderzoeken, activiteiten en ontwikkelingen op de toepassingslocatie hebben plaatsgevonden en wordt op grond van de aldus verkregen informatie afgeleid en gerapporteerd in hoeverre rekening moet worden gehouden met de waarschijnlijke aanwezigheid in de bodem op de toepassingslocatie van:
 
-- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) in een concentratie die waarschijnlijk de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘niet verontreinigd’, overschrijdt;
+- a. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) in een concentratie die waarschijnlijk de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘niet verontreinigd’, overschrijdt;
 
-- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) in een van nature verhoogde concentratie; en
+- b. stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) in een van nature verhoogde concentratie; en
 
 - c. verschillende kwaliteitsklassen.
 
@@ -2778,11 +2780,11 @@ moet worden gevolgd volgens:
 
 - c. een beschrijving van de bodemonderzoeken die zijn verricht en de activiteiten en ontwikkelingen die hebben plaatsgevonden, die van invloed kunnen zijn op de kwaliteit van de bodem op de toepassingslocatie;
 
-- d. een vermelding van de waarschijnlijke aanwezigheid in de bodem van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die deel uitmaken van het standaardonderzoekspakket;
+- d. een vermelding van de waarschijnlijke aanwezigheid in de bodem van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die deel uitmaken van het standaardonderzoekspakket;
 
-- e. een vermelding van de waarschijnlijke aanwezigheid in de bodem van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die geen deel uitmaken van het standaardonderzoekspakket, waarvan de concentratie de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘niet verontreinigd’, waarschijnlijk overschrijdt;
+- e. een vermelding van de waarschijnlijke aanwezigheid in de bodem van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die geen deel uitmaken van het standaardonderzoekspakket, waarvan de concentratie de kwaliteitseis voor de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘niet verontreinigd’, waarschijnlijk overschrijdt;
 
-- f. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) die in een van nature verhoogde concentratie in de bodem aanwezig kunnen zijn;
+- f. een vermelding van de waarschijnlijke aanwezigheid van stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) die in een van nature verhoogde concentratie in de bodem aanwezig kunnen zijn;
 
 - g. een aanduiding in hoeverre op de toepassingslocatie verschillende kwaliteitsklassen voorkomen;
 
@@ -2796,7 +2798,7 @@ moet worden gevolgd volgens:
 
 1. Ter voorbereiding van de afgifte van een verklaring op grond van een bodemonderzoek voor de kwaliteit van de ontvangende bodem op de toepassingslocatie wordt een bodemonderzoek verricht.
 
-2. In het bodemonderzoek worden voor stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) zijn vermeld en deel uitmaken van het standaardonderzoekspakket, en voor stoffen die in bijlage B zijn vermeld en geen deel uitmaken van het standaardonderzoekspakket, alsmede voor de stoffen die zijn vermeld in het rapport, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-01&g=2026-01-01), de concentraties bepaald, alsmede de gehalten van de parameters lutum en organische stof.
+2. In het bodemonderzoek worden voor stoffen die in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) zijn vermeld en deel uitmaken van het standaardonderzoekspakket, en voor stoffen die in bijlage B zijn vermeld en geen deel uitmaken van het standaardonderzoekspakket, alsmede voor de stoffen die zijn vermeld in het rapport, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-31&g=2026-01-31), de concentraties bepaald, alsmede de gehalten van de parameters lutum en organische stof.
 
 3. Bodemonderzoek dat op de landbodem betrekking heeft, kan alleen als grondslag voor het afgeven van een verklaring op grond van een bodemonderzoek worden gebruikt als uit het vooronderzoek is gebleken dat de onderzoeksstrategie moet worden gevolgd die in NEN 5740 is beschreven voor:
 
@@ -2832,21 +2834,21 @@ houdt het bodemonderzoek, bedoeld in het eerste lid, tevens in dat het belaste d
 
 ##### Artikel 7.6. (bepaling samenstelling)
 
-De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.5&z=2026-01-01&g=2026-01-01), te onderzoeken stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) in de volgens artikel 7.5, vierde lid, voorbehandelde mengmonsters en monsters worden bepaald met toepassing van de technieken, beschreven in AP 04, of wanneer daarnaar in NEN 5740 wordt verwezen, AS 3000 of, als hiervoor in AP 04, onderscheidenlijk AS 3000, geen methode wordt beschreven, de best beschikbare technieken.
+De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.5&z=2026-01-31&g=2026-01-31), te onderzoeken stoffen als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) in de volgens artikel 7.5, vierde lid, voorbehandelde mengmonsters en monsters worden bepaald met toepassing van de technieken, beschreven in AP 04, of wanneer daarnaar in NEN 5740 wordt verwezen, AS 3000 of, als hiervoor in AP 04, onderscheidenlijk AS 3000, geen methode wordt beschreven, de best beschikbare technieken.
 
 ##### Artikel 7.7. (omrekening voor lutum en organische stof)
 
-1. De volgens [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.6&z=2026-01-01&g=2026-01-01) bepaalde concentraties van de onderzochte stoffen worden ten behoeve van de toetsing aan de kwaliteitseisen die voor die stoffen voor de standaardbodem zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), omgerekend naar concentraties in een standaardbodem met behulp van de gemeten gehalten lutum en organische stof.
+1. De volgens [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.6&z=2026-01-31&g=2026-01-31) bepaalde concentraties van de onderzochte stoffen worden ten behoeve van de toetsing aan de kwaliteitseisen die voor die stoffen voor de standaardbodem zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), omgerekend naar concentraties in een standaardbodem met behulp van de gemeten gehalten lutum en organische stof.
 
-2. De omrekening wordt verricht volgens onderdeel II van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01).
+2. De omrekening wordt verricht volgens onderdeel II van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31).
 
 ##### Artikel 7.8. (indeling van de bodemlocatie in een kwaliteitsklasse)
 
 1. De ontvangende bodem op de toepassingslocatie wordt ten behoeve van de vermelding van de kwaliteitsklasse volgens [artikel 25d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d) per onderscheiden bodemlaag in de volgende kwaliteitsklasse ingedeeld:
 
-- a. als het de landbodem betreft: de kwaliteitsklasse ‘landbouw/natuur’, ‘wonen’ of ‘industrie’, zoals voor grond onderscheiden in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01); en
+- a. als het de landbodem betreft: de kwaliteitsklasse ‘landbouw/natuur’, ‘wonen’ of ‘industrie’, zoals voor grond onderscheiden in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31); en
 
-- b. als het de waterbodem betreft: de kwaliteitsklasse ‘niet verontreinigd’, ‘licht verontreinigd’ of ‘matig verontreinigd’, zoals onderscheiden in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+- b. als het de waterbodem betreft: de kwaliteitsklasse ‘niet verontreinigd’, ‘licht verontreinigd’ of ‘matig verontreinigd’, zoals onderscheiden in tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
 2. Als de ontvangende bodem volgens [artikel 25d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d) in een slechtere kwaliteitsklasse moet worden ingedeeld dan vermeld in het eerste lid, wordt de bodem ingedeeld in de kwaliteitsklasse:
 
@@ -2854,11 +2856,11 @@ De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overhei
 
 - b. als het de waterbodem betreft: de kwaliteitsklasse ‘matig verontreinigd’.
 
-3. De indeling van de ontvangende bodem in een kwaliteitsklasse als bedoeld in het eerste lid, onder a of b, vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.7&z=2026-01-01&g=2026-01-01) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
+3. De indeling van de ontvangende bodem in een kwaliteitsklasse als bedoeld in het eerste lid, onder a of b, vindt plaats op grond van de concentratie van elk van de onderzochte stoffen die het rekenkundig gemiddelde is van de volgens [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.7&z=2026-01-31&g=2026-01-31) omgerekende concentraties van de stof die in alle onderzochte mengmonsters zijn bepaald.
 
-4. De ontvangende bodem wordt ingedeeld in de slechtste kwaliteitsklasse waarin een van de onderzochte stoffen is ingedeeld. Een stof wordt ingedeeld in de kwaliteitsklasse die wordt begrensd door de concentratiewaarden waartussen de concentratie van de stof is gelegen, die zijn opgenomen in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+4. De ontvangende bodem wordt ingedeeld in de slechtste kwaliteitsklasse waarin een van de onderzochte stoffen is ingedeeld. Een stof wordt ingedeeld in de kwaliteitsklasse die wordt begrensd door de concentratiewaarden waartussen de concentratie van de stof is gelegen, die zijn opgenomen in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
-5. De indeling in een kwaliteitsklasse vindt plaats volgens onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01), wanneer zich een in dat onderdeel omschreven situatie voordoet.
+5. De indeling in een kwaliteitsklasse vindt plaats volgens onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31), wanneer zich een in dat onderdeel omschreven situatie voordoet.
 
 6. In afwijking van het vierde lid wordt de bodem in de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘niet verontreinigd’, ingedeeld als:
 
@@ -2872,7 +2874,7 @@ De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overhei
 
 - e. wanneer ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste vijf stoffen de bovengrens van de kwaliteitsklasse ‘landbouw/natuur’, onderscheidenlijk ‘niet verontreinigd’, overschrijden.
 
-7. In geval van een overschrijding als bedoeld in het zesde lid van de kwaliteitseisen voor de kwaliteitsklasse ‘landbouw/natuur’ of de kwaliteitsklasse ‘niet verontreinigd’ bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de concentratiewaarde die voor de stof in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de klasse ‘landbouw/natuur’, onderscheidenlijk de kwaliteitsklasse ‘niet verontreinigd’, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Als dit laatste wel het geval is wordt de bodem in een kwaliteitsklasse ingedeeld volgens het achtste en tiende lid.
+7. In geval van een overschrijding als bedoeld in het zesde lid van de kwaliteitseisen voor de kwaliteitsklasse ‘landbouw/natuur’ of de kwaliteitsklasse ‘niet verontreinigd’ bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de concentratiewaarde die voor de stof in tabel 1, onderscheidenlijk tabel 2, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de klasse ‘landbouw/natuur’, onderscheidenlijk de kwaliteitsklasse ‘niet verontreinigd’, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Als dit laatste wel het geval is wordt de bodem in een kwaliteitsklasse ingedeeld volgens het achtste en tiende lid.
 
 8. In afwijking van het vierde lid wordt de bodem in de kwaliteitsklasse ‘wonen’ ingedeeld als:
 
@@ -2884,11 +2886,11 @@ De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overhei
 
 - d. wanneer ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste vijf stoffen de bovengrens van de kwaliteitsklasse ‘wonen’ overschrijden.
 
-9. Bij de toepassing van het zesde lid en achtste lid worden als onderzochte stoffen alleen meegeteld de onderzochte stoffen waarvoor in kolom 2 van de toepasselijke tabel 1 of 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) een kwaliteitseis is opgenomen.
+9. Bij de toepassing van het zesde lid en achtste lid worden als onderzochte stoffen alleen meegeteld de onderzochte stoffen waarvoor in kolom 2 van de toepasselijke tabel 1 of 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) een kwaliteitseis is opgenomen.
 
-10. In geval van een overschrijding als bedoeld in het achtste lid van de kwaliteitseisen voor de kwaliteitsklasse ‘wonen’, bedraagt de concentratie van de desbetreffende stof ten hoogste de concentratiewaarde die in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’, vermeerderd met de concentratiewaarde die is opgenomen als bovengrens voor de kwaliteitsklasse ‘landbouw/natuur’, met dien verstande dat voor alle stoffen tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘industrie’.
+10. In geval van een overschrijding als bedoeld in het achtste lid van de kwaliteitseisen voor de kwaliteitsklasse ‘wonen’, bedraagt de concentratie van de desbetreffende stof ten hoogste de concentratiewaarde die in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’, vermeerderd met de concentratiewaarde die is opgenomen als bovengrens voor de kwaliteitsklasse ‘landbouw/natuur’, met dien verstande dat voor alle stoffen tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1 van bijlage B is opgenomen als bovengrens voor de kwaliteitsklasse ‘industrie’.
 
-11. In afwijking van het vierde lid wordt de bodem in de kwaliteitsklasse ‘industrie’ ingedeeld als de onderzochte bodemlocatie landbodem betreft en uit het vooronderzoek is gebleken dat voor de toepassingslocatie of een gedeelte daarvan dat volgens [artikel 7.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.5&z=2026-01-01&g=2026-01-01), is begrensd, de onderzoeksstrategie moet worden gevolgd die in NEN 5740 is beschreven voor:
+11. In afwijking van het vierde lid wordt de bodem in de kwaliteitsklasse ‘industrie’ ingedeeld als de onderzochte bodemlocatie landbodem betreft en uit het vooronderzoek is gebleken dat voor de toepassingslocatie of een gedeelte daarvan dat volgens [artikel 7.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.5&z=2026-01-31&g=2026-01-31), is begrensd, de onderzoeksstrategie moet worden gevolgd die in NEN 5740 is beschreven voor:
 
 - 1°. een verdachte locatie met een plaatselijke bodembelasting met een duidelijke verontreinigingskern (VEP);
 
@@ -2910,7 +2912,7 @@ De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overhei
 
 - c. de naam en het adres van de instelling die de mengmonsters of monsters heeft voorbehandeld en geanalyseerd;
 
-- d. het unieke nummer van het rapport, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-01&g=2026-01-01), met de resultaten van het vooronderzoek;
+- d. het unieke nummer van het rapport, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-31&g=2026-01-31), met de resultaten van het vooronderzoek;
 
 - e. de data waarop het veldwerk, met inbegrip van de monsterneming en de voorbehandeling en analyse van de mengmonsters en monsters, is uitgevoerd;
 
@@ -2926,7 +2928,7 @@ De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overhei
 
 - k. een vermelding van de kwaliteitsklasse waarin de onderzochte bodemlocatie is ingedeeld;
 
-- l. wanneer de indeling in de kwaliteitsklasse ‘industrie’ heeft plaatsgevonden volgens [artikel 7.8, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.8&z=2026-01-01&g=2026-01-01), een vermelding van die omstandigheid;
+- l. wanneer de indeling in de kwaliteitsklasse ‘industrie’ heeft plaatsgevonden volgens [artikel 7.8, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.8&z=2026-01-31&g=2026-01-31), een vermelding van die omstandigheid;
 
 - m. de naam en het adres van de persoon of instelling die het rapport heeft opgesteld en de datum van vaststelling van het rapport; en
 
@@ -2940,9 +2942,9 @@ De concentraties van de volgens [artikel 7.5, tweede lid](https://wetten.overhei
 
 - a. ten behoeve van de afgifte een vooronderzoek en bodemonderzoek volgens deze regeling zijn verricht;
 
-- b. voor de toepassingslocatie een rapport als bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-01&g=2026-01-01), is opgesteld;
+- b. voor de toepassingslocatie een rapport als bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-31&g=2026-01-31), is opgesteld;
 
-- c. voor de toepassingslocatie een rapport als bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2026-01-01&g=2026-01-01), is opgesteld; en
+- c. voor de toepassingslocatie een rapport als bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2026-01-31&g=2026-01-31), is opgesteld; en
 
 - d. de bodem van de toepassingslocatie in een kwaliteitsklasse wordt ingedeeld.
 
@@ -2958,17 +2960,17 @@ Een verklaring op grond van een bodemonderzoek die voor de toepassingslocatie wo
 
 - c. de naam en het adres van de persoon die de verklaring heeft afgegeven;
 
-- d. het unieke nummer van het rapport, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-01&g=2026-01-01);
+- d. het unieke nummer van het rapport, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.4&z=2026-01-31&g=2026-01-31);
 
-- e. het unieke nummer van het rapport, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2026-01-01&g=2026-01-01);
+- e. het unieke nummer van het rapport, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2026-01-31&g=2026-01-31);
 
-- f. de volgende informatie uit het rapport, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2026-01-01&g=2026-01-01):
+- f. de volgende informatie uit het rapport, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2026-01-31&g=2026-01-31):
 
 - 1°. een nauwkeurige aanduiding of omschrijving van de toepassingslocatie, waaronder het adres en de coördinaten;
 
 - 2°. een vermelding van de kwaliteitsklasse waarin de toepassingslocatie is ingedeeld; en
 
-- 3°. wanneer de indeling in de kwaliteitsklasse ‘industrie’ heeft plaatsgevonden volgens [artikel 7.8, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.8&z=2026-01-01&g=2026-01-01), een vermelding van die omstandigheid;
+- 3°. wanneer de indeling in de kwaliteitsklasse ‘industrie’ heeft plaatsgevonden volgens [artikel 7.8, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.1&artikel=7.8&z=2026-01-31&g=2026-01-31), een vermelding van die omstandigheid;
 
 - g. een uniek nummer van de verklaring; en
 
@@ -3036,9 +3038,9 @@ Het afgeven van een verklaring op grond van een bodemkwaliteitskaart over de kwa
 
 - a. de toepassingslocatie is gelegen in een gebied waarvoor een bodemkwaliteitskaart geldt;
 
-- b. ten behoeve van de afgifte een vooronderzoek volgens [artikel 7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.2&artikel=7.14&z=2026-01-01&g=2026-01-01) is verricht;
+- b. ten behoeve van de afgifte een vooronderzoek volgens [artikel 7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.2&artikel=7.14&z=2026-01-31&g=2026-01-31) is verricht;
 
-- c. een rapport als bedoeld in [artikel 7.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.2&artikel=7.15&z=2026-01-01&g=2026-01-01), is opgesteld; en
+- c. een rapport als bedoeld in [artikel 7.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.2&artikel=7.15&z=2026-01-31&g=2026-01-31), is opgesteld; en
 
 - d. het vooronderzoek geen reden heeft gegeven om aan te nemen dat de bodem in een betere bodemkwaliteitsklasse moet worden ingedeeld dan op de bodemkwaliteitskaart is weergegeven voor het gebied waarin de toepassingslocatie is gelegen.
 
@@ -3056,7 +3058,7 @@ Een verklaring op grond van een bodemkwaliteitskaart die over de kwaliteit van d
 
 - e. de naam en het adres van de persoon die het vooronderzoek heeft verricht;
 
-- f. het unieke nummer van het rapport, bedoeld in [artikel 7.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.2&artikel=7.15&z=2026-01-01&g=2026-01-01);
+- f. het unieke nummer van het rapport, bedoeld in [artikel 7.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=7&paragraaf=7.2&artikel=7.15&z=2026-01-31&g=2026-01-31);
 
 - g. een vermelding van de kwaliteitsklasse waarin de ontvangende bodem op de toepassingslocatie waarop de verklaring betrekking heeft volgens de bodemkwaliteitskaart is ingedeeld;
 
@@ -3100,7 +3102,7 @@ Voor de emissie van fluoride uit een niet-vormgegeven bouwstof geldt in afwijkin
 
 Voor de emissie van sulfaat uit een niet-vormgegeven bouwstof geldt in afwijking van de kwaliteitseis 2.430 mg/kg droge stof die in kolom 2 van tabel 1 is opgenomen, de kwaliteitseis 9.720 mg/kg droge stof als de bouwstof uitsluitend geschikt is voor toepassing op plaatsen waar een direct contact (mogelijk) is met zeewater of brak water met een chloride-gehalte dat van nature meer dan 5.000 mg/l bedraagt, en de wens bestaat om zodanige geschiktheid met het oog op een dergelijke toepassing in de milieuverklaring bodemkwaliteit te vermelden.
 
-3 Voor schuimglas als niet-vormgegeven bouwstof geldt in afwijking van de in kolom 3 van tabel 1 genoemde maximale emissiewaarden voor de stoffen antimoon, arseen, chroom en koper een maximale emissiewaarde van 0,96 mg/kg droge stof voor de stof antimoon, een maximale emissiewaarde van 2,7 mg/kg droge stof voor de stof arseen, een maximale emissiewaarde van 1,89 mg/kg droge stof voor de stof chroom en een maximale emissiewaarde van 2,7 mg/kg droge stof voor de stof koper. Deze afwijkende maximale emissiewaarden voor schuimglas als niet-vormgegeven bouwstof voor de stoffen antimoon, arseen, chroom en koper zijn enkel van toepassing indien schuimglas als niet-vormgegeven bouwstof wordt geproduceerd overeenkomstig BRL 9331, zoals aangewezen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) van deze regeling.
+3 Voor schuimglas als niet-vormgegeven bouwstof geldt in afwijking van de in kolom 3 van tabel 1 genoemde maximale emissiewaarden voor de stoffen antimoon, arseen, chroom en koper een maximale emissiewaarde van 0,96 mg/kg droge stof voor de stof antimoon, een maximale emissiewaarde van 2,7 mg/kg droge stof voor de stof arseen, een maximale emissiewaarde van 1,89 mg/kg droge stof voor de stof chroom en een maximale emissiewaarde van 2,7 mg/kg droge stof voor de stof koper. Deze afwijkende maximale emissiewaarden voor schuimglas als niet-vormgegeven bouwstof voor de stoffen antimoon, arseen, chroom en koper zijn enkel van toepassing indien schuimglas als niet-vormgegeven bouwstof wordt geproduceerd overeenkomstig BRL 9331, zoals aangewezen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) van deze regeling.
 
 1 In de noten bij deze tabel wordt verstaan onder:
 
@@ -3116,7 +3118,7 @@ Voor de emissie van sulfaat uit een niet-vormgegeven bouwstof geldt in afwijking
 
 3 Voor polymeerbeton geldt een maximale concentratiewaarde van 20 mg/kg droge stof voor de stof ethylbenzeen en xylenen (som).
 
-4 De definitie van de somparameters wordt gegeven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01).
+4 De definitie van de somparameters wordt gegeven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31).
 
 5 Voor vormzand geldt een maximale concentratiewaarde van 3,75 mg/kg droge stof.
 
@@ -3132,7 +3134,7 @@ Voor de emissie van sulfaat uit een niet-vormgegeven bouwstof geldt in afwijking
 
 In de tabellen die in deze bijlage zijn opgenomen, wordt onder somparameter verstaan: de somparameter die de stoffen omvat die zijn genoemd in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2024-10-01&g=2024-10-01) en waarvan de concentratie met toepassing van die bijlage is berekend.
 
-In de tabellen die in deze bijlage zijn opgenomen, wordt onder somparameter verstaan: de somparameter die de stoffen omvat die zijn genoemd in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) en waarvan de concentratie met toepassing van die bijlage is berekend.
+In de tabellen die in deze bijlage zijn opgenomen, wordt onder somparameter verstaan: de somparameter die de stoffen omvat die zijn genoemd in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) en waarvan de concentratie met toepassing van die bijlage is berekend.
 
 1 Tabelnoot 1 heeft betrekking op verschillende situaties, die alleen gemeenschappelijk hebben dat voor een bepaalde stof in ten minste een van de kolommen 2 t/m 6 naar tabelnoot 1 wordt verwezen.
 
@@ -3146,19 +3148,19 @@ Voor een stof waarvoor in een van de kolommen 2 t/m 6 naar tabelnoot 1 wordt ver
 
 – Als in alle kolommen 2 t/m 6 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet bij het indelen betrokken wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in een van de kolommen 2 t/m 6 wordt verwezen naar tabelnoot 1 en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen bij het indelen betrokken:
+– Als in een van de kolommen 2 t/m 6 wordt verwezen naar tabelnoot 1 en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen bij het indelen betrokken:
 
-• als deel van de desbetreffende somparameter wanneer de stof volgens [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) bij het bepalen van de somparameter moet worden meegenomen; en
+• als deel van de desbetreffende somparameter wanneer de stof volgens [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) bij het bepalen van de somparameter moet worden meegenomen; en
 
 • als stof tevens voor zover voor de stof in een van de kolommen 2 t/m 6 een kwaliteitseis is opgenomen.
 
-– Als alleen in kolom 5 en 6 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) omgerekende concentratie van de stof groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘industrie’, dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘matig verontreinigd’ gehanteerd.
+– Als alleen in kolom 5 en 6 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) omgerekende concentratie van de stof groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘industrie’, dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘matig verontreinigd’ gehanteerd.
 
-– Als alleen in de kolommen 3 t/m 6 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) omgerekende concentratie groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘landbouw/natuur’, dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘industrie’ gehanteerd.
+– Als alleen in de kolommen 3 t/m 6 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) omgerekende concentratie groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘landbouw/natuur’, dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘industrie’ gehanteerd.
 
 2 Voor zand uit de zee geldt voor de stof chloride een kwaliteitseis van 200 mg/kg droge stof voor alle kolommen 2 t/m 6 van tabel 1. Deze kwaliteitseis geldt echter niet in geval de wens bestaat om in een milieuverklaring bodemkwaliteit die betrekking heeft op zand uit de zee, te vermelden dat het zand vanwege het gehalte chloride uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt.
 
@@ -3170,7 +3172,7 @@ Voor een stof waarvoor in een van de kolommen 2 t/m 6 naar tabelnoot 1 wordt ver
 
 6 De som TEQ voor dioxines worden berekend door de concentraties van dioxines, dibenzofuranen en dioxine-achtige PCB’s eerst voor elke afzonderlijke stof om te rekenen door ze te vermenigvuldigen met de Toxiciteits Equivalentie Factor die is gegeven in tabel 4, en vervolgens de omgerekende concentraties van elke individuele stof te sommeren.
 
-7 De stof aldrin wordt uitsluitend voor het bepalen van de concentratie van de somparameter waar de stof aldrin overeenkomstig [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) toe behoort betrokken bij het indelen van de landbodem, grond en baggerspecie in een kwaliteitsklasse, tenzij de overeenkomstig [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) omgerekende concentratie aldrin groter is dan 0,32 mg/kg droge stof, in welk geval de landbodem, grond en baggerspecie voor de stof aldrin wordt ingedeeld in de kwaliteitsklasse ‘sterk verontreinigd’.
+7 De stof aldrin wordt uitsluitend voor het bepalen van de concentratie van de somparameter waar de stof aldrin overeenkomstig [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) toe behoort betrokken bij het indelen van de landbodem, grond en baggerspecie in een kwaliteitsklasse, tenzij de overeenkomstig [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) omgerekende concentratie aldrin groter is dan 0,32 mg/kg droge stof, in welk geval de landbodem, grond en baggerspecie voor de stof aldrin wordt ingedeeld in de kwaliteitsklasse ‘sterk verontreinigd’.
 
 8 De kwaliteitseis voor organotin verbindingen (som) en tributyltin (TBT) is uitgedrukt in mg Sn/kg droge stof, met uitzondering van de kwaliteitseisen voor organotin verbindingen (som) voor de kwaliteitsklassen ‘industrie’, ‘matig verontreinigd’ en ‘sterk verontreinigd’, die zijn uitgedrukt in organotin in mg/kg droge stof.
 
@@ -3180,7 +3182,7 @@ Voor de indeling van de landbodem, grond of baggerspecie in de kwaliteitsklasse 
 
 10 Voor minerale olie in baggerspecie geldt voor de kwaliteitsklasse ‘industrie’ als kwaliteitseis de waarde 2.000 mg/kg droge stof als de wens bestaat om in de milieuverklaring bodemkwaliteit de kwaliteitsklasse ‘industrie’ te vermelden ten behoeve van het grootschalig toepassing van de grond of baggerspecie op de landbodem overeenkomstig [artikel 4.1274 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1274).
 
-11 Voor zwelklei geldt voor wat betreft de kwaliteitseisen voor kwaliteitsklasse ‘landbouw/natuur’, in afwijking van de concentraties kleiner of gelijk aan genoemd in kolom 2 van tabel 1 voor de stoffen chroom en molybdeen, een concentratie kleiner of gelijk aan 62 mg/kg droge stof voor de stof chroom en een concentratie kleiner of gelijk aan 15 mg/kg droge stof voor de stof molybdeen. Deze afwijkende maximale concentraties voor de stoffen chroom en molybdeen zijn voor de kwaliteitseisen voor kwaliteitsklasse ‘landbouw/natuur’ enkel van toepassing indien zwelklei wordt geproduceerd overeenkomstig BRL 5079, zoals aangewezen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) van deze regeling.
+11 Voor zwelklei geldt voor wat betreft de kwaliteitseisen voor kwaliteitsklasse ‘landbouw/natuur’, in afwijking van de concentraties kleiner of gelijk aan genoemd in kolom 2 van tabel 1 voor de stoffen chroom en molybdeen, een concentratie kleiner of gelijk aan 62 mg/kg droge stof voor de stof chroom en een concentratie kleiner of gelijk aan 15 mg/kg droge stof voor de stof molybdeen. Deze afwijkende maximale concentraties voor de stoffen chroom en molybdeen zijn voor de kwaliteitseisen voor kwaliteitsklasse ‘landbouw/natuur’ enkel van toepassing indien zwelklei wordt geproduceerd overeenkomstig BRL 5079, zoals aangewezen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) van deze regeling.
 
 1 Tabelnoot 1 heeft betrekking op verschillende situaties, die alleen gemeenschappelijk hebben dat voor een bepaalde stof in ten minste een van de kolommen 2 t/m 5 naar tabelnoot 1 wordt verwezen. Dit betekent dat voor de desbetreffende stof geen kwaliteitseis is opgenomen voor het indelen van de waterbodem of een partij grond of baggerspecie in de kwaliteitsklasse waarop de desbetreffende kolom betrekking heeft. Hieronder wordt beschreven hoe bij het indelen van de waterbodem of een partij grond of baggerspecie in een kwaliteitsklasse in de onderscheiden situaties met de desbetreffende stof moet worden omgegaan.
 
@@ -3190,19 +3192,19 @@ Voor een stof waarvoor in een van de kolommen 2 t/m 5 naar tabelnoot 1 wordt ver
 
 – Als in alle kolommen 2 t/m 5 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet bij het indelen betrokken wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in een van de kolommen 2 t/m 5 wordt verwezen naar tabelnoot 1 en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen bij het indelen betrokken:
+– Als in een van de kolommen 2 t/m 5 wordt verwezen naar tabelnoot 1 en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen bij het indelen betrokken:
 
-• als deel van de desbetreffende somparameter wanneer de stof volgens [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) bij het bepalen van de somparameter moet worden meegenomen; en
+• als deel van de desbetreffende somparameter wanneer de stof volgens [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) bij het bepalen van de somparameter moet worden meegenomen; en
 
 • als stof tevens voor zover voor de stof in een van de kolommen 2 t/m 5 een kwaliteitseis is opgenomen.
 
-– Als alleen in kolom 3 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) omgerekende concentratie van de stof groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘niet verontreinigd’ (als het bodem betreft), onderscheidenlijk ‘algemeen toepasbaar’ (als het een partij grond of baggerspecie betreft), dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘matig verontreinigd’ gehanteerd. Als de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) omgerekende concentratie van de stof groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘sterk verontreinigd’ wordt in afwijking van de eerste volzin bij het indelen voor die stof de kwaliteitsklasse ‘sterk verontreinigd’ gehanteerd.
+– Als alleen in kolom 3 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) omgerekende concentratie van de stof groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘niet verontreinigd’ (als het bodem betreft), onderscheidenlijk ‘algemeen toepasbaar’ (als het een partij grond of baggerspecie betreft), dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘matig verontreinigd’ gehanteerd. Als de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) omgerekende concentratie van de stof groter is dan de kwaliteitseis voor de kwaliteitsklasse ‘sterk verontreinigd’ wordt in afwijking van de eerste volzin bij het indelen voor die stof de kwaliteitsklasse ‘sterk verontreinigd’ gehanteerd.
 
-– Als alleen in de kolommen 4 en 5 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) omgerekende concentratie van de stof groter is dat de kwaliteitseis voor de kwaliteitsklasse ‘licht verontreinigd’, dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘matig verontreinigd’ gehanteerd.
+– Als alleen in de kolommen 4 en 5 wordt verwezen naar tabelnoot 1 en de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) omgerekende concentratie van de stof groter is dat de kwaliteitseis voor de kwaliteitsklasse ‘licht verontreinigd’, dan wordt bij het indelen voor die stof de kwaliteitsklasse ‘matig verontreinigd’ gehanteerd.
 
 2 Voor zand uit de zee geldt voor de stof chloride een kwaliteitseis van 200 mg/kg droge stof voor alle kolommen 2 t/m 5 van tabel 2. Deze kwaliteitseis geldt echter niet in geval de wens bestaat om in een milieuverklaring bodemkwaliteit die betrekking heeft op zand uit de zee, te vermelden dat het zand vanwege het gehalte chloride uitsluitend geschikt is voor toepassing op plaatsen waar direct contact mogelijk is met zeewater of brak water waarvan het gehalte chloride van nature meer dan 5.000 mg/l bedraagt.
 
@@ -3256,25 +3258,25 @@ b. alle stoffen, uitgezonderd de stoffen PAK (som), minerale olie, PCB’s (som)
 
 5° in geval ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste 5 stoffen overschrijden de kwaliteitseis in kolom 2 van tabel 3b.
 
-In geval van een overschrijding als onder 1° t/m 5° bedoeld, geldt voor de overschrijdende stof als kwaliteitseis dat de concentratie daarvan niet meer bedraagt dan twee maal de concentratie die als kwaliteitseis voor die stof in kolom 2 van tabel 3b is opgenomen, met dien verstande dat voor die stof tevens geldt dat de concentratie niet hoger is dan de concentratiewaarde die in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Voor de toepassing onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend de stoffen die volgens deze regeling zijn onderzocht en die in kolom 4 van tabel 3b met een ‘ja’ zijn aangeduid of, waarvoor in kolom 2 van tabel 3b een kwaliteitseis is opgenomen tenzij het een somparameter betreft als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) waarvan een stof die onderdeel uitmaakt van de somparameter in kolom 4 van tabel 3b met een ‘ja’ is aangeduid.
+In geval van een overschrijding als onder 1° t/m 5° bedoeld, geldt voor de overschrijdende stof als kwaliteitseis dat de concentratie daarvan niet meer bedraagt dan twee maal de concentratie die als kwaliteitseis voor die stof in kolom 2 van tabel 3b is opgenomen, met dien verstande dat voor die stof tevens geldt dat de concentratie niet hoger is dan de concentratiewaarde die in tabel 1 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Voor de toepassing onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend de stoffen die volgens deze regeling zijn onderzocht en die in kolom 4 van tabel 3b met een ‘ja’ zijn aangeduid of, waarvoor in kolom 2 van tabel 3b een kwaliteitseis is opgenomen tenzij het een somparameter betreft als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) waarvan een stof die onderdeel uitmaakt van de somparameter in kolom 4 van tabel 3b met een ‘ja’ is aangeduid.
 
 Voor een stof waarvoor in kolom 2 naar tabelnoot 1 wordt verwezen, geldt bij de toepassing van de onderdelen a en b het volgende:
 
 – Als in kolom 2 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als alleen in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als alleen in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden op de landbodem geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 Aan de kwaliteitseisen voor de toxische druk is voldaan als alle in kolom 4 met ‘ja’ aangeduide stoffen voldoen aan de kwaliteitseisen die daarvoor in kolom 3 van tabel 3b zijn opgenomen, waarbij:
 
-a. voor elke stof die in kolom 4 met ‘ja’ is aangeduid en die volgens deze regeling is onderzocht, bij het berekenen van de toxische druk wordt gerekend met de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) naar standaardbodem gecorrigeerde concentratie van de stof;
+a. voor elke stof die in kolom 4 met ‘ja’ is aangeduid en die volgens deze regeling is onderzocht, bij het berekenen van de toxische druk wordt gerekend met de volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) naar standaardbodem gecorrigeerde concentratie van de stof;
 
 ****en****
 
-b. voor elke stof die in kolom 4 met ‘ja’ is aangeduid en die niet is onderzocht, bij het berekenen van de toxische druk wordt gerekend met een concentratie van 0,7 maal de bepalingsgrens die voor de stof is opgenomen in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-01&g=2026-01-01).
+b. voor elke stof die in kolom 4 met ‘ja’ is aangeduid en die niet is onderzocht, bij het berekenen van de toxische druk wordt gerekend met een concentratie van 0,7 maal de bepalingsgrens die voor de stof is opgenomen in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=L&z=2026-01-31&g=2026-01-31).
 
 2 In deze kolom is gebruik gemaakt van 3 typen kwaliteitseisen. Als de kwaliteitseis is gebaseerd op de bovengrens voor de kwaliteitsklasse ‘matig verontreinigd’ is de betreffende kwaliteitseis cursief weergegeven. Als de kwaliteitseis is gebaseerd op een bovengrens voor landbouwkundig gebruik, is de betreffende kwaliteitseis vetgedrukt weergegeven. De niet cursief en niet vetgedrukte kwaliteitseisen zijn gebaseerd op de bovengrens voor de kwaliteitsklasse ‘landbouw/natuur’. Voor Sn en V is de kwaliteitseis gebaseerd op de bovengrens voor de kwaliteitsklasse industrie.
 
@@ -3308,31 +3310,31 @@ b. alle stoffen die volgens deze regeling zijn onderzocht, voldoen aan de toepas
 
 5° in geval ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste 5 stoffen overschrijden de kwaliteitseis in kolom 2 van tabel 3c.
 
-In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 2 van tabel 3c bedraagt de concentratie van de overschrijdende stof niet meer dan twee maal de kwaliteitseis die voor die stof in kolom 2 van tabel 3c is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Voor de toepassing onder b onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn onderzocht en waarvoor tevens in kolom 2 van tabel 2 van bijlage B een kwaliteitseis is opgenomen.
+In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 2 van tabel 3c bedraagt de concentratie van de overschrijdende stof niet meer dan twee maal de kwaliteitseis die voor die stof in kolom 2 van tabel 3c is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Voor de toepassing onder b onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn onderzocht en waarvoor tevens in kolom 2 van tabel 2 van bijlage B een kwaliteitseis is opgenomen.
 
 Voor het omgaan met stoffen waarvoor in kolom 2 of 3 in deze tabel wordt verwezen naar tabelnoot 1 geldt het volgende:
 
 – Als in kolom 2 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zoet oppervlaktewater geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zoet oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zoet oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 – Als in kolom 3 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zoet oppervlaktewater geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 3 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zoet oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 3 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zoet oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 2 Bij het bepalen of wordt voldaan aan de kwaliteitseisen voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ gelden de volgende toetsingsregels.
 
 Aan de kwaliteitseisen voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ is voldaan als:
 
-a. alle stoffen die volgens deze regeling zijn onderzocht voldoen aan de kwaliteitseis die daarvoor is opgenomen in kolom 4 van tabel 3c, met dien verstande dat voor het toetsen aan deze kwaliteitseis de gemeten gehalten worden gebruikt en met dien verstande dat voor ten hoogste twee niet-prioritaire stoffen in de zin van de Kaderrichtlijn water aan de kwaliteitseis is voldaan als wordt voldaan aan anderhalf maal de kwaliteitseis die voor die stof is opgenomen in kolom 4 van tabel 3c. De kwaliteitseis voor niet-prioritaire stoffen in de zin van de Kaderrichtlijn water in kolom 4 van tabel 3c zijn cursief weergegeven;
+a. alle stoffen die volgens deze regeling zijn onderzocht voldoen aan de kwaliteitseis die daarvoor is opgenomen in kolom 4 van tabel 3c, met dien verstande dat voor het toetsen aan deze kwaliteitseis de gemeten gehalten worden gebruikt en met dien verstande dat voor ten hoogste twee niet-prioritaire stoffen in de zin van de Kaderrichtlijn water behoudens niet-prioritaire stoffen die behoren tot de groep van PCB’s in de zin van de Kaderrichtlijn water aan de kwaliteitseis is voldaan als wordt voldaan aan anderhalf maal de kwaliteitseis die voor die stof is opgenomen in kolom 4 van tabel 3c. De kwaliteitseis voor niet-prioritaire stoffen in de zin van de Kaderrichtlijn water in kolom 4 van tabel 3c zijn cursief weergegeven;
 
 ****en****
 
@@ -3342,19 +3344,19 @@ Voor het omgaan met stoffen waarvoor in kolom 4 of 5 in deze tabel wordt verweze
 
 – Als in kolom 4 naar tabelnoot 2 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 4 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 4 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 – Als in kolom 5 naar tabelnoot 2 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 5 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 5 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 3 Het gehalte cyanide-complex is gelijk aan het gehalte cyanide-totaal minus het gehalte cyanide-vrij, bepaald conform NEN-EN-ISO 14403-1:2012, NEN-EN-ISO 14403-2:2012 en NEN-EN-ISO 17380:2013. Wanneer geen cyanide-vrij wordt verwacht, mag het gehalte cyanide-complex gelijk worden gesteld aan het gehalte cyanide-totaal.
 
@@ -3376,11 +3378,11 @@ Voor het omgaan met stoffen waarvoor in kolom 2 in deze tabel wordt verwezen naa
 
 – Als in kolom 2 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte grond’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte grond’ als deel van de desbetreffende somparameter.
+– Als in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte grond’ als deel van de desbetreffende somparameter.
 
 2 Bij het bepalen of wordt voldaan aan de kwaliteitseisen voor ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’ gelden de volgende toetsingsregels.
 
@@ -3398,7 +3400,7 @@ a. alle stoffen die volgens deze regeling zijn onderzocht voldoen aan de kwalite
 
 5° in geval ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste 5 stoffen overschrijden de kwaliteitseis in kolom 3 van tabel 3d.
 
-In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 3 van tabel 3d bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de kwaliteitseis die voor die stof in kolom 3 van tabel 3d is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Voor de toepassing onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn onderzocht en waarvoor tevens in kolom 2 van tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) een kwaliteitseis is opgenomen.
+In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 3 van tabel 3d bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de kwaliteitseis die voor die stof in kolom 3 van tabel 3d is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de kwaliteitsklasse ‘wonen’. Voor de toepassing onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn onderzocht en waarvoor tevens in kolom 2 van tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) een kwaliteitseis is opgenomen.
 
 of
 
@@ -3410,21 +3412,21 @@ Voor het omgaan met stoffen waarvoor in kolom 3 en 4 in deze tabel wordt verweze
 
 – Als in kolom 3 naar tabelnoot 2 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 3 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’ als deel van de desbetreffende somparameter.
+– Als in kolom 3 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’ als deel van de desbetreffende somparameter.
 
-– Als in kolom 4 naar tabelnoot 2 wordt verwezen, dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 3 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’, tenzij betreffende stof onderdeel uitmaakt van een somparameter als omschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) en voor die somparameter een kwaliteitseis is opgenomen in kolom 4. In dat geval is [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) van toepassing voor het bepalen van de concentratie van de somparameter en wordt de somparameter betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’.
+– Als in kolom 4 naar tabelnoot 2 wordt verwezen, dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 3 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’, tenzij betreffende stof onderdeel uitmaakt van een somparameter als omschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) en voor die somparameter een kwaliteitseis is opgenomen in kolom 4. In dat geval is [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) van toepassing voor het bepalen van de concentratie van de somparameter en wordt de somparameter betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’.
 
 – Als in kolom 3 en 4 naar tabelnoot 2 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte grond’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 3 en 4 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in diepe plas geschikte grond’ als deel van de desbetreffende somparameter.
+– Als in kolom 3 en 4 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in diepe plas geschikte grond’ als deel van de desbetreffende somparameter.
 
 3 Voor de toepassing van tabelnoot 2 wordt onder ‘vrijliggende diepe plas’ verstaan:
 
@@ -3460,17 +3462,17 @@ a. alle stoffen die volgens deze regeling zijn onderzocht voldoen aan de kwalite
 
 5° in geval ten minste 37 stoffen zijn onderzocht: de concentraties van ten hoogste 5 stoffen overschrijden de kwaliteitseis in kolom 2 van tabel 3e.
 
-In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 2 van tabel 3e mag de concentratie van de desbetreffende stof niet meer bedragen dan twee maal de kwaliteitseis die voor die stof in kolom 2 van tabel 3e is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger mag zijn dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de kwaliteitsklasse wonen. Voor de toepassing onder a onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn en waarvoor tevens in kolom 2 van tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) een kwaliteitseis is opgenomen.
+In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 2 van tabel 3e mag de concentratie van de desbetreffende stof niet meer bedragen dan twee maal de kwaliteitseis die voor die stof in kolom 2 van tabel 3e is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger mag zijn dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de kwaliteitsklasse wonen. Voor de toepassing onder a onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn en waarvoor tevens in kolom 2 van tabel 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) een kwaliteitseis is opgenomen.
 
 Voor het omgaan met stoffen waarvoor in kolom 2 in deze tabel wordt verwezen naar tabelnoot 1 geldt het volgende:
 
 – Als in kolom 2 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 2 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 of
 
@@ -3478,17 +3480,17 @@ b. alle stoffen die volgens deze regeling zijn onderzocht voldoen aan kwaliteits
 
 Voor het omgaan met stoffen waarvoor in kolom 3 in deze tabel wordt verwezen naar tabelnoot 1 geldt het volgende:
 
-– Als in kolom 3 naar tabelnoot 1 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 2 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’.
+– Als in kolom 3 naar tabelnoot 1 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 2 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’.
 
-– Als in kolom 3 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 3 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 – Als in kolom 2 en 3 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 2 en 3 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 2 en 3 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 of
 
@@ -3496,21 +3498,21 @@ c. alle stoffen die volgens deze regeling zijn onderzocht voldoen aan de kwalite
 
 Voor het omgaan met stoffen waarvoor in kolom 4 in deze tabel wordt verwezen naar tabelnoot 1 geldt het volgende:
 
-– Als in kolom 4 naar tabelnoot 1 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 3 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’. Als ook in kolom 3 naar tabelnoot 1 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in bijlage E, of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 2 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’.
+– Als in kolom 4 naar tabelnoot 1 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 3 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’. Als ook in kolom 3 naar tabelnoot 1 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in bijlage E, of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 2 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’.
 
 – Als in kolom 4 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in bijlage E, dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 – Als in kolom 2, 3 en 4 naar tabelnoot 1 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 2, 3 en 4 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter
+– Als in kolom 2, 3 en 4 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter
 
-– Als in kolom 2, 3 en 4 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) en voor die somparameter is in kolom 4 geen en in kolom 3 wel een kwaliteitseis opgenomen dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter en wordt de kwaliteitseis voor de somparameter in kolom 3 betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen in een diepe plas geschikte baggerspecie’.
+– Als in kolom 2, 3 en 4 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) en voor die somparameter is in kolom 4 geen en in kolom 3 wel een kwaliteitseis opgenomen dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter en wordt de kwaliteitseis voor de somparameter in kolom 3 betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen in een diepe plas geschikte baggerspecie’.
 
-– Als in kolom 2, 3 en 4 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) en voor die somparameter is in kolom 3 en 4 geen en in kolom 2 wel een kwaliteitseis opgenomen dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter en wordt de kwaliteitseis en bijbehorende toetsing voor de somparameter in kolom 2 betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen in een diepe plas geschikte baggerspecie’
+– Als in kolom 2, 3 en 4 naar tabelnoot 1 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) en voor die somparameter is in kolom 3 en 4 geen en in kolom 2 wel een kwaliteitseis opgenomen dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter en wordt de kwaliteitseis en bijbehorende toetsing voor de somparameter in kolom 2 betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen in een diepe plas geschikte baggerspecie’
 
 2 Bij het bepalen of wordt voldaan aan de kwaliteitseisen voor ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’ gelden de volgende toetsingsregels.
 
@@ -3528,17 +3530,17 @@ a. alle stoffen die volgens deze regeling zijn onderzocht voldoen aan de kwalite
 
 5° in geval tenminste 37 stoffen zijn onderzocht: de concentraties van ten hoogste 5 stoffen overschrijden de kwaliteitseis in kolom 5 van tabel 3e.
 
-In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 5 van tabel 3e bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de kwaliteitseis die voor die stof in kolom 5 van tabel 3e is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) is opgenomen als bovengrens voor de kwaliteitsklasse wonen. Voor de toepassing onder a onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn onderzocht en waarvoor tevens in kolom 2 van tabel 2 van bijlage B een kwaliteitseis is opgenomen.
+In geval van een overschrijding als hiervoor onder 1° t/m 5° bedoeld van de kwaliteitseisen in kolom 5 van tabel 3e bedraagt de concentratie van de desbetreffende stof niet meer dan twee maal de kwaliteitseis die voor die stof in kolom 5 van tabel 3e is opgenomen, met dien verstande dat voor alle stoffen, met uitzondering van nikkel (Ni), tevens geldt dat de concentratie van een stof niet hoger is dan de concentratiewaarde die in tabel 1, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) is opgenomen als bovengrens voor de kwaliteitsklasse wonen. Voor de toepassing onder a onder 1° t/m 5° worden tot het aantal stoffen die zijn onderzocht gerekend, de stoffen die volgens deze regeling zijn onderzocht en waarvoor tevens in kolom 2 van tabel 2 van bijlage B een kwaliteitseis is opgenomen.
 
 Voor het omgaan met stoffen waarvoor in kolom 5 in deze tabel wordt verwezen naar tabelnoot 2 geldt het volgende:
 
 – Als in kolom 5 naar tabelnoot 2 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 5 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
+– Als in kolom 5 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter.
 
 of
 
@@ -3548,17 +3550,17 @@ alle stoffen die volgens deze regeling zijn onderzocht voldoen aan de kwaliteits
 
 Voor het omgaan met stoffen waarvoor in kolom 6 in deze tabel wordt verwezen naar tabelnoot 2 geldt het volgende:
 
-– Als in kolom 6 naar tabelnoot 2 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 5 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’.
+– Als in kolom 6 naar tabelnoot 2 wordt verwezen, en het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), of het een somparameter als beschreven in bijlage E betreft dan geldt dat de kwaliteitseis en bijbehorende toetsing die voor de betreffende stof is opgenomen in kolom 5 wordt gehanteerd bij het bepalen of wordt voldaan aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’.
 
-– Als in kolom 6 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter ingeval voor die somparameter een kwaliteitseis is opgenomen in kolom 6.
+– Als in kolom 6 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31), dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter ingeval voor die somparameter een kwaliteitseis is opgenomen in kolom 6.
 
 – Als in kolom 5 en 6 naar tabelnoot 2 wordt verwezen, dan wordt de stof niet betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’ wanneer:
 
-• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01); of
+• het een stof betreft die geen onderdeel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31); of
 
-• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) betreft.
+• het een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) betreft.
 
-– Als in kolom 5 en 6 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01) en voor die somparameter is in kolom 6 geen en in kolom 5 wel een kwaliteitseis opgenomen dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter en wordt de kwaliteitseis en bijbehorende toetsing voor de somparameter in kolom 5 betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’.
+– Als in kolom 5 en 6 naar tabelnoot 2 wordt verwezen en het een stof betreft die deel uitmaakt van een somparameter als beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31) en voor die somparameter is in kolom 6 geen en in kolom 5 wel een kwaliteitseis opgenomen dan wordt de stof alleen betrokken bij het toetsen aan de kwaliteitseis voor de kwaliteit ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’ als deel van de desbetreffende somparameter en wordt de kwaliteitseis en bijbehorende toetsing voor de somparameter in kolom 5 betrokken bij het toetsen aan de kwaliteitseis ‘voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie’.
 
 3 Voor de toepassing van tabelnoot 1 en 2 wordt onder ‘vrijliggende diepe plas’ verstaan:
 
@@ -3598,13 +3600,13 @@ Onder een werkzaamheid als bedoeld in categorie 9 (monsterneming bij partijkeuri
 
 ### Overzicht normdocumenten en onderzoeksprotocollen
 
-In deze bijlage worden de uitgave vermeld van de normdocumenten waarnaar in deze regeling wordt verwezen, voor zover die niet al in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-01&g=2026-01-01) zijn vermeld.
+In deze bijlage worden de uitgave vermeld van de normdocumenten waarnaar in deze regeling wordt verwezen, voor zover die niet al in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=C&z=2026-01-31&g=2026-01-31) zijn vermeld.
 
 ## Bijlage E. bij de Regeling bodemkwaliteit 2022
 
 ### Omschrijving van de somparameters
 
-Onderstaande tabel bevat een omschrijving van de somparameters waarvoor in andere bijlagen bij deze regeling kwaliteitseisen zijn opgenomen en waarvoor in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa) en in de [bijlagen Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vb), [Vd](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), [XIIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=XIIIa) en [XIIIb van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=XIIIb) (som)parameters en toetsingswaarden zijn opgenomen. Een somparameter die in kolom 1 van de tabel is vermeld, omvat de stoffen die daarvoor zijn opgenomen in kolom 2. De concentratie van een somparameter wordt bepaald door de sommering van de individuele stoffen die de somparameter omvat. Voor de wijze van sommatie ingeval van concentraties van individuele stoffen die liggen beneden de rapportagegrens van het laboratorium, wordt verwezen naar onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01).
+Onderstaande tabel bevat een omschrijving van de somparameters waarvoor in andere bijlagen bij deze regeling kwaliteitseisen zijn opgenomen en waarvoor in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa) en in de [bijlagen Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vb), [Vd](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), [XIIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=XIIIa) en [XIIIb van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=XIIIb) (som)parameters en toetsingswaarden zijn opgenomen. Een somparameter die in kolom 1 van de tabel is vermeld, omvat de stoffen die daarvoor zijn opgenomen in kolom 2. De concentratie van een somparameter wordt bepaald door de sommering van de individuele stoffen die de somparameter omvat. Voor de wijze van sommatie ingeval van concentraties van individuele stoffen die liggen beneden de rapportagegrens van het laboratorium, wordt verwezen naar onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31).
 
 ### De bepaling of een bouwstof kan worden aangemerkt als vormgegeven bouwstof, onderscheidenlijk duurzaam vormvaste bouwstof
 
@@ -3642,21 +3644,21 @@ In onderstaande tabel zijn combinaties van toepassingen en bouwstoffen opgenomen
 
 **Omrekenen van door het laboratorium gerapporteerde concentraties van stoffen ten behoeve van het toetsen aan kwaliteitseisen als opgenomen in bijlage A of B van deze regeling, bijlage IIA van het Besluit activiteiten leefomgeving en bijlage Vd van het Besluit kwaliteit leefomgeving.**
 
-Ten behoeve van het toetsen van concentraties van stoffen aan de kwaliteitseisen die zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) bij deze regeling, [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa) en [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), worden:
+Ten behoeve van het toetsen van concentraties van stoffen aan de kwaliteitseisen die zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) bij deze regeling, [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa) en [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), worden:
 
 Ingeval onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2025-05-21&g=2025-05-21) wordt toegepast voor het toetsen aan de **Interventiewaarde****bodemkwaliteit** die is opgenomen in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa), dan worden de bovenstaande onderdelen a t/m e overeenkomstig toegepast met dien verstande dat voor de kwaliteitseis in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2025-05-21&g=2025-05-21) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2025-05-21&g=2025-05-21) telkens wordt verstaan de **Interventiewaarde bodemkwaliteit** die is opgenomen in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa)
 
 ### II. Omrekenen van door het laboratorium gerapporteerde concentraties van stoffen naar concentratie van die stoffen in standaardbodem, ten behoeve van de toetsing aan kwaliteitseisen die voor de bodem, grond en baggerspecie voor die stoffen zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2024-10-01&g=2024-10-01) bij deze Regeling en ten behoeve van de toetsing aan de interventiewaarden bodemkwaliteit uit [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa)
 
-Ingeval onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) wordt toegepast voor het toetsen aan de **Signaleringsparameter beoordeling grondwatersanering** die is opgenomen in [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), dan worden de bovenstaande onderdelen a t/m e overeenkomstig toegepast met dien verstande dat voor bodem telkens grondwater wordt verstaan en voor de kwaliteitseis in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) telkens wordt verstaan de **Signaleringsparameter beoordeling grondwatersanering** die is opgenomen in [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd)
+Ingeval onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) wordt toegepast voor het toetsen aan de **Signaleringsparameter beoordeling grondwatersanering** die is opgenomen in [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), dan worden de bovenstaande onderdelen a t/m e overeenkomstig toegepast met dien verstande dat voor bodem telkens grondwater wordt verstaan en voor de kwaliteitseis in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) telkens wordt verstaan de **Signaleringsparameter beoordeling grondwatersanering** die is opgenomen in [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd)
 
-Ingeval onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) wordt toegepast voor het toetsen aan de **Signaleringsparameter beoordeling grondwatersanering** die is opgenomen in [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), dan heeft de onderzoeker de vrijheid onderbouwd te concluderen dat het betreffende monster niet in die mate is verontreinigd als het toetsingsresultaat aangeeft, onder de voorwaarde dat het betreffende toetsingsresultaat tot stand is gekomen door een omrekening van een concentratie van een slecht oplosbare stof die op het analysecertificaat als ‘kleiner dan de rapportagegrens’ is gerapporteerd.
+Ingeval onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) wordt toegepast voor het toetsen aan de **Signaleringsparameter beoordeling grondwatersanering** die is opgenomen in [bijlage Vd bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=Vd), dan heeft de onderzoeker de vrijheid onderbouwd te concluderen dat het betreffende monster niet in die mate is verontreinigd als het toetsingsresultaat aangeeft, onder de voorwaarde dat het betreffende toetsingsresultaat tot stand is gekomen door een omrekening van een concentratie van een slecht oplosbare stof die op het analysecertificaat als ‘kleiner dan de rapportagegrens’ is gerapporteerd.
 
 Ten behoeve van de toetsing aan kwaliteitseisen die voor de bodem, grond en baggerspecie zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2025-05-21&g=2025-05-21) bij deze regeling en de toetsing aan de interventiewaarden bodemkwaliteit uit [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa), worden de gemeten concentraties van stoffen door middel van een bodemtypecorrectie omgerekend naar een concentratie van die stoffen in de standaardbodem. Uitzondering hierop is de toetsing aan de kwaliteitseis voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ in kolom 4 van tabel 3c bij bijlage B. Voor de toetsing aan de kwaliteitseis voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ in kolom 4 van tabel 3c bij bijlage B wordt gebruik gemaakt van de gemeten concentraties aan stoffen, zonder omrekening naar standaardbodem.
 
-Ten behoeve van de toetsing aan kwaliteitseisen die voor de bodem, grond en baggerspecie zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) bij deze regeling en de toetsing aan de interventiewaarden bodemkwaliteit uit [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa), worden de gemeten concentraties van stoffen door middel van een bodemtypecorrectie omgerekend naar een concentratie van die stoffen in de standaardbodem. Uitzondering hierop is de toetsing aan de kwaliteitseis voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ in kolom 4 van tabel 3c bij bijlage B. Voor de toetsing aan de kwaliteitseis voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ in kolom 4 van tabel 3c bij bijlage B wordt gebruik gemaakt van de gemeten concentraties aan stoffen, zonder omrekening naar standaardbodem.
+Ten behoeve van de toetsing aan kwaliteitseisen die voor de bodem, grond en baggerspecie zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) bij deze regeling en de toetsing aan de interventiewaarden bodemkwaliteit uit [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa), worden de gemeten concentraties van stoffen door middel van een bodemtypecorrectie omgerekend naar een concentratie van die stoffen in de standaardbodem. Uitzondering hierop is de toetsing aan de kwaliteitseis voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ in kolom 4 van tabel 3c bij bijlage B. Voor de toetsing aan de kwaliteitseis voor ‘voor verspreiden in zout oppervlaktewater geschikte baggerspecie’ in kolom 4 van tabel 3c bij bijlage B wordt gebruik gemaakt van de gemeten concentraties aan stoffen, zonder omrekening naar standaardbodem.
 
-De omrekening of standaardisering van gemeten concentraties met de bodemtypecorrectie naar standaardbodem vindt plaats voor elke individuele gemeten concentratie, alvorens andere berekeningen worden uitgevoerd, zoals het bepalen van de gemiddelde concentratie van twee of meer metingen in dezelfde bodem of partij. Bij het omrekenen wordt gebruik gemaakt van de gemeten percentages organische stof en lutum. Hierbij is het percentage aan organisch stof bepaald volgens NEN 5754 en het percentage lutum gelijk aan het gewichtspercentage minerale bestanddelen met een diameter kleiner dan 2 µm, betrokken op het drooggewicht. De naar standaardbodem gecorrigeerde concentraties worden getoetst aan de kwaliteitseisen zoals die zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01), met inachtneming van de toetsingsregels die eveneens in die bijlage zijn opgenomen.
+De omrekening of standaardisering van gemeten concentraties met de bodemtypecorrectie naar standaardbodem vindt plaats voor elke individuele gemeten concentratie, alvorens andere berekeningen worden uitgevoerd, zoals het bepalen van de gemiddelde concentratie van twee of meer metingen in dezelfde bodem of partij. Bij het omrekenen wordt gebruik gemaakt van de gemeten percentages organische stof en lutum. Hierbij is het percentage aan organisch stof bepaald volgens NEN 5754 en het percentage lutum gelijk aan het gewichtspercentage minerale bestanddelen met een diameter kleiner dan 2 µm, betrokken op het drooggewicht. De naar standaardbodem gecorrigeerde concentraties worden getoetst aan de kwaliteitseisen zoals die zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31), met inachtneming van de toetsingsregels die eveneens in die bijlage zijn opgenomen.
 
 De omrekening van gemeten concentraties van stoffen naar concentraties van stoffen in een standaardbodem verloopt via de onderstaande formule:
 
@@ -3698,7 +3700,7 @@ De k-waarde waarmee de k-waardetoets wordt uitgevoerd, wordt berekend voor elke 
 
 Hierin is:
 
-Wanneer tevens de behoefte bestaat om op de erkende kwaliteitsverklaring een specifieke kwaliteit grond of baggerspecie te vermelden wordt ten behoeve van de berekening van de k-waarde de kwaliteitseis voor de onderzochte stof gehanteerd die voor die specifieke kwaliteit in de bij die specifieke kwaliteit horende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) tabel 3 a t/m e is vermeld.
+Wanneer tevens de behoefte bestaat om op de erkende kwaliteitsverklaring een specifieke kwaliteit grond of baggerspecie te vermelden wordt ten behoeve van de berekening van de k-waarde de kwaliteitseis voor de onderzochte stof gehanteerd die voor die specifieke kwaliteit in de bij die specifieke kwaliteit horende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) tabel 3 a t/m e is vermeld.
 
 Voor het bepalen van de keuringsfrequentie wordt op basis van de berekende k-waarde per stof de mate van betrouwbaarheid waarmee op grond van de verrichte metingen van de concentraties of emissies van de onderzochte stof kan worden vastgesteld dat de te onderzoeken partij van een bouwstof, grond of baggerspecie voldoet aan de kwaliteitseis voor die stof, ingedeeld in de toepasselijke categorie van mate van betrouwbaarheid die in kolom 1 van tabel 1 is onderscheiden.
 
@@ -3726,7 +3728,7 @@ De keuringsfrequentie wordt als volgt bepaald:
 
 ### 3. Bepaling van de keuringsfrequentie met toepassing van de verdelingsvrije toets
 
-Wanneer tevens de behoefte bestaat om op de erkende kwaliteitsverklaring een specifieke kwaliteit grond of baggerspecie te vermelden wordt ten behoeve van de gammatoets de kwaliteitseis voor de onderzochte stof gehanteerd die voor die specifieke kwaliteit in de bij die specifieke kwaliteit horende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) tabel 3 a t/m e is vermeld.
+Wanneer tevens de behoefte bestaat om op de erkende kwaliteitsverklaring een specifieke kwaliteit grond of baggerspecie te vermelden wordt ten behoeve van de gammatoets de kwaliteitseis voor de onderzochte stof gehanteerd die voor die specifieke kwaliteit in de bij die specifieke kwaliteit horende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) tabel 3 a t/m e is vermeld.
 
 Onder toepasselijke gammawaarde wordt verstaan:
 
@@ -3742,7 +3744,7 @@ De verdelingsvrije toets houdt in dat aan de hand van het aantal overschrijdinge
 
 ### Bepaling of wordt voldaan aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voor bouwstoffen
 
-Wanneer tevens de behoefte bestaat om in de erkende kwaliteitsverklaring een specifieke kwaliteit grond of baggerspecie te vermelden wordt ten behoeve van de verdelingsvrije toets voor de onderzochte stof de kwaliteitseis gehanteerd die voor de te vermelden specifieke kwaliteit is opgenomen in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+Wanneer tevens de behoefte bestaat om in de erkende kwaliteitsverklaring een specifieke kwaliteit grond of baggerspecie te vermelden wordt ten behoeve van de verdelingsvrije toets voor de onderzochte stof de kwaliteitseis gehanteerd die voor de te vermelden specifieke kwaliteit is opgenomen in tabel 3a tot en met 3e van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
 De toets wordt verricht in het kader van een toelatingsonderzoek ten behoeve van de verkrijging van het recht om een fabrikant-eigenverklaring af te geven.
 
@@ -3782,7 +3784,7 @@ De stoffen en andere parameters waarvoor in de tabel ‘ja’ is vermeld, behore
 
 ### Bepaling emissies van stoffen uit slecht doorlatende bouwstoffen, grond en baggerspecie
 
-3 Voor de organochloorhoudende bestrijdingsmiddelen (som) is er een verschil in de omschrijving van de somparameter tussen landbodem en waterbodem in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01).
+3 Voor de organochloorhoudende bestrijdingsmiddelen (som) is er een verschil in de omschrijving van de somparameter tussen landbodem en waterbodem in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31).
 
 Als bij de kolomproef door slechte doorlatendheid van materiaal onvoldoende vloeistof door de met bouwstoffen, grond of baggerspecie gevulde kolom stroomt, worden de daaruit optredende emissies van de volgens deze regeling te onderzoeken stoffen berekend met behulp van de hieronder weergegeven formule.
 
@@ -3794,7 +3796,7 @@ Als bij de kolomproef door slechte doorlatendheid van materiaal onvoldoende vloe
 
 De hoeveelheid vloeistof die door de kolom stroomt, wordt als onvoldoende beschouwd als de getalswaarde van de hoeveelheid vloeistof die door de kolom stroomt, uitgedrukt in liters, kleiner is dan 10 maal de getalswaarde van het gewicht van het materiaal waarmee de kolom is gevuld, uitgedrukt in kg droge stof.
 
-De emissievan een stof wordt gemeten in de vloeistof die wel door de kolom is gelopen. De in de vloeistof gemeten emissie wordt van een stof wordt volgens de onderstaande formule omgerekend naar een emissie die wordt getoetst aan de toepasselijke kwaliteitseis die als maximale emissiewaarde voor de stof is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01), onderscheidenlijk [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01).
+De emissievan een stof wordt gemeten in de vloeistof die wel door de kolom is gelopen. De in de vloeistof gemeten emissie wordt van een stof wordt volgens de onderstaande formule omgerekend naar een emissie die wordt getoetst aan de toepasselijke kwaliteitseis die als maximale emissiewaarde voor de stof is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31), onderscheidenlijk [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31).
 
 In deze bovenstaande formule is:
 
@@ -3858,13 +3860,13 @@ In onderstaande tabel zijn combinaties van toepassingen en bouwstoffen opgenomen
 
 ### I. Omgaan met door het laboratorium als ‘kleiner dan de rapportagegrens’ gerapporteerde concentraties van stoffen
 
-Ingeval onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-01&g=2026-01-01) wordt toegepast voor het toetsen aan de **Interventiewaarde****bodemkwaliteit** die is opgenomen in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa), dan worden de bovenstaande onderdelen a t/m e overeenkomstig toegepast met dien verstande dat voor de kwaliteitseis in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) telkens wordt verstaan de **Interventiewaarde bodemkwaliteit** die is opgenomen in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa)
+Ingeval onderdeel I van [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=G&z=2026-01-31&g=2026-01-31) wordt toegepast voor het toetsen aan de **Interventiewaarde****bodemkwaliteit** die is opgenomen in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa), dan worden de bovenstaande onderdelen a t/m e overeenkomstig toegepast met dien verstande dat voor de kwaliteitseis in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) telkens wordt verstaan de **Interventiewaarde bodemkwaliteit** die is opgenomen in [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa)
 
 ### II. Omrekenen van door het laboratorium gerapporteerde concentraties van stoffen naar concentratie van die stoffen in standaardbodem, ten behoeve van de toetsing aan kwaliteitseisen die voor de bodem, grond en baggerspecie voor die stoffen zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2025-05-21&g=2025-05-21) bij deze Regeling en ten behoeve van de toetsing aan de interventiewaarden bodemkwaliteit uit [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa)
 
 2 Voor het % organische stof wordt in geval het gemeten percentage lager is dan de minimumwaarde die is opgenomen in tabel 3, de minimumwaarde in tabel 3 aangehouden. In geval het gemeten percentage hoger is dan de maximumwaarde die is opgenomen in tabel 3, wordt hiervoor de maximumwaarde in tabel 3 aangehouden.
 
-1 Voor de omrekening van gemeten concentraties van stoffen naar concentraties van stoffen in de standaardbodem voor de stoffen die worden betrokken bij het bepalen van de kwaliteitseis voor ‘voor verspreiden op de landbodem geschikte baggerspecie’ die is opgenomen in tabel 3b, kolom 3, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) wordt uitsluitend de minimumwaarde bij organische stoffen gehanteerd.
+1 Voor de omrekening van gemeten concentraties van stoffen naar concentraties van stoffen in de standaardbodem voor de stoffen die worden betrokken bij het bepalen van de kwaliteitseis voor ‘voor verspreiden op de landbodem geschikte baggerspecie’ die is opgenomen in tabel 3b, kolom 3, van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) wordt uitsluitend de minimumwaarde bij organische stoffen gehanteerd.
 
 ## Bijlage H. bij de Regeling bodemkwaliteit 2022
 
@@ -3902,7 +3904,7 @@ Onder de toepasselijke kwaliteitseis wordt verstaan:
 
 ### Bepaling of wordt voldaan aan het criterium voor het verkrijgen van het recht op de afgifte van een fabrikant-eigenverklaring voor bouwstoffen
 
-In deze bijlage is beschreven op welke wijze wordt getoetst of voor een stof is voldaan aan het criterium waarmee wordt bepaald of de kwaliteit van partijen van een bouwstof voldoende constant is en voldoet aan de kwaliteitseisen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-01&g=2026-01-01) om daarvoor een fabrikant-eigenverklaring te mogen afgeven.
+In deze bijlage is beschreven op welke wijze wordt getoetst of voor een stof is voldaan aan het criterium waarmee wordt bepaald of de kwaliteit van partijen van een bouwstof voldoende constant is en voldoet aan de kwaliteitseisen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=A&z=2026-01-31&g=2026-01-31) om daarvoor een fabrikant-eigenverklaring te mogen afgeven.
 
 De toets wordt verricht in het kader van een toelatingsonderzoek ten behoeve van de verkrijging van het recht om een fabrikant-eigenverklaring af te geven.
 
@@ -3920,7 +3922,7 @@ k = (log (kwaliteitseis) – y) / sy.
 
 ### Standaardonderzoekspakket
 
-1 De somparameters zijn omschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-01&g=2026-01-01).
+1 De somparameters zijn omschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=E&z=2026-01-31&g=2026-01-31).
 
 2 Voor baggerspecie afkomstig uit zout oppervlaktewater die niet in zout oppervlaktewater wordt toegepast is pakket C1 van toepassing.
 
@@ -3950,19 +3952,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### De bepaling of een bouwstof kan worden aangemerkt als vormgegeven bouwstof, onderscheidenlijk duurzaam vormvaste bouwstof
 
-### 1. Bepaling van het volume van de kleinste eenheid van een bouwstof op basis van afmetingen door middel van onderdompeling van een eenheid als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.7&z=2026-01-01&g=2026-01-01)
+### 1. Bepaling van het volume van de kleinste eenheid van een bouwstof op basis van afmetingen door middel van onderdompeling van een eenheid als bedoeld in [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.7&z=2026-01-31&g=2026-01-31)
 
 ρ = de dichtheid van water bij de beproevingstemperatuur van het waterbad, in g/cm3
 
-### 2. Bepaling van het volume van de kleinste eenheid van een bouwstof door middel van een zeefproef als bedoeld in [artikel 3.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.8&z=2026-01-01&g=2026-01-01)
+### 2. Bepaling van het volume van de kleinste eenheid van een bouwstof door middel van een zeefproef als bedoeld in [artikel 3.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.8&z=2026-01-31&g=2026-01-31)
 
-### 3. Bepaling van niet-duurzaam vormvaste toepassingen als bedoeld in [artikel 3.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.9&z=2026-01-01&g=2026-01-01)
+### 3. Bepaling van niet-duurzaam vormvaste toepassingen als bedoeld in [artikel 3.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.9&z=2026-01-31&g=2026-01-31)
 
 ## Bijlage G. bij de Regeling bodemkwaliteit 2022
 
 ### I. Omgaan met door het laboratorium als ‘kleiner dan de rapportagegrens’ gerapporteerde concentraties van stoffen
 
-### II. Omrekenen van door het laboratorium gerapporteerde concentraties van stoffen naar concentratie van die stoffen in standaardbodem, ten behoeve van de toetsing aan kwaliteitseisen die voor de bodem, grond en baggerspecie voor die stoffen zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-01&g=2026-01-01) bij deze Regeling en ten behoeve van de toetsing aan de interventiewaarden bodemkwaliteit uit [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa)
+### II. Omrekenen van door het laboratorium gerapporteerde concentraties van stoffen naar concentratie van die stoffen in standaardbodem, ten behoeve van de toetsing aan kwaliteitseisen die voor de bodem, grond en baggerspecie voor die stoffen zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047808&bijlage=B&z=2026-01-31&g=2026-01-31) bij deze Regeling en ten behoeve van de toetsing aan de interventiewaarden bodemkwaliteit uit [bijlage IIA bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=IIa)
 
 ## Bijlage H. bij de Regeling bodemkwaliteit 2022
 
