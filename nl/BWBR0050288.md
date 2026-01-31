@@ -4,7 +4,7 @@ identifier: "BWBR0050288"
 country: "nl"
 rank: "pbo"
 publication_date: "2026-01-31"
-last_updated: "2024-10-15"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050288"
 soort: "pbo"
@@ -108,13 +108,13 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 ##### Artikel 11
 
-1. Een stemming is nietig, als niet meer dan de helft van het aantal zitting hebbende leden, die zich niet van medestemmen moeten onthouden (zie [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=9&z=2024-10-15&g=2024-10-15)), aan de stemming heeft deelgenomen.
+1. Een stemming is nietig, als niet meer dan de helft van het aantal zitting hebbende leden, die zich niet van medestemmen moeten onthouden (zie [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=9&z=2026-01-31&g=2026-01-31)), aan de stemming heeft deelgenomen.
 
 2. Bij stemming over personen worden leden die blanco hebben gestemd, ook meegeteld.
 
 3. In geval van een nietige stemming vindt in een volgende vergadering herstemming plaats. Deze is geldig, ongeacht het aantal leden dat eraan heeft deelgenomen.
 
-4. Een stemming, gehouden in een vergadering als bedoeld in de tweede volzin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=7&z=2024-10-15&g=2024-10-15), is geldig, ongeacht het aantal leden dat aan de stemming heeft deelgenomen.
+4. Een stemming, gehouden in een vergadering als bedoeld in de tweede volzin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=7&z=2026-01-31&g=2026-01-31), is geldig, ongeacht het aantal leden dat aan de stemming heeft deelgenomen.
 
 ##### Artikel 12
 
@@ -156,7 +156,7 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 ##### Artikel 15
 
-1. Na ontvangst van een verzoek om bemiddeling als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2024-10-15&g=2024-10-15) gaat de bedrijfscommissie na of zij bevoegd is om van het verzoek kennis te nemen en of het verzoek voldoende is omschreven, gemotiveerd en gedocumenteerd.
+1. Na ontvangst van een verzoek om bemiddeling als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2026-01-31&g=2026-01-31) gaat de bedrijfscommissie na of zij bevoegd is om van het verzoek kennis te nemen en of het verzoek voldoende is omschreven, gemotiveerd en gedocumenteerd.
 
 2. De bedrijfscommissie zendt een verzoek als bedoeld in het eerste lid, tot behandeling waarvan kennelijk een andere bedrijfscommissie bevoegd is, onverwijld door naar die commissie, onder gelijktijdige mededeling daarvan aan de verzoeker.
 
@@ -164,7 +164,7 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 4. Acht de bedrijfscommissie een verzoek onvoldoende omschreven, gemotiveerd of gedocumenteerd, dan bericht zij aan verzoeker op welke punten en met welke documenten deze zijn verzoek dient aan te vullen. Zij stelt daarbij aan de verzoeker een termijn. Een verzoek om bemiddeling is in ieder geval onvoldoende gemotiveerd, wanneer de verzoeker daarin niet zijn zienswijze weergeeft op hetgeen blijkens de door hem overgelegde documenten zijn wederpartij in het geschil schriftelijk heeft aangevoerd.
 
-5. De bedrijfscommissie brengt het schriftelijke verslag van haar bevindingen als bedoeld in [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2024-10-15&g=2024-10-15), uit binnen twee maanden nadat haar bemiddeling is gevraagd.
+5. De bedrijfscommissie brengt het schriftelijke verslag van haar bevindingen als bedoeld in [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2026-01-31&g=2026-01-31), uit binnen twee maanden nadat haar bemiddeling is gevraagd.
 
 6. De bedrijfscommissie kan de termijn van twee maanden, bedoeld in het vijfde lid, met instemming van beide partijen voor ten hoogste twee maanden verlengen.
 
@@ -178,9 +178,9 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 ##### Artikel 16
 
-1. Over de wijze waarop zij, gelet op de betrokken omstandigheden, tussen de partijen in het geschil zal bemiddelen, beslist de bedrijfscommissie naar eigen oordeel, met dien verstande dat zij daarbij het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2024-10-15&g=2024-10-15) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=15&z=2024-10-15&g=2024-10-15) in acht neemt en voorts de partijen in de gelegenheid stelt hun standpunten op een hoorzitting toe te lichten.
+1. Over de wijze waarop zij, gelet op de betrokken omstandigheden, tussen de partijen in het geschil zal bemiddelen, beslist de bedrijfscommissie naar eigen oordeel, met dien verstande dat zij daarbij het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2026-01-31&g=2026-01-31) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=15&z=2026-01-31&g=2026-01-31) in acht neemt en voorts de partijen in de gelegenheid stelt hun standpunten op een hoorzitting toe te lichten.
 
-2. Het schriftelijk verslag dat de bedrijfscommissie overeenkomstig [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2024-10-15&g=2024-10-15) opmaakt van de bevindingen waartoe zij bij haar bemiddeling is gekomen, bevat ten minste de volgende onderdelen:
+2. Het schriftelijk verslag dat de bedrijfscommissie overeenkomstig [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2026-01-31&g=2026-01-31) opmaakt van de bevindingen waartoe zij bij haar bemiddeling is gekomen, bevat ten minste de volgende onderdelen:
 
 - –. de datum waarop de bemiddeling is gevraagd;
 
@@ -210,13 +210,11 @@ Het verslag wordt door de bedrijfscommissie, zonodig tegen betaling van de koste
 
 ##### Artikel 19
 
-1. Een bedrijfscommissie kan nadere regels stellen over haar werkwijze. Deze regels behoeven de goedkeuring van de Raad.
-
-2. In de in het eerste lid bedoelde regels kan worden opgenomen dat de leden en de plaatsvervangende leden van een bedrijfscommissie een vacatievergoeding kunnen ontvangen. Deze vergoeding is niet hoger dan € 200 per vergadering van de bedrijfscommissie.
+Een bedrijfscommissie kan nadere regelen stellen over haar werkwijze. Deze regelen behoeven de goedkeuring van de Raad.
 
 ##### Artikel 20
 
-Bij het voor de eerste maal samenstellen van een bedrijfscommissie treedt voor de toepassing van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=1&artikel=3&z=2024-10-15&g=2024-10-15), in plaats van de bedrijfscommissie de voorzitter van de Raad op of diens plaatsvervanger.
+Bij het voor de eerste maal samenstellen van een bedrijfscommissie treedt voor de toepassing van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=1&artikel=3&z=2026-01-31&g=2026-01-31), in plaats van de bedrijfscommissie de voorzitter van de Raad op of diens plaatsvervanger.
 
 ##### Artikel 21
 
