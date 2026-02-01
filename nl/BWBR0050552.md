@@ -4,7 +4,7 @@ identifier: "BWBR0050552"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-01"
-last_updated: "2025-01-01"
+last_updated: "2026-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050552"
 soort: "zbo"
@@ -70,19 +70,21 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - 15. **project:** alle werkzaamheden voor een opzichzelfstaande, concreet omschreven activiteit, afgebakend in tijd en doel;
 
-- 16. **stimuleringsfonds:** de stichting Stimuleringsfonds Creatieve Industrie;
+- 16. **projectpartner:** een natuurlijke persoon of rechtspersoon waarmee door de aanvrager wordt samengewerkt binnen de context van het project. De projectpartner voegt ten opzichte van de aanvrager substantiële waarde toe aan het project in de vorm van kennis of kunde, of stelt noodzakelijke faciliteiten ter beschikking, die van belang zijn voor de totstandkoming van het project;
 
-- 17. **subsidiebehoefte:** het bedrag dat op grond van deze regeling wordt aangevraagd bij het Stimuleringsfonds. Dit bedrag wordt gevormd door de totale projectkosten met aftrek van de cofinanciering en eventuele eigen bijdragen;
+- 17. **stimuleringsfonds:** de stichting Stimuleringsfonds Creatieve Industrie;
 
-- 18. **subsidieplafond:** het totale bedrag dat binnen een subsidietijdvak maximaal beschikbaar is voor subsidies;
+- 18. **subsidiebehoefte:** het bedrag dat op grond van deze regeling wordt aangevraagd bij het Stimuleringsfonds. Dit bedrag wordt gevormd door de totale projectkosten met aftrek van de cofinanciering en eventuele eigen bijdragen;
 
-- 19. **subsidietijdvak:** de periode waarbinnen op grond van deze regeling een aanvraag kan worden ingediend;
+- 19. **subsidieplafond:** het totale bedrag dat binnen een subsidietijdvak maximaal beschikbaar is voor subsidies;
 
-- 20. **uitgeverij:** een rechtspersoon die bedrijfsmatig zorgdraagt voor het ontwikkelen, (laten) produceren en distribueren van boeken of andersoortige publicaties en vanuit die rol namens een auteur of maker als aanvrager optreedt;
+- 20. **subsidietijdvak:** de periode waarbinnen op grond van deze regeling een aanvraag kan worden ingediend;
 
-- 21. **vakgebied architectuur:** tot het vakgebied architectuur wordt gerekend: architectuur, interieur, tuin- en landschap, stedenbouw, ruimtelijke ordening, inclusief aanverwante activiteiten gericht op analyse, onderzoek en reflectie op deze terreinen;
+- 21. **uitgeverij:** een rechtspersoon die bedrijfsmatig zorgdraagt voor het ontwikkelen, (laten) produceren en distribueren van boeken of andersoortige publicaties en vanuit die rol namens een auteur of maker als aanvrager optreedt;
 
-- 22. **vervolgaanvraag:** een subsidieaanvraag voor een project dat direct voortkomt uit een vooronderzoek of startfase, waarvoor een subsidie is verleend door het Stimuleringsfonds op grond van de [Startregeling creatieve industrie](https://wetten.overheid.nl/jci1.3:c:BWBR0050543) of op grond van een verleende startsubsidie in de jaren 2023 of 2024.
+- 22. **vakgebied architectuur:** tot het vakgebied architectuur wordt gerekend: architectuur, interieur, tuin- en landschap, stedenbouw, ruimtelijke ordening, inclusief aanverwante activiteiten gericht op analyse, onderzoek en reflectie op deze terreinen;
+
+- 23. **vervolgaanvraag:** een subsidieaanvraag voor een project dat direct voortkomt uit een vooronderzoek of startfase, waarvoor een subsidie is verleend door het Stimuleringsfonds op grond van de [Startregeling creatieve industrie](https://wetten.overheid.nl/jci1.3:c:BWBR0050543) of op grond van een verleende startsubsidie in de jaren 2023 of 2024.
 
 ##### Artikel 2. Taakopvatting Stimuleringsfonds
 
@@ -94,7 +96,11 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ##### Artikel 3. Reikwijdte en doelstellingen Regeling Architectuur
 
-1. Op grond van deze regeling kan het Stimuleringsfonds projecten van architecten, beschouwers, ontwerpbureaus of culturele instellingen subsidiëren met een subsidiebehoefte vanaf € 10.000 tot maximaal € 50.000.
+1. Op grond van deze regeling kan het Stimuleringsfonds projecten van architecten, beschouwers, ontwerpbureaus of culturele instellingen subsidiëren met een subsidiebehoefte vanaf € 10.000 tot maximaal € 50.000. Hierbij geldt:
+
+- a. voor aanvragen gericht op projecten met één uitvoerende partij een maximaal aan te vragen bedrag van € 25.000; en
+
+- b. voor aanvragen gericht op projecten waarbij sprake is van samenwerking met één of meerdere projectpartners een maximaal aan te vragen bedrag van € 50.000.
 
 2. Projecten hebben primair geen winstoogmerk en dragen vanuit een of meerdere van de (sub)disciplines, dan wel vanuit cross-overs met andere disciplines, bij aan het versterken van de kwaliteit, ontwikkeling of verdieping van het vakgebied architectuur.
 
@@ -110,7 +116,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het Stimuleringsfonds ter beschikking worden gesteld.
 
-2. Het subsidieplafond wordt per subsidietijdvak bekendgemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/).
+2. Het subsidieplafond wordt per subsidietijdvak bekendgemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) en in de Staatscourant.
 
 ##### Artikel 5. Procedure indienen en toetsing van aanvragen
 
@@ -118,37 +124,39 @@ Het proces van indienen van een aanvraag op grond van deze regeling kent twee fa
 
 - 1. Proces fase I:
 
-- a. Het bestuur maakt via [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) jaarlijks bekend binnen welke subsidietijdvakken op grond van deze regeling een subsidieaanvraag kan worden ingediend.
+- a. Het bestuur maakt via [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl) en door middel van publicatie in de Staatscourant jaarlijks bekend binnen welke subsidietijdvakken op grond van deze regeling een subsidieaanvraag kan worden ingediend.
 
 - b. Het bestuur stelt een maximum vast voor het totaalaantal aanvragen dat in behandeling kan worden genomen per subsidietijdvak. Daarbij stelt het bestuur ook een maximumaantal herziene aanvragen en vervolgaanvragen vast voor dit subsidietijdvak. Dit aantal wordt ten minste twee weken voor openstelling van fase I van deze regeling bekendgemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/).
 
-- c. Aanvragers maken voor het indienen van een aanvraag gebruik van het daarvoor bestemde aanvraagformulier in de aanvraagomgeving van het Stimuleringsfonds. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=3&artikel=8&z=2025-01-01&g=2025-01-01) van deze regeling bevat een omschrijving van de inhoud van de aanvraag. Zie ook de Handleiding voorbereiding subsidieaanvraag Architectuur.
+- c. Aanvragers maken voor het indienen van een aanvraag gebruik van het daarvoor bestemde aanvraagformulier in de aanvraagomgeving van het Stimuleringsfonds. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=3&artikel=8&z=2026-02-01&g=2026-02-01) van deze regeling bevat een omschrijving van de inhoud van de aanvraag. Zie ook de Handleiding voorbereiding subsidieaanvraag Architectuur.
 
 - d. De aanvrager dient de aanvraag uiterlijk in op de datum genoemd in het onder a. genoemde subsidietijdvak.
 
-- e. Aanvragen worden getoetst aan de ingangseisen, beschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01).
+- e. Aanvragen worden getoetst aan de ingangseisen, beschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2026-02-01&g=2026-02-01).
 
-- f. Aanvragen worden getoetst op volgorde van binnenkomst, waarbij geldt dat de herziene aanvragen en de vervolgaanvragen eerst op volgorde van binnenkomst worden gerangschikt tot het moment waarop het onder b. bedoelde maximumaantal herziene aanvragen en vervolgaanvragen is bereikt. Vervolgens worden de overige aanvragen gerangschikt tot het moment dat het maximumaantal aanvragen voor het subsidietijdvak wordt bereikt. Bij de rangschikking geldt het moment dat de aanvraag volledig is op basis van [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=3&artikel=8&z=2025-01-01&g=2025-01-01).
+- f. Als het aantal aanvragen dat is ingediend groter is dan het door het bestuur ingestelde maximum aantal aanvragen als bedoeld onder b, wordt door middel van loting de volgorde vastgesteld waarin de ontvangen aanvragen worden getoetst op de ingangseisen en al dan niet in behandeling worden genomen. Binnen de door loting verkregen numerieke rangschikking worden eerst de herziene aanvragen en de vervolgaanvragen getoetst tot het moment waarop het onder b. bedoelde maximumaantal herziene aanvragen en vervolgaanvragen is bereikt. Vervolgens worden de overige aanvragen getoetst tot het moment dat het maximumaantal aanvragen voor het subsidietijdvak wordt bereikt.
 
-- g. Het bestuur wijst een aanvraag af als de aanvraag niet binnen het betreffende subsidietijdvak is ingediend.
+- g. Een aanvraag die zowel herzien is als een vervolgaanvraag betreft wordt beschouwd als een herziene aanvraag.
 
-- h. Het bestuur wijst een herziene aanvraag en een vervolgaanvraag af als het maximumaantal in te dienen herziene aanvragen of vervolgaanvragen binnen het betreffende subsidietijdvak is overschreden. Het bestuur wijst de overige aanvragen af als het maximum van het totaalaantal aanvragen binnen het betreffende subsidietijdvak is overschreden.
+- h. Het bestuur wijst een aanvraag af als de aanvraag niet binnen het betreffende subsidietijdvak is ingediend.
 
-- i. Het bestuur wijst aanvragen af die niet voldoen aan de ingangseisen vermeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01).
+- i. Het bestuur wijst een herziene aanvraag en een vervolgaanvraag af als het maximumaantal in te dienen herziene aanvragen of vervolgaanvragen binnen het betreffende subsidietijdvak is overschreden. Het bestuur wijst de overige aanvragen af als het maximum van het totaalaantal aanvragen binnen het betreffende subsidietijdvak is overschreden.
 
-- j. Aanvragers die onderdeel zijn van de rangschikking die ontstaat door toepassing van lid 1.f., ontvangen een uitnodiging om de aanvraag uit fase I aan te vullen en in te dienen voor fase II.
+- j. Het bestuur wijst aanvragen af die niet voldoen aan de ingangseisen vermeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2026-02-01&g=2026-02-01).
+
+- k. Aanvragers die onderdeel zijn van de rangschikking die ontstaat door toepassing van lid 1.f., ontvangen een uitnodiging om de aanvraag uit fase I aan te vullen en in te dienen voor fase II.
 
 - 2. Proces fase II:
 
-- a. Aanvragers die op grond van artikel 5, eerste lid onder j. een uitnodiging hebben ontvangen vullen hun aanvraag aan met de gevraagde informatie omschreven in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=3&artikel=8&z=2025-01-01&g=2025-01-01) en dienen deze in voor fase II.
+- a. Aanvragers die op grond van artikel 5, eerste lid onder j. een uitnodiging hebben ontvangen vullen hun aanvraag aan met de gevraagde informatie omschreven in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=3&artikel=8&z=2026-02-01&g=2026-02-01) en dienen deze in voor fase II.
 
 - b. De uiterlijke indiendatum voor fase II is vier weken na de bekendmaking van de selectie in fase I. De uiterlijke indiendatum wordt bekendgemaakt in de uitnodiging aan de geselecteerde aanvragers.
 
-- c. De in fase II aangevulde aanvragen worden door het fonds nogmaals getoetst aan de ingangseisen zoals vermeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01) en worden getoetst aan de voorwaarden vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=7&z=2025-01-01&g=2025-01-01).
+- c. De in fase II aangevulde aanvragen worden door het fonds nogmaals getoetst aan de ingangseisen zoals vermeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2026-02-01&g=2026-02-01) en worden getoetst aan de voorwaarden vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=7&z=2026-02-01&g=2026-02-01).
 
-- d. Aanvragen die niet op tijd zijn aangevuld, niet volledig zijn aangevuld of niet voldoen aan de ingangseisen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01) en de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=7&z=2025-01-01&g=2025-01-01) worden afgewezen. Alle overige aanvragen worden voor advies voorgelegd aan een onafhankelijke adviescommissie.
+- d. Aanvragen die niet op tijd zijn aangevuld, niet volledig zijn aangevuld of niet voldoen aan de ingangseisen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=6&z=2026-02-01&g=2026-02-01) en de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=7&z=2026-02-01&g=2026-02-01) worden afgewezen. Alle overige aanvragen worden voor advies voorgelegd aan een onafhankelijke adviescommissie.
 
-- e. De onafhankelijke adviescommissie adviseert het bestuur aan welke aanvragers subsidie wordt toegekend op basis van de beoordelingscriteria omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=4&artikel=10&z=2025-01-01&g=2025-01-01).
+- e. De onafhankelijke adviescommissie adviseert het bestuur aan welke aanvragers subsidie wordt toegekend op basis van de beoordelingscriteria omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=4&artikel=10&z=2026-02-01&g=2026-02-01).
 
 ##### Artikel 6. Ingangseisen
 
@@ -156,9 +164,11 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 - 1. Een subsidie op grond van deze regeling kan alleen worden verleend als:
 
-- a. De aanvrager is een ontwerper, maker, beschouwer, ontwerpbureau, culturele instelling of organisatie is, die zich aantoonbaar positioneert binnen het vakgebied architectuur.
+- a. De aanvrager is een ontwerper, maker, beschouwer, ontwerpbureau, culturele instelling of organisatie is, die zich aantoonbaar positioneert binnen het vakgebied vormgeving; en
 
-- b. De aanvragende partij staat ingeschreven in het Handelsregister van de Nederlandse Kamer van Koophandel of bij een van de Handelsregisters die vallen binnen het Koninkrijk.
+- b. De aanvragende partij staat ingeschreven in het Handelsregister van de Nederlandse Kamer van Koophandel of bij een van de Handelsregisters die vallen binnen het Koninkrijk; en
+
+- c. Op basis van de aanvraag voor fase I redelijkerwijs kan worden gesteld dat het project waarvoor wordt aangevraagd aansluit op de taakopvatting van het Stimuleringsfonds, verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=1&artikel=2&z=2026-02-01&g=2026-02-01), en past binnen de reikwijdte en doelstelling van de regeling, verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=3&z=2026-02-01&g=2026-02-01).
 
 - 2. Niet in aanmerking voor subsidie op grond van deze regeling komen:
 
@@ -182,7 +192,7 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 - j. projecten van aanvragers die gedurende de looptijd van het project al ondersteuning ontvangen voor het uitvoeren van hun ontwikkelplan vanuit de [Regeling Talentontwikkeling](https://stimuleringsfonds.nl/nl/subsidies/deelregeling_talentontwikkeling/) van het Stimuleringsfonds;
 
-- k. aanvragen voor grootschalige festivals die in aanmerking komen voor ondersteuning op grond van de [Regeling Festivals en publiekspresentaties](onbekend);
+- k. aanvragen voor grootschalige festivals die in aanmerking komen voor ondersteuning op grond van de [Regeling Festivals en publiekspresentaties](https://wetten.overheid.nl/jci1.3:c:BWBR0051347);
 
 - l. projecten waarvoor al tweemaal eerder subsidie is aangevraagd op grond van een regeling van het Stimuleringsfonds, die zijn afgewezen na een negatief advies; en
 
@@ -194,13 +204,13 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 ##### Artikel 7. Voorwaarden
 
-De op grond van [artikel 5 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01) aangevulde aanvragen worden getoetst aan onderstaande voorwaarden.
+De op grond van [artikel 5 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=5&z=2026-02-01&g=2026-02-01) aangevulde aanvragen worden getoetst aan onderstaande voorwaarden.
 
 - 1. Een subsidie op grond van deze regeling kan alleen worden verleend als aan de volgende voorwaarden is voldaan:
 
-- a. De uitwerking van de aanvraag voor fase II is in lijn met de beschrijving en positionering van het project zoals ingediend voor fase I.
+- a. De uitwerking van de aanvraag voor fase II is in lijn met de beschrijving en positionering van het project zoals ingediend voor fase I. Voor aanvragen waarbij in fase I is aangegeven dat de subsidiebehoefte niet meer dan € 25.000 bedraagt, geldt dat ook in fase II de subsidiebehoefte niet hoger mag zijn dan € 25.000.
 
-- b. Het project sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01).
+- b. Het project sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=1&artikel=2&z=2026-02-01&g=2026-02-01) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=2&artikel=3&z=2026-02-01&g=2026-02-01).
 
 - c. Het project draagt bij aan het versterken van de kwaliteit, ontwikkeling of verdieping van het vakgebied architectuur in Nederland, dan wel het Koninkrijk.
 
@@ -290,7 +300,9 @@ Een aanvraag voor fase I bestaat uit:
 
 - b. Een digitaal gewaarmerkt uittreksel van maximaal één jaar oud uit het Handelsregister van de Nederlandse Kamer van Koophandel of van een van de Handelsregisters die vallen binnen het Koninkrijk;
 
-- c. Cv(’s) van de belangrijkste uitvoerder(s) van het project, of, in het geval de aanvraag wordt gedaan door een instelling of organisatie, een korte beschrijving van de missie van de instelling of organisatie.
+- c. Cv(’s) van de belangrijkste uitvoerder(s) van het project, of, in het geval de aanvraag wordt gedaan door een instelling of organisatie, een korte beschrijving van de missie van de instelling of organisatie;
+
+- d. Als er binnen de aanvraag één of meerdere projectpartners zijn betrokken, dient er bij de aanvraag een door de projectpartner ondertekende intentieverklaring te worden verstrekt.
 
 2. Voor fase II wordt een uitgewerkte aanvraag ingediend waarbij aanvullende stukken worden gevraagd. Een volledige aanvraag voor fase II bevat de onderstaande documenten. Alleen deze documenten, met uitzondering van de onder i. genoemde afbeelding, worden beschikbaar gesteld aan de adviescommissie. Vormvereisten en richtlijnen staan beschreven in de Handleiding voorbereiding subsidieaanvraag Architectuur, hierbij geldt de versie zoals gepubliceerd op de website van het Stimuleringsfonds op de datum waarop het subsidietijdvak wordt opengesteld.
 
@@ -362,7 +374,7 @@ Een aanvraag voor fase II bestaat uit:
 
 1. Het bestuur informeert de aanvrager binnen elf weken na de uiterlijke indiendatum van fase II schriftelijk over zijn besluit.
 
-2. Het bestuur kan in dit besluit andere verplichtingen aan de subsidieverlening verbinden dan vermeld staan in [artikel 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0050552&hoofdstuk=5&artikel=13&z=2025-01-01&g=2025-01-01).
+2. Het bestuur kan aan dit besluit voorwaarden verbinden, onder verwijzing naar op grond van deze regeling geldende bepalingen.
 
 3. Het besluit tot verlening van een subsidie bevat een weergave van het advies en de overwegingen van het bestuur, de voorwaarden waaronder de subsidie beschikbaar wordt gesteld, de duur van de subsidieperiode, de verplichtingen die gelden voor de ontvanger, de maximale hoogte van de subsidie en informatie over betaling en voorschot.
 
