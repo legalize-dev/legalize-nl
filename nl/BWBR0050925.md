@@ -4,7 +4,7 @@ identifier: "BWBR0050925"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-01"
-last_updated: "2025-04-01"
+last_updated: "2026-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050925"
 soort: "zbo"
@@ -132,15 +132,15 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 3. De aanvraag voor subsidie wordt ingediend via de aanvraagomgeving van het Stimuleringsfonds;
 
-4. Aanvragen worden getoetst aan de ingangseisen, beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=7&z=2025-04-01&g=2025-04-01);
+4. Aanvragen worden getoetst aan de ingangseisen, beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=7&z=2026-02-01&g=2026-02-01);
 
-5. Aanvragen worden getoetst op volgorde van binnenkomst, waarbij geldt dat de herziene aanvragen en de vervolgaanvragen eerst op volgorde van binnenkomst worden gerangschikt tot het moment waarop het onder lid 2 van dit artikel, bedoelde maximumaantal herziene aanvragen en vervolgaanvragen is bereikt. Vervolgens worden de overige aanvragen gerangschikt tot het moment dat het maximumaantal aanvragen voor het subsidietijdvak wordt bereikt. Bij de rangschikking geldt het moment dat de aanvraag volledig is op basis van [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=3&artikel=9&z=2025-04-01&g=2025-04-01);
+5. Als het aantal aanvragen dat is ingediend groter is dan het door het bestuur ingestelde maximum aantal aanvragen als bedoeld onder lid 2, wordt door middel van loting de volgorde vastgesteld waarin de ontvangen aanvragen worden getoetst op de ingangseisen en al dan niet in behandeling worden genomen. Binnen de door loting verkregen numerieke rangschikking worden eerst de herziene aanvragen en de vervolgaanvragen getoetst tot het moment waarop het onder lid 2 bedoelde maximumaantal herziene aanvragen en vervolgaanvragen is bereikt. Vervolgens worden de overige aanvragen getoetst tot het moment dat het maximumaantal aanvragen voor het subsidietijdvak wordt bereikt. Een aanvraag die zowel herzien is als een vervolgaanvraag betreft wordt beschouwd als een herziene aanvraag.
 
 6. Het bestuur wijst een aanvraag af als de aanvraag niet binnen het betreffende subsidietijdvak is ingediend;
 
 7. Het bestuur wijst een herziene aanvraag en een vervolgaanvraag af als het maximumaantal in te dienen herziene aanvragen of vervolgaanvragen binnen het betreffende subsidietijdvak is overschreden. Het bestuur wijst de overige aanvragen af als het maximum van het totaalaantal aanvragen binnen het betreffende subsidietijdvak is overschreden;
 
-8. Aanvragen die niet volledig zijn of niet voldoen aan de ingangseisen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=7&z=2025-04-01&g=2025-04-01) en de voorwaarden van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=8&z=2025-04-01&g=2025-04-01) worden afgewezen;
+8. Aanvragen die niet volledig zijn of niet voldoen aan de ingangseisen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=7&z=2026-02-01&g=2026-02-01) en de voorwaarden van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=8&z=2026-02-01&g=2026-02-01) worden afgewezen;
 
 9. Alle overige aanvragen worden voor advies voorgelegd aan een onafhankelijke adviescommissie.
 
@@ -194,7 +194,7 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 1. Een subsidie op grond van deze regeling kan alleen worden verleend als aan de volgende voorwaarden is voldaan.
 
-- a. Het project sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=1&artikel=2&z=2025-04-01&g=2025-04-01) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=3&z=2025-04-01&g=2025-04-01).
+- a. Het project sluit aan op de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=1&artikel=2&z=2026-02-01&g=2026-02-01) en past binnen de reikwijdte en doelstellingen zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=2&artikel=3&z=2026-02-01&g=2026-02-01).
 
 - b. Het project, of de projectfase waarop de subsidie betrekking heeft, start niet voor de beschikkingsdatum.
 
@@ -244,7 +244,7 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 - b. Duurzaamheid: Het bestuur stimuleert duurzaam reizen. Als een reis voor het project per trein maximaal acht uur bedraagt, vergoedt het bestuur alleen de kosten voor reizen over land.
 
-4. Het bestuur kan geen activiteiten ondersteunen die strijdig zijn met EU sanctieregels. Het bestuur baseert zich daarbij in beginsel op de EU sanctiemap: [https://www.sanctionsmap.eu/#/main](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sanctionsmap.eu%2F%23%2Fmain&data=05%7C02%7CS.Groeneveld%40stimuleringsfonds.nl%7C6d2dab1056c64ebf8a7408dd684de6c0%7C2b74ba3cbc3949fcb009b11f460f59aa%7C0%7C0%7C638781406033087237%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fEbjDDjfRiostvf7nICieeIyp4x0ejUgKdXJX4EozfI%3D&reserved=0), met dien verstande dat de officiële teksten uit het EU-publicatieblad altijd doorslaggevend zijn. Het is de eigen verantwoordelijkheid van aanvragers om te controleren of ze niet in strijd met de geldende sancties handelen. Wanneer er met de aan te vragen subsidie activiteiten gefinancierd worden die plaatsvinden in landen die op deze EU sanctiemap staan, dient de aanvrager contact op te nemen met het fonds alvorens een aanvraag in te dienen. Het bestuur kan dan op basis van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=7&artikel=23&z=2025-04-01&g=2025-04-01) besluiten of de aanvraag kan worden toegelaten tot de subsidieronde.
+4. Het bestuur kan geen activiteiten ondersteunen die strijdig zijn met EU sanctieregels. Het bestuur baseert zich daarbij in beginsel op de EU sanctiemap: [https://www.sanctionsmap.eu/#/main](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sanctionsmap.eu%2F%23%2Fmain&data=05%7C02%7CS.Groeneveld%40stimuleringsfonds.nl%7C6d2dab1056c64ebf8a7408dd684de6c0%7C2b74ba3cbc3949fcb009b11f460f59aa%7C0%7C0%7C638781406033087237%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fEbjDDjfRiostvf7nICieeIyp4x0ejUgKdXJX4EozfI%3D&reserved=0), met dien verstande dat de officiële teksten uit het EU-publicatieblad altijd doorslaggevend zijn. Het is de eigen verantwoordelijkheid van aanvragers om te controleren of ze niet in strijd met de geldende sancties handelen. Wanneer er met de aan te vragen subsidie activiteiten gefinancierd worden die plaatsvinden in landen die op deze EU sanctiemap staan, dient de aanvrager contact op te nemen met het fonds alvorens een aanvraag in te dienen. Het bestuur kan dan op basis van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0050925&hoofdstuk=7&artikel=23&z=2026-02-01&g=2026-02-01) besluiten of de aanvraag kan worden toegelaten tot de subsidieronde.
 
 5. In het kader van Europese wet- en regelgeving ten aanzien van staatssteun geldt dat voor aanvragers die kunnen worden beschouwd als onderneming subsidie op grond van deze regeling wordt geweigerd als:
 
