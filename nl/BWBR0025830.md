@@ -4,7 +4,7 @@ identifier: "BWBR0025830"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-01"
-last_updated: "2026-01-01"
+last_updated: "2026-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025830"
 soort: "AMvB"
@@ -108,23 +108,23 @@ Indien een toevoeging ten behoeve van mediation wordt verleend in een zaak waari
 
 4. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=4), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=26) en [27 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27) zijn van overeenkomstige toepassing.
 
-5. De vaststelling van de vergoeding, bedoeld in het eerste lid, vindt plaats met toepassing van het basisbedrag, bedoeld in het derde lid, de vergoeding, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=9&z=2026-01-01&g=2026-01-01), alsmede de vergoedingen overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=26) en [27 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27), die golden ten tijde van de afgifte van de toevoeging op grond waarvan de mediation is verricht.
+5. De vaststelling van de vergoeding, bedoeld in het eerste lid, vindt plaats met toepassing van het basisbedrag, bedoeld in het derde lid, de vergoeding, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=9&z=2026-02-01&g=2026-02-01), alsmede de vergoedingen overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=26) en [27 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27), die golden ten tijde van de afgifte van de toevoeging op grond waarvan de mediation is verricht.
 
 ##### Artikel 8
 
 1. Aan een zaak waarin aan een of meer rechtzoekenden een toevoeging ten behoeve van mediation is verleend, wordt per rechtzoekende vijf punten, met een maximum van tien punten per zaak, toegekend.
 
-2. Aan een zaak waarin aan een of meer rechtzoekenden een eerste toevoeging ten behoeve van mediation voor echtscheiding of beëindiging geregistreerd partnerschap met nevenvorderingen of beëindiging samenwoning is verleend, wordt het aantal toe te kennen punten, bedoeld in het eerste lid, één maal met vier punten verhoogd, indien die mediation mede is verleend met het oog op een gezags- of omgangsregeling of een financiële bijdrage ten behoeve van één of meer minderjarige kinderen.
+2. Aan een zaak waarin aan een of meer rechtzoekenden een eerste toevoeging ten behoeve van mediation voor echtscheiding of beëindiging geregistreerd partnerschap met nevenvorderingen of beëindiging samenwoning is verleend, wordt het aantal toe te kennen punten, bedoeld in het eerste lid, één maal met vijf en een halve punt verhoogd, indien die mediation mede is verleend met het oog op een gezags- of omgangsregeling of een financiële bijdrage ten behoeve van één of meer minderjarige kinderen.
 
-3. Indien in een zaak als resultaat van de mediation een vaststellingsovereenkomst is gesloten, die met het oog op de definitieve afhandeling van de zaak op grond van de wet in een rechterlijke uitspraak dient te worden opgenomen, wordt het aantal toe te kennen punten, bedoeld in het eerste lid, één maal met twee en een half verhoogd.
+3. Indien in een zaak als resultaat van de mediation een vaststellingsovereenkomst is gesloten, die met het oog op de definitieve afhandeling van de zaak op grond van de wet in een rechterlijke uitspraak dient te worden opgenomen, wordt het aantal toe te kennen punten, bedoeld in het eerste lid, één maal met drie en een half verhoogd.
 
 4. [Artikel 13, tweede lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=13) is van overeenkomstige toepassing.
 
 ##### Artikel 9
 
-1. Voor het tijdverlet in verband met reizen ten behoeve van de verlening van mediation vanwege de omstandigheid dat van een of meer rechtzoekenden in de zaak de vrijheid is ontnomen of beperkt, wordt per volle gereisde 50 kilometer een half punt toegekend. [Artikel 24, derde en vierde lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=24) is van overeenkomstige toepassing.
+1. Voor het tijdverlet in verband met reizen ten behoeve van de verlening van mediation vanwege de omstandigheid dat van een of meer rechtzoekenden in de zaak de vrijheid is ontnomen of beperkt of indien mediation is verleend op het gerecht na een mediationverwijzing van de Rechtspraak, wordt per volle gereisde 50 kilometer een half punt toegekend. [Artikel 24, derde, vierde en vijfde lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=24) is van overeenkomstige toepassing.
 
-2. Voor de kosten die worden gemaakt voor reizen ten behoeve van de verlening van mediation, bedoeld in het eerste lid, wordt een kilometervergoeding toegekend ter hoogte van het bedrag, genoemd in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a). [Artikel 25, derde lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25) is van overeenkomstige toepassing.
+2. Voor de kosten die worden gemaakt voor reizen ten behoeve van de verlening van mediation, bedoeld in het eerste lid, wordt een kilometervergoeding toegekend ter hoogte van het bedrag, genoemd in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a). [Artikel 25, derde en vierde lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25) is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
@@ -132,11 +132,11 @@ De [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&ar
 
 - a. de mediator bij zijn aanvraag tot vaststelling van de vergoeding, indien als resultaat van de mediation een vaststellingsovereenkomst is gesloten en een rechtzoekende uit hoofde hiervan een vordering met betrekking tot een geldsom ter hoogte van tenminste 50% van het drempelbedrag, genoemd in artikel 9.4a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 heeft, van deze vordering melding maakt; en
 
-- b. de vergoeding wordt vastgesteld met inachtneming van [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=7&z=2026-01-01&g=2026-01-01), van dit besluit.
+- b. de vergoeding wordt vastgesteld met inachtneming van [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=7&z=2026-02-01&g=2026-02-01), van dit besluit.
 
 ##### Artikel 11
 
-1. Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=10&z=2026-01-01&g=2026-01-01), de vergoeding aan de mediator.
+1. Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=10&z=2026-02-01&g=2026-02-01), de vergoeding aan de mediator.
 
 2. De [artikelen 32, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=32), en [33 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=33) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde betaling.
 
