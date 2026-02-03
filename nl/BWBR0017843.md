@@ -4,7 +4,7 @@ identifier: "BWBR0017843"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-03"
-last_updated: "2025-03-28"
+last_updated: "2026-02-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017843"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2025-03-28&g=2025-03-28), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2025-03-28&g=2025-03-28), [3a, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2025-03-28&g=2025-03-28), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3b&z=2025-03-28&g=2025-03-28) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3c&z=2025-03-28&g=2025-03-28), zijn van toepassing op een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2026-02-03&g=2026-02-03), [3a, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2026-02-03&g=2026-02-03), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3b&z=2026-02-03&g=2026-02-03) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3c&z=2026-02-03&g=2026-02-03), zijn van toepassing op een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-2. Een vennootschap waarvan uitsluitend effecten, niet zijnde aandelen, zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), is vrijgesteld van toepassing van [artikel 2a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2025-03-28&g=2025-03-28) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2025-03-28&g=2025-03-28) en [3a onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2025-03-28&g=2025-03-28), tenzij van deze vennootschap aandelen zijn toegelaten tot de handel op een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+2. Een vennootschap waarvan uitsluitend effecten, niet zijnde aandelen, zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), is vrijgesteld van toepassing van [artikel 2a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2026-02-03&g=2026-02-03) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2026-02-03&g=2026-02-03) en [3a onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2026-02-03&g=2026-02-03), tenzij van deze vennootschap aandelen zijn toegelaten tot de handel op een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
-3. [Artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2025-03-28&g=2025-03-28) is van toepassing op een vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op:
+3. [Artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2026-02-03&g=2026-02-03) is van toepassing op een vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op:
 
 - a. een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in dat artikel;
 
@@ -60,21 +60,21 @@ Hebben goedgevonden en verstaan:
 
 tenzij de vennootschap een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) is die geen beheerder is als bedoeld in dat artikel.
 
-4. [Artikel 3a, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2025-03-28&g=2025-03-28), is van toepassing op een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397).
+4. [Artikel 3a, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2026-02-03&g=2026-02-03), is van toepassing op een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397).
 
-5. [Artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3d&z=2025-03-28&g=2025-03-28) is van toepassing op een vennootschap die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397 leden 1 en 2 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397).
+5. [Artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3d&z=2026-02-03&g=2026-02-03) is van toepassing op een vennootschap die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397 leden 1 en 2 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397).
 
 ##### Artikel 2
 
-Als gedragscode bedoeld in [artikel 391a, tweede lid, onderdeel e, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391a) wordt aangewezen de Nederlandse corporate governance code van 20 december 2022 zoals gepubliceerd in Staatscourant nr. 23578 d.d. 30 augustus 2023.
+Als gedragscode bedoeld in [artikel 391a, tweede lid, onderdeel e, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391a) wordt aangewezen de Nederlandse corporate governance code van 20 maart 2025, gepubliceerd in Staatscourant nr. 36698 d.d. 30 oktober 2025.
 
 ##### Artikel 3
 
-1. De vennootschap doet mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2025-03-28&g=2025-03-28) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan gemotiveerd opgave.
+1. De vennootschap doet mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan gemotiveerd opgave.
 
-2. Lid 1 is ook van toepassing op een andere gedragscode die de vennootschap vrijwillig naleeft en op alle relevante informatie over de corporate-governancepraktijken die anders dan krachtens wettelijke bepaling worden toegepast naast de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2025-03-28&g=2025-03-28) genoemde gedragscode.
+2. Lid 1 is ook van toepassing op een andere gedragscode die de vennootschap vrijwillig naleeft en op alle relevante informatie over de corporate-governancepraktijken die anders dan krachtens wettelijke bepaling worden toegepast naast de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) genoemde gedragscode.
 
-3. Bij de mededeling, bedoeld in lid 1 vermeldt de vennootschap waar de tekst van de gedragscodes, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2025-03-28&g=2025-03-28) respectievelijk in lid 2, voor het publiek beschikbaar is. In geval van de naleving van de corporate-governancepraktijken, bedoeld in lid 2, maakt de vennootschap deze beschikbaar voor het publiek.
+3. Bij de mededeling, bedoeld in lid 1 vermeldt de vennootschap waar de tekst van de gedragscodes, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2026-02-03&g=2026-02-03) respectievelijk in lid 2, voor het publiek beschikbaar is. In geval van de naleving van de corporate-governancepraktijken, bedoeld in lid 2, maakt de vennootschap deze beschikbaar voor het publiek.
 
 ##### Artikel 4
 
@@ -94,7 +94,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. langs elektronische weg waardoor de verklaring rechtstreeks en permanent toegankelijk is, mits de vennootschap in het bestuursverslag vermeldt waar de verklaring voor het publiek elektronisch beschikbaar is.
 
-2. De verklaring bevat ten minste de mededelingen, genoemd in de [artikelen 3 tot en met 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2025-03-28&g=2025-03-28).
+2. De verklaring bevat ten minste de mededelingen, genoemd in de [artikelen 3 tot en met 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2026-02-03&g=2026-02-03).
 
 3. Indien gebruik wordt gemaakt van de mogelijkheid van lid 1, onder b, wordt de verklaring geacht onderdeel uit te maken van het bestuursverslag.
 
@@ -112,7 +112,7 @@ De vennootschap doet mededeling omtrent:
 
 ##### Artikel 3b
 
-Voor zover het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) van toepassing is op de vennootschap, neemt zij in de verklaring, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2025-03-28&g=2025-03-28), de mededeling op die zij moet doen ingevolge [artikel 1 lid 1, onderdelen c, d, f, h en i, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019731&artikel=1) en neemt zij de gegevens op, genoemd in [artikel 392 lid 1, onder e, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392). Indien de verklaring wordt afgelegd op een wijze als bedoeld in [artikel 2a lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2025-03-28&g=2025-03-28), kan de verklaring een verwijzing bevatten naar het bestuursverslag waar de mededelingen en de gegevens krachtens het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) en [artikel 392 lid 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), beschikbaar zijn.
+Voor zover het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) van toepassing is op de vennootschap, neemt zij in de verklaring, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2026-02-03&g=2026-02-03), de mededeling op die zij moet doen ingevolge [artikel 1 lid 1, onderdelen c, d, f, h en i, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019731&artikel=1) en neemt zij de gegevens op, genoemd in [artikel 392 lid 1, onder e, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392). Indien de verklaring wordt afgelegd op een wijze als bedoeld in [artikel 2a lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2026-02-03&g=2026-02-03), kan de verklaring een verwijzing bevatten naar het bestuursverslag waar de mededelingen en de gegevens krachtens het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) en [artikel 392 lid 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), beschikbaar zijn.
 
 ##### Artikel 3c
 
