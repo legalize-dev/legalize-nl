@@ -4,7 +4,7 @@ identifier: "BWBR0004044"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-04"
-last_updated: "2026-01-01"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004044"
 soort: "wet"
@@ -48,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. college: het college van burgemeester en wethouders, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01);
+- b. college: het college van burgemeester en wethouders, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=11&z=2026-02-04&g=2026-02-04);
 
 - c. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
@@ -158,7 +158,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder werkloze wer
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. alleenstaande werkloze werknemer: de niet gehuwde dan wel duurzaam gescheiden levende werkloze werknemer, die niet een gezamenlijke huishouding voert als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), tenzij het betreft een bloedverwant in de eerste graad of een bloedverwant in de tweede graad indien er bij één van de bloedverwanten in de tweede graad sprake is van zorgbehoefte;
+- a. alleenstaande werkloze werknemer: de niet gehuwde dan wel duurzaam gescheiden levende werkloze werknemer, die niet een gezamenlijke huishouding voert als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-02-04&g=2026-02-04), tenzij het betreft een bloedverwant in de eerste graad of een bloedverwant in de tweede graad indien er bij één van de bloedverwanten in de tweede graad sprake is van zorgbehoefte;
 
 - b. kind: het kind jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander dan de werkloze werknemer behoort en voor wie aan de werkloze werknemer op grond van [artikel 18 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=18) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) niet van toepassing zou zijn.
 
@@ -302,11 +302,11 @@ Een aanvraag is gericht tot burgemeester en wethouders en wordt overeenkomstig [
 
 ##### Artikel 12
 
-1. Indien doorzending van de aanvraag naar het college van een andere gemeente heeft plaatsgevonden en deze van oordeel zijn dat zij evenmin de aanvraag dienen te behandelen, terwijl er geen zekerheid kan worden verkregen over de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01) bedoelde woonplaats, draagt het college die de doorgezonden aanvraag hebben ontvangen, er zorg voor dat het geschil aanhangig wordt gemaakt.
+1. Indien doorzending van de aanvraag naar het college van een andere gemeente heeft plaatsgevonden en deze van oordeel zijn dat zij evenmin de aanvraag dienen te behandelen, terwijl er geen zekerheid kan worden verkregen over de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=11&z=2026-02-04&g=2026-02-04) bedoelde woonplaats, draagt het college die de doorgezonden aanvraag hebben ontvangen, er zorg voor dat het geschil aanhangig wordt gemaakt.
 
 2. In afwachting van een beslissing inzake een geschil over toepassing van het eerste lid bestaat het recht op uitkering jegens het college van de gemeente waar de belanghebbende werkelijk verblijft.
 
-3. Het[eerste lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat de daar genoemde termijn begint te lopen vanaf de mededeling van die doorzending of beslissing.
+3. Het[eerste lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=16&z=2026-02-04&g=2026-02-04) is van overeenkomstige toepassing, met dien verstande dat de daar genoemde termijn begint te lopen vanaf de mededeling van die doorzending of beslissing.
 
 4. Uitkeringskosten verleend ingevolge het tweede lid worden vergoed door de gemeente waarvan de taak is waargenomen.
 
@@ -316,7 +316,7 @@ Een aanvraag is gericht tot burgemeester en wethouders en wordt overeenkomstig [
 
 2. De belanghebbende is verplicht aan het college desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
 
-3. Het college stelt bij de uitvoering van deze wet de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1º tot en met 3º, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
+3. Het college stelt bij de uitvoering van deze wet de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 4°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1). Indien een aanvraag voor het recht op een uitkering wordt gedaan met gebruikmaking van een elektronisch identificatiemiddel, wordt het college geacht de identiteit van de belanghebbende te hebben vastgesteld als bedoeld in de eerste zin.
 
 4. Een ieder is verplicht aan het college desgevraagd een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) terstond ter inzage te verstrekken, voorzover dit redelijkerwijs nodig is voor de uitvoering van deze wet.
 
@@ -326,21 +326,21 @@ Een aanvraag is gericht tot burgemeester en wethouders en wordt overeenkomstig [
 
 2. In aanvulling op het eerste lid kan het college de belanghebbende verzoeken aan te tonen dat:
 
-- a. hij een werkloze werknemer is als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01);
+- a. hij een werkloze werknemer is als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04);
 
 - b. de feitelijke woonsituatie van hemzelf, van zijn echtgenoot of van een kind in overeenstemming is met het door hem verstrekte adres van hemzelf, zijn echtgenoot of van een kind.
 
 Teneinde hem daartoe in de gelegenheid te stellen kan het college bij die verzoeken de belanghebbende aanbieden met diens toestemming zijn woning binnen te treden.
 
-3. Indien de belanghebbende niet desgevraagd aantoont dat hij een werkloze werknemer is als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01):
+3. Indien de belanghebbende niet desgevraagd aantoont dat hij een werkloze werknemer is als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04):
 
-- a. kent het college de uitkering toe respectievelijk herziet het de uitkering naar de helft van de grondslag, bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01);
+- a. kent het college de uitkering toe respectievelijk herziet het de uitkering naar de helft van de grondslag, bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04);
 
-- b. wordt de belanghebbende voor de toepassing van de [artikelen 37a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37a&z=2026-01-01&g=2026-01-01), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-01-01&g=2026-01-01) niet als alleenstaande ouder aangemerkt.
+- b. wordt de belanghebbende voor de toepassing van de [artikelen 37a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37a&z=2026-02-04&g=2026-02-04), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-02-04&g=2026-02-04) niet als alleenstaande ouder aangemerkt.
 
 4. Indien de belanghebbende niet desgevraagd de woonsituatie, bedoeld in het tweede lid, onderdeel b, aantoont op de wijze bedoeld in de laatste zin van dat lid, schort het college de betaling van de uitkering op, niet dan nadat het college aan belanghebbende gelegenheid heeft gegeven op andere wijze aan te tonen dat het feitelijke woonadres overeenkomt met het verstrekte adres, indien daartoe niet eerder aan belanghebbende gelegenheid is geboden.
 
-5. Het college doet schriftelijke mededeling van de opschorting aan de belanghebbende en stelt hem daarbij in de gelegenheid om aan te tonen dat het feitelijke woonadres overeenstemt met het verstrekte adres. [Artikel 17a, vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=17a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+5. Het college doet schriftelijke mededeling van de opschorting aan de belanghebbende en stelt hem daarbij in de gelegenheid om aan te tonen dat het feitelijke woonadres overeenstemt met het verstrekte adres. [Artikel 17a, vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=17a&z=2026-02-04&g=2026-02-04), is van overeenkomstige toepassing.
 
 6. Het college is bevoegd onderzoek in te stellen naar de juistheid en volledigheid van de verstrekte gegevens en zonodig naar andere gegevens die noodzakelijk zijn voor de vaststelling van het recht op uitkering. Indien het onderzoek daartoe aanleiding geeft kan het college besluiten tot herziening van de uitkering.
 
@@ -352,7 +352,7 @@ Teneinde hem daartoe in de gelegenheid te stellen kan het college bij die verzoe
 
 2. De uitkering wordt door de werkloze werknemer en de echtgenoot gezamenlijk aangevraagd, dan wel door een van hen met schriftelijke toestemming van de ander.
 
-3. Indien een belanghebbende zich onverwijld na afwijzing van een aanvraag voor een uitkering op grond van de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=43) of [78f van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78f) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) meldt voor een aanvraag voor een uitkering, geldt de datum van melding voor de aanvraag voor die uitkering tevens als melding bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=16a&z=2026-01-01&g=2026-01-01).
+3. Indien een belanghebbende zich onverwijld na afwijzing van een aanvraag voor een uitkering op grond van de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=43) of [78f van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78f) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) meldt voor een aanvraag voor een uitkering, geldt de datum van melding voor de aanvraag voor die uitkering tevens als melding bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=16a&z=2026-02-04&g=2026-02-04).
 
 ##### Artikel 16
 
@@ -378,7 +378,7 @@ Vervallen
 
 2. Het college doet mededeling van de opschorting aan de belanghebbende en nodigt hem uit binnen een door het college te stellen termijn het verzuim te herstellen.
 
-3. Het college herziet een besluit tot toekenning van de uitkering, dan wel trekt een besluit tot toekenning van de uitkering in, indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=13), of [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering. Onverminderd het elders in deze wet bepaalde ter zake van herziening of intrekking van een besluit tot toekenning van uitkering kan het college een besluit tot toekenning van uitkering herzien of intrekken, indien een gedraging als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering of anderszins de uitkering ten onrechte of tot een te hoog bedrag is verleend.
+3. Het college herziet een besluit tot toekenning van de uitkering, dan wel trekt een besluit tot toekenning van de uitkering in, indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=13), of [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering. Onverminderd het elders in deze wet bepaalde ter zake van herziening of intrekking van een besluit tot toekenning van uitkering kan het college een besluit tot toekenning van uitkering herzien of intrekken, indien een gedraging als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20&z=2026-02-04&g=2026-02-04), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering of anderszins de uitkering ten onrechte of tot een te hoog bedrag is verleend.
 
 4. Als de belanghebbende in het geval bedoeld in het eerste lid het verzuim niet herstelt binnen de daarvoor gestelde termijn, kan het college na het verstrijken van deze termijn het besluit tot toekenning van uitkering intrekken met ingang van de eerste dag waarover het recht op uitkering is opgeschort.
 
@@ -438,7 +438,7 @@ Vervallen
 
 ##### Artikel 20
 
-1. Het college kan de uitkering blijvend of tijdelijk weigeren naar de mate waarin de belanghebbende inkomen als bedoeld in of op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01) zou hebben kunnen verwerven, indien:
+1. Het college kan de uitkering blijvend of tijdelijk weigeren naar de mate waarin de belanghebbende inkomen als bedoeld in of op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-02-04&g=2026-02-04) zou hebben kunnen verwerven, indien:
 
 - a. aan de beëindiging van zijn dienstbetrekking een dringende reden ten grondslag ligt in de zin van [artikel 678 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=678) en de belanghebbende ter zake een verwijt kan worden gemaakt;
 
@@ -448,7 +448,7 @@ Vervallen
 
 - d. de belanghebbende door eigen toedoen geen algemeen geaccepteerde arbeid verkrijgt.
 
-2. Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in [artikel 35. onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=35&z=2026-01-01&g=2026-01-01), ter zake van het niet of onvoldoende nakomen door de belanghebbende die voor de zelfstandige voorziening in het bestaan is aangewezen op arbeid in dienstbetrekking, van een verplichting als bedoeld in [artikel 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of een op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&z=2026-01-01&g=2026-01-01) aan de uitkering verbonden verplichting, anders dan de verplichting, bedoeld in [artikel 37, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01), waaronder begrepen het zich jegens het college zeer ernstig misdragen.
+2. Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in [artikel 35. onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=35&z=2026-02-04&g=2026-02-04), ter zake van het niet of onvoldoende nakomen door de belanghebbende die voor de zelfstandige voorziening in het bestaan is aangewezen op arbeid in dienstbetrekking, van een verplichting als bedoeld in [artikel 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of een op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&z=2026-02-04&g=2026-02-04) aan de uitkering verbonden verplichting, anders dan de verplichting, bedoeld in [artikel 37, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04), waaronder begrepen het zich jegens het college zeer ernstig misdragen.
 
 3. Van een weigering als bedoeld in het eerste lid en een verlaging als bedoeld in het tweede lid wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
@@ -458,15 +458,15 @@ Vervallen
 
 ##### Artikel 20a
 
-1. Het college legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de belanghebbende van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c). Indien de feiten en omstandigheden, bedoeld in artikel 13, eerste lid, en artikel 30c, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn medegedeeld of de gegevens en bewijsstukken, bedoeld in artikel 30c, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn verstrekt en deze overtredingen opzettelijk zijn begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 13, eerste lid, en artikel 30c, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn medegedeeld of de gegevens en bewijsstukken, bedoeld in artikel 30c, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn verstrekt en deze overtredingen niet opzettelijk zijn begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
+1. Het college legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de belanghebbende van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c). Indien de feiten en omstandigheden, bedoeld in artikel 13, eerste lid, en artikel 30c, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn medegedeeld of de gegevens en bewijsstukken, bedoeld in artikel 30c, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn verstrekt en deze overtredingen opzettelijk zijn begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 13, eerste lid, en artikel 30c, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn medegedeeld of de gegevens en bewijsstukken, bedoeld in artikel 30c, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk zijn verstrekt en deze overtredingen niet opzettelijk zijn begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
-2. In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen.
+2. In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen.
 
-3. Indien het niet of niet behoorlijk nakomen door de belanghebbende van een verplichting als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) niet heeft geleid tot een benadelingsbedrag, legt het college een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+3. Indien het niet of niet behoorlijk nakomen door de belanghebbende van een verplichting als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) niet heeft geleid tot een benadelingsbedrag, legt het college een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-4. Het college kan afzien van het opleggen van een bestuurlijke boete en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen door de belanghebbende van een verplichting als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) in situaties die bij algemene maatregel van bestuur worden bepaald, tenzij het niet of niet behoorlijk nakomen van de verplichtingen plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een zodanige waarschuwing is gegeven.
+4. Het college kan afzien van het opleggen van een bestuurlijke boete en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen door de belanghebbende van een verplichting als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) in situaties die bij algemene maatregel van bestuur worden bepaald, tenzij het niet of niet behoorlijk nakomen van de verplichtingen plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een zodanige waarschuwing is gegeven.
 
-5. Het college legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de belanghebbende van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag, met overeenkomstige toepassing van het eerste lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.
+5. Het college legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de belanghebbende van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag, met overeenkomstige toepassing van het eerste lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.
 
 6. In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de belanghebbende is gestraft met een onvoorwaardelijke gevangenisstraf.
 
@@ -540,9 +540,9 @@ De uitkering wordt betaald tot de dag waarop de werkloze werknemer de pensioenge
 
 ##### Artikel 25
 
-1. Het college van de gemeente die de uitkering heeft verleend, vordert de uitkering terug voor zover de uitkering ten onrechte of tot een te hoog bedrag is ontvangen als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c).
+1. Het college van de gemeente die de uitkering heeft verleend, vordert de uitkering terug voor zover de uitkering ten onrechte of tot een te hoog bedrag is ontvangen als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c).
 
-2. De uitkering die als gevolg van een besluit als bedoeld in [artikel 17, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01), of [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01), anders dan in het eerste lid, ten onrechte of tot een te hoog bedrag is verleend, alsmede hetgeen anderszins onverschuldigd is betaald, kan van de belanghebbende worden teruggevorderd.
+2. De uitkering die als gevolg van een besluit als bedoeld in [artikel 17, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=17&z=2026-02-04&g=2026-02-04), of [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20&z=2026-02-04&g=2026-02-04), anders dan in het eerste lid, ten onrechte of tot een te hoog bedrag is verleend, alsmede hetgeen anderszins onverschuldigd is betaald, kan van de belanghebbende worden teruggevorderd.
 
 3. De uitkering kan van de belanghebbende worden teruggevorderd indien blijkt dat deze over dezelfde periode waarover een uitkering op grond van deze wet is verleend, later inkomsten ontvangt waarmede bij de vaststelling van de uitkering rekening zou zijn gehouden.
 
@@ -608,9 +608,9 @@ Vervallen
 
 ##### Artikel 26
 
-1. Indien de uitkering met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01) is verleend, worden voor de toepassing van deze paragraaf als belanghebbenden aangemerkt de in dat artikel bedoelde personen.
+1. Indien de uitkering met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-02-04&g=2026-02-04) is verleend, worden voor de toepassing van deze paragraaf als belanghebbenden aangemerkt de in dat artikel bedoelde personen.
 
-2. Indien de uitkering met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), had moeten worden verleend, maar zulks achterwege is gebleven omdat de belanghebbende onjuiste of onvolledige inlichtingen heeft verstrekt, dan wel de verplichting, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of [artikel 30c, tweede en derde lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), niet of niet behoorlijk is nagekomen, kan de gedurende het betrokken tijdvak ten onrechte verleende uitkering mede worden teruggevorderd van de persoon met wiens inkomen bij de verlening van de uitkering rekening had moeten worden gehouden.
+2. Indien de uitkering met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-02-04&g=2026-02-04), had moeten worden verleend, maar zulks achterwege is gebleven omdat de belanghebbende onjuiste of onvolledige inlichtingen heeft verstrekt, dan wel de verplichting, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of [artikel 30c, tweede en derde lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), niet of niet behoorlijk is nagekomen, kan de gedurende het betrokken tijdvak ten onrechte verleende uitkering mede worden teruggevorderd van de persoon met wiens inkomen bij de verlening van de uitkering rekening had moeten worden gehouden.
 
 3. De in het eerste en tweede lid bedoelde personen zijn hoofdelijk aansprakelijk voor de terugbetaling van de ten onrechte verleende uitkering.
 
@@ -620,23 +620,23 @@ De persoon van wie wordt teruggevorderd is verplicht desgevraagd aan het college
 
 ##### Artikel 28
 
-1. Het college kan de onverschuldigd betaalde uitkering, bedoeld in [artikel 25, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-01-01&g=2026-01-01), invorderen bij dwangbevel.
+1. Het college kan de onverschuldigd betaalde uitkering, bedoeld in [artikel 25, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-02-04&g=2026-02-04), invorderen bij dwangbevel.
 
-2. Indien degene van wie de uitkering op grond van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-01-01&g=2026-01-01), wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20a&z=2026-01-01&g=2026-01-01) en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 20a, vijfde lid, algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) ontvangt, verrekent het college die uitkering en bestuurlijke boete met die algemene bijstand of uitkering.
+2. Indien degene van wie de uitkering op grond van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-02-04&g=2026-02-04), wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20a&z=2026-02-04&g=2026-02-04) en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 20a, vijfde lid, algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) ontvangt, verrekent het college die uitkering en bestuurlijke boete met die algemene bijstand of uitkering.
 
-3. Indien degene van wie de uitkering op grond van [artikel 25, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-01-01&g=2026-01-01), wordt teruggevorderd algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.
+3. Indien degene van wie de uitkering op grond van [artikel 25, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-02-04&g=2026-02-04), wordt teruggevorderd algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.
 
-4. Indien degene van wie de uitkering wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20a&z=2026-01-01&g=2026-01-01) een uitkering of algemene bijstand ontvangt van een andere gemeente dan de gemeente waarvan het college de uitkering terugvordert of de bestuurlijke boete heeft opgelegd, dan wel een uitkering of inkomensvoorziening ontvangt op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), betaalt dat college, het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank het bedrag van de terugvordering of de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is van de belanghebbende, op verzoek aan het college, dat besluit tot terugvordering of de bestuurlijke boete heeft opgelegd.
+4. Indien degene van wie de uitkering wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20a&z=2026-02-04&g=2026-02-04) een uitkering of algemene bijstand ontvangt van een andere gemeente dan de gemeente waarvan het college de uitkering terugvordert of de bestuurlijke boete heeft opgelegd, dan wel een uitkering of inkomensvoorziening ontvangt op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), betaalt dat college, het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank het bedrag van de terugvordering of de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is van de belanghebbende, op verzoek aan het college, dat besluit tot terugvordering of de bestuurlijke boete heeft opgelegd.
 
 5. De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479g) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het college. Indien het college gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123), door middel van toezending per post aan degene van wie uitkering wordt teruggevorderd.
 
-6. Zolang de belanghebbende de verplichtingen, bedoeld in de [artikelen 20a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20a&z=2026-01-01&g=2026-01-01), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=27&z=2026-01-01&g=2026-01-01), niet of niet behoorlijk nakomt:
+6. Zolang de belanghebbende de verplichtingen, bedoeld in de [artikelen 20a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20a&z=2026-02-04&g=2026-02-04), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=27&z=2026-02-04&g=2026-02-04), niet of niet behoorlijk nakomt:
 
 - a. is het college, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;
 
 - b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij invordering van de onverschuldigd betaalde uitkering en de bestuurlijke boete bij dwangbevel.
 
-7. Onverminderd het eerste tot en met het zesde lid kan het college een vordering die een belanghebbende op hem heeft, verrekenen met een vordering als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-01-01&g=2026-01-01).
+7. Onverminderd het eerste tot en met het zesde lid kan het college een vordering die een belanghebbende op hem heeft, verrekenen met een vordering als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-02-04&g=2026-02-04).
 
 ##### Artikel 29
 
@@ -650,7 +650,7 @@ Vervallen
 
 ##### Artikel 31
 
-Onder uitkering in de zin van deze paragraaf wordt verstaan de uitkering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01).
+Onder uitkering in de zin van deze paragraaf wordt verstaan de uitkering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-02-04&g=2026-02-04).
 
 ##### Artikel 32
 
@@ -666,9 +666,9 @@ Vervallen
 
 1. Het college is verantwoordelijk voor:
 
-- a. het verlenen van een uitkering aan de werkloze werknemer, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01);
+- a. het verlenen van een uitkering aan de werkloze werknemer, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-02-04&g=2026-02-04);
 
-- b. het ontwikkelen van beleid ten behoeve van het verrichten van een tegenprestatie als bedoeld in [artikel 37, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01), en het uitvoeren ervan, overeenkomstig de verordening, bedoeld in [artikel 35, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=35&z=2026-01-01&g=2026-01-01).
+- b. het ontwikkelen van beleid ten behoeve van het verrichten van een tegenprestatie als bedoeld in [artikel 37, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04), en het uitvoeren ervan, overeenkomstig de verordening, bedoeld in [artikel 35, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=35&z=2026-02-04&g=2026-02-04).
 
 2. Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de belanghebbende en de daarvoor noodzakelijke beoordeling van zijn omstandigheden, door derden laten verrichten. Het college kan de in de eerste volzin bedoelde vaststelling en beoordeling mandateren aan bestuursorganen.
 
@@ -678,19 +678,19 @@ Vervallen
 
 De gemeenteraad stelt bij verordening regels met betrekking tot:
 
-- a. de weigering en verlaging, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01);
+- a. de weigering en verlaging, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=20&z=2026-02-04&g=2026-02-04);
 
 - b. de bestrijding van het ten onrechte ontvangen van een uitkering alsmede van misbruik en oneigenlijk gebruik van de wet in het kader van het financiële beheer;
 
-- c. het verlagen van de uitkering, bedoeld in [artikel 38, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-01-01&g=2026-01-01);
+- c. het verlagen van de uitkering, bedoeld in [artikel 38, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-02-04&g=2026-02-04);
 
-- d. het opdragen van een tegenprestatie als bedoeld in [artikel 37, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01).
+- d. het opdragen van een tegenprestatie als bedoeld in [artikel 37, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04).
 
 ##### Artikel 36
 
 1. Belanghebbenden die een uitkering ontvangen, hebben overeenkomstig de verordening, bedoeld in [artikel 8a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8a), aanspraak op ondersteuning bij arbeidsinschakeling en op de naar het oordeel van het college noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=11&z=2026-02-04&g=2026-02-04) is van overeenkomstige toepassing.
 
 ##### Artikel 36a
 
@@ -738,7 +738,7 @@ Vervallen
 
 ##### Artikel 37
 
-1. De belanghebbende die voor de zelfstandige voorziening in het bestaan is aangewezen op arbeid in dienstbetrekking is vanaf de dag van melding, bedoeld in [artikel 16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=16a&z=2026-01-01&g=2026-01-01), verplicht:
+1. De belanghebbende die voor de zelfstandige voorziening in het bestaan is aangewezen op arbeid in dienstbetrekking is vanaf de dag van melding, bedoeld in [artikel 16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=16a&z=2026-02-04&g=2026-02-04), verplicht:
 
 - a. naar vermogen te trachten algemeen geaccepteerde arbeid te verkrijgen;
 
@@ -758,21 +758,21 @@ Vervallen
 
 ##### Artikel 37a
 
-1. Indien daarvoor dringende redenen aanwezig zijn, kan het college in individuele gevallen tijdelijk ontheffing verlenen van een of meer verplichtingen als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01). Zorgtaken kunnen als dringende redenen worden aangemerkt, voorzover hiermee geen rekening kan worden gehouden door middel van een voorziening als bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-01-01&g=2026-01-01).
+1. Indien daarvoor dringende redenen aanwezig zijn, kan het college in individuele gevallen tijdelijk ontheffing verlenen van een of meer verplichtingen als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04). Zorgtaken kunnen als dringende redenen worden aangemerkt, voorzover hiermee geen rekening kan worden gehouden door middel van een voorziening als bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-02-04&g=2026-02-04).
 
 2. De verplichting om algemeen geaccepteerde arbeid te aanvaarden geldt voor de alleenstaande ouder met kinderen tot 12 jaar slechts nadat het college zich genoegzaam heeft overtuigd van de beschikbaarheid van passende kinderopvang, de toepassing van voldoende scholing en de belastbaarheid van de betrokkene.
 
 3. Vervallen.
 
-4. De verplichting, bedoeld in [artikel 37, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01), is niet van toepassing op de alleenstaande ouder die in het bezit is van een ontheffing als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-01-01&g=2026-01-01).
+4. De verplichting, bedoeld in [artikel 37, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04), is niet van toepassing op de alleenstaande ouder die in het bezit is van een ontheffing als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-02-04&g=2026-02-04).
 
 ##### Artikel 38
 
-1. Onverminderd [artikel 37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37a&z=2026-01-01&g=2026-01-01), verleent het college aan een alleenstaande ouder die de volledige zorg heeft voor een tot zijn last komend kind tot vijf jaar op diens verzoek ontheffing van de verplichtingen, bedoeld in [artikel 37, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01).
+1. Onverminderd [artikel 37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37a&z=2026-02-04&g=2026-02-04), verleent het college aan een alleenstaande ouder die de volledige zorg heeft voor een tot zijn last komend kind tot vijf jaar op diens verzoek ontheffing van de verplichtingen, bedoeld in [artikel 37, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04).
 
 2. De ontheffing, bedoeld in het eerste lid, wordt eenmalig verleend.
 
-3. De ontheffing, bedoeld in het eerste lid, wordt niet verleend voor zover uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat deze de verplichtingen, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01), niet wil nakomen.
+3. De ontheffing, bedoeld in het eerste lid, wordt niet verleend voor zover uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat deze de verplichtingen, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04), niet wil nakomen.
 
 4. De ontheffing, bedoeld in het eerste lid, geldt zolang het jongste kind van de alleenstaande ouder de leeftijd van vijf jaar nog niet heeft bereikt. Onverminderd de eerste zin geldt de ontheffing gedurende ten hoogste vijf jaar. Bij verhuizing naar een andere woonplaats wordt op deze periode in mindering gebracht de periode, dan wel perioden, waarin de alleenstaande ouder in de voorgaande woonplaats, dan wel de voorgaande woonplaatsen, gebruik heeft gemaakt van de ontheffing bedoeld in het eerste lid.
 
@@ -784,21 +784,21 @@ Vervallen
 
 - c. door het college opgeschort op een daartoe strekkend verzoek van de alleenstaande ouder aan wie de ontheffing, bedoeld in het eerste lid, is verleend; of
 
-- d. door het college ingetrokken indien uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat hij zijn verplichtingen, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01), niet wil nakomen.
+- d. door het college ingetrokken indien uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat hij zijn verplichtingen, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04), niet wil nakomen.
 
 6. Op een daartoe strekkend verzoek van de alleenstaande ouder met een kind tot vijf jaar beëindigt het college een opschorting als bedoeld in het vijfde lid, onderdelen a tot en met c, indien de daarin genoemde omstandigheden niet langer van toepassing zijn.
 
-7. Het college stelt binnen zes maanden na ontvangst van het verzoek, bedoeld in het eerste lid, een plan van aanpak op voor de invulling van de voorziening, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid.
+7. Het college stelt binnen zes maanden na ontvangst van het verzoek, bedoeld in het eerste lid, een plan van aanpak op voor de invulling van de voorziening, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid.
 
-8. Het college verricht na het opstellen van het plan van aanpak, bedoeld in het zevende lid, iedere zes maanden een heronderzoek naar de in het van toepassing zijnde plan van aanpak opgenomen voorziening, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01). Het heronderzoek strekt zich mede uit tot de naleving van de in het van toepassing zijnde plan van aanpak opgenomen voorziening. Het college beoordeelt tevens bij het verrichten van het heronderzoek of er aanleiding bestaat de voorziening te wijzigen.
+8. Het college verricht na het opstellen van het plan van aanpak, bedoeld in het zevende lid, iedere zes maanden een heronderzoek naar de in het van toepassing zijnde plan van aanpak opgenomen voorziening, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04). Het heronderzoek strekt zich mede uit tot de naleving van de in het van toepassing zijnde plan van aanpak opgenomen voorziening. Het college beoordeelt tevens bij het verrichten van het heronderzoek of er aanleiding bestaat de voorziening te wijzigen.
 
 9. Indien het heronderzoek, bedoeld in het achtste lid, daartoe aanleiding geeft stelt het college een gewijzigd plan van aanpak op.
 
-10. Het college vult de voorziening, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-01-01&g=2026-01-01), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid en die niet beschikt over een startkwalificatie ten minste in met scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van betrokkene te boven gaat.
+10. Het college vult de voorziening, bedoeld in [artikel 37, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=37&z=2026-02-04&g=2026-02-04), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid en die niet beschikt over een startkwalificatie ten minste in met scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van betrokkene te boven gaat.
 
 11. Op verzoek van de alleenstaande ouder die beschikt over een startkwalificatie en aan wie een ontheffing is verleend als bedoeld in het eerste lid, vult het college de voorziening in met een opleiding, als bedoeld in [artikel 7.2.2., tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.
 
-12. Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in [artikel 35, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=35&z=2026-01-01&g=2026-01-01), indien het college de ontheffing, bedoeld in het eerste lid, heeft ingetrokken op grond van het vijfde lid, onderdeel d. Van een verlaging wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+12. Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in [artikel 35, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=35&z=2026-02-04&g=2026-02-04), indien het college de ontheffing, bedoeld in het eerste lid, heeft ingetrokken op grond van het vijfde lid, onderdeel d. Van een verlaging wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
 ##### Artikel 39
 
@@ -810,7 +810,7 @@ Gereserveerd
 
 ##### Artikel 40
 
-Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=4&z=2026-01-01&g=2026-01-01) van dit hoofdstuk en [paragraaf 4 van hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=V&paragraaf=4&z=2026-01-01&g=2026-01-01), in de plaats van de betrokken burgemeesters en wethouders.
+Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=4&z=2026-02-04&g=2026-02-04) van dit hoofdstuk en [paragraaf 4 van hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=V&paragraaf=4&z=2026-02-04&g=2026-02-04), in de plaats van de betrokken burgemeesters en wethouders.
 
 ##### Artikel 41
 
@@ -828,11 +828,11 @@ Vervallen
 
 ##### Artikel 44
 
-1. Ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan het college kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van een persoon te wiens behoeve een uitkering is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie uitkeringen ingevolge [hoofdstuk II, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&z=2026-01-01&g=2026-01-01), worden of kunnen worden teruggevorderd.
+1. Ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan het college kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van een persoon te wiens behoeve een uitkering is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie uitkeringen ingevolge [hoofdstuk II, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&z=2026-02-04&g=2026-02-04), worden of kunnen worden teruggevorderd.
 
 2. De opgaven en inlichtingen moeten desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door het college schriftelijk te stellen termijn worden verstrekt.
 
-3. Op verzoek van het college legt de meerderjarige persoon die in dezelfde woning als de werkloze werknemer zijn hoofdverblijf heeft, als bedoeld in [artikel 5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), desgevraagd alle gegevens en inlichtingen over die voor de beoordeling van de aanspraak op uitkering van belang kunnen zijn.
+3. Op verzoek van het college legt de meerderjarige persoon die in dezelfde woning als de werkloze werknemer zijn hoofdverblijf heeft, als bedoeld in [artikel 5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04), desgevraagd alle gegevens en inlichtingen over die voor de beoordeling van de aanspraak op uitkering van belang kunnen zijn.
 
 ##### Artikel 45
 
@@ -846,7 +846,7 @@ Vervallen
 
 - d. het CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1), de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en de zorgverzekeraars in de zin van de [artikelen 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- e. de bedrijfstakpensioenfondsen, ondernemingspensioenfondsen, risicofondsen, stichtingen tot uitvoering van een regeling inzake vervroegd uittreden en andere organen belast met het doen van uitkeringen of verstrekkingen die bij of krachtens [artikel 8 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01) als inkomen worden aangemerkt;
+- e. de bedrijfstakpensioenfondsen, ondernemingspensioenfondsen, risicofondsen, stichtingen tot uitvoering van een regeling inzake vervroegd uittreden en andere organen belast met het doen van uitkeringen of verstrekkingen die bij of krachtens [artikel 8 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-02-04&g=2026-02-04) als inkomen worden aangemerkt;
 
 - f. de Kamer van Koophandel, met dien verstande dat dit, in afwijking van de aanhef van dit lid, geschiedt tegen betaling van de daarvoor op grond van de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) vastgestelde vergoeding;
 
@@ -872,13 +872,13 @@ Vervallen
 
 4. De in het eerste en het derde lid bedoelde verplichtingen strekken zich mede uit tot degene:
 
-- a. van wie kosten van uitkeringen worden of kunnen worden teruggevorderd ingevolge [hoofdstuk II, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&z=2026-01-01&g=2026-01-01);
+- a. van wie kosten van uitkeringen worden of kunnen worden teruggevorderd ingevolge [hoofdstuk II, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&z=2026-02-04&g=2026-02-04);
 
 - b. die hun hoofdverblijf hebben in dezelfde woning, of ten aanzien van wie dat redelijkerwijs kan worden vermoed, als degene:
 
 - 1°. te wiens behoeve een uitkering ingevolge deze wet is gevraagd of wordt verleend;
 
-- 2°. van wie kosten van uitkering worden of kunnen worden teruggevorderd ingevolge [hoofdstuk II, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&z=2026-01-01&g=2026-01-01).
+- 2°. van wie kosten van uitkering worden of kunnen worden teruggevorderd ingevolge [hoofdstuk II, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=5&z=2026-02-04&g=2026-02-04).
 
 5. De in het eerste en het derde lid bedoelde opgaven en inlichtingen worden desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, en zo spoedig mogelijk, doch in elk geval binnen vier weken na ontvangst van het verzoek hiertoe, verstrekt.
 
@@ -910,7 +910,7 @@ Vervallen
 
 3. Ten behoeve van wetenschappelijk onderzoek of statistiek kunnen desgevraagd gegevens aan derden worden verstrekt voor zover de persoonlijke levenssfeer van de belanghebbenden daardoor niet onevenredig wordt geschaad.
 
-4. Degene die op grond van de[artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=2&artikel=44&z=2026-01-01&g=2026-01-01) gegevens verstrekt dient na te gaan of degene aan wie de gegevens worden verstrekt redelijkerwijs bevoegd is te achten om die gegevens te verkrijgen.
+4. Degene die op grond van de[artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=2&artikel=44&z=2026-02-04&g=2026-02-04) gegevens verstrekt dient na te gaan of degene aan wie de gegevens worden verstrekt redelijkerwijs bevoegd is te achten om die gegevens te verkrijgen.
 
 ##### Artikel 47
 
@@ -946,9 +946,9 @@ Het college is verplicht, indien zij bij de uitvoering van deze wet het gegronde
 
 ##### Artikel 49
 
-1. Bij de verstrekking van gegevens door het college, het Inlichtingenbureau en de in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=2&artikel=45&z=2026-01-01&g=2026-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=2&artikel=48&z=2026-01-01&g=2026-01-01) bedoelde instanties wordt, indien daartoe bevoegd, gebruik gemaakt van het burgerservicenummer.
+1. Bij de verstrekking van gegevens door het college, het Inlichtingenbureau en de in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=2&artikel=45&z=2026-02-04&g=2026-02-04) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=2&artikel=48&z=2026-02-04&g=2026-02-04) bedoelde instanties wordt, indien daartoe bevoegd, gebruik gemaakt van het burgerservicenummer.
 
-2. Derden die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevorderen, maken gebruik van het burgerservicenummer voor zover dat noodzakelijk is voor het verrichten van werkzaamheden die in het kader van een voorziening als bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-01-01&g=2026-01-01), worden uitgevoerd.
+2. Derden die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevorderen, maken gebruik van het burgerservicenummer voor zover dat noodzakelijk is voor het verrichten van werkzaamheden die in het kader van een voorziening als bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-02-04&g=2026-02-04), worden uitgevoerd.
 
 ##### Artikel 50
 
@@ -984,7 +984,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de soort informatie die het college verstrekt en de wijze waarop het college de gegevens en inlichtingen verzamelt en verstrekt, waarbij kan worden bepaald, dat categorieën van gemeenten bepaalde inlichtingen niet hoeven te verzamelen en te verstrekken.
 
-3. De gegevens en inlichtingen, bedoeld in het eerste lid, en het beeld van de uitvoering, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=4&artikel=54&z=2026-01-01&g=2026-01-01), worden kosteloos verstrekt.
+3. De gegevens en inlichtingen, bedoeld in het eerste lid, en het beeld van de uitvoering, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&paragraaf=4&artikel=54&z=2026-02-04&g=2026-02-04), worden kosteloos verstrekt.
 
 ### Hoofdstuk V
 
@@ -1020,7 +1020,7 @@ Vervallen
 
 ##### Artikel 60b
 
-1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van [artikel 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen.
+1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van [artikel 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-02-04&g=2026-02-04), en de daarop berustende bepalingen.
 
 2. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen de uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
@@ -1028,7 +1028,7 @@ Vervallen
 
 ##### Artikel 61
 
-[Paragraaf 3 van Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=V&paragraaf=3&z=2026-01-01&g=2026-01-01) blijft van toepassing op de vaststelling van de vergoeding, uitkering en kosten, bedoeld in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=V&paragraaf=3&artikel=59c&z=2026-01-01&g=2026-01-01), zoals dit artikel luidde voor inwerkingtreding van de Wet van 17 december 2009 tot bundeling van uitkeringen inkomensvoorziening aan gemeenten (Stb. 592), voor kosten die betrekking hebben op kalenderjaren gelegen voor die van inwerkingtreding van die wet.
+[Paragraaf 3 van Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=V&paragraaf=3&z=2026-02-04&g=2026-02-04) blijft van toepassing op de vaststelling van de vergoeding, uitkering en kosten, bedoeld in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=V&paragraaf=3&artikel=59c&z=2026-02-04&g=2026-02-04), zoals dit artikel luidde voor inwerkingtreding van de Wet van 17 december 2009 tot bundeling van uitkeringen inkomensvoorziening aan gemeenten (Stb. 592), voor kosten die betrekking hebben op kalenderjaren gelegen voor die van inwerkingtreding van die wet.
 
 ##### Artikel 62
 
@@ -1040,11 +1040,11 @@ Het recht tot strafvordering vervalt indien burgemeester en wethouders aan de be
 
 ##### Artikel 63
 
-1. Onverminderd het derde lid wordt tot een bij ministeriële regeling bepaald tijdstip, dat voor verschillende groepen personen verschillend kan worden vastgesteld, onder werkloze werknemer in deze wet en de daarop berustende bepalingen mede verstaan: de persoon die op de dag voorafgaand aan de inwerkingtreding van [artikel 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=7) op grond van [artikel 2, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), zoals dat luidde op die dag, werd aangemerkt als werkloze werknemer.
+1. Onverminderd het derde lid wordt tot een bij ministeriële regeling bepaald tijdstip, dat voor verschillende groepen personen verschillend kan worden vastgesteld, onder werkloze werknemer in deze wet en de daarop berustende bepalingen mede verstaan: de persoon die op de dag voorafgaand aan de inwerkingtreding van [artikel 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=7) op grond van [artikel 2, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-02-04&g=2026-02-04), zoals dat luidde op die dag, werd aangemerkt als werkloze werknemer.
 
-2. Onder werkloze werknemer in deze wet en de daarop berustende bepaling wordt mede verstaan: de persoon die op de dag voorafgaand aan de inwerkingtreding van [artikel 1.10, onderdeel C, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.10) werd aangemerkt als werkloze werknemer op grond van [artikel 2, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), en die op grond van [artikel 3 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=3) geen recht heeft op een toeslag op grond van die wet.
+2. Onder werkloze werknemer in deze wet en de daarop berustende bepaling wordt mede verstaan: de persoon die op de dag voorafgaand aan de inwerkingtreding van [artikel 1.10, onderdeel C, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.10) werd aangemerkt als werkloze werknemer op grond van [artikel 2, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-02-04&g=2026-02-04), en die op grond van [artikel 3 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=3) geen recht heeft op een toeslag op grond van die wet.
 
-3. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01) is niet van toepassing op de persoon die als gevolg van de inwerkingtreding van [artikel 1.11, onderdeel A, van de Wet Invoering en financiering Wet werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.11) naar arbeidsvermogen geen werkloze werknemer is en de echtgenoot van die persoon.
+3. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=7&z=2026-02-04&g=2026-02-04) is niet van toepassing op de persoon die als gevolg van de inwerkingtreding van [artikel 1.11, onderdeel A, van de Wet Invoering en financiering Wet werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.11) naar arbeidsvermogen geen werkloze werknemer is en de echtgenoot van die persoon.
 
 ### Hoofdstuk VI. Rechtsbescherming
 
@@ -1074,7 +1074,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. arbeidsinschakeling: het verkrijgen van algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-01-01&g=2026-01-01);
+- a. arbeidsinschakeling: het verkrijgen van algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-02-04&g=2026-02-04);
 
 - b. sociale activering: het verrichten van onbeloonde maatschappelijk zinvolle activiteiten gericht op arbeidsinschakeling of, als arbeidsinschakeling nog niet mogelijk is, op zelfstandige maatschappelijke participatie;
 
@@ -1166,7 +1166,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 63a
 
-Voor de toepassing van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), wordt, indien [artikel 130h van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130h) op de in dat lid bedoelde uitkering van toepassing was, voor «[artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47) of [artikel 52i van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52i)» gelezen: [artikel 52 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52), zoals dat artikel luidde op 31 december 2003.
+Voor de toepassing van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-02-04&g=2026-02-04), wordt, indien [artikel 130h van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130h) op de in dat lid bedoelde uitkering van toepassing was, voor «[artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47) of [artikel 52i van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52i)» gelezen: [artikel 52 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52), zoals dat artikel luidde op 31 december 2003.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -1174,7 +1174,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 63b
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) zoals deze luidden op de dag voor inwerkingtreding van artikel II van de Wet wijziging WW-stelsel, blijven van toepassing op de persoon wiens eerste werkloosheidsdag als bedoeld in de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is gelegen op of voor die dag.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=2&z=2026-02-04&g=2026-02-04) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-02-04&g=2026-02-04) zoals deze luidden op de dag voor inwerkingtreding van artikel II van de Wet wijziging WW-stelsel, blijven van toepassing op de persoon wiens eerste werkloosheidsdag als bedoeld in de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is gelegen op of voor die dag.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -1206,7 +1206,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 38a
 
-Het college kan ter uitvoering van [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-01-01&g=2026-01-01), degene die uitkering op grond van deze wet ontvangt en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. [Artikel 10a, tweede tot en met zesde en achtste tot en met tiende lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10a) alsmede de regels, bedoeld in [artikel 8a, eerste lid, onderdelen c en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8a), zijn van overeenkomstige toepassing.
+Het college kan ter uitvoering van [artikel 34, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=34&z=2026-02-04&g=2026-02-04), degene die uitkering op grond van deze wet ontvangt en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. [Artikel 10a, tweede tot en met zesde en achtste tot en met tiende lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10a) alsmede de regels, bedoeld in [artikel 8a, eerste lid, onderdelen c en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8a), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Uitvoering en toezicht
 
@@ -1238,7 +1238,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 63c
 
-[Artikel 9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor inwerkingtreding van de Wet tot invoering en wijziging van de Wet inkomensvoorziening oudere werklozen (Stb. PM), blijft van toepassing met betrekking tot:
+[Artikel 9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=2&artikel=9&z=2026-02-04&g=2026-02-04), zoals dat luidde op de dag voor inwerkingtreding van de Wet tot invoering en wijziging van de Wet inkomensvoorziening oudere werklozen (Stb. PM), blijft van toepassing met betrekking tot:
 
 - a. een recht op uitkering dat voor 1 december 2009 is ontstaan;
 
@@ -1266,7 +1266,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 63d
 
-De [artikelen 3, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=4&z=2026-01-01&g=2026-01-01), zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) recht bestaat op een uitkering voor de werkloze werknemer en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering.
+De [artikelen 3, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=3&z=2026-02-04&g=2026-02-04), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=4&z=2026-02-04&g=2026-02-04), zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04) recht bestaat op een uitkering voor de werkloze werknemer en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering.
 
 ##### Artikel 63e
 
@@ -1284,7 +1284,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 63g
 
-De [artikelen 4a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=4a&z=2026-01-01&g=2026-01-01), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-01-01&g=2026-01-01), zoals deze luidden op de dag voor de inwerkingtreding van de [Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](https://wetten.overheid.nl/jci1.3:c:BWBR0030997), blijven van toepassing op de alleenstaande ouder die op de dag voor inwerkingtreding van de Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden een ontheffing heeft op grond van artikel 38, gedurende de duur van de ontheffing, doch ten hoogste gedurende zes maanden na inwerkingtreding van die wet.
+De [artikelen 4a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=I&artikel=4a&z=2026-02-04&g=2026-02-04), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=III&artikel=38&z=2026-02-04&g=2026-02-04), zoals deze luidden op de dag voor de inwerkingtreding van de [Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](https://wetten.overheid.nl/jci1.3:c:BWBR0030997), blijven van toepassing op de alleenstaande ouder die op de dag voor inwerkingtreding van de Wet tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden een ontheffing heeft op grond van artikel 38, gedurende de duur van de ontheffing, doch ten hoogste gedurende zes maanden na inwerkingtreding van die wet.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -1294,7 +1294,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 29a
 
-Door het college wordt geen medewerking verleend aan een schuldregeling indien een vordering is ontstaan door het opzettelijk of door grove schuld niet of niet behoorlijke nakomen door de belanghebbende van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), en hiervoor een bestuurlijke boete is opgelegd, dan wel met betrekking tot het niet of niet behoorlijk nakomen van die verplichtingen aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), voor zover deze medewerking leidt tot gehele of gedeeltelijke kwijtschelding van deze vordering.
+Door het college wordt geen medewerking verleend aan een schuldregeling indien een vordering is ontstaan door het opzettelijk of door grove schuld niet of niet behoorlijke nakomen door de belanghebbende van de verplichting, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-02-04&g=2026-02-04), of de verplichtingen, bedoeld in [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), en hiervoor een bestuurlijke boete is opgelegd, dan wel met betrekking tot het niet of niet behoorlijk nakomen van die verplichtingen aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), voor zover deze medewerking leidt tot gehele of gedeeltelijke kwijtschelding van deze vordering.
 
 ### Hoofdstuk III. Rechten en plichten
 
@@ -1318,15 +1318,15 @@ Vervallen
 
 ##### Artikel 3a
 
-In [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&z=2026-01-01&g=2026-01-01) van deze wet en de daarop berustende bepalingen wordt onder gegevens mede verstaan persoonsgegevens als bedoeld in de Algemene verordening gegevensbescherming.
+In [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=IV&z=2026-02-04&g=2026-02-04) van deze wet en de daarop berustende bepalingen wordt onder gegevens mede verstaan persoonsgegevens als bedoeld in de Algemene verordening gegevensbescherming.
 
 ##### Artikel 63h
 
-Ten aanzien van de persoon wiens eerste werkloosheidsdag is gelegen voor 1 juli 2015 blijft [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), van toepassing zoals dat luidde na de inwerkingtreding van [artikel II, onderdeel C, van de Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II) en voor de inwerkingtreding van [artikel XIX, onderdeel A, van de Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XIX).
+Ten aanzien van de persoon wiens eerste werkloosheidsdag is gelegen voor 1 juli 2015 blijft [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04), van toepassing zoals dat luidde na de inwerkingtreding van [artikel II, onderdeel C, van de Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II) en voor de inwerkingtreding van [artikel XIX, onderdeel A, van de Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XIX).
 
 ##### Artikel 63i
 
-Ten aanzien van de persoon wiens recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen is ontstaan voor 1 juli 2015 blijft [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), van toepassing zoals dat luidde na de inwerkingtreding van [artikel II, onderdeel C, van de Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II) en voor de inwerkingtreding van [artikel XIX, onderdeel A, van de Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XIX).
+Ten aanzien van de persoon wiens recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen is ontstaan voor 1 juli 2015 blijft [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04), van toepassing zoals dat luidde na de inwerkingtreding van [artikel II, onderdeel C, van de Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II) en voor de inwerkingtreding van [artikel XIX, onderdeel A, van de Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XIX).
 
 ##### Artikel 4b
 
@@ -1376,7 +1376,7 @@ Vervallen
 
 ##### Artikel 63k
 
-Op de persoon die op de dag voor inwerkingtreding van [artikel XXI, onderdeel A, van de Verzamelwet SZW 2017](onbekend) recht heeft op een uitkering op grond van deze wet en toepassing van dat artikel tot een lagere uitkering leidt, blijft [artikel 6, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), zoals dat luidde op die dag voor inwerkingtreding, van toepassing gedurende zes maanden na de dag van inwerkingtreding van artikel XXI, onderdeel A, van de Verzamelwet SZW 2017.
+Op de persoon die op de dag voor inwerkingtreding van [artikel XXI, onderdeel A, van de Verzamelwet SZW 2017](onbekend) recht heeft op een uitkering op grond van deze wet en toepassing van dat artikel tot een lagere uitkering leidt, blijft [artikel 6, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=6&z=2026-02-04&g=2026-02-04), zoals dat luidde op die dag voor inwerkingtreding, van toepassing gedurende zes maanden na de dag van inwerkingtreding van artikel XXI, onderdeel A, van de Verzamelwet SZW 2017.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -1418,7 +1418,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. Het college wendt het bufferbudget aan om betalingen aan de belanghebbende te doen, of om een onverschuldigd betaalde uitkering te vereffenen vanwege het in aanmerking nemen van inkomsten uit arbeid, voor zover dit naar het oordeel van het college bijdraagt aan de stabiliteit van de inkomensvoorziening in een of meer maanden.
 
-3. Bij aanwending van het bufferbudget is [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
+3. Bij aanwending van het bufferbudget is [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=5&z=2026-02-04&g=2026-02-04), van overeenkomstige toepassing.
 
 4. Met ingang van de dag waarop het netto minimumloon, zonder de daarin begrepen aanspraak op vakantiebijslag, wijzigt, wordt het bedrag, genoemd in het eerste lid, gewijzigd met het percentage van deze wijziging.
 
@@ -1426,9 +1426,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 63l
 
-1. [Artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor inwerkingtreding van [artikel II, onderdeel C, van de Participatiewet in balans](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II), blijft gedurende twaalf maanden na die dag van toepassing op de persoon aan wie voor die dag een vrijlating is toegekend op grond van dat lid.
+1. [Artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-02-04&g=2026-02-04), zoals dat luidde op de dag voor inwerkingtreding van [artikel II, onderdeel C, van de Participatiewet in balans](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II), blijft gedurende twaalf maanden na die dag van toepassing op de persoon aan wie voor die dag een vrijlating is toegekend op grond van dat lid.
 
-2. Van een persoon aan wie op grond van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor inwerkingtreding van [artikel II, onderdeel C, van de Participatiewet in balans](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II) een vrijlating was toegekend op grond van dat lid, worden de inkomsten uit arbeid met de uitkering verrekend conform [artikel 8a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8a&z=2026-01-01&g=2026-01-01), vanaf de inwerkingtreding van[artikel II, onderdeel D, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II), gedurende het restant van de periode, bedoeld in voornoemd [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01).
+2. Van een persoon aan wie op grond van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-02-04&g=2026-02-04), zoals dat luidde op de dag voor inwerkingtreding van [artikel II, onderdeel C, van de Participatiewet in balans](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II) een vrijlating was toegekend op grond van dat lid, worden de inkomsten uit arbeid met de uitkering verrekend conform [artikel 8a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8a&z=2026-02-04&g=2026-02-04), vanaf de inwerkingtreding van[artikel II, onderdeel D, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II), gedurende het restant van de periode, bedoeld in voornoemd [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-02-04&g=2026-02-04).
 
 ### Hoofdstuk VIII. Slotbepalingen
 
