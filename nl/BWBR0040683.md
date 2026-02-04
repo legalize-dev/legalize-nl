@@ -4,7 +4,7 @@ identifier: "BWBR0040683"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-04"
-last_updated: "2026-01-01"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040683"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ Permanente link
 
 1. De kosten voor les, college-, inschrijvings-, practicum-, tentamen-, examen- en diplomagelden komen voor volledige vergoeding in aanmerking.
 
-2. In de kosten voor de aanschaf van studiemateriaal en leermiddelen wordt over het jaar 2025 een tegemoetkoming verstrekt van ten hoogste € 792,00.
+2. In de kosten voor de aanschaf van studiemateriaal en leermiddelen wordt over het jaar 2026 een tegemoetkoming verstrekt van ten hoogste € 816,00.
 
 3. De gemaakte excursie-, reis- en verblijfkosten komen voor volledige vergoeding in aanmerking, doch uitsluitend indien wordt aangetoond dat deze kosten voor de studie of opleiding noodzakelijk waren.
 
@@ -159,7 +159,7 @@ Voor zover de bestaande infrastructurele voorzieningen het toelaten wordt door d
 
 2. Een verzoek om in aanmerking te komen voor een studietoelage kan worden afgewezen, indien, naar het oordeel van het hoofd defensieonderdeel in de kosten van de door de militair beoogde opleiding door het verlenen van een studietoelage uit anderen hoofde genoegzaam is of zal worden voorzien.
 
-3. Indien de militair, die in beginsel voor toekenning van een studietoelage in aanmerking komt, gedurende de periode, waarvoor de toelage zal worden verleend, over netto-inkomsten, verkregen uit eigen arbeid, kan beschikken, die (vermoedelijk) meer bedragen dan een door het hoofd defensieonderdeel vast te stellen bedrag, wordt het meerdere van die inkomsten op de te verlenen toelage in mindering gebracht, met dien verstande, dat hij altijd een studietoelage als tegemoetkoming in de kosten zoals genoemd in [artikel 9, tweede lid, onder a, b, c, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=2&artikel=9&z=2026-02-04&g=2026-01-01) ontvangt.
+3. Indien de militair, die in beginsel voor toekenning van een studietoelage in aanmerking komt, gedurende de periode, waarvoor de toelage zal worden verleend, over netto-inkomsten, verkregen uit eigen arbeid, kan beschikken, die (vermoedelijk) meer bedragen dan een door het hoofd defensieonderdeel vast te stellen bedrag, wordt het meerdere van die inkomsten op de te verlenen toelage in mindering gebracht, met dien verstande, dat hij altijd een studietoelage als tegemoetkoming in de kosten zoals genoemd in [artikel 9, tweede lid, onder a, b, c, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=2&artikel=9&z=2026-02-04&g=2026-02-04) ontvangt.
 
 4. Een studietoelage wordt in één bedrag of in termijnen uitbetaald.
 
@@ -181,7 +181,7 @@ De militair die – na toekenning van een toelage in de vorm van een renteloos v
 
 ##### Artikel 15. Opleiding burgerrijbewijs
 
-Ten aanzien van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-01-01) genoemde categorieën personeel wordt het criterium ‘studie of opleiding in het belang van het uitoefenen van een beroep in de burgermaatschappij’ als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-01-01) zodanig verruimd dat daaronder tevens wordt begrepen:
+Ten aanzien van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-02-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-02-04) genoemde categorieën personeel wordt het criterium ‘studie of opleiding in het belang van het uitoefenen van een beroep in de burgermaatschappij’ als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-02-04) zodanig verruimd dat daaronder tevens wordt begrepen:
 
 - a. het volgen van een theoriecursus rijvaardigheid B;
 
@@ -193,21 +193,21 @@ waarbij de kosten tot een maximum van € 2.000,= worden vergoed.
 
 ##### Artikel 16. Aanvullende rijopleiding
 
-Voor de militair behorend tot de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-01-01) genoemde categorieën personeel die reeds in het bezit is van een rijbewijs B, wordt onder het criterium ‘studie of opleiding in het belang van het uitoefenen van een beroep in de burgermaatschappij’ als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-01-01) mede begrepen een voertuigbeheersingscursus dan wel het zich eigen maken van theoretische en praktische vaardigheden verband houdende met het besturen van andere motorvoertuigen of aanhangwagens waarbij de kosten tot een maximum van € 500,= worden vergoed.
+Voor de militair behorend tot de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-02-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-02-04) genoemde categorieën personeel die reeds in het bezit is van een rijbewijs B, wordt onder het criterium ‘studie of opleiding in het belang van het uitoefenen van een beroep in de burgermaatschappij’ als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-02-04) mede begrepen een voertuigbeheersingscursus dan wel het zich eigen maken van theoretische en praktische vaardigheden verband houdende met het besturen van andere motorvoertuigen of aanhangwagens waarbij de kosten tot een maximum van € 500,= worden vergoed.
 
 ##### Artikel 17
 
-Aanspraak op de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-01-01) genoemde faciliteiten hebben:
+Aanspraak op de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-02-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-02-04) genoemde faciliteiten hebben:
 
-- a. militairen die bij aanstelling voorbestemd zijn voor een functie binnen een van de categorieën personeel zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-01-01) dan wel;
+- a. militairen die bij aanstelling voorbestemd zijn voor een functie binnen een van de categorieën personeel zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-02-04) dan wel;
 
-- b. militairen die reeds een functie vervullen binnen een van de categorieën personeel zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-01-01) en die een aanstelling voor bepaalde tijd met een periode van ten minste 2 jaar verlengen, voor zover zij gedurende die verlenging deel uitmaken van een van de categorieën personeel zoals opgenomen in bijlage 2,
+- b. militairen die reeds een functie vervullen binnen een van de categorieën personeel zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-02-04) en die een aanstelling voor bepaalde tijd met een periode van ten minste 2 jaar verlengen, voor zover zij gedurende die verlenging deel uitmaken van een van de categorieën personeel zoals opgenomen in bijlage 2,
 
-waarbij de totale aanspraak per militair beperkt blijft tot één maal de faciliteiten zoals opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-01-01) en één maal de faciliteiten zoals opgenomen in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-01-01).
+waarbij de totale aanspraak per militair beperkt blijft tot één maal de faciliteiten zoals opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-02-04) en één maal de faciliteiten zoals opgenomen in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-02-04).
 
 ##### Artikel 18. Voorwaarden aanspraak
 
-Teneinde aanspraak te kunnen maken op de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-01-01) genoemde faciliteiten dient:
+Teneinde aanspraak te kunnen maken op de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-02-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-02-04) genoemde faciliteiten dient:
 
 - a. de militair de initiële opleiding met goed gevolg te hebben afgerond en;
 
@@ -215,21 +215,21 @@ Teneinde aanspraak te kunnen maken op de in [artikel 15](https://wetten.overheid
 
 ##### Artikel 19. Beëindiging aanspraak
 
-1. Aanspraak op de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-01-01) genoemde faciliteiten vervalt dan wel verlening van de faciliteiten eindigt op het moment dat:
+1. Aanspraak op de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-02-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-02-04) genoemde faciliteiten vervalt dan wel verlening van de faciliteiten eindigt op het moment dat:
 
 - a. de aanstelling van de militair wordt beëindigd binnen de initiële aanstellingsperiode dan wel indien de aanspraak is ontstaan in verband met een verlenging van de aanstelling, binnen die verlengde aanstellingsperiode;
 
-- b. de militair als bedoeld in [artikel 17, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-01-01), niet langer behoort tot de categorie personeel als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-01-01);
+- b. de militair als bedoeld in [artikel 17, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-02-04), niet langer behoort tot de categorie personeel als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=1&z=2026-02-04&g=2026-02-04);
 
-- c. de militair als bedoeld in [artikel; 17, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-01-01), niet langer behoort tot de categorie personeel als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-01-01).
+- c. de militair als bedoeld in [artikel; 17, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-02-04), niet langer behoort tot de categorie personeel als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&bijlage=2&z=2026-02-04&g=2026-02-04).
 
 2. Indien de omstandigheden genoemd onder b of c niet aan de militair te wijten zijn, behoudt de militair aanspraak op de faciliteiten.
 
-3. In afwijking van het gestelde in het tweede lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-01-01) eindigt de aanspraak op de datum van ingang van het ontslag van de militair.
+3. In afwijking van het gestelde in het tweede lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=1&artikel=2&z=2026-02-04&g=2026-02-04) eindigt de aanspraak op de datum van ingang van het ontslag van de militair.
 
 ##### Artikel 20. Loonheffing
 
-De loonheffing alsmede de inhoudingen als bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), welke over de ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-01-01) genoemde faciliteiten zijn verschuldigd, komen voor rekening van het Ministerie van Defensie.
+De loonheffing alsmede de inhoudingen als bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), welke over de ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=15&z=2026-02-04&g=2026-02-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=16&z=2026-02-04&g=2026-02-04) genoemde faciliteiten zijn verschuldigd, komen voor rekening van het Ministerie van Defensie.
 
 ##### Artikel 20a. Grondslag
 
@@ -241,12 +241,12 @@ Deze regeling kan worden aangehaald als ‘Regeling cursusfaciliteiten en studie
 
 ## Bijlage 1. Overzicht categorieën personeel 2007 (aanstelling)
 
-| Overzicht categorieën personeel (ad. Art [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-01-01)) |
+| Overzicht categorieën personeel (ad. Art [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-02-04)) |
 | --- |
 | Koninklijke Marine – Koninklijke Landmacht - gevechtsfuncties dan wel gevecht ondersteunende functies op het niveau van soldaat dan wel korporaal waaraan een VFB-eis is verbonden van niveau VFB-TFO, VFB-3 of VFB-4. Koninklijke Luchtmacht – Koninklijke Marechaussee – |
 
 ## Bijlage 2. Overzicht categorieën personeel 2007 (verlenging)
 
-| Overzicht categorieën personeel (ad. [Art 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-01-01)) |
+| Overzicht categorieën personeel (ad. [Art 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0040683&hoofdstuk=3&artikel=17&z=2026-02-04&g=2026-02-04)) |
 | --- |
 | Koninklijke Marine – Koninklijke Landmacht – gevechtsfuncties dan wel gevechtsondersteunende functies op het niveau van soldaat dan wel korporaal waaraan een VFB-eis is verbonden van niveau VFB-TFO, VFB-3 of VFB-4. Koninklijke Luchtmacht – Koninklijke Marechaussee – |
