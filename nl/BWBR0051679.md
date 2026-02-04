@@ -4,7 +4,7 @@ identifier: "BWBR0051679"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-04"
-last_updated: "2026-01-01"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051679"
 soort: "wet"
@@ -65,7 +65,11 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen drie jaar na de 
 
 ##### Artikel V. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. In afwijking van het eerste lid, treden de [artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=I&z=2026-02-04&g=2026-02-04), [II, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II&z=2026-02-04&g=2026-02-04), en [III, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=III&z=2026-02-04&g=2026-02-04), in werking op het tijdstip waarop [artikel XXIIIA van de Verzamelwet SZW 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052272&artikel=XXIIIa) in werking treedt, met dien verstande dat artikel XXIIIA van de Verzamelwet SZW 2026 in werking treedt voordat de [artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=I&z=2026-02-04&g=2026-02-04), [II, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II&z=2026-02-04&g=2026-02-04), en [III, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=III&z=2026-02-04&g=2026-02-04), van deze wet in werking treden.
+
+3. Indien [artikel XXIIIA van de Verzamelwet SZW 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052272&artikel=XXIIIa) in werking treedt na 1 januari 2026, werkt de inwerkingtreding van de [artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=I&z=2026-02-04&g=2026-02-04), [II, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=II&z=2026-02-04&g=2026-02-04), en [III, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0051679&artikel=III&z=2026-02-04&g=2026-02-04), van deze wet terug tot en met 1 januari 2026.
 
 ##### Artikel VI. Citeertitel
 
