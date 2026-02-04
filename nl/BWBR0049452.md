@@ -4,7 +4,7 @@ identifier: "BWBR0049452"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-02-04"
-last_updated: "2024-03-07"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049452"
 soort: "beleidsregel"
@@ -247,7 +247,7 @@ Wanneer aan de voorwaarden voor toepassing van de goedkeuring is voldaan, wordt 
 
 ### 4. Kampeerauto’s
 
-Een kampeerauto is gedefinieerd als een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid ([artikel 23a, eerste lid, wet mrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)). De binnenruimte is de ruimte achter de in de achterste stand geplaatste zitplaatsen van de bestuurder en de bijrijder. Voor een kampeerauto geldt voor de mrb een zelfstandig tarief dat een kwart is van het tarief van een personenauto. Dit tarief is van toepassing op een kampeerauto als wordt voldaan aan de voorwaarden genoemd in het besluit ([artikel 5aa, uitvoeringsbesluit mrb](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=5aa)).
+Een kampeerauto is gedefinieerd als een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid ([artikel 23a, eerste lid, wet mrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)). De binnenruimte is de ruimte achter de in de achterste stand geplaatste zitplaatsen van de bestuurder en de bijrijder. Voor een kampeerauto geldt voor de mrb een zelfstandig tarief dat de helft is van het tarief van een personenauto. Dit tarief is van toepassing op een kampeerauto als wordt voldaan aan de voorwaarden genoemd in het besluit ([artikel 5aa, uitvoeringsbesluit mrb](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=5aa)).
 
 ### 4.1. Overgangsregelingen
 
