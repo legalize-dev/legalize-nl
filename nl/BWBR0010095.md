@@ -4,7 +4,7 @@ identifier: "BWBR0010095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2023-07-27"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010095"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ In deze instructie wordt verstaan onder:
 
 - b. **selectiefunctionaris:** een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in [artikel 15, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15);
 
-- c. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandsverlening van de Dienst Justitiële Inrichtingen;
+- c. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandseenheid van het onderdeel Landelijke Dienst Specialistische Taken van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen;
 
 - d. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
@@ -57,9 +57,9 @@ In deze instructie wordt verstaan onder:
 
 - f. **geweldsmiddel:**
 
-- 1°. de semi-automatische uitvoering van de SIG SAUER MCX RATTLER;
+- 1°. het semi-automatische schoudervuurwapen SIG SAUER MCX RATTLER, kaliber 7.62 x 35 millimeter;
 
-- 2°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
+- 2°. het semi-automatische schoudervuurwapen FN SCAR, kaliber 7.62 x 35 millimeter;
 
 - 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
 
@@ -79,7 +79,9 @@ In deze instructie wordt verstaan onder:
 
 - 4°. Blinderingsmiddelen van een door de Minister voor Rechtsbescherming goedgekeurd merk en type.
 
-- h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
+- h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+
+- i. **vuurwapen:** een geweldsmiddel als bedoeld in artikel 1, onderdeel f, onder 1, 2 en 3.
 
 ##### Artikel 2
 
@@ -107,7 +109,7 @@ In deze instructie wordt verstaan onder:
 
 ##### Artikel 5
 
-Het gebruik van een vuurwapen is slechts geoorloofd:
+Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
 - a. om een gedetineerde aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een (vuur)wapen bij zich heeft en dit tegen personen zal gebruiken;
 
@@ -115,7 +117,7 @@ Het gebruik van een vuurwapen is slechts geoorloofd:
 
 - c. tot het beteugelen van woelingen, indien er sprake is van een optreden in gesloten verband onder leiding van een meerdere;
 
-- d. ter afwending van direct gevaar voor het leven van personen.
+- d. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
 
 ##### Artikel 6
 
@@ -194,5 +196,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 10a
 
 De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer met een verhoogd veiligheidsrisico, van een blinderingsmiddel voorzien.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
