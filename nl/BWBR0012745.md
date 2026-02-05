@@ -4,7 +4,7 @@ identifier: "BWBR0012745"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2023-07-27"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012745"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
 
-- b. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandsverlening van de Dienst Justitiële Inrichtingen;
+- b. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandseenheid van het onderdeel Landelijke Dienst Specialistische Taken van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen;
 
 - c. **meerdere:** de medewerker van de eenheid die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
 
@@ -64,9 +64,9 @@ In deze regeling wordt verstaan onder:
 
 - g. **geweldsmiddel:**
 
-- 1°. de semi-automatische uitvoering van de SIG SAUER MCX RATTLER;
+- 1°. het semi-automatische schoudervuurwapen SIG SAUER MCX RATTLER, kaliber 7.62 x 35 millimeter;
 
-- 2°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
+- 2°. de semi-automatische uitvoering van de FN SCAR, kaliber 7.62 x 35 millimeter;
 
 - 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
 
@@ -76,7 +76,9 @@ In deze regeling wordt verstaan onder:
 
 - 6°. pepperspray van een door de Minister van Justitie goedgekeurd merk en type.
 
-- h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
+- h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+
+- i. **vuurwapen:** een geweldsmiddel als bedoeld in artikel 1, onderdeel g, onder 1, 2 en 3.
 
 #### Paragraaf 2. Aanwenden geweldsmiddelen en vrijheidsbeperkende middelen door personeelsleden of medewerkers
 
@@ -86,25 +88,25 @@ Een personeelslid of medewerker kan ten aanzien van een jeugdige, ten behoeve va
 
 ##### Artikel 3
 
-Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2023-07-27&g=2023-07-27), genoemde geweldsmiddelen aan te wenden.
+Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2026-02-05&g=2026-02-05), genoemde geweldsmiddelen aan te wenden.
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2023-07-27&g=2023-07-27) kan de directeur personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2026-02-05&g=2026-02-05) kan de directeur personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
 
-2. In afwijking van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2023-07-27&g=2023-07-27) bepaalde kan de selectiefunctionaris aan door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
+2. In afwijking van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2026-02-05&g=2026-02-05) bepaalde kan de selectiefunctionaris aan door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
 
 3. De directeur draagt er zorg voor dat:
 
 - a. personeelsleden of medewerkers, die vrijheidsbeperkende middelen toepassen, over voldoende vaardigheden beschikken met betrekking tot het toepassen daarvan;
 
-- b. de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2023-07-27&g=2023-07-27), bedoelde personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
+- b. de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2026-02-05&g=2026-02-05), bedoelde personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
 
 4. De selectiefunctionaris draagt er zorg voor dat:
 
 - a. de door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het toepassen van vrijheidsbeperkende middelen;
 
-- b. de door hem krachtens [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2023-07-27&g=2023-07-27), aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
+- b. de door hem krachtens [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2026-02-05&g=2026-02-05), aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
 
 ##### Artikel 5
 
@@ -114,7 +116,7 @@ Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g
 
 ##### Artikel 6
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2023-07-27&g=2023-07-27) kunnen de in [artikel 1, onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2023-07-27&g=2023-07-27) en 2 genoemde geweldsmiddelen met toestemming van de directeur of de selectiefunctionaris uitsluitend worden toegepast door personeelsleden of medewerkers:
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2026-02-05&g=2026-02-05) kunnen de in [artikel 1, onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2026-02-05&g=2026-02-05) en 2 genoemde geweldsmiddelen met toestemming van de directeur of de selectiefunctionaris uitsluitend worden toegepast door personeelsleden of medewerkers:
 
 - a. aan wie dat geweldsmiddel rechtens is toegekend en,
 
@@ -146,21 +148,21 @@ In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&par
 
 ##### Artikel 9
 
-Het gebruik van een vuurwapen is slechts geoorloofd:
+Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
 - a. om een jeugdige aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een vuurwapen bij zich heeft en dit tegen personen zal gebruiken;
 
 - b. tot het beteugelen van onrust, indien er sprake is van een optreden in gesloten verband onder leiding van een meerdere;
 
-- c. ter afwending van direct gevaar voor het leven van personen.
+- c. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
 
 ##### Artikel 10
 
-Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2023-07-27&g=2023-07-27) bevoegd is tot het gebruik van een vuurwapen, mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen, indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
+Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2026-02-05&g=2026-02-05) bevoegd is tot het gebruik van een vuurwapen, mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen, indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
 ##### Artikel 11
 
-1. Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2023-07-27&g=2023-07-27) bevoegd is tot het gebruik van een vuurwapen geeft onmiddellijk, voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze een waarschuwing dat geschoten zal worden. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
+1. Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2026-02-05&g=2026-02-05) bevoegd is tot het gebruik van een vuurwapen geeft onmiddellijk, voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze een waarschuwing dat geschoten zal worden. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
 
 2. Een waarschuwingsschot moet op zodanige wijze worden afgevuurd dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
@@ -182,7 +184,7 @@ Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.over
 
 5. De directeur van de inrichting stelt de commissie van toezicht in kennis van de melding, bedoeld in het derde lid.
 
-#### Paragraaf 6. Slotbepalingen
+#### Paragraaf 5. Meldplicht
 
 ##### Artikel 13
 
@@ -215,6 +217,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 #### Paragraaf 4. Het gebruik van een vuurwapen
 
 #### Paragraaf 5. Meldplicht
+
+#### Paragraaf 6. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a
+
+Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
 #### Paragraaf 6. Slotbepalingen
 
