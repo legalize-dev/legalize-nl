@@ -4,7 +4,7 @@ identifier: "BWBR0012110"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2023-07-27"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012110"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ In deze instructie wordt verstaan onder:
 
 - a. **meerdere:** het personeelslid dat of de medewerker die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel geeft over de taakuitvoering;
 
-- b. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandsverlening van de Dienst Justitiële Inrichtingen;
+- b. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandseenheid van het onderdeel Landelijke Dienst Specialistische Taken van de Dienst Vervoer en Ondersteuning van de Dienst Justitiële Inrichtingen;
 
 - c. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
@@ -57,9 +57,9 @@ In deze instructie wordt verstaan onder:
 
 - e. **geweldsmiddel:**
 
-- 1°. de semi-automatische uitvoering van de SIG SAUER MCX RATTLER;
+- 1°. het semi-automatische schoudervuurwapen SIG SAUER MCX RATTLER, kaliber 7.62 x 35 millimeter;
 
-- 2°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
+- 2°. de semi-automatische uitvoering van de FN SCAR, kaliber 7.62 x 35 millimeter;
 
 - 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
 
@@ -75,7 +75,9 @@ In deze instructie wordt verstaan onder:
 
 - 3°. middelen als bedoeld in de [bijlage bij de Regeling toepassing mechanische middelen verpleegden](onbekend).
 
-- g. **het gebruik van een vuurwapen:** het trekken, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
+- g. **het gebruik van een vuurwapen:** het trekken, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+
+- i. **vuurwapen:** een geweldsmiddel als bedoeld in artikel 1, onderdeel e, onder 1, 2 en 3.
 
 #### § 2. Gebruik geweld en aanwenden van vrijheidsbeperkend middelen
 
@@ -99,7 +101,7 @@ Het hoofd van de inrichting voor verpleging van ter beschikking gestelden draagt
 
 ##### Artikel 4
 
-Het gebruik van een vuurwapen is slechts geoorloofd:
+Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
 - a. om een verpleegde aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een (vuur)wapen bij zich heeft en dit tegen personen zal gebruiken;
 
@@ -107,7 +109,7 @@ Het gebruik van een vuurwapen is slechts geoorloofd:
 
 - c. tot het beteugelen van woelingen, indien er sprake is van een optreden in gesloten verband onder leiding van een meerdere;
 
-- d. ter afwending van direct gevaar voor het leven van personen.
+- d. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
 
 ##### Artikel 5
 
@@ -145,13 +147,13 @@ Een personeelslid of medewerker mag in verband met zijn eigen veiligheid of die 
 
 Vervallen
 
-#### § 6. Protocollering en meldplicht
+#### § 4. De eenheid
 
 ##### Artikel 10
 
 1. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden maakt op basis van deze regeling een voor zijn inrichting geldende dienstinstructie voor personeelsleden of medewerkers.
 
-2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, daaronder begrepen tijdens verlof als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2023-07-27&g=2023-07-27) jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
+2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, daaronder begrepen tijdens verlof als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2026-02-05&g=2026-02-05) jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
 
 3. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden zendt binnen drie maanden na inwerkingtreding van deze regeling een afschrift van de voor zijn inrichting geldende dienstinstructie aan de Minister van Justitie.
 
@@ -195,7 +197,7 @@ Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verple
 
 ##### Artikel 7a
 
-1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2023-07-27&g=2023-07-27) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2023-07-27&g=2023-07-27) te voorkomen.
+1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2026-02-05&g=2026-02-05) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2026-02-05&g=2026-02-05) te voorkomen.
 
 2. Een ander middel, als bedoeld in het eerste lid, moet ten minste voldoen aan de eisen, die gesteld worden aan een mechanisch middel in de [Regeling toepassing mechanische middelen verpleegden](https://wetten.overheid.nl/jci1.3:c:BWBR0011109).
 
@@ -208,5 +210,15 @@ Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verple
 #### § 4. De eenheid
 
 #### § 5. Het inrichtingspersoneel
+
+#### § 7. Slotbepalingen
+
+##### Artikel 4a
+
+Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
+
+#### § 5. Het inrichtingspersoneel
+
+#### § 6. Protocollering en meldplicht
 
 #### § 7. Slotbepalingen
