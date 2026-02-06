@@ -4,7 +4,7 @@ identifier: "BWBR0045371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2022-01-01"
+last_updated: "2026-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045371"
 soort: "ministeriele-regeling"
@@ -108,9 +108,7 @@ Verboden voorwerpen als bedoeld in [artikel 37j, derde lid, van de wet](https://
 
 ##### Artikel 9
 
-1. De aanvraag voor een erkenning als erkend agent en die voor een erkenning als bekende afzender als bedoeld in [artikel 37o, eerste lid, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37o) geschieden door middel van een door de Minister van Justitie en Veiligheid ter beschikking gesteld elektronisch aanmeldingsformulier.
-
-2. Inschrijving met het oog op opname in de EU-gegevensbank betreffende de beveiliging van de toeleveringsketen van erkend agenten en bekende afzenders, bedoeld in paragraaf 6.3. en 6.4. in de bijlage bij EU-[verordening 2015/1998](32015R1998), geschiedt langs elektronische weg, met gebruikmaking van een door de Minister van Justitie en Veiligheid goedgekeurd elektronisch aanmeldingsformulier.
+De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37o) geschiedt langs elektronische weg door middel van een door de commandant van de Koninklijke marechaussee ter beschikking gesteld aanmeldformulier en een vastgesteld gestandaardiseerd model voor het beveiligingsprogramma.
 
 #### § 5. Werving en opleiding van personeel
 
@@ -214,7 +212,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 3. De aanvrager om erkenning van zijn beroepskwalificaties als bedoeld in het tweede lid legt bij zijn aanvraag de volgende voor de beoordeling van die aanvraag van belang zijnde gegevens en bescheiden over:
 
-- a. een door het bevoegde gezag in de staat waar de opleiding is gevolgd gewaarmerkt kopie van het certificaat waaruit blijkt dat de aanvrager een opleiding, vergelijkbaar met die als bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045371&paragraaf=5&sub-paragraaf=5.3&artikel=15&z=2022-01-01&g=2022-01-01), dan wel een bewijs waaruit blijkt dat met goed gevolg een examen is afgelegd met het oog op de uitoefening van een door de aanvrager gewenste beveiligingstaak bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=22);
+- a. een door het bevoegde gezag in de staat waar de opleiding is gevolgd gewaarmerkt kopie van het certificaat waaruit blijkt dat de aanvrager een opleiding, vergelijkbaar met die als bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045371&paragraaf=5&sub-paragraaf=5.3&artikel=15&z=2026-02-06&g=2026-02-06), dan wel een bewijs waaruit blijkt dat met goed gevolg een examen is afgelegd met het oog op de uitoefening van een door de aanvrager gewenste beveiligingstaak bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=22);
 
 - b. een overzicht van de vakken die onderdeel hebben uitgemaakt van de betreffende opleiding en een leerstofomschrijving van de vakken en daarbij behorende studietijd;
 
@@ -278,7 +276,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 2. De commandant van de Koninklijke marechaussee kan voor de aangelegenheden bedoeld in het eerste lid ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
-#### § 7. Slotbepalingen
+#### § 6. Mandaten
 
 ##### Artikel 21
 
@@ -305,5 +303,39 @@ Deze regeling wordt aangehaald als: Regeling uitvoering beveiliging burgerluchtv
 ##### Artikel 23
 
 Deze regeling treedt in werking met ingang van de dag waarop het [Uitvoeringsbesluit EG-verordening 300/2008](https://wetten.overheid.nl/jci1.3:c:BWBR0044668) in werking treedt.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a
+
+Een erkenning als erkend agent wordt slechts verleend, indien de aanvrager:
+
+- a. een zending fysiek aanvaardt voor het uitvoeren van de verplichte beveiligingscontroles, waaronder het onderzoeken van de buitenzijde van de zending op tekenen van manipulatie door onbevoegden, sabotage of enige afwijkingen die aanleiding kunnen geven tot verdenking van manipulatie;
+
+- b. wanneer hij de beveiligingscontroles uitbesteedt aan een andere erkende agent of goedgekeurde entiteit, de beveiligingscontroles laat uitvoeren op de eigen goedgekeurde locatie, uitbestede beveiligingscontroles opneemt in het beveiligingsprogramma en volledige verantwoordelijkheid behoudt voor de uitvoering, vereisten en uitkomsten van de controles;
+
+- c. de operationele locatie die overeenkomstig de erkenning wordt goedgekeurd, overeenkomt met de locatie waar zendingen fysiek worden opgeslagen of aan beveiligingscontroles worden onderworpen;
+
+- d. het beveiligingsprogramma, bedoeld in [artikel 37abc, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37abc) opeen gestandaardiseerd modelformulier heeft beschreven en wat de Minister van Justitie en Veiligheid positief heeft beoordeeld.
+
+##### Artikel 9b
+
+De aanvraag voor een erkenning als erkend agent kan worden afgewezen, indien na onderzoek naar de betrouwbaarheid van personen werkzaam voor de aanvrager van een erkenning, als bedoeld in [artikel 37q van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37q), uit omstandigheden of feiten redelijkerwijs kan worden aangenomen dat de veiligheid en de betrouwbaarheid niet is geborgd.
+
+#### § 5. Werving en opleiding van personeel
+
+#### § 5.1. Eisen aan het opleidingsprogramma van een beveiligingsopleiding
+
+#### § 5.2. Eisen aan de organisatie van de opleidingsinstelling
+
+#### § 5.3. Gecertificeerde instructeurs en gecertificeerd personeel
+
+#### § 5.4. Explosievenspeurhonden
+
+##### Artikel 20a
+
+De Minister van Justitie en Veiligheid verleent mandaat en machtiging voor het erkennen van personeel, bedoeld in [artikel 37rd, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rd) en het verrichten van daarbij behorende overige handelingen aan de instelling die in het kader van de certificering een door de Minister van Justitie en Veiligheid goedgekeurde theorie-, praktijk- of beeldinterpretatie-examen uitvoert.
+
+#### § 7. Slotbepalingen
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
