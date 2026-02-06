@@ -4,7 +4,7 @@ identifier: "BWBR0052266"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-06"
-last_updated: "2025-12-01"
+last_updated: "2026-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052266"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **college:** het College van procureurs-generaal;
 
-- c. **commissie:** de commissie zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=2&z=2026-02-06&g=2025-12-01);
+- c. **commissie:** de commissie zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=2&z=2026-02-06&g=2026-02-06);
 
 ##### Artikel 2. Instelling en taak
 
@@ -114,7 +114,7 @@ De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
 2. De commissie is bevoegd om zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken om alle medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-3. Het Ministerie van Justitie en Veiligheid en het openbaar ministerie verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft, daarbij het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=7&z=2026-02-06&g=2025-12-01) bedoelde protocol in acht nemend.
+3. Het Ministerie van Justitie en Veiligheid en het openbaar ministerie verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft, daarbij het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=7&z=2026-02-06&g=2026-02-06) bedoelde protocol in acht nemend.
 
 4. Ambtenaren van het Ministerie van Justitie en Veiligheid en het openbaar ministerie zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak en dit zonder schending van hun ambtsgeheim kan geschieden.
 
