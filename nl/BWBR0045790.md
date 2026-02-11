@@ -4,7 +4,7 @@ identifier: "BWBR0045790"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-11"
-last_updated: "2022-11-04"
+last_updated: "2026-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045790"
 soort: "zbo"
@@ -68,9 +68,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1:2
 
-1. Voor de toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&z=2022-11-04&g=2022-11-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=3&z=2022-11-04&g=2022-11-04) van deze regeling wordt onder beheerder verstaan: een beheerder van een beleggingsinstelling of een beheerder van een icbe die een activiteit verricht of een beleggingsdienst verleent als bedoeld in [artikel 2:67a, tweede lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67a), respectievelijk [artikel 2:69c, tweede lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69c).
+1. Voor de toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&z=2026-02-11&g=2026-02-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=3&z=2026-02-11&g=2026-02-11) van deze regeling wordt onder beheerder verstaan: een beheerder van een beleggingsinstelling of een beheerder van een icbe die een activiteit verricht of een beleggingsdienst verleent als bedoeld in [artikel 2:67a, tweede lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67a), respectievelijk [artikel 2:69c, tweede lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69c).
 
-2. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=3&z=2022-11-04&g=2022-11-04) van deze regeling wordt onder beleggingsonderneming verstaan: een beleggingsonderneming in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+2. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=3&z=2026-02-11&g=2026-02-11) van deze regeling wordt onder beleggingsonderneming verstaan: een beleggingsonderneming in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 ### Hoofdstuk 2. – Kapitaaleisen voor beheerders van beleggingsinstellingen en beheerders van een icbe die tevens beleggingsdiensten mogen verlenen
 
@@ -82,11 +82,11 @@ Op beheerders is het kapitaalvereiste van toepassing dat de hoogste kapitaaleis 
 
 1. Het kapitaalvereiste onder de IFR bedraagt het hoogste van de volgende elementen:
 
-- a). het vastekostenvereiste, berekend overeenkomstig [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:3&z=2022-11-04&g=2022-11-04);
+- a). het vastekostenvereiste, berekend overeenkomstig [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:3&z=2026-02-11&g=2026-02-11);
 
-- b). het permanente minimumkapitaalvereiste overeenkomstig [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:4&z=2022-11-04&g=2022-11-04);
+- b). het permanente minimumkapitaalvereiste overeenkomstig [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:4&z=2026-02-11&g=2026-02-11);
 
-- c). het K–factor-vereiste, berekend overeenkomstig [artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:5&z=2022-11-04&g=2022-11-04).
+- c). het K–factor-vereiste, berekend overeenkomstig [artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:5&z=2026-02-11&g=2026-02-11).
 
 2. In afwijking van lid 1 bedraagt het kapitaalvereiste onder de IFR, indien een beheerder aan de in artikel 12, lid 1, IFR bepaalde voorwaarden voldoet om als kleine en niet-verweven beleggingsonderneming aangemerkt te worden, het hoogste van de in de lid 1, punten a) en b), bepaalde bedragen.
 
@@ -145,6 +145,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 3:3. – Notionele eigenvermogensvereisten bij toepassing van artikel 8, vierde lid, IFR
 
 Voor de toepassing van artikel 8, vierde lid, IFR is in elk geval goedgekeurd dat de notionele eigenvermogensvereisten voor dochterondernemingen die in derde landen gevestigd zijn, als bedoeld in de tweede alinea van artikel 8, vierde lid, IFR, de eigenvermogensvereisten zijn die op individuele basis ingevolge de IFR op deze dochters van toepassing zouden zijn geweest indien zij hun zetel zouden hebben in een lidstaat.
+
+### Hoofdstuk 4. – Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3:4. - Gebruik zakelijke prognoses bij gebrek aan historische gegevens
+
+Een beleggingsonderneming vervangt ontbrekende historische gegevens als bedoeld in artikelen 17, tweede lid, 18, tweede lid, 19, derde lid, 20, derde lid, en 33, vierde lid, van de IFR door gegevens die gebaseerd zijn op de overeenkomstig artikel 7 van [Richtlijn 2014/65/EU](32014L0065) ingediende zakelijke prognoses van de beleggingsonderneming.
 
 ### Hoofdstuk 4. – Slotbepalingen
 
