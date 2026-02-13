@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2026-01-01"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -48,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Dit besluit geeft uitvoering aan de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a) en [46 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=46).
+1. Dit besluit geeft uitvoering aan de artikelen [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21b), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a) en [46 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=46).
 
 2. Dit besluit verstaat onder:
 
 - a. wet: [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472);
 
-- b. Hulp- en informatiepunt: een rechtspersoon die belanghebbenden hulp biedt bij het aanvragen van een tegemoetkoming en belanghebbenden informeert over een tegemoetkoming en waarmee de Belastingdienst/Toeslagen een overeenkomst als bedoeld in artikel 28, derde lid, van de Algemene verordening gegevensbescherming heeft gesloten;
+- b. Hulp- en informatiepunt: een rechtspersoon die belanghebbenden hulp biedt bij het aanvragen van een tegemoetkoming en belanghebbenden informeert over een tegemoetkoming en waarmee de Dienst Toeslagen een overeenkomst als bedoeld in artikel 28, derde lid, van de Algemene verordening gegevensbescherming heeft gesloten;
 
 - c. Verordening (EG) nr. 883/2004: Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166);
 
@@ -64,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 1. Als voorzieningen die de dienstverlening voortvloeiende uit de uitvoering van de wet verbeteren, worden aangemerkt: Hulp- en informatiepunten.
 
-2. De Belastingdienst/Toeslagen verstrekt aan Hulp- en informatiepunten de gegevens die noodzakelijk zijn voor de informatieverstrekking overeenkomstig het derde lid aan belanghebbenden.
+2. De Dienst Toeslagen verstrekt aan Hulp- en informatiepunten de gegevens die noodzakelijk zijn voor de informatieverstrekking overeenkomstig het derde lid aan belanghebbenden.
 
 3. Hulp- en informatiepunten zijn verplicht tot geheimhouding van de gegevens waarvan zij ingevolge het tweede lid kennis nemen en mogen uitsluitend op verzoek van de belanghebbende de in zijn aanvraagformulier voor een tegemoetkoming gevraagde dan wel reeds vermelde gegevens raadplegen of aan hem verstrekken.
 
@@ -78,17 +78,17 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit Algemene wet inkomensafhank
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 1a. Informatieverstrekking aan de Belastingdienst/Toeslagen
+##### Artikel 1a. Informatieverstrekking aan de Dienst Toeslagen
 
-Aan de Belastingdienst/Toeslagen worden door financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mogen uitoefenen de volgende gegevens inzake bankrekeningen verstrekt: het bankrekeningnummer en de naam, het adres, de woonplaats en de geboortedatum van de houder van de bankrekening.
+Aan de Dienst Toeslagen worden door financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mogen uitoefenen de volgende gegevens inzake bankrekeningen verstrekt: het bankrekeningnummer en de naam, het adres, de woonplaats en de geboortedatum van de houder van de bankrekening.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1b
 
-1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2022-01-01&g=2026-01-01) bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
+1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Dienst Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Dienst Toeslagen voorgeschreven wijze. De Dienst Toeslagen kan voor de toepassing van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2026-02-13&g=2026-02-13) bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
 
-2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Belastingdienst/Toeslagen verzorgt.
+2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Dienst Toeslagen verzorgt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -100,7 +100,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, worden regels gesteld met betrekking tot de berekeningswijze en de wijze van verrekening van tegemoetkomingen op grond van een inkomensafhankelijke regeling in situaties waarin een of meer Nederlandse gezinsbijslagen als bedoeld in artikel 1, onder z) van Verordening (EG) nr. 883/2004 met toepassing van artikel 68 van die verordening en Verordening (EG) nr. 987/2009 worden uitbetaald in de vorm van een aanvulling op een of meer gezinsbijslagen van een andere lidstaat.
 
-4. Bij regeling van Onze Minister worden, zo nodig met terugwerkende kracht, voor situaties waarin de Belastingdienst/Toeslagen op grond van artikel 6, vierde lid, van Verordening (EG) nr. 987/2009 geacht wordt retroactief bevoegd te zijn geweest regels gesteld met betrekking tot de aanvraag tot toekenning van een tegemoetkoming op grond van een inkomensafhankelijke regeling, de beslissingstermijnen die gelden voor de toekenning of herziening van deze tegemoetkoming alsmede met betrekking tot het aanvangstijdstip van het tijdvak waarover rente wordt berekend als bedoeld in [artikel 27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27).
+4. Bij regeling van Onze Minister worden, zo nodig met terugwerkende kracht, voor situaties waarin de Dienst Toeslagen op grond van artikel 6, vierde lid, van Verordening (EG) nr. 987/2009 geacht wordt retroactief bevoegd te zijn geweest regels gesteld met betrekking tot de aanvraag tot toekenning van een tegemoetkoming op grond van een inkomensafhankelijke regeling, de beslissingstermijnen die gelden voor de toekenning of herziening van deze tegemoetkoming alsmede in situaties die zien op een berekeningsjaar voorafgaand aan het berekeningsjaar 2026 met betrekking tot het aanvangstijdstip van het tijdvak waarover rente wordt berekend als bedoeld in [artikel 27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) zoals dat luidde op 31 december 2025.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
