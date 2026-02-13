@@ -4,7 +4,7 @@ identifier: "BWBR0038194"
 country: "nl"
 rank: "kb"
 publication_date: "2026-02-13"
-last_updated: "2020-11-20"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038194"
 soort: "KB"
@@ -64,9 +64,7 @@ Met betrekking tot ceremoniële en traditionele aangelegenheden omvat de Koninkl
 
 - –. het Dienstvak van de Technische Staf;
 
-- –. het Dienstvak van de Militair Psychologische en Sociologische Dienst;
-
-- –. het Dienstvak van de Lichamelijke Oefening en Sport.
+- –. het Dienstvak van de Militair Psychologische en Sociologische Dienst.
 
 ##### Artikel 2
 
@@ -84,7 +82,7 @@ Vervallen
 
 Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 
-- a. naar de volgorde, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038194&artikel=1&z=2020-11-20&g=2020-11-20);
+- a. naar de volgorde, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038194&artikel=1&z=2026-02-13&g=2026-02-13);
 
 - b. binnen het Wapen der Infanterie:
 
@@ -134,7 +132,9 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 
 - –. Regiment Bevoorradings- en Transporttroepen;
 
-- –. Regiment Technische Troepen.
+- –. Regiment Technische Troepen;
+
+- –. Korps Lichamelijke Oefening en Sport.
 
 ##### Artikel 5
 
@@ -162,7 +162,7 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 |   | het Korps Insulinde |   |
 | Regiment Stoottroepen Prins Bernhard | Commando Limburg (Stoottroepen) en Commando Brabant (Stoottroepen) van de Binnenlandse Strijdkrachten | 21 september 1944 |
 | Regiment Huzaren van Boreel | 4de Regiment Huzaren | 25 november 1813 |
-| Regiment Huzaren Prinses Catharina-Amalia | 1ste , 2e en 3e Regiment Huzaren | 9 januari 1814 |
+| Regiment Huzaren Prinses Catharina-Amalia | 1ste, 2e en 3e Regiment Huzaren | 9 januari 1814 |
 |   | 1ste en 2de Eskadron Pantserwagens |   |
 |   | 1ste en 2de Regiment Huzaren Motorrijder |   |
 | Korps Veldartillerie | de regimenten veldartillerie en de regimenten motorartillerie | 11 januari 1677 |
@@ -179,10 +179,10 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 | Regiment Bevoorradings- en Transporttroepen | Compagnie Administratietroepen | 30 maart 1905 |
 |   | Korps Motordienst |   |
 | Regiment Technische Troepen | Light Aid Detachment van de Koninklijke Nederlandse Brigade Prinses Irene | 20 maart 1941 |
+| Korps Lichamelijke Oefening en Sport | LO&Sport organisatie KL | 29 december 1975 |
 | Dienstvak van de Militair Juridische Dienst | – | 1 mei 1949 |
 | Dienstvak van de Technische Staf | – | 1 november 1954 |
 | Dienstvak van de Militair Psychologische en Sociologische Dienst | – | 1 juli 1973 |
-| Dienstvak van de Lichamelijke Oefening en Sport | LO&Sport organisatie KL | 29 december 1975 |
 
 3. De tradities van onderstaande voormalige regimenten, korpsen of dienstvakken worden niet voortgezet:
 
