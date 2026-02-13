@@ -4,7 +4,7 @@ identifier: "BWBR0052002"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2026-01-30"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052002"
 soort: "ministeriele-regeling"
@@ -122,6 +122,9 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 | [Paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=3.6): Vernieuwingen in de keten van visserij en aquacultuur | [3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=3.6.1) |   | Bevordering van de afzet, de kwaliteit en de toegevoegde waarde van visserij- en aquacultuurproducten en de verwerking van die producten | 20-10-2025 t/m 22-01-2026 | € 1.800.000 |
 | [Titel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.5): Brede weersverzekering | [5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.5.2) |   |   | 01-03-2026 t/m 15-05-2026 | € 17.500.000 |
 | [Titel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.6): Samenwerken aan innovatie door operationele groepen in het kader van EIP | [5.6.2, eerste lid en zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | e. Het op orde brengen van digitale randvoorwaarden om digitale innovaties in de agrarische bedrijfsvoering en landbouwrobots te kunnen ontwikkelen of implementeren, om bij te dragen aan het versterken en versnellen van de groene transitie en het reduceren van arbeidsmarkttekorten door middel van een grotere inzet van digitalisering en landbouwrobots voor een toekomstbestendig landbouw- en voedselsysteem en een robuuste natuur. | 11-11-2025 t/m 07-01-2026 | € 10.470.000 |
+| [Titel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.8) Samenwerking in veenweiden en overgangsgebieden N2000 | [5.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=5.8.2) |   | Oprichten samenwerkingsverband of opstellen gebiedsplan |   | € 200.000 |
+|   | [5.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=5.8.3) |   | Verhogen grondwaterstand in veenweidegebieden | 22-04-2026 t/m 08-06-2026 | € 39.000.000 |
+|   | [5.8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=5.8.4) |   | Extensivering in overgangsgebieden N2000 | 22-04-2026 t/m 08-06-2026 | € 78.778.000 |
 | [Titel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.9): Subsidie voor de vestiging van jonge landbouwers | [5.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.9.2) | Jonge landbouwers | Het stimuleren van jonge landbouwers bij de vestiging van een landbouwbedrijf met als doel generatievernieuwing | 02-03-2026 t/m 01-05-2026 | € 60.455.791 |
 
 ##### Artikel 4. Intrekken Regeling
