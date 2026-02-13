@@ -4,7 +4,7 @@ identifier: "BWBR0046616"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-13"
-last_updated: "2022-05-03"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046616"
 soort: "zbo"
@@ -44,21 +44,21 @@ De Nederlandsche Bank N.V. (DNB) heeft het volgende beleid vastgesteld met betre
 
 In dit beleid wordt verstaan onder:
 
-- a. **DNB:** de Nederlandsche Bank N.V.;
+- a. **basisbedrag:** een bij wet vastgesteld basisbedrag voor boetecategorie 1, 2 en 3;
 
-- b. **toezichtrapportage:** elke wettelijk verplichte rapportage die een instelling periodiek binnen de daartoe vastgestelde termijnen verplicht is in te dienen bij DNB en waarbij DNB de bevoegde autoriteit is;
+- b. **begunstigingstermijn:** de termijn waarbinnen een instelling aan een last onder dwangsom moet voldoen zonder dat dwangsommen worden verbeurd;
 
-- c. **instelling:** eenieder die bij of krachtens wettelijk voorschrift verplicht is een toezichtrapportage bij DNB in te dienen;
+- c. **DNB:** De Nederlandsche Bank N.V.;
 
-- d. **begunstigingstermijn:** de termijn waarbinnen een instelling aan een last onder dwangsom moet voldoen zonder dat dwangsommen worden verbeurd.
+- d. **instelling:** eenieder die bij of krachtens wettelijk voorschrift verplicht is een toezichtrapportage bij DNB in te dienen;
 
-- e. **basisbedrag:** een bij wet vastgesteld basisbedrag voor boetecategorie 1, 2 en 3;
+- e. **maximumbedrag:** een bij wet vastgesteld maximumbedrag voor boetecategorie 1, 2 en 3;
 
-- f. **maximumbedrag:** een bij wet vastgesteld maximumbedrag voor boetecategorie 1, 2 en 3;
+- f. **minimumbedrag:** een bij wet vastgesteld minimumbedrag voor boetecategorie 1, 2 en 3;
 
-- g. **minimumbedrag:** een bij wet vastgesteld minimumbedrag voor boetecategorie 1, 2 en 3;
+- g. **recidive:** de omstandigheid dat tijdens het plegen van de overtreding nog geen vijf jaar zijn verlopen sinds het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding;
 
-- h. **recidive:** de omstandigheid dat tijdens het plegen van de overtreding nog geen vijf jaar zijn verlopen sinds het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+- h. **toezichtrapportage:** elke wettelijk verplichte rapportage die een instelling periodiek binnen de daartoe vastgestelde termijnen verplicht is in te dienen bij DNB en waarbij DNB de bevoegde autoriteit is, met uitzondering van een statistische rapportage als bedoeld in [artikel 1 van het Handhavingsbeleid DNB voor tijdige indiening van statistische rapportages](onbekend).
 
 ##### Artikel 2. Reikwijdte
 
@@ -72,15 +72,17 @@ Dit beleid is van toepassing op een instelling.
 
 ##### Artikel 4. Wijze van indiening
 
-Een instelling dient een toezichtrapportage digitaal in via een daarvoor door DNB ontwikkeld elektronisch rapportagesysteem.
+Een instelling dient een toezichtrapportage digitaal in bij DNB via een daarvoor door DNB ontwikkeld elektronisch rapportagesysteem, dan wel per post.
 
 ##### Artikel 5. Tijdige indiening
 
 1. Een instelling dient een toezichtrapportage tijdig bij DNB in.
 
-2. Een toezichtrapportage wordt als tijdig ingediend beschouwd indien deze uiterlijk op de bij of krachtens wettelijk voorschrift vastgestelde indieningsdatum en conform de door DNB bij het elektronisch rapportagesysteem vastgestelde wijze is ingediend. Hiervan is in beginsel sprake wanneer de toezichtrapportage in het elektronisch rapportagesysteem de status ‘voldaan’ heeft gekregen.
+2. Een toezichtrapportage wordt als tijdig ingediend beschouwd indien deze uiterlijk op de bij of krachtens wettelijk voorschrift vastgestelde indieningsdatum conform de door DNB bij het elektronisch rapportagesysteem vastgestelde wijze dan wel per post is ingediend.
 
-3. Indien een toezichtrapportage niet tijdig bij DNB is ingediend, overweegt DNB of het opleggen van een last onder dwangsom en/of een bestuurlijke boete opportuun is.
+3. Een elektronisch ingediende toezichtrapportage wordt in beginsel geacht tijdig te zijn ingediend wanneer de toezichtrapportage in het elektronisch rapportagesysteem van DNB de status ‘voldaan’ heeft gekregen. Een per post ingediende toezichtrapportage wordt in beginsel geacht tijdig te zijn ingediend wanneer deze uiterlijk op de laatste dag van de daartoe vastgestelde termijn ter post is bezorgd en de toezichtrapportage niet later dan een week na afloop van de termijn door DNB is ontvangen.
+
+4. Indien een toezichtrapportage niet tijdig bij DNB is ingediend, overweegt DNB of het opleggen van een last onder dwangsom en/of een bestuurlijke boete evenredig is.
 
 #### § 3. Last onder dwangsom
 
@@ -88,7 +90,7 @@ Een instelling dient een toezichtrapportage digitaal in via een daarvoor door DN
 
 1. DNB legt in beginsel een last onder dwangsom op indien een instelling een toezichtrapportage niet tijdig indient.
 
-2. DNB geeft een begunstigingstermijn van tien werkdagen waarbinnen volledig aan de last moet worden voldaan.
+2. DNB geeft in beginsel een begunstigingstermijn van tien werkdagen waarbinnen volledig aan de last moet worden voldaan.
 
 3. Na het verstrijken van de begunstigingstermijn wordt in beginsel een dwangsom verbeurd van EUR 1.250,– per volledige werkdag dat niet volledig aan de last is voldaan, met een maximum van EUR 12.500,–.
 
@@ -96,7 +98,7 @@ Een instelling dient een toezichtrapportage digitaal in via een daarvoor door DN
 
 ##### Artikel 7. Boeteoplegging
 
-1. DNB legt in beginsel een bestuurlijke boete op aan een instelling voor het herhaaldelijk binnen een aaneengesloten periode van dertien maanden niet tijdig indienen van een toezichtrapportage.
+1. DNB legt in beginsel een bestuurlijke boete op aan een instelling voor het herhaaldelijk niet tijdig indienen van een toezichtrapportage.
 
 2. Onder herhaaldelijk wordt verstaan het binnen een aaneengesloten periode van dertien maanden voor de tweede maal niet tijdig indienen van een toezichtrapportage.
 
@@ -146,7 +148,7 @@ Een instelling dient een toezichtrapportage digitaal in via een daarvoor door DN
 
 ****Stap 5****: omvang
 
-- a. DNB neemt de omvang van de instelling in acht. Daarbij hanteert DNB de omvangtabel die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046616&bijlage=1&z=2022-05-03&g=2022-05-03) is opgenomen. Het boetepercentage dat op grond van de omvangtabel wordt vastgesteld, wordt toegepast op het op basis van de stappen 1 tot en met 4 berekende boetebedrag.
+- a. DNB neemt de omvang van de instelling in acht. Daarbij hanteert DNB de omvangtabel die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046616&bijlage=1&z=2026-02-13&g=2026-02-13) is opgenomen. Het boetepercentage dat op grond van de omvangtabel wordt vastgesteld, wordt toegepast op het op basis van de stappen 1 tot en met 4 berekende boetebedrag.
 
 - b. Als de voor de toepassing van de omvangtabel benodigde financiële gegevens niet beschikbaar zijn – doordat DNB niet over die gegevens beschikt en de instelling die gegevens ook niet heeft verstrekt – maakt DNB een reële inschatting van de omvang van de instelling. Is een reële inschatting evenmin mogelijk, dan wordt het boetepercentage op grond van de toepasselijke omvangtabel vastgesteld op 6% voor boetecategorie 2 en op 1,2% voor boetecategorie 3.
 
@@ -174,7 +176,7 @@ Dit beleid treedt in werking met ingang van de dag na de datum van uitgifte van 
 
 Dit beleid wordt aangehaald als: **Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages**.
 
-## Bijlage 1. behorend bij [artikel 8, stap 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046616&paragraaf=4&artikel=8&z=2022-05-03&g=2022-05-03), van het Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages
+## Bijlage 1. behorend bij [artikel 8, stap 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046616&paragraaf=4&artikel=8&z=2026-02-13&g=2026-02-13), van het Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages
 
 Omvangtabel I ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 2; omvangtabel II ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 3.
 
@@ -193,7 +195,7 @@ Omvangtabel I ziet op boetes wegens overtredingen van voorschriften die zijn ing
 | Instelling | Omvangcriterium | Boetepercentage 0,6% | Boetepercentage tussen 0,6% en 1,2% | Boetepercentage 1,2% |
 | --- | --- | --- | --- | --- |
 | **Bank** | Balanstotaal | ≤ € 50 miljoen | (balanstotaal – 50 miljoen) / 200 miljoen x 0,6 + 0,6 = boetepercentage | ≥ € 250 miljoen |
-| **Beleggingsonderneming en -instelling** | Hoogste kapitaaleis | ≤ € 75.000 | (hoogste kapitaaleis – 75.000) / 925.000 x 3 + 3 = boetepercentage | ≥ € 1 miljoen |
+| **Beleggingsonderneming en -instelling** | Hoogste kapitaaleis | ≤ € 75.000 | (hoogste kapitaaleis – 75.000) / 925.000 x 0,6 + 0,6 = boetepercentage | ≥ € 1 miljoen |
 | **Betaaldienstverlener en elektronischgeldinstelling** | Hoogste kapitaaleis | ≤ € 50.000 | (hoogste kapitaaleis – 50.000) / 1,95 miljoen x 0,6 + 0,6 = boetepercentage | ≥ € 2 miljoen |
 | **Pensioenuitvoerder** | Balanstotaal | ≤ € 100 miljoen | (balanstotaal – 100 miljoen) / 900 miljoen x 0,6 + 0,6 = boetepercentage | ≥ € 1 miljard |
 | **Leven(her)- en natura-uitvaartverzekeraar en pensioenuitvoerder** | Balanstotaal | ≤ € 100 miljoen | (balanstotaal – 100 miljoen) / 900 miljoen x 0,6 + 0,6 = boetepercentage | ≥ € 1 miljard |
