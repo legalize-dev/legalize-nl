@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2026-01-01"
+last_updated: "2026-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -242,7 +242,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2026-01-01&g=2026-01-01) van de Kiesregeling
+## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2026-02-16&g=2026-02-16) van de Kiesregeling
 
 8. Het model voor de stempas voor de verkiezing van de leden van het kiescollege luidt als volgt:
 
@@ -264,7 +264,7 @@ Vervallen
 
 ### Model Ya 9
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2026-01-01&g=2026-01-01) van de Kiesregeling
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2026-02-16&g=2026-02-16) van de Kiesregeling
 
 Vervallen
 
@@ -284,7 +284,7 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 ### Model O 7. Proces-verbaal van een hoofdstembureau
 
-## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2026-01-01&g=2026-01-01) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2026-02-16&g=2026-02-16) van de Kies- en referendumregeling
 
 Vervallen
 
