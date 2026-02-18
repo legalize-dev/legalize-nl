@@ -4,7 +4,7 @@ identifier: "BWBR0050521"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-18"
-last_updated: "2026-01-01"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050521"
 soort: "zbo"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **mediation:** het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en zijn wederpartij begeleidt teneinde vanuit hun werkelijke belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen;
 
-- b. **mediator:** de mediator als bedoeld in [artikel 33a Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die voldoet aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=II&artikel=5&z=2025-01-01&g=2026-01-01) van deze regeling, zijnde subsidieontvanger;
+- b. **mediator:** de mediator als bedoeld in [artikel 33a Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die voldoet aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=II&artikel=5&z=2026-02-18&g=2026-02-18) van deze regeling, zijnde subsidieontvanger;
 
 - c. **startbijdrage:** de door de Raad voor Rechtsbijstand te verstrekken subsidie in de kosten van de werkzaamheden met betrekking tot de uitvoering van mediation na verwijzing door de rechtspraak van een bij het gerecht aanhangige zaak en waarbij de rechtzoekende niet in aanmerking komt voor gesubsidieerde mediation als bedoeld in [Afdeling 1 van Hoofdstuk V van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&afdeling=1);
 
@@ -74,7 +74,7 @@ De Regeling heeft tot doel om het gebruik van mediation, na verwijzing naar een 
 
 ##### Artikel 4. Hoogte van de startbijdrage
 
-De hoogte van de startbijdrage bedraagt 168 euro (excl. btw) per procespartij in de verwezen zaak met een maximum van 336 euro (excl. btw) voor alle in het conflict betrokken procespartijen gezamenlijk. Deze bijdrage wordt jaarlijks geïndexeerd.
+De hoogte van de startbijdrage bedraagt 179 euro (excl. btw) per procespartij in de verwezen zaak met een maximum van 358 euro (excl. btw) voor alle in het conflict betrokken procespartijen gezamenlijk. Deze bijdrage wordt jaarlijks geïndexeerd.
 
 ### Hoofdstuk II. Voorwaarden
 
@@ -96,7 +96,7 @@ De mediator komt na aanvraag in aanmerking voor een startbijdrage, indien voldaa
 
 - 2. een afschrift van de door beide procespartijen getekende mediationovereenkomst.
 
-- f. De mediator verplicht zich ertoe geen kosten in rekening te brengen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=I&artikel=3&z=2025-01-01&g=2026-01-01) van de regeling genoemde werkzaamheden.
+- f. De mediator verplicht zich ertoe geen kosten in rekening te brengen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=I&artikel=3&z=2026-02-18&g=2026-02-18) van de regeling genoemde werkzaamheden.
 
 - g. Onverminderd [artikel 4:49 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) kan de Raad de mediator uitsluiten van deelname aan deze regeling indien na vaststelling van de startbijdrage blijkt dat de voorwaarde onder f niet in acht is genomen. Alvorens de mediator uit te sluiten, stelt de Raad de mediator in staat zijn zienswijze kenbaar te maken.
 
@@ -112,7 +112,7 @@ De mediator komt na aanvraag in aanmerking voor een startbijdrage, indien voldaa
 
 4. Indien ten behoeve van een procespartij een toevoeging is verleend en deze op grond van [artikel 34g Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34g) is ingetrokken, kan ten behoeve van de procespartij wiens toevoeging is ingetrokken binnen de in lid 2 genoemde termijn alsnog een verzoek worden ingediend tot vaststelling van de startbijdrage.
 
-5. De Raad kan de aanvraag tot vaststelling weigeren indien niet aan de voorwaarden genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=II&artikel=5&z=2025-01-01&g=2026-01-01) en/of de leden 1, 2 en 4 van artikel 6 wordt voldaan.
+5. De Raad kan de aanvraag tot vaststelling weigeren indien niet aan de voorwaarden genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=II&artikel=5&z=2026-02-18&g=2026-02-18) en/of de leden 1, 2 en 4 van artikel 6 wordt voldaan.
 
 ### Hoofdstuk IV. Toepassings- en slotbepalingen
 
