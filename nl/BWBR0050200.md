@@ -4,7 +4,7 @@ identifier: "BWBR0050200"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-18"
-last_updated: "2024-09-14"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050200"
 soort: "ministeriele-regeling"
@@ -64,21 +64,29 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 3. Doelstelling subsidieregeling
 
-De minister kan aan scholen voor praktijkonderwijs subsidie verstrekken met als doel om deze scholen in staat te stellen om in de schooljaren 2024–2025 en 2025–2026 een tegemoetkoming in de reiskosten te verstrekken aan de bij de school ingeschreven leerlingen die een entreeopleiding volgen.
+De minister kan aan scholen voor praktijkonderwijs subsidie verstrekken met als doel om deze scholen in staat te stellen om in de schooljaren 2024–2025, 2025–2026, 2026–2027 en 2027-2028 een tegemoetkoming in de reiskosten te verstrekken aan de bij de school ingeschreven leerlingen die een entreeopleiding volgen.
 
 ##### Artikel 4. Subsidieplafond
 
+1.
+
 Voor subsidieverstrekking op grond van deze regeling is voor de schooljaren 2024–2025 en 2025–2026 in totaal een bedrag van € 2.000.000,- beschikbaar.
+
+2.
+
+Voor subsidieverstrekking op grond van deze regeling is voor de schooljaren 2026–2027 en 2027–2028 in totaal een bedrag van € 2.000.000,– beschikbaar.
 
 ##### Artikel 5. Wijze van verdeling van beschikbare middelen
 
-De minister verdeelt het beschikbare bedrag over vestigingen naar rato van het aantal leerlingen dat praktijkonderwijs volgt op deze vestigingen op basis van de telling met peildatum 1 oktober 2023.
+1. De minister verdeelt het voor de schooljaren 2024–2025 en 2025–2026 beschikbare bedrag over vestigingen naar rato van het aantal leerlingen dat praktijkonderwijs volgt op deze vestigingen op basis van de definitieve telling van teldatum 1 oktober 2023 die bij DUO is geregistreerd.
+
+2. De minister verdeelt het voor de schooljaren 2026–2027 en 2027–2028 beschikbare bedrag over vestigingen naar rato van het aantal leerlingen dat praktijkonderwijs volgt op deze vestigingen op basis van de definitieve telling van teldatum 1 oktober 2024 die bij DUO is geregistreerd.
 
 ##### Artikel 6. Ambtshalve subsidieverstrekking
 
 1. De minister verstrekt de subsidie ambtshalve.
 
-2. De minister stelt de subsidie direct vast op uiterlijk 1 december 2024.
+2. De minister stelt de subsidie voor de schooljaren 2024–2025 en 2025–2026 direct vast op uiterlijk 1 december 2024 en stelt de subsidie voor schooljaren 2026–2027 en 2027–2028 direct vast op uiterlijk 15 april 2026.
 
 ##### Artikel 7. Besteding subsidie
 
@@ -86,9 +94,13 @@ De subsidie kan worden besteed aan de verstrekking van een tegemoetkoming in de 
 
 ##### Artikel 8. Betaling
 
-1. De subsidie wordt in twee gelijke delen uitbetaald.
+1. De voor de schooljaren 2024–2025 en 2025–2026 bestemde subsidie wordt in twee gelijke delen uitbetaald.
 
-2. De minister bepaalt de betaaldata in de beschikking, met dien verstande dat de eerste uitbetaling plaatsvindt in de tweede helft van 2024, en de tweede uitbetaling plaatsvindt in het tweede kwartaal van 2025.
+1a. De voor de schooljaren 2026–2027 en 2027–2028 bestemde subsidie wordt in twee gelijke delen uitbetaald.
+
+2. De minister bepaalt de betaaldata van de subsidie voor de schooljaren 2024–2025 en 2025–2026 in de beschikking, met dien verstande dat de eerste uitbetaling plaatsvindt in de tweede helft van 2024, en de tweede uitbetaling plaatsvindt in het tweede kwartaal van 2025.
+
+3. De minister bepaalt de betaaldata van de subsidie voor de schooljaren 2026–2027 en 2027–2028 in de beschikking, met dien verstande dat de eerste uitbetaling plaatsvindt in mei 2026, en de tweede uitbetaling plaatsvindt in mei 2027.
 
 ##### Artikel 9. Verantwoording
 
