@@ -4,7 +4,7 @@ identifier: "BWBR0052294"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-18"
-last_updated: "2026-01-01"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052294"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Aan de directeur van het Nationaal Cyber Security Centrum (hierna: NCSC) van het
 
 ##### Artikel 2
 
-De directeur van het NCSC kan machtiging verlenen aan andere functionarissen van het NCSC voor het verrichten van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052294&artikel=1&z=2026-02-18&g=2026-01-01) bedoelde feitelijke handelingen.
+De directeur van het NCSC kan machtiging verlenen aan andere functionarissen van het NCSC voor het verrichten van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052294&artikel=1&z=2026-02-18&g=2026-02-18) bedoelde feitelijke handelingen.
 
 ##### Artikel 3
 
