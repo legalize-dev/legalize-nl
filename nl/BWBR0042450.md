@@ -4,7 +4,7 @@ identifier: "BWBR0042450"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-19"
-last_updated: "2025-10-01"
+last_updated: "2026-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042450"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving van het ministerie van Sociale Zaken en Werkgelegenheid;
+- a. **directie:** de directie Collectieve arbeidsovereenkomsten van het ministerie van Sociale Zaken en Werkgelegenheid;
 
-- b. **directeur:** de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving.
+- b. **directeur:** de directeur Collectieve arbeidsovereenkomsten.
 
 #### § 2. Organisatie en taken
 
@@ -58,7 +58,7 @@ De directie bestaat uit de volgende afdelingen:
 
 - a. de afdeling Cao Onderzoek en Beleidsinformatie;
 
-- b. de afdeling Registratie, Beheer en Informatie;
+- b. team Functioneel beheer;
 
 - c. de afdeling Collectieve Arbeidsvoorwaarden.
 
@@ -72,7 +72,7 @@ Het hoofd van de afdeling Cao Onderzoek en Beleidsinformatie is verantwoordelijk
 
 ##### Artikel 4
 
-Het hoofd van de afdeling Registratie, Beheer en Informatie is verantwoordelijk voor alle processen van de directie, betreffende het functioneel beheer van alle directie specifieke automatisering en de daaruit voortvloeiende managementinformatievoorziening.
+De Teamleider Functioneel Beheer is verantwoordelijk voor alle processen van de directie, betreffende het functioneel beheer van alle directie specifieke automatisering en de daaruit voortvloeiende managementinformatievoorziening.
 
 ##### Artikel 5
 
@@ -106,7 +106,7 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 
 ##### Artikel 7
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042450&paragraaf=2&artikel=2&z=2026-02-19&g=2025-10-01), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042450&paragraaf=2&artikel=2&z=2026-02-19&g=2026-02-19), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
 
 - a. het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatie-eenheid, voor zover het betreft:
 
@@ -124,7 +124,7 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid
 
 ##### Artikel 8
 
-Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen. Dit geldt voor:
+Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen en de teamleider Functioneel Beheer tot een bedrag van € 5.000,– inclusief BTW. Dit geldt voor:
 
 - a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld. Voorafgaand zijn deze activiteiten door de directeur geaccordeerd;
 
