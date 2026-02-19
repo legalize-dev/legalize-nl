@@ -4,7 +4,7 @@ identifier: "BWBR0024956"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-19"
-last_updated: "2025-11-11"
+last_updated: "2026-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024956"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. **bedrijfsvoering:** de sturing en beheersing van bedrijfsprocessen om de gestelde (beleids)doelstellingen te kunnen realiseren;
 
-- h. **Commissie Management Development:** de commissie, bestaande uit de functionarissen, genoemd in [artikel 3, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), waarin managementbenoemingen en de selectie voor managementopleidingen plaatsvindt;
+- h. **Commissie Management Development:** de commissie, bestaande uit de functionarissen, genoemd in [artikel 3, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19), waarin managementbenoemingen en de selectie voor managementopleidingen plaatsvindt;
 
 - i. **CIO:** Chief Information Officer;
 
@@ -102,9 +102,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - 4°. de directie Samenleving en Integratie;
 
-- 5°. het bureau DG-control;
-
-- 6°. de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
+- 5°. de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
 
 - d. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de directeur-generaal Werk:
 
@@ -116,7 +114,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - 4°. de directie Internationale Zaken;
 
-- 5°. de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving;
+- 5°. de directie Collectieve arbeidsovereenkomsten;
 
 - 6°. de projectdirectie Leren en Werken;
 
@@ -168,19 +166,19 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 1. De secretaris-generaal is, gelet op het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499), belast met de ambtelijke leiding van het ministerie.
 
-2. De secretaris-generaal geeft rechtstreeks leiding aan de functionarissen, genoemd in [artikel 3, eerste lid, onderdelen b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), en aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11).
+2. De secretaris-generaal geeft rechtstreeks leiding aan de functionarissen, genoemd in [artikel 3, eerste lid, onderdelen b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19), en aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19).
 
-3. De secretaris-generaal kan een meerjarenplan voor het ministerie vaststellen. De secretaris-generaal stelt voorts de jaarplannen vast van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11). De secretaris-generaal kent aan de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Nederlandse Arbeidsinspectie en de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel a, de budgetten toe waarover de genoemde functionarissen mogen beschikken. De secretaris-generaal bewaakt de voortgang van de uitvoering van het meerjarenplan en van de jaarplannen van de organisatieonderdelen, genoemd in artikel 2, onderdeel a.
+3. De secretaris-generaal kan een meerjarenplan voor het ministerie vaststellen. De secretaris-generaal stelt voorts de jaarplannen vast van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19). De secretaris-generaal kent aan de plaatsvervangend secretaris-generaal, de directeuren-generaal, de inspecteur-generaal Nederlandse Arbeidsinspectie en de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel a, de budgetten toe waarover de genoemde functionarissen mogen beschikken. De secretaris-generaal bewaakt de voortgang van de uitvoering van het meerjarenplan en van de jaarplannen van de organisatieonderdelen, genoemd in artikel 2, onderdeel a.
 
 4. De secretaris-generaal is verantwoordelijk voor:
 
-- a. het bij schriftelijk besluit toedelen van taken aan de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11), en aan de functionarissen die leiding geven aan deze organisatieonderdelen;
+- a. het bij schriftelijk besluit toedelen van taken aan de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19), en aan de functionarissen die leiding geven aan deze organisatieonderdelen;
 
-- b. de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11), met dien verstande dat de secretaris-generaal zorg draagt voor toedeling van deze verantwoordelijkheid aan andere functionarissen voor zover deze ten aanzien van organisatieonderdelen genoemd in artikel 2, onderdeel a, als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=1) optreden;
+- b. de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19), met dien verstande dat de secretaris-generaal zorg draagt voor toedeling van deze verantwoordelijkheid aan andere functionarissen voor zover deze ten aanzien van organisatieonderdelen genoemd in artikel 2, onderdeel a, als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=1) optreden;
 
-- c. de personeelsaangelegenheden voor zover die betrekking hebben op de plaatsvervangend secretaris-generaal en de functionarissen van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11);
+- c. de personeelsaangelegenheden voor zover die betrekking hebben op de plaatsvervangend secretaris-generaal en de functionarissen van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19);
 
-- d. het aangaan van arbeidsovereenkomsten met directeuren, hoofden van afdelingen, subafdelingen en bureaus en van teamleiders aan wie bevoegdheden zijn toegekend met betrekking tot personeelsaangelegenheden, onverminderd het bepaalde in de [artikelen 7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=7&z=2025-11-11&g=2025-11-11), en [9, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=9&z=2025-11-11&g=2025-11-11);
+- d. het aangaan van arbeidsovereenkomsten met directeuren, hoofden van afdelingen, subafdelingen en bureaus en van teamleiders aan wie bevoegdheden zijn toegekend met betrekking tot personeelsaangelegenheden, onverminderd het bepaalde in de [artikelen 7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=7&z=2026-02-19&g=2026-02-19), en [9, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=9&z=2026-02-19&g=2026-02-19);
 
 - e. het toekennen van een representatiekostenvergoeding en het in een tijdelijke arbeidsovereenkomst afwijken van de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren;
 
@@ -188,7 +186,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - g. vervallen;
 
-- h. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de functionarissen, genoemd in [artikel 3, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), en op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11);
+- h. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de functionarissen, genoemd in [artikel 3, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19), en op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19);
 
 - i. vervallen;
 
@@ -208,7 +206,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - a. beslissingen in bezwaar- en beroepsprocedures;
 
-- b. de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=4&z=2025-11-11&g=2025-11-11), genoemde aangelegenheden, met uitzondering van het nemen van een besluit als bedoeld in onderdeel f;
+- b. de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=4&z=2026-02-19&g=2026-02-19), genoemde aangelegenheden, met uitzondering van het nemen van een besluit als bedoeld in onderdeel f;
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden alsmede de definitieve buiteninvorderingstelling van vorderingen op derden voor zover het gaat om vorderingen van ten hoogste € 1.000.000,–;
 
@@ -224,11 +222,11 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 1. De plaatsvervangend secretaris-generaal vervangt de secretaris-generaal bij diens afwezigheid of verhindering. Hij treedt alsdan in de verantwoordelijkheden en bevoegdheden van de secretaris-generaal.
 
-2. De plaatsvervangend secretaris-generaal geeft rechtstreeks leiding aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11).
+2. De plaatsvervangend secretaris-generaal geeft rechtstreeks leiding aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19).
 
-3. De plaatsvervangend secretaris-generaal stelt de jaarplannen vast van de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11). Gegeven het budget dat door de secretaris-generaal aan de plaatsvervangend secretaris-generaal ter beschikking is gesteld, kent de plaatsvervangend secretaris-generaal aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel b, het budget toe waarover zij mogen beschikken. De plaatsvervangend secretaris-generaal bewaakt de voortgang van de uitvoering van de jaarplannen van de organisatieonderdelen, genoemd in artikel 2, onderdeel b.
+3. De plaatsvervangend secretaris-generaal stelt de jaarplannen vast van de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19). Gegeven het budget dat door de secretaris-generaal aan de plaatsvervangend secretaris-generaal ter beschikking is gesteld, kent de plaatsvervangend secretaris-generaal aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in artikel 2, onderdeel b, het budget toe waarover zij mogen beschikken. De plaatsvervangend secretaris-generaal bewaakt de voortgang van de uitvoering van de jaarplannen van de organisatieonderdelen, genoemd in artikel 2, onderdeel b.
 
-4. De plaatsvervangend secretaris-generaal is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11), en hij is tevens verantwoordelijk voor een departementsbrede samenhangende bedrijfsvoering. Het werkterrein van de plaatsvervangend secretaris-generaal omvat in brede zin:
+4. De plaatsvervangend secretaris-generaal is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19), en hij is tevens verantwoordelijk voor een departementsbrede samenhangende bedrijfsvoering. Het werkterrein van de plaatsvervangend secretaris-generaal omvat in brede zin:
 
 - a. het organisatie- en personeelsbeleid;
 
@@ -238,7 +236,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - c. het huisvestings- en beveiligingsbeleid voor wat betreft de Haagse vestigingen van het ministerie, met inbegrip van crisisbeheersing en milieumanagement, en de regie op het huisvestings- en beveiligingsbeleid voor het gehele ministerie;
 
-- d. het automatiserings- en informatiseringsbeleid, waaronder het adviseren hierover, van de directeur-generaal Sociale Zekerheid en Integratie in de rol van opdrachtgever als bedoeld in [artikel 10, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=10&z=2025-11-11&g=2025-11-11), en van de directeur-generaal Werk in de rol van opdrachtgever als bedoeld in [artikel 11, aanhef en onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=11&z=2025-11-11&g=2025-11-11);
+- d. het automatiserings- en informatiseringsbeleid, waaronder het adviseren hierover, van de directeur-generaal Sociale Zekerheid en Integratie in de rol van opdrachtgever als bedoeld in [artikel 10, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=10&z=2026-02-19&g=2026-02-19), en van de directeur-generaal Werk in de rol van opdrachtgever als bedoeld in [artikel 11, aanhef en onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=11&z=2026-02-19&g=2026-02-19);
 
 - e. het inkoopbeleid;
 
@@ -246,7 +244,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - g. het behandelen van geschillen en gerechtelijke procedures van (ex-)medewerkers inzake aangelegenheden verband houdend met de dienstbetrekking;
 
-- h. de inhoudelijke advisering en ondersteuning van de functionarissen, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), en de inhoudelijke, logistieke, secretariële en protocollaire ondersteuning van de secretaris-generaal en de bewindspersonen;
+- h. de inhoudelijke advisering en ondersteuning van de functionarissen, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19), en de inhoudelijke, logistieke, secretariële en protocollaire ondersteuning van de secretaris-generaal en de bewindspersonen;
 
 - i. het fungeren namens het ministerie als opdrachtgever van de Auditdienst Rijk, daarin bijgestaan door de directeur Financieel-economische Zaken en de directeur Bedrijfsvoering;
 
@@ -266,13 +264,13 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - b. de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van de onder hem ressorterende organisatieonderdelen alsmede de hiervoor bedoelde werkgeversverplichtingen voor zover deze centraal georganiseerd zijn;
 
-- c. de personeelsaangelegenheden welke niet ingevolge [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=4&z=2025-11-11&g=2025-11-11), aan de secretaris-generaal zijn voorbehouden, dan wel ingevolge [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=8&z=2025-11-11&g=2025-11-11), tot de taken van een directeur-generaal of de inspecteur-generaal Nederlandse Arbeidsinspectie behoren;
+- c. de personeelsaangelegenheden welke niet ingevolge [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=4&z=2026-02-19&g=2026-02-19), aan de secretaris-generaal zijn voorbehouden, dan wel ingevolge [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=8&z=2026-02-19&g=2026-02-19), tot de taken van een directeur-generaal of de inspecteur-generaal Nederlandse Arbeidsinspectie behoren;
 
 - d. het adviseren van de bewindspersonen ten aanzien van zijn werkterrein als bedoeld in het vierde lid en het attenderen van de bewindspersonen op politiek of maatschappelijk gevoelige aspecten ten aanzien van zijn werkterrein;
 
-- e. het rapporteren aan de secretaris-generaal over de uitvoering van de jaarplannen betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11);
+- e. het rapporteren aan de secretaris-generaal over de uitvoering van de jaarplannen betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19);
 
-- f. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11);
+- f. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19);
 
 - g. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0020583);
 
@@ -282,7 +280,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 ##### Artikel 7. Bevoegdheden plaatsvervangend secretaris-generaal
 
-1. De plaatsvervangend secretaris-generaal is bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met zijn werkterrein als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2025-11-11&g=2025-11-11) en voor zover zij niet zijn voorbehouden aan een bewindspersoon of de secretaris-generaal. Van de volmacht, bedoeld in de eerste volzin, is evenwel uitgezonderd het aangaan van:
+1. De plaatsvervangend secretaris-generaal is bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met zijn werkterrein als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2026-02-19&g=2026-02-19) en voor zover zij niet zijn voorbehouden aan een bewindspersoon of de secretaris-generaal. Van de volmacht, bedoeld in de eerste volzin, is evenwel uitgezonderd het aangaan van:
 
 - a. overeenkomsten met de Landsadvocaat en andere juridische dienstverleners inzake advisering en procureurstelling alsmede het instellen van gerechtelijke procedures, tenzij deze overeenkomsten betrekking hebben op gerechtelijke procedures van (ex-)medewerkers inzake aangelegenheden verband houdend met de dienstbetrekking of op de invordering van geldvorderingen van de Staat;
 
@@ -290,21 +288,21 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 2. De bevoegdheden van de plaatsvervangend secretaris-generaal, bedoeld in het eerste lid, omvatten in elk geval mandaat, volmacht en machtiging ten aanzien van de volgende aangelegenheden:
 
-- a. beslissingen in bezwaar- en beroepsprocedures voor zover deze betrekking hebben op zijn verantwoordelijkheden of werkterrein als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2025-11-11&g=2025-11-11);
+- a. beslissingen in bezwaar- en beroepsprocedures voor zover deze betrekking hebben op zijn verantwoordelijkheden of werkterrein als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2026-02-19&g=2026-02-19);
 
-- b. de in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2025-11-11&g=2025-11-11), genoemde aangelegenheden;
+- b. de in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2026-02-19&g=2026-02-19), genoemde aangelegenheden;
 
 - c. het aangaan van arbeidsovereenkomsten met onder hem ressorterende hoofden van afdelingen, subafdelingen en bureaus en van teamleiders aan wie bevoegdheden zijn toegekend met betrekking tot personeelsaangelegenheden, voor zover het gaat om functies met het maximum van salarisschaal 13 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, mits hij van zijn voornemen daartoe vooraf melding heeft gemaakt in de Commissie Management Development;
 
-- d. het instellen van tijdelijke projectorganisaties binnen zijn werkterrein als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2025-11-11&g=2025-11-11);
+- d. het instellen van tijdelijke projectorganisaties binnen zijn werkterrein als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2026-02-19&g=2026-02-19);
 
-- e. de formatie van de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11), een en ander met inachtneming van de daarvoor beschikbaar gestelde budgetten en desbetreffende aanwijzingen van de secretaris-generaal;
+- e. de formatie van de organisatieonderdelen, genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19), een en ander met inachtneming van de daarvoor beschikbaar gestelde budgetten en desbetreffende aanwijzingen van de secretaris-generaal;
 
 - f. het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op de eigen verantwoordelijkheden of het eigen werkterrein.
 
 ##### Artikel 8. Verantwoordelijkheden (programma-)directeuren-generaal en inspecteur-generaal Nederlandse Arbeidsinspectie
 
-1. Elke (programma-)directeur-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie geven rechtstreeks leiding aan de hoofden van de organisatieonderdelen welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11) rechtstreeks onder elk van hen ressorteren.
+1. Elke (programma-)directeur-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie geven rechtstreeks leiding aan de hoofden van de organisatieonderdelen welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19) rechtstreeks onder elk van hen ressorteren.
 
 2. Elke (programma-)directeur-generaal stelt de jaarplannen vast van de onder elk van hen ressorterende organisatieonderdelen. De inspecteur-generaal Nederlandse Arbeidsinspectie stelt een jaarplan voor de gehele Nederlandse Arbeidsinspectie vast. Gegeven het budget dat door de secretaris-generaal aan de betreffende (programma-)directeur-generaal respectievelijk de inspecteur-generaal Nederlandse Arbeidsinspectie ter beschikking is gesteld, kennen de (programma-)directeuren-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie aan de functionarissen die leiding geven aan de onder hen ressorterende organisatieonderdelen, de budgetten toe waarover zij mogen beschikken. De (programma-)directeuren-generaal bewaken de voortgang van de uitvoering van jaarplannen van de onder hen ressorterende organisatieonderdelen. De inspecteur-generaal Nederlandse Arbeidsinspectie bewaakt de voortgang van de uitvoering van het jaarplan van de gehele Nederlandse Arbeidsinspectie.
 
@@ -312,7 +310,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - a. het bij schriftelijk besluit toedelen van taken aan de onder hen ressorterende organisatieonderdelen en aan de functionarissen die leiding geven aan deze organisatieonderdelen;
 
-- b. de personeelsaangelegenheden van de functionarissen die onder hen ressorteren, voor zover dit niet ingevolge [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=4&z=2025-11-11&g=2025-11-11), aan de secretaris-generaal is opgedragen;
+- b. de personeelsaangelegenheden van de functionarissen die onder hen ressorteren, voor zover dit niet ingevolge [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=4&z=2026-02-19&g=2026-02-19), aan de secretaris-generaal is opgedragen;
 
 - c. de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van de onder hen ressorterende organisatieonderdelen, met uitzondering van de bij de plaatsvervangend secretaris-generaal belegde centraal georganiseerde werkgeversverplichtingen;
 
@@ -362,7 +360,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - a. beslissingen in bezwaar- en beroepsprocedures voor zover deze betrekking hebben op hun eigen verantwoordelijkheden of werkterrein;
 
-- b. de aangelegenheden, genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=8&z=2025-11-11&g=2025-11-11);
+- b. de aangelegenheden, genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=8&z=2026-02-19&g=2026-02-19);
 
 - c. het aangaan van arbeidsovereenkomsten met de onder hen ressorterende hoofden van afdelingen, subafdelingen en bureaus en van teamleiders aan wie bevoegdheden zijn toegekend met betrekking tot personeelsaangelegenheden, voor zover het gaat om functies met het maximum van salarisschaal 13 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, mits zij van hun voornemen daartoe vooraf melding hebben gemaakt in de Commissie Management Development;
 
@@ -374,11 +372,11 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - g. het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden of werkterrein.
 
-4. De uitzonderingen, genoemd in het eerste lid, onderdelen c, d, f, h en i, gelden niet voor de in het eerste lid genoemde bevoegdheden die de directeur-generaal Sociale Zekerheid en Integratie heeft in verband met zijn werkterrein beschreven in [artikel 10, aanhef en onderdelen s en t](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=10&z=2025-11-11&g=2025-11-11).
+4. De uitzonderingen, genoemd in het eerste lid, onderdelen c, d, f, h en i, gelden niet voor de in het eerste lid genoemde bevoegdheden die de directeur-generaal Sociale Zekerheid en Integratie heeft in verband met zijn werkterrein beschreven in [artikel 10, aanhef en onderdelen s en t](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=10&z=2026-02-19&g=2026-02-19).
 
 ##### Artikel 10. Werkterrein directeur-generaal Sociale Zekerheid en Integratie
 
-De directeur-generaal Sociale Zekerheid en Integratie is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11). Het werkterrein van de directeur-generaal Sociale Zekerheid en Integratie omvat in brede zin:
+De directeur-generaal Sociale Zekerheid en Integratie is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19). Het werkterrein van de directeur-generaal Sociale Zekerheid en Integratie omvat in brede zin:
 
 - a. het zorgdragen voor een effectief re-integratiebeleid, onder meer door een samenhangend pakket re-integratie-instrumenten en een effectieve en efficiënte inzet daarvan door de uitvoering door onder andere een regionale aanpak van het arbeidsmarktbeleid;
 
@@ -430,7 +428,7 @@ De directeur-generaal Sociale Zekerheid en Integratie is belast met de beleids- 
 
 ##### Artikel 11. Werkterrein directeur-generaal Werk
 
-De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11). Het werkterrein van de directeur-generaal Werk omvat in brede zin:
+De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19). Het werkterrein van de directeur-generaal Werk omvat in brede zin:
 
 - a. de algemeen-economische beleidsontwikkeling en het inkomensbeleid;
 
@@ -456,7 +454,7 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 ##### Artikel 12. Werkterrein inspecteur-generaal Nederlandse Arbeidsinspectie
 
-1. De inspecteur-generaal Nederlandse Arbeidsinspectie is belast met de beleids- en bedrijfsvoering betreffende de Nederlandse Arbeidsinspectie, die bestaat uit de organisatieonderdelen, genoemd in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11). Het werkterrein van de inspecteur-generaal Nederlandse Arbeidsinspectie omvat in brede zin:
+1. De inspecteur-generaal Nederlandse Arbeidsinspectie is belast met de beleids- en bedrijfsvoering betreffende de Nederlandse Arbeidsinspectie, die bestaat uit de organisatieonderdelen, genoemd in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19). Het werkterrein van de inspecteur-generaal Nederlandse Arbeidsinspectie omvat in brede zin:
 
 - a. het houden van toezicht op de naleving van wet- en regelgeving op de beleidsterreinen, waarvoor de bewindspersoon verantwoordelijkheid draagt, en het in verband daarmee opsporen van strafbare feiten, alsmede het aan de bewindspersoon opgedragen toezicht op de werking van de stelsels van persoonsregistratie, certificering en keuringen en het aan de bewindspersoon opgedragen toezicht op de toezichtswerkzaamheden van door de bewindspersoon op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid aangewezen certificatie- en keuringsinstellingen die zijn belast met het verstrekken van certificaten, dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid alsook het op hun verzoek aanwijzen van instellingen als certificatie- of keuringsinstelling, als in dit onderdeel genoemd;
 
@@ -522,7 +520,7 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 - b. Overeenkomstig het door de Staatsecretaris van Sociale Zaken en Werkgelegenheid genomen besluit, handtekening van de betrokken vertegenwoordigingsbevoegde, naam van de betrokken vertegenwoordigingsbevoegde, functie betrokken vertegenwoordigingsbevoegde.
 
-5. In afwijking van het derde lid blijft de handtekening van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving achterwege voor categorieën van beschikkingen die schriftelijk zijn aangewezen door de directeur-generaal Werk.
+5. In afwijking van het derde lid blijft de handtekening van de directeur Collectieve arbeidsovereenkomsten achterwege voor categorieën van beschikkingen die schriftelijk zijn aangewezen door de directeur-generaal Werk.
 
 ##### Artikel 16. Bevoegdheden voorbehouden aan bewindspersonen
 
@@ -556,7 +554,7 @@ worden vastgesteld en ondertekend door een bewindspersoon.
 
 ##### Artikel 17. Commissies en adviescolleges
 
-1. Een voorstel tot het nemen van een besluit als bedoeld [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=16&z=2025-11-11&g=2025-11-11), wordt na schriftelijke instemming van de secretaris-generaal aan een bewindspersoon voorgelegd.
+1. Een voorstel tot het nemen van een besluit als bedoeld [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=16&z=2026-02-19&g=2026-02-19), wordt na schriftelijke instemming van de secretaris-generaal aan een bewindspersoon voorgelegd.
 
 2. Besluiten tot de toekenning van vergoedingen en beloningen aan een externe of interdepartementale commissie, een adviescollege in de zin van de Kaderwet adviescolleges, dan wel aan externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen na schriftelijke instemming van de secretaris-generaal.
 
@@ -588,7 +586,7 @@ Vervallen
 
 4. Vervallen.
 
-5. Een opdracht voor de externe inhuur van interim-management, organisatie- en formatieadviezen, communicatieadvies of beleidsadvies wordt slechts verleend na voorafgaande instemming van een van de functionarissen, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11).
+5. Een opdracht voor de externe inhuur van interim-management, organisatie- en formatieadviezen, communicatieadvies of beleidsadvies wordt slechts verleend na voorafgaande instemming van een van de functionarissen, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19).
 
 6. Het vijfde lid is niet van toepassing op de RCN-unit SZW, gevestigd te Bonaire, Sint Eustatius en Saba.
 
@@ -596,7 +594,7 @@ Vervallen
 
 1. De secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang mandateren of doorverlenen aan onder hen ressorterende functionarissen. Zij kunnen daarbij bepalen dat deze ondermandaat kunnen verlenen respectievelijk volmacht en machtiging kunnen doorverlenen aan rechtstreeks onder hen ressorterende functionarissen.
 
-2. Bevoegdheden ten aanzien van de volgende aangelegenheden kunnen niet worden doorverleend aan andere dan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), genoemde functionarissen:
+2. Bevoegdheden ten aanzien van de volgende aangelegenheden kunnen niet worden doorverleend aan andere dan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19), genoemde functionarissen:
 
 - a. het aangaan van overeenkomsten met een waarde van € 500.000,– of meer, tenzij het betreft overeenkomsten met het Centraal bureau voor de statistiek in welk geval het mag gaan om overeenkomsten met een waarde van ten hoogste € 1.000.000,–;
 
@@ -622,7 +620,7 @@ Vervallen
 
 1. De vertegenwoordigingsbevoegde brengt de door hem vastgestelde organisatie- mandaat- en volmachtbesluiten onmiddellijk en in elk geval voor de bekendmaking ter kennis aan de mandaat- respectievelijk volmachtgever en – indien deze niet tevens de directe leidinggevende is – aan de directe leidinggevende, alsmede aan de secretaris-generaal.
 
-2. Binnen het ministerie wordt een mandaat-, volmacht- en machtigingsregister SZW bijgehouden. De vertegenwoordigingsbevoegde draagt zorg voor een juiste, volledige en tijdige aanlevering van de door hem vastgestelde besluiten tot doorverlening van mandaten, volmachten en machtigingen, alsmede van aanwijzingen van plaatsvervangers als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=18&z=2025-11-11&g=2025-11-11), aan de beheerder van het mandaat-, volmacht- en machtigingsregister SZW.
+2. Binnen het ministerie wordt een mandaat-, volmacht- en machtigingsregister SZW bijgehouden. De vertegenwoordigingsbevoegde draagt zorg voor een juiste, volledige en tijdige aanlevering van de door hem vastgestelde besluiten tot doorverlening van mandaten, volmachten en machtigingen, alsmede van aanwijzingen van plaatsvervangers als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=18&z=2026-02-19&g=2026-02-19), aan de beheerder van het mandaat-, volmacht- en machtigingsregister SZW.
 
 ##### Artikel 25. Aanwijzingen
 
@@ -634,7 +632,7 @@ Vervallen
 
 4. De vertegenwoordigingsbevoegde is gehouden met inachtneming van de door zijn leidinggevende(n) te geven algemene en bijzondere aanwijzingen aan zijn leidinggevende(n) te rapporteren over de wijze waarop hij zijn taken heeft uitgeoefend en van zijn vertegenwoordigingsbevoegdheden gebruik heeft gemaakt. De leidinggevende(n) kan/kunnen algemene en bijzondere aanwijzingen geven omtrent de vorm, inhoud, tijdstippen en perioden van de rapportage.
 
-5. Alle in deze regeling genoemde bedragen zijn inclusief BTW, met uitzondering van het bedrag, genoemd in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=22&z=2025-11-11&g=2025-11-11).
+5. Alle in deze regeling genoemde bedragen zijn inclusief BTW, met uitzondering van het bedrag, genoemd in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=22&z=2026-02-19&g=2026-02-19).
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -654,9 +652,9 @@ Wijzigt het Mandaat projectdirectie Leren en Werken.
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199) en de [Regeling taken en bevoegdheden bezwaar- en beroepszaken werktijdverkorting](https://wetten.overheid.nl/jci1.3:c:BWBR0016492) worden ingetrokken.
 
-2. Na inwerkingtreding van dit besluit berust het [Mandaat projectdirectie Leren en Werken](https://wetten.overheid.nl/jci1.3:c:BWBR0018705) op [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=23&z=2025-11-11&g=2025-11-11), van dit besluit.
+2. Na inwerkingtreding van dit besluit berust het [Mandaat projectdirectie Leren en Werken](https://wetten.overheid.nl/jci1.3:c:BWBR0018705) op [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=23&z=2026-02-19&g=2026-02-19), van dit besluit.
 
-3. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens [artikel 22, eerste en derde lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=22) op [artikel 23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=23&z=2025-11-11&g=2025-11-11), van deze regeling:
+3. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens [artikel 22, eerste en derde lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=22) op [artikel 23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=23&z=2026-02-19&g=2026-02-19), van deze regeling:
 
 - a. de [Mandaatregeling Farbo](onbekend);
 
@@ -676,7 +674,7 @@ Wijzigt het Mandaat projectdirectie Leren en Werken.
 
 ##### Artikel 30. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2009, met dien verstande dat [artikel 26, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=5&artikel=26&z=2025-11-11&g=2025-11-11) terugwerkt tot en met 1 juli 2007.
+Deze regeling treedt in werking met ingang van 1 januari 2009, met dien verstande dat [artikel 26, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=5&artikel=26&z=2026-02-19&g=2026-02-19) terugwerkt tot en met 1 juli 2007.
 
 ##### Artikel 31. Citeertitel
 
@@ -686,7 +684,7 @@ Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant word
 
 ##### Artikel 13a. Werkterrein programma-directeur-generaal Werk aan Uitvoering
 
-De programma-directeur-generaal Werk aan Uitvoering is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2025-11-11&g=2025-11-11). Het werkterrein van de programma-directeur-generaal Werk aan Uitvoering omvat in brede zin:
+De programma-directeur-generaal Werk aan Uitvoering is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-02-19&g=2026-02-19). Het werkterrein van de programma-directeur-generaal Werk aan Uitvoering omvat in brede zin:
 
 - a. het vormgeven en ondersteunen van de door de Ambtelijke Commissie Uitvoering (ACU) benoemde programmatische en projectmatige activiteiten;
 
