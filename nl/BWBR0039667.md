@@ -4,7 +4,7 @@ identifier: "BWBR0039667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-19"
-last_updated: "2024-01-01"
+last_updated: "2026-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039667"
 soort: "ministeriele-regeling"
@@ -48,7 +48,11 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Vervallen
+Als indicatieve referentiewaarden, bedoeld in [artikel 14, zestiende lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14), worden vastgesteld:
+
+- a. het netto besteedbare inkomen van voltijds werkende minimumloonverdieners bedraagt gemiddeld 128% van de noodzakelijke kosten voor levensonderhoud;
+
+- b. het bruto wettelijk minimumloon bedraagt 50% van het mediane loon.
 
 ##### Artikel 3
 
