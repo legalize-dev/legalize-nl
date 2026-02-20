@@ -4,7 +4,7 @@ identifier: "BWBR0045946"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-20"
-last_updated: "2025-02-12"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045946"
 soort: "wet"
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 2
 
-Het adviescollege heeft tot taak de regering te adviseren over het beloningsniveau, de onderlinge beloningsverhoudingen en overige geldelijke aanspraken van:
+1. Het adviescollege heeft tot taak de regering te adviseren over het beloningsniveau, de onderlinge beloningsverhoudingen en overige geldelijke aanspraken van:
 
 - –. de leden van de Eerste en Tweede Kamer der Staten-Generaal;
 
@@ -87,15 +87,23 @@ Het adviescollege heeft tot taak de regering te adviseren over het beloningsnive
 
 - –. de Rijksvertegenwoordiger BES.
 
+2. In aanvulling op het eerste lid heeft het adviescollege tot taak:
+
+- a. een bewindspersoon of gewezen bewindspersoon te adviseren over de aanvaardbaarheid van het aangaan van een dienstverband als bedoeld in [artikel 2 van de Wet regels vervolgfuncties bewindspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=2);
+
+- b. Onze Minister-President te adviseren over een ontheffing als bedoeld in de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=3), en [4, vierde lid, van de Wet regels vervolgfuncties bewindspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=4), en
+
+- c. de adviezen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=3), en [4, vierde lid, van de Wet regels vervolgfuncties bewindspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=4), alsmede de naam van een gewezen bewindspersoon en een aanvaard dienstverband, bedoeld in artikel 2, tiende lid, van die wet, openbaar te maken.
+
 ##### Artikel 3
 
 1. De leden van het adviescollege hebben zitting zonder last.
 
 2. De leden van het adviescollege vervullen geen functies waarvan de uitoefening onverenigbaar is met de onafhankelijke taakvervulling van het adviescollege.
 
-3. Een lid van het adviescollege bekleedt geen functie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=2&z=2025-02-12&g=2025-02-12), en heeft gedurende de twee jaar voorafgaand aan diens benoeming niet een in artikel 2, met uitzondering van de functies van lid van de Raad van State, lid van de Algemene Rekenkamer, Nationale ombudsman of substituut-ombudsman of Rijksvertegenwoordiger BES, genoemde functie bekleed.
+3. Een lid van het adviescollege bekleedt geen functie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=2&z=2026-02-20&g=2026-02-20), en heeft gedurende de twee jaar voorafgaand aan diens benoeming niet een in artikel 2, met uitzondering van de functies van lid van de Raad van State, lid van de Algemene Rekenkamer, Nationale ombudsman of substituut-ombudsman of Rijksvertegenwoordiger BES, genoemde functie bekleed.
 
-4. Een lid van het adviescollege bekleedt geen functie als topfunctionaris als bedoeld in [artikel 1.1, onderdeel b, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1).
+4. Een lid van het adviescollege bekleedt geen functie als topfunctionaris als bedoeld in [artikel 1.1, onderdeel b, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1), tenzij dit een functie als lid van een hoogste toezichthoudend orgaan van een rechtspersoon of instelling betreft.
 
 5. Alvorens hun lidmaatschap te aanvaarden, leggen de te benoemen voorzitter en leden een verklaring af dat zij tot het verkrijgen van hun benoeming rechtstreeks noch middellijk, onder welke naam of onder welk voorwendsel ook, aan iemand iets hebben gegeven of beloofd, alsmede dat zij om iets in hun ambt te doen of te laten rechtstreeks noch middellijk van iemand enig geschenk of enige belofte hebben aangenomen of zullen aannemen.
 
