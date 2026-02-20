@@ -4,7 +4,7 @@ identifier: "BWBR0046244"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-20"
-last_updated: "2022-01-29"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046244"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aansluitende vaarwegen:** vaarwegen die aansluiten op de goederenvervoercorridors of die als alternatief voor de vaarwegen op de goederenvervoercorridors kunnen worden ingezet zoals de vaarwegverbindingen richting de Rotterdamse haven, Lek, Nederrijn, Pannerdensch kanaal en de Gelderse IJssel tot en met Zutphen;
+- **aansluitende vaarwegen:** vaarwegen die aansluiten op de goederenvervoercorridors of die als alternatief voor de vaarwegen op de goederenvervoercorridors kunnen worden ingezet zoals de vaarwegverbindingen richting de Rotterdamse haven, Noord-Hollandskanaal tot en met Alkmaar, Zaan, Gouwe, Hollandsche IJssel, Nederrijn, Pannerdensch kanaal en de Gelderse IJssel tot en met Zutphen;
 
-- **goederenvervoercorridors:** corridor Oost (corridor Rotterdam – Arnhem/Nijmegen – Duitsland (A15, Betuweroute, Waal) en corridor Zuidoost (corridor Rotterdam – Noord-Brabant/Limburg – Duitsland (A16/A58/A67, Brabantroute, Maas en Brabantse kanalen, buisleidingen);
+- **goederenvervoercorridors:** corridor Oost (corridor Rotterdam – Arnhem/Nijmegen – Duitsland, corridor Zuidoost (corridor Rotterdam – Noord-Brabant/Limburg – Duitsland en corridor Zuid (corridor Amsterdam – Rotterdam – Moerdijk – Vlissingen – Terneuzen – Gent);
 
 - **haveninitiatief:** een (gedeeltelijke) herstructurering of vernieuwing van openbare havenvoorzieningen**in een**binnenhaven of zeehaven ter bevordering van de modal shift van goederen van de weg naar de binnenvaart;
 
@@ -56,11 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - **ontvanger:** een provincie waar de goederenvervoercorridors in gelegen zijn;
 
-- **openbare havenvoorzieningen:** openbare kades en havenbekkens;
+- **openbare havenvoorzieningen:** openbare depotruimtes, havenbekkens en kades;
 
-- **provincies:** de provincies Limburg, Noord-Brabant, Zuid-Holland en Gelderland;
+- **provincies:** Gelderland, Limburg, Noord-Brabant, Noord-Holland, Zeeland en Zuid-Holland;
 
-- **vaarwegen op de goederenvervoercorridors:** de vaarwegen (Waal, Maas en Brabantse kanalen) zoals opgenomen in het eindrapport MIRT-onderzoek goederenvervoercorridors Oost en Zuidoost;
+- **vaarwegen op de goederenvervoercorridors:** de vaarwegen Waal, Maas, Brabantse kanalen, Noordzeekanaal, IJ, Amsterdam-Rijnkanaal, Lekkanaal, Lek, Oude Maas, Nieuwe Maas, Dordtse Kil, Hollandsch Diep, Volkerak, Schelde-Rijnverbinding, Midden-Zeelandroute, Westerschelde en Kanaal van Gent naar Terneuzen.
 
 ##### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
 
@@ -72,13 +72,15 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 ##### Artikel 4. Voor uitkering in aanmerking komende kosten en de hoogte van de uitkering
 
-1. Voor een specifieke uitkering komen de kosten voor de verwerving, aanleg of verbetering van openbare infrastructuur of openbare havenvoorzieningen gelegen in binnenhavens of zeehavens zoals de kosten van verdieping van openbare havenbekkens of de kosten voor de aanleg of verbetering van openbare kademuren in aanmerking.
+1. Voor een specifieke uitkering komen de kosten voor de verwerving, aanleg of verbetering van openbare infrastructuur of openbare havenvoorzieningen gelegen in binnenhavens of zeehavens zoals de verwerving en aanlegkosten voor additionele openbare depotruimte voor de opslag van containers, de kosten van verdieping van openbare havenbekkens of de kosten voor de aanleg of verbetering van openbare kademuren in aanmerking.
 
-2. Een specifieke uitkering bedraagt ten hoogste 50% van het totaal van de in aanmerking komende kosten als bedoeld in het eerste lid, verminderd met de directe baten uit grondverwerving voor de kade en de direct aangrenzende grondstrook met een maximum van € 1.000.000,–, inclusief omzetbelasting.
+2. Een specifieke uitkering bedraagt ten hoogste 50% van het totaal van de in aanmerking komende kosten als bedoeld in het eerste lid, verminderd met de directe baten uit grondverwerving voor de kade en de direct aangrenzende grondstrook, met een maximum van € 2.000.000,–, inclusief omzetbelasting.
+
+3. Lopende projecten die in het kader van deze regeling reeds eerder een specifieke uitkering hebben ontvangen, kunnen een aanvullende aanvraag indienen mits in die aanvraag aannemelijk wordt gemaakt dat de kosten voor de aanleg van het lopende project door externe invloeden aanmerkelijk hoger zijn uitgevallen ten opzichte van de in de eerdere aanvraag opgenomen aanlegkosten.
 
 ##### Artikel 5. Uitkeringsplafond en wijze van verdeling
 
-1. Het uitkeringsplafond bedraagt in totaal € 10.000.000,–.
+1. Het uitkeringsplafond bedraagt in totaal € 11.640.000,–.
 
 2. De Minister verdeelt het bedrag op volgorde van rangschikking van de aanvragen
 
@@ -96,7 +98,7 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 ##### Artikel 6. Aanvraag
 
-1. Het college van gedeputeerde staten van een provincie kan een specifieke uitkering aanvragen voor een publiek-privaat haveninitiatief gelegen aan een van de vaarwegen op een van de goederenvervoercorridors en daarop aansluitende vaarwegen ten behoeve van de realisatie van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=3&z=2022-01-29&g=2022-01-29) omschreven doel.
+1. Het college van gedeputeerde staten van een provincie kan een specifieke uitkering aanvragen voor een publiek-privaat haveninitiatief gelegen aan een van de vaarwegen op een van de goederenvervoercorridors en daarop aansluitende vaarwegen ten behoeve van de realisatie van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=3&z=2026-02-20&g=2026-02-20) omschreven doel.
 
 2. Aanvragen kunnen jaarlijks tot 1 mei worden gedaan.
 
@@ -112,7 +114,7 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 5. De aanvraag bevat een CO2-reductieberekening conform IenW-format.
 
-6. In de aanvraag dient aan de hand van de investeringsbegroting te worden aangetoond dat de private investeringsomvang in het haveninitiatief in de periode van de eerste 5 jaar minimaal € 1.000.000,– exclusief BTW zal bedragen.
+6. In de aanvraag dient aan de hand van de investeringsbegroting te worden aangetoond dat de private investeringsomvang in het haveninitiatief in de periode van de eerste 5 jaar minimaal € 2.000.000,– exclusief BTW zal bedragen.
 
 7. Voor de in het vierde en vijfde lid bedoelde documenten wordt de meest recente versie gebruikt.
 
@@ -122,11 +124,11 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 De Minister beslist afwijzend op een aanvraag om een uitkering, indien:
 
-- a. de beoordelingsscore, als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2022-01-29&g=2022-01-29), minder bedraagt dan 20 punten;
+- a. de beoordelingsscore, als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2026-02-20&g=2026-02-20), minder bedraagt dan 20 punten;
 
-- b. er geen sprake is van cofinanciering door de provincie;
+- b. er geen sprake is van cofinanciering door de decentrale overheid;
 
-- c. de private investeringsomvang bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=6&z=2022-01-29&g=2022-01-29), niet is aangetoond.
+- c. de private investeringsomvang bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=6&z=2026-02-20&g=2026-02-20), niet is aangetoond.
 
 ##### Artikel 8. Verlening
 
@@ -154,11 +156,11 @@ De ontvanger legt verantwoording af over de besteding van de uitkering op de wij
 
 ##### Artikel 12. Vaststelling
 
-De Minister stelt de uitkering vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=13&z=2022-01-29&g=2022-01-29), heeft plaatsgevonden.
+De Minister stelt de uitkering vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=13&z=2026-02-20&g=2026-02-20), heeft plaatsgevonden.
 
 ##### Artikel 13. Evaluatieverslag
 
-De Minister publiceert voor 1 juli 2026 een verslag over de doeltreffendheid en de effecten van de uitkeringen in de praktijk.
+De Minister publiceert voor 1 juli 2031 een verslag over de doeltreffendheid en de effecten van de uitkeringen in de praktijk.
 
 ##### Artikel 14. Inwerkingtreding en horizonbepaling
 
@@ -166,17 +168,17 @@ De Minister publiceert voor 1 juli 2026 een verslag over de doeltreffendheid en 
 
 2. Indien de Staatscourant waarin deze regeling wordt gepubliceerd, wordt uitgegeven na 1 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2022.
 
-3. Deze regeling vervalt op 31 december 2026, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
+3. Deze regeling vervalt op 31 december 2030, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
 ##### Artikel 15. Citeertitel
 
-Deze regeling wordt aangehaald als: Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost en Zuidoost 2022–2026.
+Deze regeling wordt aangehaald als: Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost, Zuidoost en Zuid 2022–2030.
 
-## Bijlage. Toetsingscriteria, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2022-01-29&g=2022-01-29)
+## Bijlage. Toetsingscriteria, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=5&z=2026-02-20&g=2026-02-20)
 
 ### a. Relevantie
 
-Met dit criterium wordt bepaald aan welke opgave op de goederenvervoercorridors Oost en Zuidoost als geheel wordt bijgedragen en op welke wijze. Aandachtspunten zijn:
+Met dit criterium wordt bepaald aan welke opgave op de goederenvervoercorridors Oost, Zuidoost en Zuid als geheel wordt bijgedragen en op welke wijze. Aandachtspunten zijn:
 
 ### b. Impact
 
