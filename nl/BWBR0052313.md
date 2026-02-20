@@ -4,7 +4,7 @@ identifier: "BWBR0052313"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-20"
-last_updated: "2025-12-22"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052313"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Ten behoeve van het voorkomen van blauwtong of het bestrijden van het blauwtongv
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0052313&artikel=1&z=2026-02-20&g=2025-12-22), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0052313&artikel=1&z=2026-02-20&g=2026-02-20), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -62,7 +62,7 @@ Dit besluit wordt aangehaald als: Vrijstelling K-Othrine ter bestrijding van knu
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt bekendgemaakt, werkt terug tot en met 22 december 2025 en vervalt met ingang van 20 juni 2026.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052313&artikel=2&z=2026-02-20&g=2025-12-22)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052313&artikel=2&z=2026-02-20&g=2026-02-20)
 
 De biocide K-Othrine SC7.5 kan in Nederland gebruikt worden voor het vector-vrij maken van stallen en transportmiddelen ter bestrijding van Culicoides (knutten), ter voorbereiding van het internationaal vervoeren van herkauwers, onder de volgende voorwaarden:
 
