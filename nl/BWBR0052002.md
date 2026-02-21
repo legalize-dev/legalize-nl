@@ -4,7 +4,7 @@ identifier: "BWBR0052002"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2026-02-19"
+last_updated: "2026-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052002"
 soort: "ministeriele-regeling"
@@ -60,6 +60,10 @@ Besluiten:
 | [Titel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.7): Eurostarsprojecten | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | 01-01-2026 t/m 20-01-2026 | € 12.250.000 |
 | [Titel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.8): Internationaal innoveren | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | ITEA4 Innovatieprojecten | Marktgerichte software innovatie | 01-04-2026 t/m 17-04-2026 | € 10.000.000 |
 |   | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | XECS Innovatieprojecten | Marktgerichte innovatie voor micro- en nano elektronica | 01-04-2026 t/m 17-04-2026 | € 10.000.000 |
+|   | [3.8.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | TechBridge-innovatieprojecten, onderdeel a, Optical Systems and Integrated Photonics als bedoeld in de TechBridge-innovatiecall Photonics Integrated Circuits, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   | 02-03-2026 t/m 02-06-2026 | € 1.900.000 |
+|   |   | TechBridge-innovatieprojecten, onderdeel b, Quantum Technologies als bedoeld in de TechBridge-innovatiecall Duitsland, Quantum Technologies in Aerospace, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   | 02-03-2026 t/m 23-06-2026 | € 2.000.000 |
+|   |   | Techbridge-innovatieprojecten, onderdeel c, Process Technology, including Process Intensification als bedoeld in de TechBridge-innovatiecall China, Circular Chemistry and Materials, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   | 31-03-2026 t/m 30-06-2026 | € 700.000 |
+|   |   | Techbridge-innovatieprojecten, onderdeel h, Energy Materials als bedoeld in de TechBridge-innovatiecall China, Next-Generation Battery Technologies, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   | 31-03-2026 t/m 30-06-2026 | € 500.000 |
 | [Titel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.9): Innovatiekredieten | [3.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.2) | Innovatiekredieten | Klinische ontwikkelingsprojecten en technische projecten | 01-01-2026 t/m 31-12-2026 | € 50.000.000, waarvan minimaal € 10.000.000 voor klinische ontwikkelprojecten en minimaal € 10.000.000 voor technische ontwikkelprojecten |
 | [Titel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.10): Seed capital technostarters | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen |   | 01-01-2026 t/m 31-03-2026 | € 18.000.000 |
 |   | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen | Dual-use tender | 01-01-2026 t/m 31-03-2026 | € 24.000.000 |
@@ -70,6 +74,8 @@ Besluiten:
 | [Titel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.16): Vroegefasefinanciering en haalbaarheidsstudie | [3.16.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.1c) | Regionale Financier |   | 01-01-2026 t/m 31-12-2026 | € 2.500.000 |
 |   | [3.16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.2) en [3.16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.7) | MKB-ondernemer en innovatieve starter |   | 01-01-2026 t/m 31-12-2026 | € 2.250.000 |
 |   | [3.16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.12) | Academische innovatieve starter, hbo-innovatieve starter en TO2- innovatieve starter |   | 06-01-2026 t/m 26-02-2026 | € 4.950.000 |
+| [Titel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.19): Duurzame innovatieve scheepsbouw | [3.19.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.19.2) |   |   | 12-03-2026 t/m 18-06-2026 | € 2.360.000 |
+|   | [3.19.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.19.2) |   |   | 30-06-2026 t/m 22-09-2026 | € 2.360.000 |
 | [Titel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.22): Thematische Technology Transfer | [3.22.2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2b) |   | Thematisch technology transferplan gericht op defensie | 16-12-2025 t/m 15-04-2026 | € 13.800.000 |
 | [Titel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.23): Venture Challenge | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   | 01-01-2026 t/m 03-02-2026 | € 100.000 |
 |   | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   | 05-05-2026 t/m 02-07-2026 | € 100.000 |
