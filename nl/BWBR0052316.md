@@ -4,7 +4,7 @@ identifier: "BWBR0052316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-21"
-last_updated: "2025-04-01"
+last_updated: "2026-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052316"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **expertgroep:** Wetenschappelijke Expertgroep Masterplan Basisvaardigheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052316&artikel=2&z=2026-02-21&g=2025-04-01).
+- b. **expertgroep:** Wetenschappelijke Expertgroep Masterplan Basisvaardigheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052316&artikel=2&z=2026-02-21&g=2026-02-21).
 
 ##### Artikel 2. Instelling en taak
 
@@ -94,7 +94,7 @@ Voor de duur van de expertgroep worden tot lid van de expertgroep benoemd:
 
 1. De expertgroep wordt ingesteld met ingang van 1 april 2025.
 
-2. De expertgroep wordt opgeheven met ingang van de dag na de datum van indiening van het eindverslag, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052316&artikel=7&z=2026-02-21&g=2025-04-01).
+2. De expertgroep wordt opgeheven met ingang van de dag na de datum van indiening van het eindverslag, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052316&artikel=7&z=2026-02-21&g=2026-02-21).
 
 ##### Artikel 6. Secretariaat
 
