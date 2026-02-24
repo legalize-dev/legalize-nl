@@ -4,7 +4,7 @@ identifier: "BWBR0052344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-24"
-last_updated: "2026-02-01"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052344"
 soort: "zbo"
@@ -121,11 +121,11 @@ Een wijziging in de draagkracht heeft geen invloed meer op een subsidie die voor
 
 ##### Artikel 6. Omzetbelasting
 
-De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052344&hoofdstuk=II&artikel=4&z=2026-02-24&g=2026-02-01) zijn inclusief de omzetbelasting die over de dienstverlening verschuldigd is.
+De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052344&hoofdstuk=II&artikel=4&z=2026-02-24&g=2026-02-24) zijn inclusief de omzetbelasting die over de dienstverlening verschuldigd is.
 
 ##### Artikel 7. Bevoegdheid tot aanpassing van bedragen
 
-1. De inkomensgrenzen genoemd in [artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052344&hoofdstuk=II&artikel=4&z=2026-02-24&g=2026-02-01) worden jaarlijks met ingang van 1 januari door het bestuur aangepast aan de volgens [artikel 2 van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) geldende grenzen.
+1. De inkomensgrenzen genoemd in [artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052344&hoofdstuk=II&artikel=4&z=2026-02-24&g=2026-02-24) worden jaarlijks met ingang van 1 januari door het bestuur aangepast aan de volgens [artikel 2 van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) geldende grenzen.
 
 2. Aanpassing heeft geen gevolgen voor de dienstverlening waarvoor ten behoeve van de gebruiker al een subsidie aan uitelkaar.nl is betaald.
 
