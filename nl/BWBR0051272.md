@@ -4,7 +4,7 @@ identifier: "BWBR0051272"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-24"
-last_updated: "2025-07-18"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051272"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma Impact Clusters 2025–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051272&artikel=2&z=2025-07-18&g=2025-07-18), een totaal subsidieplafond van € 11,3 miljoen, onderverdeeld in de volgende subsidieplafonds:
+1. Voor subsidieverlening in het kader van het Subsidieprogramma Impact Clusters 2025–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051272&artikel=2&z=2026-02-24&g=2026-02-24), een totaal subsidieplafond van € 11,3 miljoen, onderverdeeld in de volgende subsidieplafonds:
 
 - a. € 6,2 miljoen voor Impact Cluster projecten passend binnen een combitrack;
 
@@ -64,7 +64,7 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 2. Als na toepassing van het eerste lid een deel van het subsidieplafond resteert, wordt dit toegevoegd aan het subsidieplafond voor de daaropvolgende openstelling.
 
-3. Voor subsidieverlening in het kader van het Subsidieprogramma Impact Clusters 2025–2028 gelden voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051272&artikel=2&z=2025-07-18&g=2025-07-18), nader bekend te maken subsidieplafonds.
+3. Voor subsidieverlening in het kader van het Subsidieprogramma Impact Clusters 2025–2028 gelden voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051272&artikel=2&z=2026-02-24&g=2026-02-24), nader bekend te maken subsidieplafonds.
 
 ##### Artikel 4
 
@@ -84,7 +84,7 @@ Met het Subsidieprogramma Impact Clusters 2025–2028 (hierna: subsidieprogramma
 
 De private sector is de motor voor marktontwikkeling en daarmee groei van inkomen en productieve werkgelegenheid. In lage- en middeninkomenslanden is de private sector niet altijd even sterk ontwikkeld. Dit kan onder andere komen door gebrek aan kennis, kunde en technologie. Internationaal is kennis, kunde en technologie beschikbaar die de capaciteit van ondernemingen in lage- en middeninkomenslanden kan verbeteren. Een beter functionerende private sector bevordert marktontwikkeling en daarmee op de lange termijn de zelfredzaamheid in lage- en middeninkomenslanden en zorgt op die manier voor stabiliteit en kansen voor het bedrijfsleven. Om capaciteitsopbouw in (sub)sectoren te bewerkstelligen is vaak een (sector)brede aanpak nodig.
 
-Door het bundelen van kennis van verschillende ondernemingen en eventueel brancheorganisaties, kennisinstellingen en maatschappelijke organisaties in een specifieke (sub)sector, kan een impuls worden gegeven aan de capaciteitsopbouw van de private sector in een ontwikkelingsland.
+Door het bundelen van kennis van verschillende ondernemingen gevestigd buiten het projectland en eventueel aanvullend van brancheorganisaties, kennisinstellingen en maatschappelijke organisaties in een specifieke (sub)sector, kan een impuls worden gegeven aan de capaciteitsopbouw van de private sector in een ontwikkelingsland.
 
 Op deze manier kan deze sector, soms op de langere termijn, een interessante markt worden voor de deelnemende ondernemingen met kansen voor handel en investeringen, ook voor Nederlandse ondernemingen, en zo ook het verdienvermogen van de deelnemende ondernemingen vergroten. In veel lage- en middeninkomenslanden voeren de Nederlandse ambassades en consulaten programma’s uit die lokale private sectorontwikkeling en daarmee marktontwikkeling ondersteunen. Ter versterking van het effect van deze programma’s kunnen clusters van ondernemingen (hierna: impactclusters) aanpalend een rol spelen door een samenhangend geheel van activiteiten uit te voeren, waardoor structureel kennis, kunde en technologie wordt overgedragen aan de lokale private sector.
 
@@ -116,13 +116,13 @@ Aan (de partners van) het impactcluster worden de volgende eisen gesteld:
 
 De rol van penvoerder wordt vervuld door een onderneming, brancheorganisatie, kennisinstelling of maatschappelijke organisatie, met:
 
-De penvoerder moet aantonen dat alle partners van het partnerschap een integriteitsbeleid7[https://www.rvo.nl/onderwerpen/mvo/seksueel-grensoverschrijdend-gedrag](https://www.rvo.nl/onderwerpen/mvo/seksueel-grensoverschrijdend-gedrag) hebben vastgesteld en procedures hebben ingevoerd om aan dat beleid invulling te kunnen geven binnen de eigen organisaties. Dit integriteitsbeleid en deze procedures zijn er om ernstige vormen van grensoverschrijdend gedrag, daaronder onder andere begrepen seksuele misdragingen, jegens medewerkers en derden bij de uitvoering van de activiteiten waarop de aanvraag betrekking heeft, door de partners en de door hen ingeschakelde partijen, zo veel mogelijk te voorkomen, in voorkomend geval te onderzoeken, met passende maatregelen zo spoedig mogelijk te doen beëindigen en de gevolgen daarvan te mitigeren. De procedures zijn zodanig ingericht dat een tijdige melding van incidenten aan RVO is gewaarborgd.
+De penvoerder en partners van het partnerschap moeten een integriteitsbeleid7[https://www.rvo.nl/onderwerpen/mvo/seksueel-grensoverschrijdend-gedrag](https://www.rvo.nl/onderwerpen/mvo/seksueel-grensoverschrijdend-gedrag) hebben vastgesteld en procedures hebben ingevoerd om aan dat beleid invulling te kunnen geven binnen de eigen organisaties. Dit integriteitsbeleid en deze procedures zijn er om ernstige vormen van grensoverschrijdend gedrag, daaronder onder andere begrepen seksuele misdragingen, jegens medewerkers en derden bij de uitvoering van de activiteiten waarop de aanvraag betrekking heeft, door de partners en de door hen ingeschakelde partijen, zo veel mogelijk te voorkomen, in voorkomend geval te onderzoeken, met passende maatregelen zo spoedig mogelijk te doen beëindigen en de gevolgen daarvan te mitigeren. De procedures zijn zodanig ingericht dat een tijdige melding van incidenten aan RVO is gewaarborgd.
 
 ### 4.3. Adviestraject
 
 Als een penvoerder overweegt namens een impactcluster een aanvraag voor subsidie in te dienen, dan geldt een verplicht adviestraject aan de hand van een daartoe ingediende ‘quick scan’8[https://www.rvo.nl/subsidies-financiering/impact-clusters-ic](https://www.rvo.nl/subsidies-financiering/impact-clusters-ic). Het adviestraject eindigt met een advies van RVO aan de penvoerder. De uitkomst van het adviestraject is niet bindend. Het is aan de penvoerder om wel of niet een subsidieaanvraag in te dienen. Als de penvoerder vervolgens besluit een aanvraag in te dienen is en blijft het altijd de verantwoordelijkheid van de penvoerder aan te tonen dat aan de vereisten om voor subsidie in aanmerking te komen wordt voldaan.
 
-Aangezien met de verwerking van een ingediende quick scan zes weken is gemoeid en met het gekregen advies na de quick scan het projectplan aangepast moet kunnen worden, kunnen quick scans niet later worden ingediend dan acht weken voor sluiting van de aanvraagtermijn van een openstelling.
+Aangezien met de verwerking van een ingediende quick scan zes weken is gemoeid en met het gekregen advies na de quick scan het projectplan aangepast moet kunnen worden, kunnen quick scans niet later worden ingediend dan dertien weken voor sluiting van de aanvraagtermijn van een openstelling.
 
 ### 4.4. Subsidiabele activiteiten
 
@@ -192,7 +192,7 @@ Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bij
 
 De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van dit subsidieprogramma. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in dit subsidieprogramma zijn neergelegd.
 
-De aanvragen worden beoordeeld op volgorde van binnenkomst van de aanvragen, waarbij het moment geldt waarop de aanvraag compleet bevonden is dan wel de laatst mogelijke aanvulling is ontvangen (zie hierboven, paragraaf 6.2). Vanaf het moment dat aannemelijk is dat de middelen op basis van de beoordeling van eerder binnengekomen aanvragen zullen worden uitgeput, wordt de behandeling van later binnengekomen aanvragen aangehouden. Indien blijkt dat eerdere aanvragen worden afgewezen, zullen de latere aanvragen in behandeling worden genomen, op volgorde van binnenkomst.
+De aanvragen worden beoordeeld op volgorde van binnenkomst van de aanvragen, waarbij het moment geldt waarop de aanvraag compleet bevonden is dan wel de laatst mogelijke aanvulling is ontvangen (zie hierboven, paragraaf 6.2). Vanaf het moment dat aannemelijk is dat de middelen op basis van de beoordeling van eerder binnengekomen aanvragen zullen worden uitgeput, wordt de behandeling van later binnengekomen aanvragen aangehouden. Indien blijkt dat eerdere aanvragen worden afgewezen, zullen de latere aanvragen in behandeling worden genomen, op volgorde van binnenkomst. Daarnaast geldt voor aanvragen voor reguliere Impact Cluster projecten dat binnen een openstelling maximaal twee aanvragen per projectland subsidie verleend kunnen krijgen. In het geval een projectaanvraag zich richt op twee of meerdere landen, geldt dat de volledige aanvraag wordt afgewezen indien op een van deze landen al 2 aanvragen binnen de openstelling zijn goedgekeurd. Op de website van RVO22[https://www.rvo.nl/subsidies-financiering/impact-clusters-ic](https://www.rvo.nl/subsidies-financiering/impact-clusters-ic) zal het worden gemeld wanneer één van de subsidieplafonds is bereikt of wanneer er al twee aanvragen op een projectland zijn goedgekeurd binnen het subsidieplafond voor reguliere Impact Cluster projecten.
 
 Om voor subsidie in aanmerking te kunnen komen dient de aanvraag te voldoen aan de hiervoor, in het bijzonder in paragraaf 4 tot en met 6, opgenomen vereisten. Slechts de aanvragen die daaraan voldoen worden inhoudelijk beoordeeld op kwaliteit aan de hand van de hierna volgende criteria.
 
