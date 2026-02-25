@@ -4,7 +4,7 @@ identifier: "BWBR0042987"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-25"
-last_updated: "2024-09-06"
+last_updated: "2026-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042987"
 soort: "ministeriele-regeling"
@@ -52,6 +52,12 @@ Besluit:
 5. In verband met de hulpverlening bij de leniging van de nood van slachtoffers van de aardbeving in Turkije in de periode 10 februari 2023 tot en met 25 februari 2023 wordt de gesp ‘Turkije 2023’ ingesteld.
 
 6. In verband met de hulpverlening bestaande uit het bijdragen aan voedseloperaties, het uitvoeren van evacuatievluchten, airdroppen van hulpgoederen en het leveren van sociaal-medische en geestelijke opvang op het grondgebied van en in het luchtruim boven Israël, Palestijnse Gebieden, Libanon, Jordanië en Egypte en op de Middellandse Zee vanaf 7 oktober 2023, wordt de gesp ‘MIDDEN-OOSTEN 2023 2024’ ingesteld.
+
+7. In verband met de hulpverlening bestaande uit het airdroppen van hulpgoederen in het luchtruim boven Gaza in de periode van 6 tot en met 24 augustus 2025, wordt de gesp ‘Noodhulp Gaza 2025’ ingesteld.
+
+8. In verband met de hulpverlening bestaande uit het beschikbaar stellen van Nederlandse blushelikopters en vliegtuigen bij de bosbrandbestrijding in Spanje, regio Castille en Leon, in de periode van 17 augustus tot en met 6 september 2025, wordt de gesp ‘Spanje 2025’ ingesteld.
+
+9. In verband met de hulpverlening bestaande uit het sturen van het hulpschip Zr. Ms. Pelikaan voor het vervoeren van hulpgoederen en deze af te leveren in Jamaica, in de periode van 29 oktober tot en met 16 november 2025, wordt de gesp ‘Jamaica 2025’ ingesteld.
 
 ##### Artikel 2
 
