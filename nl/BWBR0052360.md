@@ -4,7 +4,7 @@ identifier: "BWBR0052360"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-25"
-last_updated: "2025-11-13"
+last_updated: "2026-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052360"
 soort: "zbo"
@@ -65,7 +65,7 @@ Dit besluit treedt in werking met terugwerkende kracht tot en met 13 november 20
 
 ##### Artikel 3
 
-Dit besluit en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052360&bijlage=1&z=2026-02-25&g=2025-11-13) worden gepubliceerd op de website van Airport Coordination Netherlands ([www.slotcoordination.nl](http://www.slotcoordination.nl)) en in de Staatscourant.
+Dit besluit en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052360&bijlage=1&z=2026-02-25&g=2026-02-25) worden gepubliceerd op de website van Airport Coordination Netherlands ([www.slotcoordination.nl](http://www.slotcoordination.nl)) en in de Staatscourant.
 
 ## Bijlage 1. Slot Enforcement Code v2.0 (Nederlands)
 
