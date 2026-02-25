@@ -4,7 +4,7 @@ identifier: "BWBR0051503"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-25"
-last_updated: "2025-09-18"
+last_updated: "2026-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051503"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Voor subsidieverlening op grond van het [artikel 7.2 van de Subsidieregeling Min
 
 1. Aanvragen voor subsidie in de eerste openstelling van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 worden ingediend vanaf 1 oktober 2025, 12:00 Nederlandse tijd tot en met 31 december 2025, 15:00 uur Nederlandse tijd.
 
-2. Aanvragen voor subsidie in de tweede openstelling van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 voor 2026 worden ingediend van 1 maart 2026, 12:00 uur Nederlandse tijd tot en met 30 september 2026, 15:00 uur Nederlandse tijd.
+2. Aanvragen voor subsidie in de tweede openstelling van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 voor 2026 worden ingediend van 3 maart 2026, 12:00 uur Nederlandse tijd tot en met 30 juni 2026, 15:00 uur Nederlandse tijd.
 
 3. Voor aanvragen voor subsidie in volgende openstellingen van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 gelden nader bekend te maken openstellingsperiodes.
 
@@ -60,9 +60,9 @@ Voor subsidieverlening op grond van het [artikel 7.2 van de Subsidieregeling Min
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 augustus 2029 een subsidieplafond van € 1 miljoen.
 
-2. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 geldt voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051503&artikel=2&z=2025-09-18&g=2025-09-18), een subsidieplafond van € 100.000, waarbij uitsluitend aanvragen in aanmerking komen die zijn gericht op type 1 subsidie als bedoeld in paragraaf 4.5 van de in de bijlage bij dit besluit opgenomen beleidsregels.
+2. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 geldt voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051503&artikel=2&z=2026-02-25&g=2026-02-25), een subsidieplafond van € 100.000, waarbij uitsluitend aanvragen in aanmerking komen die zijn gericht op type 1 subsidie als bedoeld in paragraaf 4.5 van de in de bijlage bij dit besluit opgenomen beleidsregels.
 
-3. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 geldt voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051503&artikel=2&z=2025-09-18&g=2025-09-18), een subsidieplafond van € 225.000, onderverdeeld in de volgende subsidieplafonds:
+3. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 geldt voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051503&artikel=2&z=2026-02-25&g=2026-02-25), een subsidieplafond van € 225.000, onderverdeeld in de volgende subsidieplafonds:
 
 - a. € 200.000 voor aanvragen die zijn gericht op type 1 subsidie als bedoeld in paragraaf 4.5 van de in de bijlage bij dit besluit opgenomen beleidsregels;
 
@@ -74,7 +74,7 @@ Voor subsidieverlening op grond van het [artikel 7.2 van de Subsidieregeling Min
 
 6. Indien het subsidieplafond, bedoeld in het derde lid, onder b, niet volledig wordt benut voor de aanvragen waarvoor het is vastgesteld, wordt het resterende bedrag beschikbaar gesteld voor aanvragen als bedoeld in het derde lid, onder a.
 
-7. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 gelden voor aanvragen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051503&artikel=2&z=2025-09-18&g=2025-09-18), nader bekend te maken subsidieplafonds.
+7. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 gelden voor aanvragen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051503&artikel=2&z=2026-02-25&g=2026-02-25), nader bekend te maken subsidieplafonds.
 
 8. Indien na toepassing van het tweede tot en met het zesde lid een deel van de daar bedoelde subsidieplafonds resteert, wordt dit toegevoegd aan het subsidieplafond voor de eerstvolgende openstelling.
 
@@ -122,7 +122,7 @@ De aanvrager moet bevestigen een integriteitsbeleid11[https://www.rvo.nl/onderwe
 
 ### 4.3. Subsidiabele activiteiten
 
-Om in aanmerking te kunnen komen voor een subsidie in het kader van het subsidieprogramma moet het gaan om een project dat bestaat uit activiteiten die bijdragen aan minstens één van de zes stappen van de OESO-richtlijnen (zie paragraaf 1) en daarmee het IMVO-beleid van een onderneming versterken.
+Om in aanmerking te kunnen komen voor een subsidie in het kader van het subsidieprogramma moet het gaan om een project dat bestaat uit activiteiten die bijdragen aan minstens één van de zes stappen van de OESO-richtlijnen (zie paragraaf 1) die logisch passen in de voortgang van implementatie van de OESO-richtlijnen en daarmee het IMVO-beleid van een onderneming versterken.
 
 Mogelijke concrete activiteiten per stap zijn te vinden in de OESO due diligence handreiking voor maatschappelijk verantwoord ondernemen en op de website van het MVO-steunpunt.12[https://www.oesorichtlijnen.nl/documenten/publicatie/2019/06/06/oeso-due-diligence-handreiking-voor-mvo-nls](https://www.oesorichtlijnen.nl/documenten/publicatie/2019/06/06/oeso-due-diligence-handreiking-voor-mvo-nls) p. 20–29. Enkele voorbeelden van activiteiten die bijdragen aan één van de zes stappen van de OESO-richtlijnen zijn: een risicoanalyse van activiteiten in de toeleveringsketen, het faciliteren van een stakeholderdialoog en het opzetten van een klachtenmechanisme. Dergelijke activiteiten kunnen eveneens helpen in voorbereiding op naleving van wetgeving zoals de Anti-dwangarbeidverordening.
 
