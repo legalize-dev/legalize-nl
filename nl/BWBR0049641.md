@@ -4,7 +4,7 @@ identifier: "BWBR0049641"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-26"
-last_updated: "2025-02-05"
+last_updated: "2026-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049641"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** kennisinstelling of Biotech Booster B.V. die, al dan niet namens een samenwerkingsverband, optreedt als aanvrager van de subsidie;
+- **aanvrager:** kennisinstelling, innovatief startersbedrijf of Biotech Booster B.V. die, al dan niet namens een samenwerkingsverband, optreedt als aanvrager van de subsidie;
 
 - **AGVV:** [Verordening (EU) 651/2014](32014R0651) van de Europese Commissie van 17 juni 2014, waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187/1);
 
-- **Biotech Booster programma:** het programma waar de fondsbeheerders van het Nationaal Groeifonds middelen voor hebben toegekend op basis van de beoordeling van de adviescommissie NGF van 5 april 2022 van het voorstel Biotech Booster van 29 oktober 2021;
+- **Biotech Booster programma:** het programma waar de fondsbeheerders van het Nationaal Groeifonds middelen voor hebben toegekend op basis van de beoordeling van de adviescommissie NGF van 5 april 2022 van het voorstel Biotech Booster van 29 oktober 2021 en de beoordeling van de adviescommissie NGF van juni 2025;
 
 - **consortiumovereenkomst:** schriftelijke ondertekende overeenkomst waarin de afspraken van een samenwerkingsverband met betrekking tot een project zijn vastgelegd;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - **OO&I-steunkader:** mededeling van de Commissie inzake een Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie (PbEU 2014, C 198);
 
-- **project:** een samenhangend geheel van activiteiten dat aansluit bij het doel van de subsidieregeling en de activiteiten bedoeld in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=2&artikel=7&z=2025-02-05&g=2025-02-05) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=3&artikel=13&z=2025-02-05&g=2025-02-05);
+- **project:** een samenhangend geheel van activiteiten dat aansluit bij het doel van de subsidieregeling en de activiteiten bedoeld in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=2&artikel=7&z=2026-02-26&g=2026-02-26) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=3&artikel=13&z=2026-02-26&g=2026-02-26);
 
 - **proof of principle:** idee dat op wetenschappelijke gronden zou kunnen werken, maar waarvan de praktische werking nog moet worden aangetoond;
 
@@ -118,25 +118,71 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 ##### Artikel 5. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is voor de eerste aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2025-02-05&g=2025-02-05), een totaalbedrag beschikbaar van € 19.500.000,–.
+1. Voor subsidieverstrekking op grond van deze regeling is voor de eerste aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 19.500.000,–.
 
-2. Het subsidieplafond voor de eerste aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2025-02-05&g=2025-02-05), bedraagt:
+2. Het subsidieplafond voor de eerste aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), bedraagt:
 
 - a. € 10.000.000,– voor proof of principle-projecten; en
 
 - b. € 9.500.000,– voor proof of concept-projecten.
 
-3. Voor subsidieverstrekking op grond van deze regeling is voor de tweede aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2025-02-05&g=2025-02-05), een totaalbedrag beschikbaar van € 4.900.000,–.
+3. Voor subsidieverstrekking op grond van deze regeling is voor de tweede aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 4.900.000,–.
 
-4. Het subsidieplafond voor de tweede aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2025-02-05&g=2025-02-05), bedraagt:
+4. Het subsidieplafond voor de tweede aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), bedraagt:
 
 - a. € 3.000.000,– voor proof op principle-projecten; en
 
 - b. € 1.900.000,– voor proof of concept-projecten.
 
+5. Voor subsidieverstrekking op grond van deze regeling is voor de derde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 23.300.000,–.
+
+6. Het subsidieplafond voor de derde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), bedraagt:
+
+- a. € 10.000.000,– voor proof of principle-projecten; en
+
+- b. € 13.300.000,– voor proof of concept-projecten.
+
+7. Voor subsidieverstrekking op grond van deze regeling is voor de vierde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 23.300.000,–.
+
+8. Het subsidieplafond voor de vierde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), bedraagt:
+
+- a. € 10.000.000,– voor proof of principle-projecten; en
+
+- b. € 13.300.000,– voor proof of concept-projecten.
+
+9. Voor subsidieverstrekking op grond van deze regeling is voor de vijfde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 23.300.000,–.
+
+10. Het subsidieplafond voor de vijfde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), bedraagt:
+
+- a. € 10.000.000,– voor proof of principle-projecten; en
+
+- b. € 13.300.000,– voor proof of concept-projecten.
+
+11. Voor subsidieverstrekking op grond van deze regeling is voor de zesde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 21.400.000,–.
+
+12. Het subsidieplafond voor de zesde aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), bedraagt:
+
+- a. € 10.000.000,– voor proof of principle-projecten; en
+
+- b. € 11.400.000,– voor proof of concept-projecten.
+
+13. Voor subsidieverstrekking op grond van deze regeling is voor de zevende aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 21.400.000,–.
+
+14. Het subsidieplafond voor de zevende aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), bedraagt:
+
+- a. € 10.000.000,– voor proof of principle-projecten; en
+
+- b. € 11.400.000,– voor proof of concept-projecten.
+
+15. Het subsidieplafond voor de aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), zal door wijziging van deze regeling aan deze regeling worden toegevoegd. Daarbij wordt eveneens een onderverdeling gemaakt tussen het bedrag dat beschikbaar is voor proof of principle-projecten, en het bedrag dat beschikbaar is voor proof of concept-projecten.
+
 ##### Artikel 6. Algemene bepalingen subsidieaanvraag
 
-1. De subsidie voor een proof of principle-project wordt aangevraagd door een kennisinstelling, al dan niet namens een samenwerkingsverband.
+1. De subsidie voor een proof of principle-project wordt, al dan niet namens een samenwerkingsverband, aangevraagd door:
+
+- a. een kennisinstelling; of
+
+- b. een innovatief startersbedrijf van wie de economische activiteiten waarvoor subsidie wordt aangevraagd rechtstreeks en onmiddellijk voortkomen uit kennis uit onderzoek van een kennisinstelling, hetgeen blijkt uit een overeenkomst gesloten tussen het innovatieve startersbedrijf en de kennisinstelling.
 
 2. De subsidie voor een proof of concept-project wordt aangevraagd door Biotech Booster B.V, namens een samenwerkingsverband.
 
@@ -146,7 +192,19 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 - a. in de eerste aanvraagronde van 13 mei 2024 tot en met 30 september 2024;
 
-- b. in de tweede aanvraagronde van 1 maart 2025 tot en met 30 mei 2025.
+- b. in de tweede aanvraagronde van 1 maart 2025 tot en met 30 mei 2025;
+
+- c. in de derde aanvraagronde van 2 maart 2026 tot en met 15 september 2026;
+
+- d. in de vierde aanvraagronde van 1 maart 2027 tot en met 15 september 2027;
+
+- e. in de vijfde aanvraagronde van 1 maart 2028 tot en met 15 september 2028;
+
+- f. in de zesde aanvraagronde van 1 maart 2029 tot en met 14 september 2029;
+
+- g. in de zevende aanvraagronde van 1 maart 2030 tot en met 13 september 2030;
+
+- h. in de achtste aanvraagronde, gedurende een periode die op een later moment door wijziging van deze regeling aan deze regeling wordt toegevoegd.
 
 5. Aanvragen die buiten een in het vierde lid bedoelde aanvraagperiode worden ingediend, worden afgewezen.
 
@@ -170,7 +228,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 ##### Artikel 8. Subsidiabele kosten
 
-1. De voor subsidie in aanmerking komende kosten hebben betrekking op de activiteiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=2&artikel=7&z=2025-02-05&g=2025-02-05).
+1. De voor subsidie in aanmerking komende kosten hebben betrekking op de activiteiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=2&artikel=7&z=2026-02-26&g=2026-02-26).
 
 2. Subsidie voor loonkosten van eigen personeel niet in vaste dienst van de aanvrager en eventuele samenwerkingspartners bedraagt maximaal een derde van de totale projectkosten.
 
@@ -206,7 +264,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 - a. 10%, indien een samenwerkingspartner in een project een middelgrote onderneming is en de subsidiabele kosten worden gemaakt door deze middelgrote onderneming; of
 
-- b. 20%, indien een samenwerkingspartner in een project een kleine onderneming is en de subsidiabele kosten worden gemaakt door deze kleine onderneming.
+- b. 20%, indien de aanvrager of een samenwerkingspartner in een project een kleine onderneming is en de subsidiabele kosten worden gemaakt door deze kleine onderneming.
 
 4. De percentages, genoemd in het tweede lid, onderdelen b en c, kunnen worden verhoogd met maximaal:
 
@@ -222,7 +280,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 2. Een aanvraag voor subsidie gaat in ieder geval vergezeld van:
 
-- a. een activiteitenplan, inclusief mijlpalen;
+- a. een activiteitenplan, inclusief mijlpalen en de locatie(s) van de activiteiten;
 
 - b. een begroting, indien van toepassing uitgesplitst per samenwerkingspartner, uitgesplitst per subsidiabele activiteit, per jaar en kostensoort met onderbouwing van de gehanteerde tarieven;
 
@@ -244,6 +302,20 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 - e. de samenwerkingspartners verbinden zich te voldoen aan het gevraagde subsidiebesluit en de bijbehorende rapportage- en verantwoordingsverplichtingen en andere door de subsidieverlener aan de aanvrager te stellen subsidieverplichtingen en verantwoordelijkheden.
 
+4. Indien een aanvraag wordt ingediend door een innovatief startersbedrijf, wordt bij de aanvraag tevens een overeenkomst bijgevoegd gesloten tussen het innovatieve startersbedrijf en een kennisinstelling waaruit blijkt dat de economische activiteiten van het innovatieve startersbedrijf waarvoor subsidie wordt aangevraagd rechtstreeks en onmiddellijk voortkomen uit kennis uit onderzoek van die kennisinstelling, en die ten minste het volgende beschrijft:
+
+- a. de kennis of intellectueel eigendom die wordt overgedragen of waarvan het gebruiksrecht wordt verleend aan het innovatieve startersbedrijf;
+
+- b. de manier waarop de kennis of intellectueel eigendom wordt overgedragen of het gebruiksrecht wordt verleend;
+
+- c. de voorwaarden waaronder de overdracht gebeurt of het gebruiksrecht wordt verleend en waaruit volgt dat het innovatieve startersbedrijf in voldoende mate in staat wordt gesteld de kennis of intellectueel eigendom te benutten en deze commercieel te exploiteren;
+
+- d. de namen, titels, functies en contactgegevens van de tekenbevoegden van de kennisinstelling die partij is bij de overeenkomst.
+
+5. De overeenkomst, bedoeld in het vierde lid, gaat vergezeld van een onderbouwd advies van een door de Biotech Booster B.V. gekozen onafhankelijk jurist op het gebied van het contractenrecht, waaruit blijkt of de overeenkomst aan de in het vierde lid genoemde criteria voldoet. In het advies bedoeld in onderdeel c. van het tweede lid, is een onderbouwd advies van de onafhankelijk jurist meegewogen.
+
+6. Het onderbouwd advies, bedoeld in het vijfde lid, gaat vergezeld van een geheimhoudingsverklaring en integriteitsverklaring ondertekend door de onafhankelijk jurist die het onderbouwd advies heeft uitgebracht.
+
 ##### Artikel 11. Beoordeling
 
 1. De minister beslist op de aanvragen aan de hand van de volgende beoordelingscriteria:
@@ -260,7 +332,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 - f. kwaliteit van het projectteam.
 
-2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&bijlage=1&z=2025-02-05&g=2025-02-05) bij deze regeling is gevoegd.
+2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&bijlage=1&z=2026-02-26&g=2026-02-26) bij deze regeling is gevoegd.
 
 3. Subsidie wordt slechts verleend indien alle criteria ten minste als voldoende worden beoordeeld.
 
@@ -288,7 +360,7 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 ##### Artikel 14. Subsidiabele kosten
 
-1. De voor subsidie in aanmerking komende kosten hebben betrekking op de activiteiten als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=3&artikel=13&z=2025-02-05&g=2025-02-05).
+1. De voor subsidie in aanmerking komende kosten hebben betrekking op de activiteiten als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=3&artikel=13&z=2026-02-26&g=2026-02-26).
 
 2. Ten hoogste € 600.000,– van de loonkosten van de samenwerkingspartners in een proof of concept-project zijn subsidiabel. De loonkosten van Biotech Booster B.V. zijn niet subsidiabel.
 
@@ -332,13 +404,13 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 2. Een aanvraag voor subsidie gaat in ieder geval vergezeld van:
 
-- a. een activiteitenplan, inclusief mijlpalen;
+- a. een activiteitenplan, inclusief mijlpalen en de locatie(s) van de activiteiten;
 
 - b. een begroting, uitgesplitst per samenwerkingspartner, per subsidiabele activiteit, per jaar en kostensoort met onderbouwing van de gehanteerde tarieven;
 
 - c. een verklaring van Biotech Booster B.V. dat de samenwerkingspartners de TC-overeenkomst hebben ondertekend;
 
-- d. een positief advies van het Ondernemerspanel Biotech Booster;
+- d. een positief advies van het Ondernemerspanel Biotech Booster en de geheimhoudingsverklaringen en integriteitsverklaringen ondertekend door de leden van het Ondernemerspanel die het positief advies hebben uitgebracht;
 
 - e. een consortiumovereenkomst, die ten minste voldoet aan de volgende criteria:
 
@@ -368,7 +440,7 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 - f. kwaliteit van het projectteam.
 
-2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&bijlage=2&z=2025-02-05&g=2025-02-05) bij deze regeling is gevoegd.
+2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&bijlage=2&z=2026-02-26&g=2026-02-26) bij deze regeling is gevoegd.
 
 3. Subsidie wordt slechts verleend indien alle criteria ten minste als voldoende worden beoordeeld.
 
@@ -430,7 +502,7 @@ Aan de aanvrager worden de volgende verplichtingen opgelegd:
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 maart 2029, met dien verstande dat de regeling van toepassing blijft op subsidies die zijn verleend op grond van deze regeling.
+2. Deze regeling vervalt met ingang van 1 maart 2034, met dien verstande dat de regeling van toepassing blijft op subsidies die zijn verleend op grond van deze regeling.
 
 ##### Artikel 23. Citeertitel
 
@@ -442,9 +514,9 @@ Deze regeling wordt aangehaald als Subsidieregeling Biotech Booster.
 
 In de Subsidieregeling Biotech Booster is opgenomen dat aanvragers uitsluitend binnen een aanvraagronde aanvragen kunnen indienen. Om de kwaliteit van een aanvraag vast te stellen, beslist de minister op de subsidieaanvraag aan de hand van onderstaande beoordelingscriteria. Voor het aantonen van de kwaliteit van een aanvraag moeten alle criteria met een voldoende beoordeeld worden.
 
-In deze bijlage is uitgewerkt hoe de aanvragen beoordeeld worden en worden de beoordelingscriteria nader uitgelegd. Iedere subsidieaanvraag wordt beoordeeld op basis van het aanvraagformulier (plus bijlagen), aan de hand van de beoordelingscriteria van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=2&artikel=11&z=2025-02-05&g=2025-02-05) van de subsidieregeling.
+In deze bijlage is uitgewerkt hoe de aanvragen beoordeeld worden en worden de beoordelingscriteria nader uitgelegd. Iedere subsidieaanvraag wordt beoordeeld op basis van het aanvraagformulier (plus bijlagen), aan de hand van de beoordelingscriteria van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=2&artikel=11&z=2026-02-26&g=2026-02-26) van de subsidieregeling.
 
-De aanvraag gaat vergezeld van een onderbouwd positief advies van de TC-coördinator van de TC waar het project onder valt, aangevuld met ondersteunende verklaringen van één of twee andere TC-coördinatoren over het voldoen aan de onderstaande criteria.
+De aanvraag gaat vergezeld van een onderbouwd positief advies van de TC-coördinator van de TC waar het project onder valt, aangevuld met ondersteunende verklaringen van één of twee andere TC-coördinatoren over het voldoen aan de onderstaande criteria. Ingeval de aanvraag wordt gedaan door een innovatief startersbedrijf gaat de aanvraag ook vergezeld van een onderbouwd advies van een door de Biotech Booster B.V. gekozen onafhankelijke jurist met expertise op het gebied van het contractenrecht die toetst of de over te leggen overeenkomst in de zin van artikel 10, vierde lid, voldoet aan de in dat lid gestelde eisen. De jurist die een aanvraag beoordeelt, ondertekent een geheimhoudingsverklaring, een integriteitsverklaring en conformeert zich aan de **Code persoonlijk belangen** van NWO. Deze verklaringen worden ook bij de subsidieaanvraag door de aanvrager ingediend. In het bovengenoemd positief advies van de TC-coördinator, aangevuld met één of twee ondersteunende verklaringen, wordt ingegaan op het advies van de onafhankelijk jurist.
 
 | **Duiding van de scores** **0** Zwaar onvoldoende **1** Onvoldoende **2** Voldoende **3** Goed **4** Zeer goed |
 | --- |
@@ -491,7 +563,7 @@ De aanvraag gaat vergezeld van een onderbouwd positief advies van de TC-coördin
 
 In de Subsidieregeling Biotech Booster is opgenomen dat aanvragers uitsluitend binnen een aanvraagronde aanvragen kunnen indienen. Om de kwaliteit van een aanvraag vast te stellen, beslist de minister op de subsidieaanvraag aan de hand van onderstaande beoordelingscriteria. Voor het aantonen van de kwaliteit van een aanvraag moeten alle criteria met een voldoende beoordeeld worden.
 
-In deze bijlage is uitgewerkt hoe de aanvragen beoordeeld worden en worden de beoordelingscriteria nader uitgelegd. Iedere subsidieaanvraag wordt beoordeeld op basis van het aanvraagformulier (plus bijlagen), aan de hand van de beoordelingscriteria van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=3&artikel=17&z=2025-02-05&g=2025-02-05) van de subsidieregeling.
+In deze bijlage is uitgewerkt hoe de aanvragen beoordeeld worden en worden de beoordelingscriteria nader uitgelegd. Iedere subsidieaanvraag wordt beoordeeld op basis van het aanvraagformulier (plus bijlagen), aan de hand van de beoordelingscriteria van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=3&artikel=17&z=2026-02-26&g=2026-02-26) van de subsidieregeling.
 
 Om de besluitvorming zorgvuldig voor te bereiden heeft de minister een groep van deskundige partijen gevraagd om de aanvragen te toetsen aan de vastgestelde beoordelingscriteria. In deze bijlage wordt deze groep aangeduid als het Ondernemerspanel Biotech Booster. De leden van deze groep zijn onafhankelijk en de namen van het Ondernemerspanel Biotech Booster worden gepubliceerd op de website waar de regeling is aangekondigd. De leden van het Ondernemerspanel die een aanvraag beoordelen, ondertekenen een geheimhoudingsverklaring, een integriteitsverklaring en conformeren zich aan de **Code persoonlijke belangen** van NWO. Deze verklaringen worden bij de subsidieaanvraag door de aanvrager ingediend.
 
