@@ -4,7 +4,7 @@ identifier: "BWBR0052364"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-26"
-last_updated: "2025-08-01"
+last_updated: "2026-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052364"
 soort: "zbo"
@@ -133,7 +133,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 3. De Stuurgroep vormt een adequate afspiegeling van het werkterrein. Er wordt gestreefd naar een evenwichtige man-vrouw verdeling, overeenkomstig het door NWO terzake gevoerde beleid.
 
-4. De benoemingstermijn voor de leden van de Stuurgroep is vier jaar, met de mogelijkheid van een eenmalige herbenoeming voor maximaal twee jaar.
+4. De benoemingstermijn voor de leden van de Stuurgroep is vier jaar, met de mogelijkheid van een eenmalige herbenoeming voor maximaal vier jaar.
 
 5. De Stuurgroep kiest uit haar midden een vicevoorzitter.
 
@@ -173,9 +173,9 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 4. Indien een lid van de Stuurgroep een direct of indirect persoonlijk belang heeft bij enig door de Stuurgroep te nemen besluit, neemt dit lid ten aanzien daarvan niet deel aan de beraadslaging en besluitvorming.
 
-5. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming inzake subsidiebesluiten zoals bedoeld in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3), en dit leidt tot de situatie dat het in [artikel 3.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2025-08-01&g=2025-08-01), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering, maar op de desbetreffende delen daarvan.
+5. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming inzake subsidiebesluiten zoals bedoeld in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3), en dit leidt tot de situatie dat het in [artikel 3.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering, maar op de desbetreffende delen daarvan.
 
-6. De stemprocedure houdt in dat het bepaalde in [artikel 3.3., zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2025-08-01&g=2025-08-01), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice-)voorzitter neemt slechts deel aan de besluitvorming indien de (vice-)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
+6. De stemprocedure houdt in dat het bepaalde in [artikel 3.3., zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice-)voorzitter neemt slechts deel aan de besluitvorming indien de (vice-)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
 
 7. Aan de stemprocedure moeten minimaal drie leden deelnemen die unaniem besluiten. Indien dit minimum niet wordt bereikt of indien er geen unanimiteit wordt bereikt, moet de besluitvorming op het desbetreffende onderdeel in de eerstvolgende vergadering van de raad van bestuur plaatsvinden.
 
@@ -193,7 +193,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 - c. het vaststellen van de inhoud van de Call for proposals zoals bedoeld in [artikel 2.1.2 van de NWO Subsidieregeling 2024](onbekend);
 
-- d. Onverminderd het bepaalde in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3) en [artikel 6.1, tweede lid, sub e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=6.1&z=2025-08-01&g=2025-08-01), van dit huishoudelijk reglement, neemt het Prowo de besluiten inzake de toewijzing, de afwijzing, de wijziging en vaststelling van subsidies.
+- d. Onverminderd het bepaalde in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3) en [artikel 6.1, tweede lid, sub e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=6.1&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement, neemt het Prowo de besluiten inzake de toewijzing, de afwijzing, de wijziging en vaststelling van subsidies.
 
 - e. het instellen van beoordelingscommissies, programmacommissies en begeleidingscommissies, indien noodzakelijk.
 
@@ -215,7 +215,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 3. De Prowo vormt een adequate afspiegeling van het werkterrein. Er wordt gestreefd naar een evenwichtige man-vrouw verdeling, overeenkomstig het door NWO terzake gevoerde beleid.
 
-4. De benoemingstermijn voor de leden van de Prowo is vier jaar, met de mogelijkheid van een eenmalige herbenoeming voor maximaal twee jaar.
+4. De benoemingstermijn voor de leden van de Prowo is vier jaar, met de mogelijkheid van een eenmalige herbenoeming voor maximaal vier jaar.
 
 5. De Prowo kiest uit zijn midden een vicevoorzitter.
 
@@ -253,9 +253,9 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 3. Besluiten inzake het in behandeling nemen van een subsidieaanvraag, alsmede besluiten inzage de toekenning, afwijzing, wijziging, intrekking en vaststelling van subsidies nemen de leden van de Prowo met inachtneming van de Code omgang met persoonlijke belangen.
 
-4. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming over subsidies, en dit leidt tot de situatie dat het in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2025-08-01&g=2025-08-01), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, dan treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering van de Prowo, maar op de desbetreffende delen daarvan.
+4. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming over subsidies, en dit leidt tot de situatie dat het in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, dan treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering van de Prowo, maar op de desbetreffende delen daarvan.
 
-5. De stemprocedure houdt in dat het bepaalde in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2025-08-01&g=2025-08-01), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden van de Prowo die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice)voorzitter neemt slechts deel aan de besluitvorming indien de (vice)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
+5. De stemprocedure houdt in dat het bepaalde in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden van de Prowo die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice)voorzitter neemt slechts deel aan de besluitvorming indien de (vice)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
 
 6. Aan de stemprocedure moeten minimaal drie leden deelnemen die unaniem besluiten. Indien dit minimum niet wordt bereikt of indien er geen unanimiteit wordt bereikt, moet de besluitvorming op het desbetreffende onderdeel in de eerstvolgende vergadering van de Stuurgroep plaatsvinden.
 
@@ -289,11 +289,11 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 2. De Kennisbenuttingsraad heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
-3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2025-08-01&g=2025-08-01) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van de Kennisbenuttingsraad.
+3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van de Kennisbenuttingsraad.
 
 4. De Kennisbenuttingsraad vormt een adequate afspiegeling van het werkterrein. Er wordt gestreefd naar een evenwichtige man-vrouwverdeling, overeenkomstig het door NWO ter zake gevoerde beleid.
 
-5. De benoemingstermijn voor de leden van de Kennisbenuttingsraad is vier jaar, met de mogelijkheid van een eenmalige herbenoeming voor maximaal twee jaar.
+5. De benoemingstermijn voor de leden van de Kennisbenuttingsraad is vier jaar, met de mogelijkheid van een eenmalige herbenoeming voor maximaal vier jaar.
 
 6. De Kennisbenuttingsraad kiest uit haar midden een vicevoorzitter.
 
@@ -333,7 +333,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 3. Over aangelegenheden met betrekking tot de bedrijfsvoering legt de directeur verantwoording af aan de portefeuillehouder bedrijfsvoering en financiën van de raad van bestuur.
 
-4. Onverminderd [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.1&z=2025-08-01&g=2025-08-01), en [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=5.1&z=2025-08-01&g=2025-08-01), van dit huishoudelijk reglement is de directeur bevoegd om beslissingen te nemen aangaande (overheids)opdrachten tot een waarde van € 100.000,00. Zulks met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
+4. Onverminderd [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.1&z=2026-02-26&g=2026-02-26), en [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=5.1&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement is de directeur bevoegd om beslissingen te nemen aangaande (overheids)opdrachten tot een waarde van € 100.000,00. Zulks met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
 
 ### 7. Advisering aan de Stuurgroep inzake strategie en beleid
 
@@ -363,7 +363,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 5. Bij de samenstelling van een commissie als bedoeld in het eerste lid streeft de Prowo naar een evenwichtige man-vrouw verdeling. Voor subsidievormen die meerdere wetenschapsdisciplines betreffen streeft de Prowo tevens naar een brede expertise.
 
-6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2025-08-01&g=2025-08-01) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
+6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
 
 7. Een commissie als bedoeld in het eerste lid brengt een schriftelijk en deugdelijk gemotiveerd advies uit aan de Prowo.
 
@@ -399,9 +399,9 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 5. Een commissie heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
-6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2025-08-01&g=2025-08-01) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
+6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
 
-7. Een programmacommissie kan ook optreden als beoordelingscommissie, zoals bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=7.1&z=2025-08-01&g=2025-08-01) van dit huishoudelijk reglement, voor de aanvragen die in het kader van het programma worden ingediend, tenzij zij beslissingsbevoegdheid heeft. In dat geval worden de aanvragen beoordeeld door de Prowo.
+7. Een programmacommissie kan ook optreden als beoordelingscommissie, zoals bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=7.1&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement, voor de aanvragen die in het kader van het programma worden ingediend, tenzij zij beslissingsbevoegdheid heeft. In dat geval worden de aanvragen beoordeeld door de Prowo.
 
 8. Een programmacommissie vergadert zo dikwijls als zij dit wenselijk acht, doch tenminste tweemaal per jaar.
 
@@ -415,7 +415,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 2. Overeenkomstig [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1) regelt het besluit tot instelling van de begeleidingscommissie zoals genoemd in het eerste lid de samenstelling, de taak, de werkwijze en de duur van deze commissie.
 
-3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2025-08-01&g=2025-08-01) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een begeleidingscommissie.
+3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een begeleidingscommissie.
 
 4. Een commissie heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
