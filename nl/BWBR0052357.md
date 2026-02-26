@@ -4,7 +4,7 @@ identifier: "BWBR0052357"
 country: "nl"
 rank: "kb"
 publication_date: "2026-02-26"
-last_updated: "2026-02-23"
+last_updated: "2026-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052357"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties worden
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=1&z=2026-02-26&g=2026-02-23) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=2&z=2026-02-26&g=2026-02-23) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=1&z=2026-02-26&g=2026-02-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=2&z=2026-02-26&g=2026-02-26) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
@@ -64,7 +64,7 @@ De taken van het Ministerie van Infrastructuur en Waterstaat worden dienovereenk
 
 ##### Artikel 6
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=4&z=2026-02-26&g=2026-02-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=5&z=2026-02-26&g=2026-02-23) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=4&z=2026-02-26&g=2026-02-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0052357&artikel=5&z=2026-02-26&g=2026-02-26) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 7
 
