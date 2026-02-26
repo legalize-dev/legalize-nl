@@ -4,7 +4,7 @@ identifier: "BWBR0050141"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-26"
-last_updated: "2025-10-03"
+last_updated: "2026-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050141"
 soort: "ministeriele-regeling"
@@ -42,17 +42,17 @@ Besluit:
 
 ##### Artikel 1. Bezwaar
 
-1. Aan de programmadirecteur Schulden van het programmadirectoraat-generaal Herstel wordt ondermandaat verleend om te beslissen op de bezwaren tegen besluiten die zijn genomen in het kader van de toepassing van de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.15), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13), [4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1) en [9.1, tweede lid, onder a, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=9.1).
+1. Aan de programmadirecteur Herstelbeleid en Parlementaire Zaken van het programmadirectoraat-generaal Herstel wordt ondermandaat verleend om te beslissen op de bezwaren tegen besluiten die zijn genomen in het kader van de toepassing van de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.15), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13), [4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1) en [9.1, tweede lid, onder a, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=9.1).
 
-2. Aan de programmadirecteur Schulden van het programmadirectoraat-generaal Herstel wordt ondermandaat verleend om te beslissen op ingebrekestellingen, dwangsommen en andere brieven die samenhangen met de in lid 1 genoemde bevoegdheid.
+2. Aan de programmadirecteur Herstelbeleid en Parlementaire Zaken van het programmadirectoraat-generaal Herstel wordt ondermandaat verleend om te beslissen op ingebrekestellingen, dwangsommen en andere brieven die samenhangen met de in lid 1 genoemde bevoegdheid.
 
 3. Aan de vaktechnisch coördinatoren en aan de medewerkers bezwaar en beroep van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor het verrichten van alle voorbereidingshandelingen in het kader van bezwaarprocedures tegen besluiten die zijn genomen in het kader van de toepassing van de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.15), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13), [4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1) en [9.1, tweede lid, onder a, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=9.1).
 
 ##### Artikel 2. Beroep en hoger beroep
 
-1. Aan de programmadirecteur Schulden van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor het behandelen van (hoger) beroepschriften ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2026-02-26&g=2025-10-03).
+1. Aan de programmadirecteur Herstelbeleid en Parlementaire Zaken van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor het behandelen van (hoger) beroepschriften ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2026-02-26&g=2026-02-26).
 
-2. Aan de vaktechnisch coördinatoren en aan de medewerkers bezwaar en beroep van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor alle voorbereidingshandelingen en het optreden ter zitting in het kader van (hoger) beroepsprocedures ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2026-02-26&g=2025-10-03).
+2. Aan de vaktechnisch coördinatoren en aan de medewerkers bezwaar en beroep van het programmadirectoraat-generaal Herstel wordt ondermachtiging verleend voor alle voorbereidingshandelingen en het optreden ter zitting in het kader van (hoger) beroepsprocedures ter zake van besluiten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050141&artikel=1&z=2026-02-26&g=2026-02-26).
 
 ##### Artikel 3. Ondertekening
 
