@@ -4,7 +4,7 @@ identifier: "BWBR0027297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2025-02-28"
+last_updated: "2026-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027297"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek (op
 
 ##### Artikel 1
 
-De minimumbijdrage, bedoeld in de [artikelen 220 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=220) en [275 lid 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=275), is € 7.673.
+De minimumbijdrage, bedoeld in de [artikelen 220 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=220) en [275 lid 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=275), is € 7.926.
 
 ##### Artikel 2
 
