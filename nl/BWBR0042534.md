@@ -4,7 +4,7 @@ identifier: "BWBR0042534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2026-01-01"
+last_updated: "2026-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042534"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister voor Langdurige Zorg en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2026-02-28&g=2026-01-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2026-02-28&g=2026-02-28).
 
 ##### Artikel 2. Instelling en taak
 
@@ -146,9 +146,9 @@ Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
 
 ##### Artikel 9. Vergoeding
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 6/36.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 4/36.
 
-2. Aan de vice-voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 5/36.
+2. Aan de vice-voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 9/36.
 
 3. Aan de portefeuillehouder ouderenzorg wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 4/36.
 
