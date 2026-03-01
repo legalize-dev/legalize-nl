@@ -4,7 +4,7 @@ identifier: "BWBR0036344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-01"
-last_updated: "2025-03-20"
+last_updated: "2026-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036344"
 soort: "zbo"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - c. beoordelingsmodel bij iedere schriftelijke toets.
 
-2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2025-03-20&g=2025-03-20).
+2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2026-03-01&g=2026-03-01).
 
 ##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
@@ -78,7 +78,7 @@ Voor de uitvoering van een opdracht worden door de eerste en door de tweede corr
 
 ##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
-Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2025-03-20&g=2025-03-20), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2025-03-20&g=2025-03-20), geen onderdeel meer van een college-examen zullen uitmaken.
+Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2026-03-01&g=2026-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2026-03-01&g=2026-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
 
 ##### Artikel 5. Beoordeling mondelinge examens
 
@@ -86,7 +86,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een mondeling examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2025-03-20&g=2025-03-20).
+3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2026-03-01&g=2026-03-01).
 
 ##### Artikel 6. Beoordeling praktische examens
 
@@ -94,7 +94,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een praktisch examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2025-03-20&g=2025-03-20).
+3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2026-03-01&g=2026-03-01).
 
 ##### Artikel 7. Afwijking
 
@@ -106,7 +106,7 @@ Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor d
 
 ##### Artikel 9. Aanpassing
 
-De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2025-03-20&g=2025-03-20), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2025-03-20&g=2025-03-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2025-03-20&g=2025-03-20) op onderdelen aan te passen.
+De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2026-03-01&g=2026-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2026-03-01&g=2026-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2026-03-01&g=2026-03-01) op onderdelen aan te passen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -124,9 +124,9 @@ De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wett
 
 Deze regeling wordt aangehaald als: Regeling beoordelingsnormen Staatsexamens vo.
 
-## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo 2025.
+## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo 2026.
 
-(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2025-03-20&g=2025-03-20))
+(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2026-03-01&g=2026-03-01))
 
 Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de Staatsexamens vo.
 
@@ -160,6 +160,7 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | maatschappijleer |
 | natuur, leven en technologie |
 | informatica |
+| wiskunde D |
 
 | schrijfopdracht Nederlandse taal en literatuur |
 | --- |
@@ -185,6 +186,7 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | maatschappijleer |
 | natuur, leven en technologie |
 | informatica |
+| wiskunde D |
 
 | schrijfopdracht Frans |
 | --- |
@@ -230,15 +232,14 @@ De volgende mondelinge examens worden afgenomen:
 
 De volgende praktische examens worden afgenomen:
 
-## Bijlage 2. Mondelinge examens Staatsexamens vo 2025
+## Bijlage 2. Mondelinge examens Staatsexamens vo 2026
 
-(bijlage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=5&z=2025-03-20&g=2025-03-20))
+(bijlage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=5&z=2026-03-01&g=2026-03-01))
 
 De volgende mondelinge examens worden afgenomen:
 
 | aardrijkskunde |
 | --- |
-|   |
 | Arabische taal en literatuur |
 | Arabische taal en literatuur (elementair) |
 | biologie |
@@ -307,7 +308,7 @@ De volgende mondelinge examens worden afgenomen:
 | Turkse taal en literatuur |
 | Turkse taal en literatuur (elementair) |
 | wiskunde A |
-| Wiskunde B |
+| wiskunde B |
 | wiskunde D |
 
 | aardrijkskunde |
@@ -365,9 +366,9 @@ De volgende mondelinge examens worden afgenomen:
 | Turkse taal |
 | wiskunde |
 
-## Bijlage 3. Praktische examens Staatsexamens vo 2025
+## Bijlage 3. Praktische examens Staatsexamens vo 2026
 
-(bijlage als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=6&z=2025-03-20&g=2025-03-20))
+(bijlage als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=6&z=2026-03-01&g=2026-03-01))
 
 De volgende praktische examens worden afgenomen:
 
