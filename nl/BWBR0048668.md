@@ -4,7 +4,7 @@ identifier: "BWBR0048668"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-03-01"
-last_updated: "2024-01-01"
+last_updated: "2026-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048668"
 soort: "AMvB"
@@ -66,11 +66,17 @@ De op grond van [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/j
 
 ### Hoofdstuk 3. Voertuigdocumenten voor sluiten dienstverleningsovereenkomst
 
-##### Artikel 3. (te overleggen voertuigdocumenten)
+##### Artikel 3. (over te leggen voertuigdocumenten)
 
-1. Bij het sluiten van een dienstverleningsovereenkomst als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=8) overlegt de houder het kentekenbewijs.
+De voertuigdocumenten, bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=8), die de houder aan de dienstaanbieder over kan leggen ten behoeve van het bepalen van het tarief van de vrachtwagenheffing door de dienstaanbieder, zijn, voor zover de maximummassa van de vrachtwagen of de maximummassa van de combinatie en de CO2-emissieklasse en, indien van toepassing, de euro-emissieklasse van de vrachtwagen daarin staan vermeld, dan wel daaruit kunnen worden afgeleid:
 
-2. Voor zover uit het kentekenbewijs niet blijkt wat de toegestane maximum massa en euro-emissieklasse van de vrachtwagen zijn, kan dat worden aangetoond met een aan het kentekenbewijs gelijkwaardig voertuigdocument.
+- a. het certificaat van overeenstemming, bedoeld in artikel 3 van [Verordening (EU) 2018/858](32018R0858) van het Europees Parlement en de Raad van 30 mei 2018 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van [Verordeningen (EG) nr. 715/2007](32007R0715) en [(EG) nr. 595/2009](32009R0595) en tot intrekking van [Richtlijn 2007/46/EG](32007L0046) (PbEU 2018, L 151/1);
+
+- b. het klanteninformatiedossier, bedoeld in artikel 9, vierde lid, van [Verordening (EU) 2017/2400](32017R2400) van de Commissie van 12 december 2017 tot uitvoering van [Verordening (EG) nr. 595/2009](32009R0595) van het Europees Parlement en de Raad wat de bepaling van de CO2-emissies en het brandstofverbruik van zware bedrijfsvoertuigen betreft, en tot wijziging van [Richtlijn 2007/46/EG](32007L0046) van het Europees Parlement en de Raad en [Verordening (EU) nr. 582/2011](32011R0582) van de Commissie (Pb EU 2017, L 349/1);
+
+- c. het conformiteitsbewijs, bedoeld in [Richtlijn 96/53/EG](31996L0053) van de Raad van 25 juli 1996 houdende vaststelling, voor bepaalde aan het verkeer binnen de Gemeenschap deelnemende wegvoertuigen, van de in het nationale en het internationale verkeer maximaal toegestane afmetingen, en van de in het internationale verkeer maximaal toegestane gewichten (PbEG 1996, L 235); of
+
+- d. een door de Dienst Wegverkeer dan wel een door een goedkeuringsinstantie in een andere lidstaat van de Europese Unie afgegeven certificaat van individuele goedkeuring.
 
 ### Hoofdstuk 4. Gegevensbescherming
 
@@ -80,17 +86,25 @@ De op grond van [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/j
 
 - a. het kenteken van de vrachtwagen waarvoor een vrijstelling als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=3) geldt;
 
-- b. de naam, het adres, de woonplaats en de contactgegevens van de houder en het kenteken van de vrachtwagen waarvoor een ontheffing als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=3) is aangevraagd;
+- b. de naam, het adres, de woonplaats en de contactgegevens van de houder van een vrachtwagen of ander motorrijtuig en het kenteken daarvan, in verband met de opname in het register, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=24), ter voorkoming van heffing en invordering van vrachtwagenheffing, omdat:
 
-- c. het kenteken van de vrachtwagen waarvoor een dienstverleningsovereenkomst als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=8) is gesloten alsmede het unieke kenmerk van de dienstverleningsovereenkomst;
+- 1°. de betreffende vrachtwagen op grond van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=3), is vrijgesteld van vrachtwagenheffing, of
 
-- d. het identificatienummer van de boordapparatuur;
+- 2°. het betreffende motorrijtuig ten onrechte als vrachtwagen is of zou kunnen worden aangemerkt;
 
-- e. de verplaatsingsgegevens van de vrachtwagen.
+- c. de naam, het adres, de woonplaats en de contactgegevens van de houder en het kenteken van de vrachtwagen waarvoor een ontheffing als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=3) is aangevraagd;
 
-2. De te verwerken persoonsgegevens voor de handhaving, bedoeld in [artikel 21, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=21), betreffen uitsluitend:
+- d. het kenteken van de vrachtwagen waarvoor een dienstverleningsovereenkomst als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=8) is gesloten alsmede het unieke kenmerk van de dienstverleningsovereenkomst;
 
-- a. de naam, het adres, de woonplaats, het KvK-nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), het KvK-vestigingsnummer, bedoeld in [artikel 11, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=11), of indien sprake is van een rechtspersoon waar geen onderneming aan toebehoort, bedoeld in [artikel 14, eerste lid, aanhef en onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=14), en de contactgegevens van de houder;
+- e. het identificatienummer van de boordapparatuur;
+
+- f. de verplaatsingsgegevens van de vrachtwagen;
+
+- g. met betrekking tot houders van vrachtwagens van wie geen dienstverleningsovereenkomst is geregistreerd: de naam, het adres en de woonplaats van de houder en het kenteken van de vrachtwagen waarvan is gebleken dat deze binnen de vrachtwagenheffing valt.
+
+2. De te verwerken persoonsgegevens voor de handhaving, bedoeld in [artikel 21, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=21), betreffen:
+
+- a. de naam, het adres, de woonplaats, de geboortedatum, het burgerservicenummer, het KvK-nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), het KvK-vestigingsnummer, bedoeld in [artikel 11, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=11), of indien sprake is van een rechtspersoon waar geen onderneming aan toebehoort, bedoeld in [artikel 14, eerste lid, aanhef en onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=14), en de contactgegevens van de houder;
 
 - b. de naam van de rekeninghouder en het rekeningnummer van degene die de bestuurlijke boete heeft betaald;
 
@@ -109,12 +123,6 @@ De op grond van [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/j
 - b. het kenteken van de vrachtwagen waarvan een overtreding als bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=13) is vastgesteld;
 
 - c. de naam van de rekeninghouder en de overige betalingsgegevens van degene die de boete heeft betaald.
-
-3. De te verwerken persoonsgegevens voor het informeren van de houder, bedoeld in [artikel 22, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=22) betreffen uitsluitend:
-
-- a. de naam, het adres, de woonplaats en de contactgegevens van de houder;
-
-- b. het kenteken van de vrachtwagen waarvan is gebleken dat deze binnen de vrachtwagenheffing valt.
 
 ### Hoofdstuk 5. Regels over inzet en kenbaar maken gebruik technisch hulpmiddel en benodigde informatie boordapparatuur
 
