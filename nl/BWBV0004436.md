@@ -4,7 +4,7 @@ identifier: "BWBV0004436"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-03-01"
-last_updated: "1966-08-29"
+last_updated: "2026-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004436"
 soort: "verdrag"
@@ -174,11 +174,11 @@ De Bank kan haar werkzaamheden uitvoeren op de volgende wijzen:
 
 ##### Artikel 12. Beperkingen ten aanzien van gewone werkzaamheden
 
-1. Het totale uitstaande bedrag aan leningen, beleggingen in aandelen en garanties, die door de Bank zijn verstrekt of gedaan in het kader van haar gewone werkzaamheden, mag nooit groter zijn dan het totale bedrag van haar onaangetaste geplaatste kapitaal, waarbij de reserves en de winst zijn begrepen in haar gewone kapitaalmiddelen, doch met uitzondering van de bijzondere reserve voorzien in artikel 17 van deze Overeenkomst en andere reserves die niet beschikbaar zijn voor gewone werkzaamheden.
+1. Geschrapt.1)Resolutie van de Raad van Bestuur van de ADB nr. 437 – Opheffing van de leenbeperking in de ADB-overeenkomst (aangenomen op 30 november 2025 en in werking op 1 maart 2026).
 
-2. Met betrekking tot leningen die worden verstrekt uit door de Bank geleende fondsen en waarop de verplichting gevolg te geven aan de in artikel 6, vijfde lid, van deze Overeenkomst geregelde opvragingen van toepassing is, mag het totale bedrag der hoofdsom dat uitstaat en betaalbaar is aan de Bank in een bepaalde valuta nooit het totale bedrag van de hoofdsom der door de Bank opgenomen uitstaande leningen, die betaalbaar zijn in dezelfde valuta, te boven gaan.
+2. Met betrekking tot leningen die worden verstrekt uit door de Bank geleende fondsen en waarop de verplichting gevolg te geven aan de in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004436&hoofdstuk=II&artikel=6&z=2026-03-01&g=2026-03-01), van deze Overeenkomst geregelde opvragingen van toepassing is, mag het totale bedrag van de hoofdsom dat uitstaat en betaalbaar is aan de Bank in een bepaalde valuta nooit het totale bedrag van de hoofdsom van de door de Bank opgenomen uitstaande leningen, die betaalbaar zijn in dezelfde valuta, te boven gaan.
 
-3. Met betrekking tot fondsen die zijn belegd in aandelenkapitaal uit de gewone kapitaalmiddelen van de Bank mag het in totaal belegde bedrag niet meer bedragen dan 10% van het totale bedrag van het onaangetaste volgestorte kapitaal van de Bank dat op een bepaald tijdstip werkelijk is betaald, vermeerderd met de reserves en de winst begrepen in haar gewone kapitaalmiddelen, met uitzondering van de in artikel 17 van deze Overeenkomst voorziene bijzondere reserve.
+3. Met betrekking tot fondsen die zijn belegd in aandelenkapitaal uit de gewone kapitaalmiddelen van de Bank mag het in totaal belegde bedrag niet meer bedragen dan tien (10) % van het totale bedrag van het onaangetaste volgestorte kapitaal van de Bank dat op een bepaald tijdstip werkelijk is betaald, vermeerderd met de reserves en de winst begrepen in haar gewone kapitaalmiddelen, met uitzondering van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004436&hoofdstuk=III&artikel=17&z=2026-03-01&g=2026-03-01) van deze Overeenkomst voorziene bijzondere reserve.
 
 4. Het met belegging in aandelen gemoeide bedrag mag een bepaald percentage van het aandelenkapitaal van het desbetreffende lichaam of de desbetreffende onderneming, van geval tot geval ter beoordeling van het College van Bewindvoerders, niet te boven gaan. De Bank tracht niet door een dergelijke investering een overheersend belang te verkrijgen in het desbetreffende lichaam of de desbetreffende onderneming, tenzij zulks noodzakelijk is ter beveiliging van de door de Bank gedane investering.
 
