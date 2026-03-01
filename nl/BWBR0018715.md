@@ -4,7 +4,7 @@ identifier: "BWBR0018715"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2026-02-14"
+last_updated: "2026-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018715"
 soort: "ministeriele-regeling"
@@ -160,7 +160,7 @@ De zorg bedoeld in [artikel 2.4 van het Besluit zorgverzekering](https://wetten.
 
 - j. behandeling van plagiocefalie en brachycefalie zonder craniosynostose met een redressiehelm;
 
-- k. de verstrekking van een geregistreerd geneesmiddel met een in [bijlage 0](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=0&z=2026-02-14&g=2026-02-14) bij deze regeling genoemde werkzame stof in het kader van een daarbij vermelde geneeskundige behandeling;
+- k. de verstrekking van een geregistreerd geneesmiddel met een in [bijlage 0](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=0&z=2026-03-01&g=2026-03-01) bij deze regeling genoemde werkzame stof in het kader van een daarbij vermelde geneeskundige behandeling;
 
 - l. uitwendige hulpmiddelen te gebruiken bij de behandeling van diabetes voor het controleren en reguleren van stoornissen in de bloedsuikerspiegel, met inbegrip van de ketonen teststrips en insulinepompen.
 
@@ -182,7 +182,7 @@ De zorg bedoeld in [artikel 2.4 van het Besluit zorgverzekering](https://wetten.
 
 - g. van 1 januari 2020 tot 1 januari 2029, hypertherme intraperitoneale chemotherapie toegevoegd aan primaire debulking bij patiënten met stadium III ovariumcarcinoom voor zover de verzekerde deelneemt aan onderzoek als bedoeld in het tweede lid, onderdeel a, naar deze zorg;
 
-- h. in afwijking van [artikel 2.1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.1&z=2026-02-14&g=2026-02-14), juncto [bijlage 0, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=0&z=2026-02-14&g=2026-02-14), van 1 januari 2020 tot 1 januari 2027 nusinersen voor de behandeling van patiënten met 5q spinale spieratrofie die 9,5 jaar en ouder zijn, voor zover de verzekerde deelneemt aan onderzoek als bedoeld in het tweede lid naar deze zorg.
+- h. in afwijking van [artikel 2.1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.1&z=2026-03-01&g=2026-03-01), juncto [bijlage 0, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=0&z=2026-03-01&g=2026-03-01), van 1 januari 2020 tot 1 januari 2027 nusinersen voor de behandeling van patiënten met 5q spinale spieratrofie die 9,5 jaar en ouder zijn, voor zover de verzekerde deelneemt aan onderzoek als bedoeld in het tweede lid naar deze zorg.
 
 2. Als onderzoek naar zorg wordt aangemerkt:
 
@@ -196,7 +196,7 @@ De zorg bedoeld in [artikel 2.4 van het Besluit zorgverzekering](https://wetten.
 
 - 3°. de verzekerde heeft deelgenomen aan het hoofdonderzoek zonder de zorg te hebben ontvangen en de deelname aan het hoofdonderzoek voor die verzekerde is voltooid.
 
-3. In afwijking van het eerste lid, onderdelen a en h, en onderdeel 136 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=2&z=2026-02-14&g=2026-02-14) bij deze regeling is deelname van de verzekerde aan onderzoek als bedoeld in het tweede lid niet vereist indien het onderzoek is voltooid en:
+3. In afwijking van het eerste lid, onderdelen a en h, en onderdeel 136 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=2&z=2026-03-01&g=2026-03-01) bij deze regeling is deelname van de verzekerde aan onderzoek als bedoeld in het tweede lid niet vereist indien het onderzoek is voltooid en:
 
 - a. zolang het Zorginstituut niet heeft beoordeeld in hoeverre de zorg voldoet aan [artikel 2.1, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.1); of
 
@@ -222,27 +222,27 @@ Vervallen
 
 ##### Artikel 2.5
 
-1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=1&z=2026-02-14&g=2026-02-14) bij deze regeling worden genoemd:
+1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=1&z=2026-03-01&g=2026-03-01) bij deze regeling worden genoemd:
 
 - a. de op grond van [artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.8) aangewezen geregistreerde geneesmiddelen;
 
 - b. de op grond van [artikel 2.1, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.1) aangewezen geneesmiddelen.
 
-2. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=2&z=2026-02-14&g=2026-02-14) bij deze regeling worden vermeld:
+2. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=2&z=2026-03-01&g=2026-03-01) bij deze regeling worden vermeld:
 
 - a. categorieën van geneesmiddelen, bedoeld in het eerste lid, onderdeel a, waarvoor de farmaceutische zorg slechts aflevering van dat geneesmiddel omvat indien voldaan is aan de bij die categorieën vermelde criteria;
 
 - b. de voorwaarden waaronder en de termijn gedurende welke de farmaceutische zorg, bedoeld in de aanhef van [artikel 2.8, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.8) de geneesmiddelen, bedoeld in het eerste lid, onderdeel b, omvat.
 
-3. Polymere, oligomere, monomere en modulaire dieetpreparaten behoren slechts tot de farmaceutische zorg indien voldaan is aan [onderdeel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=2&z=2026-02-14&g=2026-02-14) van deze regeling.
+3. Polymere, oligomere, monomere en modulaire dieetpreparaten behoren slechts tot de farmaceutische zorg indien voldaan is aan [onderdeel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=2&z=2026-03-01&g=2026-03-01) van deze regeling.
 
-4. In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=3&z=2026-02-14&g=2026-02-14), onderdelen A en B, bij deze regeling worden genoemd de geregistreerde geneesmiddelen die als gevolg van een beslissing als bedoeld in [artikel 2.50, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=3&artikel=2.50&z=2026-02-14&g=2026-02-14), niet zijn aangewezen, geregistreerde geneesmiddelen ten aanzien waarvan het voornemen tot aanwijzing als bedoeld in artikel 2.50, achtste lid, niet is uitgevoerd en geregistreerde geneesmiddelen die als gevolg van een wijziging van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=1&z=2026-02-14&g=2026-02-14) niet meer zijn aangewezen.
+4. In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=3&z=2026-03-01&g=2026-03-01), onderdelen A en B, bij deze regeling worden genoemd de geregistreerde geneesmiddelen die als gevolg van een beslissing als bedoeld in [artikel 2.50, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=3&artikel=2.50&z=2026-03-01&g=2026-03-01), niet zijn aangewezen, geregistreerde geneesmiddelen ten aanzien waarvan het voornemen tot aanwijzing als bedoeld in artikel 2.50, achtste lid, niet is uitgevoerd en geregistreerde geneesmiddelen die als gevolg van een wijziging van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=1&z=2026-03-01&g=2026-03-01) niet meer zijn aangewezen.
 
 5. Farmaceutische zorg, bedoeld in [artikel 2.8, eerste lid, onderdeel b, onder 1°, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.8), omvat geneesmiddelen die gelijkwaardig of nagenoeg gelijkwaardig zijn aan:
 
-- a. een geregistreerd UR-geneesmiddel als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) waarover blijkens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=1&z=2026-02-14&g=2026-02-14) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=3&z=2026-02-14&g=2026-02-14) bij deze regeling geen besluit over de aanwijzing, bedoeld in [artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.8), is genomen;
+- a. een geregistreerd UR-geneesmiddel als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) waarover blijkens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=1&z=2026-03-01&g=2026-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=3&z=2026-03-01&g=2026-03-01) bij deze regeling geen besluit over de aanwijzing, bedoeld in [artikel 2.8, eerste lid, onderdeel a, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.8), is genomen;
 
-- b. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=3&z=2026-02-14&g=2026-02-14), onderdeel A, bij deze regeling genoemd niet aangewezen, geregistreerd geneesmiddel als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1), mits aan daarbij vermelde criteria wordt voldaan.
+- b. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=3&z=2026-03-01&g=2026-03-01), onderdeel A, bij deze regeling genoemd niet aangewezen, geregistreerd geneesmiddel als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1), mits aan daarbij vermelde criteria wordt voldaan.
 
 #### § 1.4. Hulpmiddelenzorg
 
@@ -250,29 +250,29 @@ Vervallen
 
 De aangewezen hulpmiddelen en verbandmiddelen zijn:
 
-- a. Uitwendige hulpmiddelen ter volledige of gedeeltelijke vervanging van anatomische eigenschappen van onderdelen van het menselijk lichaam of bedekking daarvan, als omschreven in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.8&z=2026-02-14&g=2026-02-14);
+- a. Uitwendige hulpmiddelen ter volledige of gedeeltelijke vervanging van anatomische eigenschappen van onderdelen van het menselijk lichaam of bedekking daarvan, als omschreven in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.8&z=2026-03-01&g=2026-03-01);
 
-- b. Uitwendige hulpmiddelen voor het ademhalingsstelsel als omschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.9&z=2026-02-14&g=2026-02-14);
+- b. Uitwendige hulpmiddelen voor het ademhalingsstelsel als omschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.9&z=2026-03-01&g=2026-03-01);
 
-- c. uitwendige hulpmiddelen gerelateerd aan stoornissen in de hoorfunctie, als omschreven in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.10&z=2026-02-14&g=2026-02-14);
+- c. uitwendige hulpmiddelen gerelateerd aan stoornissen in de hoorfunctie, als omschreven in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.10&z=2026-03-01&g=2026-03-01);
 
-- d. uitwendige hulpmiddelen te gebruiken bij urinelozing en defecatie als omschreven in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.11&z=2026-02-14&g=2026-02-14);
+- d. uitwendige hulpmiddelen te gebruiken bij urinelozing en defecatie als omschreven in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.11&z=2026-03-01&g=2026-03-01);
 
-- e. uitwendige hulpmiddelen gerelateerd aan stoornissen in het bewegingssysteem, als omschreven in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.12&z=2026-02-14&g=2026-02-14);
+- e. uitwendige hulpmiddelen gerelateerd aan stoornissen in het bewegingssysteem, als omschreven in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.12&z=2026-03-01&g=2026-03-01);
 
-- f. uitwendige hulpmiddelen gerelateerd aan stoornissen in de visuele functie als omschreven in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.13&z=2026-02-14&g=2026-02-14);
+- f. uitwendige hulpmiddelen gerelateerd aan stoornissen in de visuele functie als omschreven in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.13&z=2026-03-01&g=2026-03-01);
 
 - g. hulpmiddelen gerelateerd aan stoornissen in de mate van bewustzijn;
 
 - h. vervallen;
 
-- i. hulpmiddelen voor anticonceptionele doeleinden als omschreven in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.16&z=2026-02-14&g=2026-02-14);
+- i. hulpmiddelen voor anticonceptionele doeleinden als omschreven in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.16&z=2026-03-01&g=2026-03-01);
 
-- j. hulpmiddelen die samenhangen met verzorging en verpleging op bed, als omschreven in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.17&z=2026-02-14&g=2026-02-14);
+- j. hulpmiddelen die samenhangen met verzorging en verpleging op bed, als omschreven in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.17&z=2026-03-01&g=2026-03-01);
 
-- k. hulpmiddelen te gebruiken bij stoornissen in de functies van de huid als omschreven in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.18&z=2026-02-14&g=2026-02-14);
+- k. hulpmiddelen te gebruiken bij stoornissen in de functies van de huid als omschreven in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.18&z=2026-03-01&g=2026-03-01);
 
-- l. injectiespuiten als omschreven in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.19&z=2026-02-14&g=2026-02-14);
+- l. injectiespuiten als omschreven in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.19&z=2026-03-01&g=2026-03-01);
 
 - m. uitwendige hulpmiddelen te gebruiken bij het langdurig compenseren van het functieverlies van aderen bij het transport van bloed en het functieverlies van lymfevaten bij het transport van lymfe;
 
@@ -280,15 +280,15 @@ De aangewezen hulpmiddelen en verbandmiddelen zijn:
 
 - o. uitwendige hulpmiddelen te gebruiken bij het controleren en reguleren van stoornissen in de bloedsuikerspiegel, met inbegrip van de ketonen teststrips en insulinepompen bij de behandeling van diabetes;
 
-- p. draagbare, uitwendige infuuspompen als omschreven in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.22&z=2026-02-14&g=2026-02-14);
+- p. draagbare, uitwendige infuuspompen als omschreven in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.22&z=2026-03-01&g=2026-03-01);
 
 - q. vervallen;
 
-- r. hulpmiddelen voor het toedienen van voeding als omschreven in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.24&z=2026-02-14&g=2026-02-14);
+- r. hulpmiddelen voor het toedienen van voeding als omschreven in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.24&z=2026-03-01&g=2026-03-01);
 
 - s. uitwendige hulpmiddelen gerelateerd aan en ter compensatie van beperkingen in het spreken;
 
-- t. hulpmiddelen voor communicatie, informatievoorziening en signalering als omschreven in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.26&z=2026-02-14&g=2026-02-14);
+- t. hulpmiddelen voor communicatie, informatievoorziening en signalering als omschreven in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.26&z=2026-03-01&g=2026-03-01);
 
 - u. vervallen;
 
@@ -316,17 +316,17 @@ De aangewezen hulpmiddelen en verbandmiddelen zijn:
 
 - gg. vervallen;
 
-- hh. met thuisdialyse samenhangende kosten als omschreven in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.29&z=2026-02-14&g=2026-02-14).
+- hh. met thuisdialyse samenhangende kosten als omschreven in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.29&z=2026-03-01&g=2026-03-01).
 
 ##### Artikel 2.7
 
-1. Indien in de [artikelen 2.8 tot en met 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.8&z=2026-02-14&g=2026-02-14) een leeftijd is vermeld, wordt bedoeld de leeftijd van de verzekerde op het moment waarop hij zich wendt tot de aanbieder van het hulpmiddel.
+1. Indien in de [artikelen 2.8 tot en met 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.8&z=2026-03-01&g=2026-03-01) een leeftijd is vermeld, wordt bedoeld de leeftijd van de verzekerde op het moment waarop hij zich wendt tot de aanbieder van het hulpmiddel.
 
 2. Indien een hulpmiddel in bruikleen wordt gegeven, omvat het hulpmiddel tevens vergoeding van de kosten van vervoer van het hulpmiddel naar en van de woning van de verzekerde, van het regelmatig onderhoud ervan alsmede van de voor gebruik, ontsmetting en reiniging van de apparatuur benodigde chemicaliën.
 
 ##### Artikel 2.8
 
-Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten:
+Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten:
 
 - a. hulpmiddelen ter volledige of gedeeltelijke vervanging van:
 
@@ -346,7 +346,7 @@ Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel a](https://wetten.overheid.n
 
 ##### Artikel 2.9
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten uitwendige hulpmiddelen voor het geheel of gedeeltelijk opheffen van de gevolgen van stoornissen in de functie van het ademhalingsstelsel, met inbegrip van stoffen die met behulp van deze hulpmiddelen worden toegediend, te weten:
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten uitwendige hulpmiddelen voor het geheel of gedeeltelijk opheffen van de gevolgen van stoornissen in de functie van het ademhalingsstelsel, met inbegrip van stoffen die met behulp van deze hulpmiddelen worden toegediend, te weten:
 
 - a. zuurstof;
 
@@ -362,7 +362,7 @@ Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel a](https://wetten.overheid.n
 
 ##### Artikel 2.10
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten:
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten:
 
 - a. hulpmiddelen ter correctie van stoornissen in de hoorfunctie voor zover er sprake is van een revalideerbaar oor met ten minste een verlies van 35 dB of ernstig oorsuizen;
 
@@ -376,7 +376,7 @@ Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel a](https://wetten.overheid.n
 
 ##### Artikel 2.11
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten uitwendige hulpmiddelen met al dan niet inwendige onderdelen te gebruiken bij stoornissen in de functies gerelateerd aan urinelozing en defecatie.
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten uitwendige hulpmiddelen met al dan niet inwendige onderdelen te gebruiken bij stoornissen in de functies gerelateerd aan urinelozing en defecatie.
 
 2. De zorg, bedoeld in het eerste lid, omvat ingeval van absorberende incontinentie-absorptiematerialen:
 
@@ -400,11 +400,11 @@ bijzondere individuele zorgvraag.
 
 ##### Artikel 2.12
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten:
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten:
 
 - a. hulpmiddelen ter correctie van gestoorde functies van het bewegingssysteem, aan beweging verwante functies of anatomische eigenschappen van structuren verwant aan beweging, toe te passen bij een ernstige aandoening, waarop de verzekerde permanent en niet uitsluitend bij sportactiviteiten is aangewezen.
 
-- b. hulpmiddelen, niet zijnde een hulpmiddel voor verzorging en verpleging op bed als omschreven in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.17&z=2026-02-14&g=2026-02-14), ter compensatie van beperkingen bij het:
+- b. hulpmiddelen, niet zijnde een hulpmiddel voor verzorging en verpleging op bed als omschreven in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.17&z=2026-03-01&g=2026-03-01), ter compensatie van beperkingen bij het:
 
 - 1°. lopen;
 
@@ -432,7 +432,7 @@ bijzondere individuele zorgvraag.
 
 ##### Artikel 2.13
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten:
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten:
 
 - a. hulpmiddelen ter correctie van stoornissen in de visuele functie van het oog en van functies van aan het oog verwante structuren;
 
@@ -476,7 +476,7 @@ Vervallen
 
 ##### Artikel 2.16
 
-Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel i,](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14) omvatten, uitsluitend voor verzekerden jonger dan eenentwintig jaar:
+Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel i,](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01) omvatten, uitsluitend voor verzekerden jonger dan eenentwintig jaar:
 
 - a. pessaria;
 
@@ -484,7 +484,7 @@ Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel i,](https://wetten.overheid.
 
 ##### Artikel 2.17
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten:
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten:
 
 - a. bedden in speciale uitvoering met inbegrip van daarvoor bestemde matrassen;
 
@@ -508,7 +508,7 @@ Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel i,](https://wetten.overheid.
 
 ##### Artikel 2.18
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten hulpmiddelen ter behandeling van stoornissen in de functies van de huid, niet zijnde hulpmiddelen voor het veranderen en handhaven van lichaamshouding en antidecubitusbedden, -matrassen en -overtrekken die vallen onder de in de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.12&z=2026-02-14&g=2026-02-14) en [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.17&z=2026-02-14&g=2026-02-14) omschreven hulpmiddelen.
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten hulpmiddelen ter behandeling van stoornissen in de functies van de huid, niet zijnde hulpmiddelen voor het veranderen en handhaven van lichaamshouding en antidecubitusbedden, -matrassen en -overtrekken die vallen onder de in de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.12&z=2026-03-01&g=2026-03-01) en [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.17&z=2026-03-01&g=2026-03-01) omschreven hulpmiddelen.
 
 2. In geval van hulpmiddelen ter behandeling van stoornissen in de functie van de huid, zoals bedoeld in het eerste lid, dient sprake te zijn van:
 
@@ -528,7 +528,7 @@ Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel i,](https://wetten.overheid.
 
 ##### Artikel 2.19
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten injectiespuiten met toebehoren dan wel injectiepennen met toebehoren, indien sprake is van een aandoening die een langdurig gebruik van deze middelen noodzakelijk maakt, met uitzondering van gebruik bij behandeling van diabetes.
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten injectiespuiten met toebehoren dan wel injectiepennen met toebehoren, indien sprake is van een aandoening die een langdurig gebruik van deze middelen noodzakelijk maakt, met uitzondering van gebruik bij behandeling van diabetes.
 
 2. Een hulpmiddel als bedoeld in het eerste lid omvat tevens een aan een handicap aangepaste uitvoering, indien de verzekerde ten gevolge van een ernstige motorische handicap dan wel een verminderd gezichtsvermogen redelijkerwijs niet kan volstaan met een injectiespuit of injectiepen in een niet aangepaste uitvoering.
 
@@ -542,7 +542,7 @@ Vervallen
 
 ##### Artikel 2.22
 
-Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten draagbare, uitwendige infuuspompen met toebehoren, indien sprake is van continue parenterale toediening in de thuissituatie van een geneesmiddel dat valt onder de farmaceutische zorg, bedoeld in [artikel 2.8 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.8), met uitzondering van insuline.
+Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten draagbare, uitwendige infuuspompen met toebehoren, indien sprake is van continue parenterale toediening in de thuissituatie van een geneesmiddel dat valt onder de farmaceutische zorg, bedoeld in [artikel 2.8 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.8), met uitzondering van insuline.
 
 ##### Artikel 2.23
 
@@ -550,7 +550,7 @@ Vervallen
 
 ##### Artikel 2.24
 
-1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten, indien het gebruik om medische redenen aangewezen is:
+1. Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten, indien het gebruik om medische redenen aangewezen is:
 
 - a. niet-klinisch ingebrachte sondes met toebehoren;
 
@@ -564,7 +564,7 @@ Vervallen
 
 ##### Artikel 2.26
 
-Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten:
+Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten:
 
 - a. vervallen;
 
@@ -600,7 +600,7 @@ Vervallen
 
 ##### Artikel 2.29
 
-Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel hh](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-02-14&g=2026-02-14), omvatten:
+Hulpmiddelen als bedoeld in [artikel 2.6, onderdeel hh](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.6&z=2026-03-01&g=2026-03-01), omvatten:
 
 - a. vergoeding van de kosten voor de redelijkerwijs te verrichten aanpassingen in en aan de woning en voor het herstel in de oorspronkelijke staat, voor zover andere wettelijke regelingen daarin niet voorzien;
 
@@ -822,7 +822,7 @@ Bij de aanwijzing op grond van [artikel 2.8 van het Besluit zorgverzekering](htt
 
 - b. deze verschillen in eigenschappen zich voordoen of kunnen voordoen bij de gehele patiëntenpopulatie, bij welke de geneesmiddelen kunnen worden toegepast, en
 
-- c. uit de gegevens en bescheiden, bedoeld in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.39&z=2026-02-14&g=2026-02-14), blijkt dat deze verschillen in eigenschappen, tezamen genomen, bepalend zijn voor de keuze van het geneesmiddel door de arts.
+- c. uit de gegevens en bescheiden, bedoeld in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.39&z=2026-03-01&g=2026-03-01), blijkt dat deze verschillen in eigenschappen, tezamen genomen, bepalend zijn voor de keuze van het geneesmiddel door de arts.
 
 4. In afwijking van het eerste en tweede lid worden geneesmiddelen die behoren tot een subgroep die alleen uit preparaten bestaat of alleen uit specialités onder dezelfde merknaam, niet als onderling vervangbaar beschouwd.
 
@@ -840,7 +840,7 @@ Bij de aanwijzing op grond van [artikel 2.8 van het Besluit zorgverzekering](htt
 
 2. De standaarddosis wordt bepaald op basis van de Defined Daily Dose, tenzij de Defined Daily Dose lager is dan de in Nederland geadviseerde minimale dosering of hoger is dan de in Nederland geadviseerde maximale dosering.
 
-3. Indien een werkzaam bestanddeel onder verschillende zout- of estervormen in de handel is en bij de Defined Daily Dose geen onderscheid is gemaakt naar de zout- of estervorm, wordt de standaarddosis voor de verschillende zout- of estervormen, voor zover mogelijk, herleid tot de zout- of estervorm die het meest voorkomt in de in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.39&z=2026-02-14&g=2026-02-14) genoemde bronnen.
+3. Indien een werkzaam bestanddeel onder verschillende zout- of estervormen in de handel is en bij de Defined Daily Dose geen onderscheid is gemaakt naar de zout- of estervorm, wordt de standaarddosis voor de verschillende zout- of estervormen, voor zover mogelijk, herleid tot de zout- of estervorm die het meest voorkomt in de in [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.39&z=2026-03-01&g=2026-03-01) genoemde bronnen.
 
 4. Voor uitwendig toegepaste dermatologica geldt als standaarddosis 1 gram, 1 ml of 100 cm2, afhankelijk van de gehanteerde hoeveelheidsmaat.
 
@@ -868,7 +868,7 @@ Bij de aanwijzing op grond van [artikel 2.8 van het Besluit zorgverzekering](htt
 
 2. Indien een groep van onderling vervangbare geneesmiddelen bestaat uit geneesmiddelen die na het in het eerste lid bedoelde tijdstip geregistreerd zijn of waarvan de prijs voor het eerst voorkwam in een na dat tijdstip verschenen Taxe, wordt voor de berekening van de vergoedingslimiet voor de tot die groep behorende geneesmiddelen uitgegaan van de prijs van het geneesmiddel, waarvan de prijs het eerst in de Taxe is vermeld.
 
-3. Bij de berekening van de vergoedingslimiet worden de prijzen van parallel geïmporteerde geneesmiddelen en van combinatiepreparaten als bedoeld in [artikel 2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-02-14&g=2026-02-14), buiten beschouwing gelaten.
+3. Bij de berekening van de vergoedingslimiet worden de prijzen van parallel geïmporteerde geneesmiddelen en van combinatiepreparaten als bedoeld in [artikel 2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-03-01&g=2026-03-01), buiten beschouwing gelaten.
 
 ##### Artikel 2.43
 
@@ -886,7 +886,7 @@ Bij de aanwijzing op grond van [artikel 2.8 van het Besluit zorgverzekering](htt
 
 ##### Artikel 2.44
 
-1. Indien de groep van onderling vervangbare geneesmiddelen bestaat uit slechts één subgroep, is de in [artikel 2.43, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.43&z=2026-02-14&g=2026-02-14), bedoelde prijs per subgroep de basis voor de berekening van de vergoedingslimiet van de tot die groep behorende geneesmiddelen.
+1. Indien de groep van onderling vervangbare geneesmiddelen bestaat uit slechts één subgroep, is de in [artikel 2.43, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.43&z=2026-03-01&g=2026-03-01), bedoelde prijs per subgroep de basis voor de berekening van de vergoedingslimiet van de tot die groep behorende geneesmiddelen.
 
 2. Indien de groep van onderling vervangbare geneesmiddelen bestaat uit meer dan één subgroep, worden, indien:
 
@@ -896,29 +896,29 @@ Bij de aanwijzing op grond van [artikel 2.8 van het Besluit zorgverzekering](htt
 
 ##### Artikel 2.45
 
-1. Indien er binnen een groep van onderling vervangbare geneesmiddelen een geneesmiddel is, waarvan de prijs per standaarddosis gelijk is aan de in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.44&z=2026-02-14&g=2026-02-14) bedoelde berekeningsbasis, is de vergoedingslimiet voor de geneesmiddelen uit die groep gelijk aan de prijs per standaarddosis van dat geneesmiddel.
+1. Indien er binnen een groep van onderling vervangbare geneesmiddelen een geneesmiddel is, waarvan de prijs per standaarddosis gelijk is aan de in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.44&z=2026-03-01&g=2026-03-01) bedoelde berekeningsbasis, is de vergoedingslimiet voor de geneesmiddelen uit die groep gelijk aan de prijs per standaarddosis van dat geneesmiddel.
 
-2. Indien er binnen een groep van onderling vervangbare geneesmiddelen geen geneesmiddel is waarvan de prijs per standaarddosis gelijk is aan de in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.44&z=2026-02-14&g=2026-02-14) bedoelde berekeningsbasis, is de vergoedingslimiet voor de geneesmiddelen uit die groep gelijk aan de prijs per standaarddosis van het geneesmiddel die zo dicht mogelijk onder de berekeningsbasis ligt.
+2. Indien er binnen een groep van onderling vervangbare geneesmiddelen geen geneesmiddel is waarvan de prijs per standaarddosis gelijk is aan de in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.44&z=2026-03-01&g=2026-03-01) bedoelde berekeningsbasis, is de vergoedingslimiet voor de geneesmiddelen uit die groep gelijk aan de prijs per standaarddosis van het geneesmiddel die zo dicht mogelijk onder de berekeningsbasis ligt.
 
 ##### Artikel 2.46
 
-1. Indien van een geneesmiddel verschillende toedieningssterkten bestaan, wordt de vergoedingslimiet, berekend overeenkomstig de [artikelen 2.41 tot en met 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.41&z=2026-02-14&g=2026-02-14), voor het geneesmiddel met de kleinste toedieningssterkte gecorrigeerd door de ongecorrigeerde vergoedingslimiet te vermenigvuldigen met 2/10 maal het quotiënt van de referentiehoeveelheid en de kleinste toedieningssterkte van dat geneesmiddel, vermeerderd met 8/10.
+1. Indien van een geneesmiddel verschillende toedieningssterkten bestaan, wordt de vergoedingslimiet, berekend overeenkomstig de [artikelen 2.41 tot en met 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.41&z=2026-03-01&g=2026-03-01), voor het geneesmiddel met de kleinste toedieningssterkte gecorrigeerd door de ongecorrigeerde vergoedingslimiet te vermenigvuldigen met 2/10 maal het quotiënt van de referentiehoeveelheid en de kleinste toedieningssterkte van dat geneesmiddel, vermeerderd met 8/10.
 
 2. Voor geneesmiddelen die voor andere leeftijdscategorieën dan volwassenen zijn bestemd, is de referentiehoeveelheid de hoeveelheid die voorkomt in het preparaat van de hoogste hoeveelheid van die andere leeftijdscategorieën.
 
 3. De dimensie van de referentiehoeveelheid moet gelijk zijn aan de dimensie van de kleinste toedieningsvorm.
 
-4. Bij geneesmiddelen als bedoeld in de [artikelen 2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-02-14&g=2026-02-14), en [2.41, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.41&z=2026-02-14&g=2026-02-14), blijven het eerste tot en met het derde lid buiten toepassing.
+4. Bij geneesmiddelen als bedoeld in de [artikelen 2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-03-01&g=2026-03-01), en [2.41, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.41&z=2026-03-01&g=2026-03-01), blijven het eerste tot en met het derde lid buiten toepassing.
 
 ##### Artikel 2.47
 
-1. De vergoedingslimiet van een combinatiepreparaat als bedoeld in [artikel 2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-02-14&g=2026-02-14), is gelijk aan de som van de vergoedingslimieten voor de geneesmiddelen, niet zijnde combinatiepreparaten, die de werkzame bestanddelen bevatten die in het combinatiepreparaat voorkomen en die langs dezelfde toedieningsweg worden toegediend en in het algemeen voor dezelfde leeftijdscategorie zijn bestemd als het combinatiepreparaat.
+1. De vergoedingslimiet van een combinatiepreparaat als bedoeld in [artikel 2.40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-03-01&g=2026-03-01), is gelijk aan de som van de vergoedingslimieten voor de geneesmiddelen, niet zijnde combinatiepreparaten, die de werkzame bestanddelen bevatten die in het combinatiepreparaat voorkomen en die langs dezelfde toedieningsweg worden toegediend en in het algemeen voor dezelfde leeftijdscategorie zijn bestemd als het combinatiepreparaat.
 
 2. Indien de in het eerste lid bedoelde geneesmiddelen die geen combinatiepreparaten zijn, een in het combinatiepreparaat voorkomend werkzaam bestanddeel bevatten in een andere hoeveelheid of in een andere toedieningsvorm dan die welke in het combinatiepreparaat voorkomt, wordt uitgegaan van de vergoedingslimieten, die voor die geneesmiddelen zouden hebben gegolden indien die geneesmiddelen dat werkzame bestanddeel zouden hebben bevat in de hoeveelheid en de toedieningsvorm die in het combinatiepreparaat voorkomt.
 
 ##### Artikel 2.48
 
-Voor zover de toepassing van de [artikelen 2.40 tot en met 2.47](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-02-14&g=2026-02-14) naar het oordeel van de Minister tot een uitkomst leidt die niet in overeenstemming is met de strekking daarvan, kan de Minister een besluit nemen in afwijking daarvan.
+Voor zover de toepassing van de [artikelen 2.40 tot en met 2.47](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=2&artikel=2.40&z=2026-03-01&g=2026-03-01) naar het oordeel van de Minister tot een uitkomst leidt die niet in overeenstemming is met de strekking daarvan, kan de Minister een besluit nemen in afwijking daarvan.
 
 ##### Artikel 2.49
 
@@ -984,7 +984,7 @@ In de centrale administratie van ’s rijks schatkist wordt een rekening-courant
 
 1. De betaalrekeningen van het Zorginstituut bij in Nederland gevestigde banken worden door het Ministerie van Financiën in overeenstemming met de betrokken banken opgenomen in concernverband met betaalrekeningen van ’s rijks schatkist bij die banken.
 
-2. Dagelijks op nader in overleg met de betrokken banken te bepalen tijdstippen worden de op de betaalrekeningen van het Zorginstituut voorkomende positieve saldi overgeboekt naar ’s rijks schatkist, dan wel worden voorkomende negatieve saldi aangevuld vanuit ’s rijks schatkist. De hiermee samenhangende mutaties op de betaalrekeningen worden door het Ministerie van Financiën ten gunste dan wel ten laste van de rekening-courant, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.2&z=2026-02-14&g=2026-02-14), geboekt.
+2. Dagelijks op nader in overleg met de betrokken banken te bepalen tijdstippen worden de op de betaalrekeningen van het Zorginstituut voorkomende positieve saldi overgeboekt naar ’s rijks schatkist, dan wel worden voorkomende negatieve saldi aangevuld vanuit ’s rijks schatkist. De hiermee samenhangende mutaties op de betaalrekeningen worden door het Ministerie van Financiën ten gunste dan wel ten laste van de rekening-courant, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.2&z=2026-03-01&g=2026-03-01), geboekt.
 
 3. Het Ministerie van Financiën sluit met het Zorginstituut een overeenkomst ter uitwerking van het gebruik van de rekening-courant.
 
@@ -992,15 +992,15 @@ In de centrale administratie van ’s rijks schatkist wordt een rekening-courant
 
 ##### Artikel 4.4
 
-1. Ten gunste van de rekening-courant, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.2&z=2026-02-14&g=2026-02-14), worden door het Ministerie van Financiën tevens geboekt:
+1. Ten gunste van de rekening-courant, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.2&z=2026-03-01&g=2026-03-01), worden door het Ministerie van Financiën tevens geboekt:
 
 - a. de bijdragen van het Rijk aan de rekening-couranthouder ten behoeve van het Zorgverzekeringsfonds;
 
 - b. de afdrachten van de door de rijksbelastingdienst geïnde bijdragen aan de rekening-couranthouder ten behoeve van het Zorgverzekeringsfonds;
 
-- c. de creditrente, bedoeld in [artikel 4.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.5&z=2026-02-14&g=2026-02-14).
+- c. de creditrente, bedoeld in [artikel 4.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.5&z=2026-03-01&g=2026-03-01).
 
-2. Ten laste van de rekeningen-courant, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.2&z=2026-02-14&g=2026-02-14), wordt door het Ministerie van Financiën tevens geboekt de debetrente, bedoeld in [artikel 4.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.5&z=2026-02-14&g=2026-02-14).
+2. Ten laste van de rekeningen-courant, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.2&z=2026-03-01&g=2026-03-01), wordt door het Ministerie van Financiën tevens geboekt de debetrente, bedoeld in [artikel 4.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=4&artikel=4.5&z=2026-03-01&g=2026-03-01).
 
 3. De boekingen, bedoeld in het eerste lid, onderdeel b, worden door het Ministerie van Financiën van valutadata voorzien, zodanig dat deze data overeenkomen met de gemiddelde data waarop de bijdragen door de rijksbelastingdienst worden geïnd.
 
@@ -1054,7 +1054,7 @@ Het loon, bedoeld in [artikel 42, tweede lid, van de Zorgverzekeringswet](https:
 
 ##### Artikel 5.3
 
-Het bijdrage-inkomen, bedoeld in [artikel 43, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43), dat voor de heffing van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41), ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2026 vastgesteld op het bedrag, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.2&z=2026-02-14&g=2026-02-14).
+Het bijdrage-inkomen, bedoeld in [artikel 43, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43), dat voor de heffing van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41), ten hoogste in aanmerking wordt genomen, wordt voor het jaar 2026 vastgesteld op het bedrag, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.2&z=2026-03-01&g=2026-03-01).
 
 ##### Artikel 5.4
 
@@ -1064,9 +1064,9 @@ Het bijdrage-inkomen, bedoeld in [artikel 43, derde lid, van de Zorgverzekerings
 
 3. In afwijking van het eerste of tweede lid, wordt het percentage vastgesteld op nihil over bijdrage-inkomen voortvloeiende uit werkzaamheden van een verzekeringsplichtige aan boord van een zeeschip in de zin van het Burgerlijk Wetboek, mits de werkgever of de scheepsbeheerder, bedoeld in [artikel 1 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=1), het risico als bedoeld in [hoofdstuk 3 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=3), op grond van een verdragsrechtelijke bepaling of een bepaling die daarop stoelt, in belangrijke mate voor zijn rekening neemt zolang deze verzekeringsplichtige niet is teruggekeerd of heeft kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.
 
-4. Indien het loon waarover de inhoudingsplichtige inkomensafhankelijke bijdrage verschuldigd is meer bedraagt dan het bedrag, genoemd in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.2&z=2026-02-14&g=2026-02-14), en is samengesteld uit bestanddelen waarover een verschillend bijdragepercentage is verschuldigd, worden de bestanddelen zodanig toegerekend dat het bijdragepercentage van 6,10 het eerst in aanmerking wordt genomen, en daarna het percentage van 0.
+4. Indien het loon waarover de inhoudingsplichtige inkomensafhankelijke bijdrage verschuldigd is meer bedraagt dan het bedrag, genoemd in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.2&z=2026-03-01&g=2026-03-01), en is samengesteld uit bestanddelen waarover een verschillend bijdragepercentage is verschuldigd, worden de bestanddelen zodanig toegerekend dat het bijdragepercentage van 6,10 het eerst in aanmerking wordt genomen, en daarna het percentage van 0.
 
-5. Indien het bijdrage-inkomen waarover de verzekeringsplichtige inkomensafhankelijke bijdrage verschuldigd is meer bedraagt dan het bedrag, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.3&z=2026-02-14&g=2026-02-14), en is samengesteld uit bestanddelen waarover een verschillend bijdragepercentage is verschuldigd, worden de bestanddelen zodanig toegerekend dat het bijdragepercentage van 4,85 het eerst in aanmerking wordt genomen, en daarna het percentage van 0.
+5. Indien het bijdrage-inkomen waarover de verzekeringsplichtige inkomensafhankelijke bijdrage verschuldigd is meer bedraagt dan het bedrag, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.3&z=2026-03-01&g=2026-03-01), en is samengesteld uit bestanddelen waarover een verschillend bijdragepercentage is verschuldigd, worden de bestanddelen zodanig toegerekend dat het bijdragepercentage van 4,85 het eerst in aanmerking wordt genomen, en daarna het percentage van 0.
 
 ##### Artikel 5.5
 
@@ -1088,7 +1088,7 @@ Een bedrag dat in aanmerking is genomen als loon in de zin van [artikel 42, eers
 
 ##### Artikel 5.7
 
-1. Voor de toepassing van dit artikel en van [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.8&z=2026-02-14&g=2026-02-14) worden de landen van het Koninkrijk der Nederlanden aangemerkt als afzonderlijke mogendheden.
+1. Voor de toepassing van dit artikel en van [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.8&z=2026-03-01&g=2026-03-01) worden de landen van het Koninkrijk der Nederlanden aangemerkt als afzonderlijke mogendheden.
 
 2. Tot het loon, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), of het bijdrage-inkomen, bedoeld in [artikel 43 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43), behoren niet:
 
@@ -1108,7 +1108,7 @@ Een bedrag dat in aanmerking is genomen als loon in de zin van [artikel 42, eers
 
 1. Ten aanzien van degene die gedurende een deel van het kalenderjaar niet verzekeringsplichtig is ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), wordt voor de bijdrageheffing bij wege van aanslag als bijdrage-inkomen geen hoger bedrag in aanmerking genomen dan het bijdrage-inkomen verminderd met het gedeelte daarvan waarop, ingevolge een internationale regeling inzake sociale zekerheid die tussen Nederland en een of meer andere mogendheden van kracht is, de wetgeving van een andere mogendheid van toepassing is, of dat, bij gebreke van een internationale regeling, is onderworpen aan premieheffing krachtens een wettelijke regeling inzake ziektekosten van een andere mogendheid.
 
-2. Ten aanzien van degene die gedurende een deel van het kalenderjaar anders dan door overlijden niet verzekeringsplichtig is ingevolge de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), wordt voor de bijdrageheffing als bijdrage-inkomen ten hoogste in aanmerking genomen het bedrag dat naar tijdsevenredigheid is afgeleid van het bedrag, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.3&z=2026-02-14&g=2026-02-14), tenzij toepassing van de bepalingen in de Zorgverzekeringswet of van de overige bepalingen in deze regeling tot een lager bijdrage-inkomen leidt.
+2. Ten aanzien van degene die gedurende een deel van het kalenderjaar anders dan door overlijden niet verzekeringsplichtig is ingevolge de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), wordt voor de bijdrageheffing als bijdrage-inkomen ten hoogste in aanmerking genomen het bedrag dat naar tijdsevenredigheid is afgeleid van het bedrag, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=5&artikel=5.3&z=2026-03-01&g=2026-03-01), tenzij toepassing van de bepalingen in de Zorgverzekeringswet of van de overige bepalingen in deze regeling tot een lager bijdrage-inkomen leidt.
 
 ##### Artikel 5.9
 
@@ -1184,7 +1184,7 @@ Vervallen
 
 ##### Artikel 6.2.1
 
-In [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=2&z=2026-02-14&g=2026-02-14) wordt verstaan onder:
+In [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=2&z=2026-03-01&g=2026-03-01) wordt verstaan onder:
 
 - a. **subsidiejaar:** kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;
 
@@ -1430,13 +1430,13 @@ Voor de toepassing van deze bepaling wordt onder een partner verstaan een partne
 
 8. Ter zake van de opgaaf van niet in Nederland belastbaar inkomen is de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), met uitzondering van [Hoofdstuk VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA), van toepassing als ware deze opgaaf een aangifte inkomstenbelasting.
 
-9. Het verhoudingsgetal, bedoeld in het eerste lid, wordt per land genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4&z=2026-02-14&g=2026-02-14) bij deze regeling.
+9. Het verhoudingsgetal, bedoeld in het eerste lid, wordt per land genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4&z=2026-03-01&g=2026-03-01) bij deze regeling.
 
 ##### Artikel 6.3.1a
 
-In de [artikelen 6.3.2 tot en met 6.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.2&z=2026-02-14&g=2026-02-14) wordt verstaan onder:
+In de [artikelen 6.3.2 tot en met 6.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.2&z=2026-03-01&g=2026-03-01) wordt verstaan onder:
 
-- a. **bijdrageplichtige:** eenieder die krachtens [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) in verbinding met [artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-02-14&g=2026-02-14) een bijdrage verschuldigd is,
+- a. **bijdrageplichtige:** eenieder die krachtens [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) in verbinding met [artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-03-01&g=2026-03-01) een bijdrage verschuldigd is,
 
 - b. **hoofdbijdrageplichtige:** een bijdrageplichtige met een of meer gezinsleden die niet bijdrageplichtig zouden zijn geweest indien zij niet tot het gezin van de hoofdbijdrageplichtige zouden hebben behoord,
 
@@ -1444,7 +1444,7 @@ In de [artikelen 6.3.2 tot en met 6.3.4](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 6.3.1b
 
-De voor een gezinslid van een verzekeringsplichtige verschuldigde bijdrage, bedoeld in [artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-02-14&g=2026-02-14), wordt door het CAK geheven en geïnd bij de verzekeringsplichtige.
+De voor een gezinslid van een verzekeringsplichtige verschuldigde bijdrage, bedoeld in [artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-03-01&g=2026-03-01), wordt door het CAK geheven en geïnd bij de verzekeringsplichtige.
 
 ##### Artikel 6.3.2
 
@@ -1460,7 +1460,7 @@ De voor een gezinslid van een verzekeringsplichtige verschuldigde bijdrage, bedo
 
 3. Het CAK kan een orgaan dat pensioen of rente uitkeert of een werkgever van een grensarbeider opdragen een bijdrage op het pensioen, de rente of op het loon in te houden en af te dragen, zolang het CAK niet beschikt over de gegevens, bedoeld in het tweede lid. In dat geval berekent het orgaan of de werkgever de bijdrage uitgaande van de bij hem bekende gegevens over de samenstelling van het gezin van de bijdrageplichtige.
 
-4. Indien een bijdrageplichtige recht heeft op meer dan één pensioen of rente, wordt het in [artikel 6.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-02-14&g=2026-02-14), bedoelde nominale deel van de bijdrage dat hij en zijn eventuele gezinsleden verschuldigd zijn ingehouden op het pensioen dat of de rente die het eerst is toegekend. Indien dit pensioen of deze rente daartoe niet toereikend is, kan het CAK hetzelfde of een ander orgaan opdragen het restant op een ander pensioen of een andere rente in te houden.
+4. Indien een bijdrageplichtige recht heeft op meer dan één pensioen of rente, wordt het in [artikel 6.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-03-01&g=2026-03-01), bedoelde nominale deel van de bijdrage dat hij en zijn eventuele gezinsleden verschuldigd zijn ingehouden op het pensioen dat of de rente die het eerst is toegekend. Indien dit pensioen of deze rente daartoe niet toereikend is, kan het CAK hetzelfde of een ander orgaan opdragen het restant op een ander pensioen of een andere rente in te houden.
 
 5. Voor de inhouding van het door een gezinslid verschuldigde nominale deel van de bijdrage op het pensioen of de rente van de hoofdbijdrageplichtige dan wel op het loon van de grensarbeider, worden wijzigingen in de situatie van dat gezinslid die in de loop van een kalendermaand doch na de eerste dag van die maand plaatsvinden, eerst in aanmerking genomen vanaf de eerste dag van de daaropvolgende kalendermaand.
 
@@ -1470,11 +1470,11 @@ De voor een gezinslid van een verzekeringsplichtige verschuldigde bijdrage, bedo
 
 ##### Artikel 6.3.3
 
-1. Het verschil tussen de door de bijdrageplichtigen verschuldigde bijdrage en de ingehouden en afgedragen of anderszins geïnde bijdragen wordt, met inachtneming van het [zesde tot en met het achtste lid van artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-02-14&g=2026-02-14) en het tweede lid van dit artikel, door het CAK vastgesteld en verrekend, geïnd of uitgekeerd. Uitkering vindt plaats aan de bijdrageplichtige dan wel, indien [artikel 6.3.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1b&z=2026-02-14&g=2026-02-14) van toepassing is, aan de verzekeringsplichtige.
+1. Het verschil tussen de door de bijdrageplichtigen verschuldigde bijdrage en de ingehouden en afgedragen of anderszins geïnde bijdragen wordt, met inachtneming van het [zesde tot en met het achtste lid van artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-03-01&g=2026-03-01) en het tweede lid van dit artikel, door het CAK vastgesteld en verrekend, geïnd of uitgekeerd. Uitkering vindt plaats aan de bijdrageplichtige dan wel, indien [artikel 6.3.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1b&z=2026-03-01&g=2026-03-01) van toepassing is, aan de verzekeringsplichtige.
 
-2. De in [artikel 6.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-02-14&g=2026-02-14), bedoelde persoon die aanspraak maakt op één of meer van de in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8) vermelde heffingskortingen niet zijnde de algemene heffingskorting, de jonggehandicaptenkorting, de ouderenkorting of de alleenstaande ouderenkorting, kan het CAK verzoeken daar bij de vaststelling van het verschil, bedoeld in het eerste lid, rekening mee te houden.
+2. De in [artikel 6.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-03-01&g=2026-03-01), bedoelde persoon die aanspraak maakt op één of meer van de in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8) vermelde heffingskortingen niet zijnde de algemene heffingskorting, de jonggehandicaptenkorting, de ouderenkorting of de alleenstaande ouderenkorting, kan het CAK verzoeken daar bij de vaststelling van het verschil, bedoeld in het eerste lid, rekening mee te houden.
 
-3. Indien slechts een bijdrage als bedoeld in [artikel 6.3.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-02-14&g=2026-02-14), verschuldigd is, stelt het CAK het in het eerste lid bedoelde verschil vast vóór 1 april van het jaar volgend op het kalenderjaar waarop de bijdrage betrekking heeft. In andere gevallen stelt het CAK het verschil voor 30 september van het jaar volgend op kalenderjaar waarop de bijdrage betrekking heeft voorlopig vast, en stelt het het verschil uiterlijk zes maanden na het tijdstip waarop zowel de aanslag inkomstenbelasting als de beschikking niet in Nederland belastbaar inkomen onherroepelijk zijn geworden, definitief vast.
+3. Indien slechts een bijdrage als bedoeld in [artikel 6.3.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-03-01&g=2026-03-01), verschuldigd is, stelt het CAK het in het eerste lid bedoelde verschil vast vóór 1 april van het jaar volgend op het kalenderjaar waarop de bijdrage betrekking heeft. In andere gevallen stelt het CAK het verschil voor 30 september van het jaar volgend op kalenderjaar waarop de bijdrage betrekking heeft voorlopig vast, en stelt het het verschil uiterlijk zes maanden na het tijdstip waarop zowel de aanslag inkomstenbelasting als de beschikking niet in Nederland belastbaar inkomen onherroepelijk zijn geworden, definitief vast.
 
 4. Bij de vaststelling van het in het eerste lid bedoelde verschil brengt het CAK enkelvoudige wettelijke rente in rekening over te weinig geheven of geïnde bijdrage dan wel vergoedt het wettelijke rente ingeval van teveel geheven of geïnde bijdrage, over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar waarop de bijdrage betrekking heeft en eindigt op de dag van de dagtekening van de vaststelling door het CAK.
 
@@ -1594,7 +1594,7 @@ Het CAK stort 23 procent van de in enig kalenderjaar geïnde bestuursrechtelijke
 
 - 2°. het verlenen van medewerking aan het tot stand brengen en uitvoeren van betalingsregelingen en schuldsanering die ten minste in overeenstemming zijn met de door de Vereniging voor schuldhulpverlening en sociaal bankieren gehanteerde richtlijnen;
 
-- 3°. het in overleg met gemeenten verlenen van medewerking aan de uitvoering van [artikel 6.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.6&z=2026-02-14&g=2026-02-14);
+- 3°. het in overleg met gemeenten verlenen van medewerking aan de uitvoering van [artikel 6.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.6&z=2026-03-01&g=2026-03-01);
 
 - b. het inzetten van communicatiemiddelen die zijn afgestemd op de verzekeringnemers ten behoeve waarvan de medewerking wordt geleverd.
 
@@ -1618,7 +1618,7 @@ Het CAK stort 23 procent van de in enig kalenderjaar geïnde bestuursrechtelijke
 
 - a. het bestand van personen die op grond van een zorgverzekering verzekerd zijn;
 
-- b. het bestand van personen ten aanzien waarvan het CAK de bestuursrechtelijke premie heft naar aanleiding van de meldingen, bedoeld in de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c), en [18d, derde lid en vierde lid, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d), en rekening houdend met de toepassing van de [artikelen 6.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.6&z=2026-02-14&g=2026-02-14) en [6.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.7&z=2026-02-14&g=2026-02-14).
+- b. het bestand van personen ten aanzien waarvan het CAK de bestuursrechtelijke premie heft naar aanleiding van de meldingen, bedoeld in de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c), en [18d, derde lid en vierde lid, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d), en rekening houdend met de toepassing van de [artikelen 6.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.6&z=2026-03-01&g=2026-03-01) en [6.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.7&z=2026-03-01&g=2026-03-01).
 
 5. De zorgverzekeraar administreert:
 
@@ -1626,7 +1626,7 @@ Het CAK stort 23 procent van de in enig kalenderjaar geïnde bestuursrechtelijke
 
 - b. het aantal maanden per verzekerde waarvoor de bestuursrechtelijke premie in het kalenderjaar niet verschuldigd was omdat de melding, bedoeld in [artikel 18c, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c) ten gevolge van de toepasselijkheid van het tweede lid, onderdeel b, c of d, van dat artikel nog niet kon worden gedaan;
 
-- c. de toepassing van de [artikelen 6.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.6&z=2026-02-14&g=2026-02-14) en [6.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.7&z=2026-02-14&g=2026-02-14) op zijn verzekeringsnemers;
+- c. de toepassing van de [artikelen 6.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.6&z=2026-03-01&g=2026-03-01) en [6.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=5&artikel=6.5.7&z=2026-03-01&g=2026-03-01) op zijn verzekeringsnemers;
 
 - d. de verzekerden die de bestuursrechtelijke premie verschuldigd zijn en hij onverminderd onder de dekking van de zorgverzekering heeft gehouden.
 
@@ -1786,7 +1786,7 @@ Een zorgverzekeraar aan wie het Zorginstituut een extra bijdrage heeft toegekend
 
 - d. een catastrofeschadelast van meer dan 20% van de grondslag, het bedrag ter grootte van 20% van de grondslag.
 
-5. Het Zorginstituut stelt overeenkomstig de door hem opgestelde beleidsregels de extra bijdrage lager vast dan op grond van het vierde lid, indien dat instituut ten aanzien van de zorgverzekeraar [artikel 6.6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=6&artikel=6.6.2&z=2026-02-14&g=2026-02-14), heeft toegepast. Het Zorginstituut stelt de extra bijdrage op nihil vast indien de zorgverzekeraar het verzoek om toekenning van de extra bijdrage na het einde van het tweede kalenderjaar volgend op het catastrofejaar heeft ingediend.
+5. Het Zorginstituut stelt overeenkomstig de door hem opgestelde beleidsregels de extra bijdrage lager vast dan op grond van het vierde lid, indien dat instituut ten aanzien van de zorgverzekeraar [artikel 6.6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=6&artikel=6.6.2&z=2026-03-01&g=2026-03-01), heeft toegepast. Het Zorginstituut stelt de extra bijdrage op nihil vast indien de zorgverzekeraar het verzoek om toekenning van de extra bijdrage na het einde van het tweede kalenderjaar volgend op het catastrofejaar heeft ingediend.
 
 #### § 7. Uitvoering van [artikel IIIA van de Veegwet VWS 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=IIIa)
 
@@ -1808,7 +1808,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **schadelastbedrag:** door de zorgverzekeraars vergoede bedrag;
 
-- **zorgaanbieder:** zorgaanbieder als bedoeld [1, onderdeel c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) die behoort tot een in [artikel 6.7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=7&artikel=6.7.2&z=2026-02-14&g=2026-02-14), aangewezen categorie;
+- **zorgaanbieder:** zorgaanbieder als bedoeld [1, onderdeel c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) die behoort tot een in [artikel 6.7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=7&artikel=6.7.2&z=2026-03-01&g=2026-03-01), aangewezen categorie;
 
 - **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
@@ -1948,7 +1948,7 @@ De Sociale verzekeringsbank wordt aangewezen als de publiekrechtelijke rechtsper
 
 ##### Artikel 6a.5
 
-De Sociale verzekeringsbank kan de ondersteuning geheel of gedeeltelijk weigeren, opschorten of beëindigen indien de verzekerde niet meer beschikt over een Zvw-pgb of indien niet of niet langer wordt voldaan aan het gestelde bij of krachtens de [artikelen 6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6a&artikel=6a.3&z=2026-02-14&g=2026-02-14) en [6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6a&artikel=6a.4&z=2026-02-14&g=2026-02-14).
+De Sociale verzekeringsbank kan de ondersteuning geheel of gedeeltelijk weigeren, opschorten of beëindigen indien de verzekerde niet meer beschikt over een Zvw-pgb of indien niet of niet langer wordt voldaan aan het gestelde bij of krachtens de [artikelen 6a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6a&artikel=6a.3&z=2026-03-01&g=2026-03-01) en [6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6a&artikel=6a.4&z=2026-03-01&g=2026-03-01).
 
 ##### Artikel 6a.6
 
@@ -1968,7 +1968,7 @@ De Sociale verzekeringsbank kan de ondersteuning geheel of gedeeltelijk weigeren
 
 ##### Artikel 7.1
 
-1. Als persoonsgegevens, waaronder gegevens over gezondheid, die voor een zorgverzekeraar noodzakelijk zijn voor de uitvoering van de zorgverzekering of van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) worden aangemerkt de in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2&z=2026-02-14&g=2026-02-14) bedoelde persoonsgegevens.
+1. Als persoonsgegevens, waaronder gegevens over gezondheid, die voor een zorgverzekeraar noodzakelijk zijn voor de uitvoering van de zorgverzekering of van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) worden aangemerkt de in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2&z=2026-03-01&g=2026-03-01) bedoelde persoonsgegevens.
 
 2. Een zorgverzekeraar mag de in het eerste lid bedoelde gegevens gebruiken voor het verrichten van formele controle dan wel materiële controle ten behoeve van:
 
@@ -1986,7 +1986,7 @@ De Sociale verzekeringsbank kan de ondersteuning geheel of gedeeltelijk weigeren
 
 ##### Artikel 7.2
 
-De zorgverzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven doelen en van de uitvoering van [artikel 7.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.4a&z=2026-02-14&g=2026-02-14), over de volgende gegevens van de verzekerde:
+De zorgverzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven doelen en van de uitvoering van [artikel 7.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.4a&z=2026-03-01&g=2026-03-01), over de volgende gegevens van de verzekerde:
 
 - a. naam, adres, postcode en woonplaats;
 
@@ -2010,7 +2010,7 @@ De zorgverzekeraar beschikt ten behoeve van de in het voorgaande artikel aangege
 
 1. Dit artikel is van toepassing indien een zorgaanbieder de kosten van gespecialiseerde geestelijke gezondheidszorg door tussenkomst van VECOZO B.V. in rekening brengt bij een zorgverzekeraar.
 
-2. Mits vermeld in een declaratieregeling die van toepassing is voor een zorgaanbieder, bedoeld in het eerste lid, beschikt de zorgverzekeraar, met inachtneming van het bepaalde bij of krachtens dit artikel, over het gegeven zorgvraagzwaarte van de verzekerde voor de analyses en controles als bedoeld in de [artikelen 7.6 tot en met 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.6&z=2026-02-14&g=2026-02-14), met het oog op de uitvoering van formele en materiële controle ten behoeve van de in [artikel 7.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.1&z=2026-02-14&g=2026-02-14), aangegeven doelen en voor zover dat noodzakelijk is voor de zorgverzekeraar om te voldoen aan zijn verplichting om gegevens te leveren aan het Zorginstituut ten behoeve van de uitvoering van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+2. Mits vermeld in een declaratieregeling die van toepassing is voor een zorgaanbieder, bedoeld in het eerste lid, beschikt de zorgverzekeraar, met inachtneming van het bepaalde bij of krachtens dit artikel, over het gegeven zorgvraagzwaarte van de verzekerde voor de analyses en controles als bedoeld in de [artikelen 7.6 tot en met 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.6&z=2026-03-01&g=2026-03-01), met het oog op de uitvoering van formele en materiële controle ten behoeve van de in [artikel 7.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.1&z=2026-03-01&g=2026-03-01), aangegeven doelen en voor zover dat noodzakelijk is voor de zorgverzekeraar om te voldoen aan zijn verplichting om gegevens te leveren aan het Zorginstituut ten behoeve van de uitvoering van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 3. De zorgaanbieder, bedoeld in het eerste lid, verstrekt de gegevens die op grond van het bij of krachtens [artikel 38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) bepaalde moeten worden verstrekt, aan de zorgverzekeraar door tussenkomst van VECOZO B.V.
 
@@ -2030,19 +2030,19 @@ De zorgverzekeraar beschikt ten behoeve van de in het voorgaande artikel aangege
 
 ##### Artikel 7.2b
 
-1. VECOZO B.V. en Vektis C.V. dragen zorg voor passende technische en organisatorische maatregelen om persoonsgegevens te beveiligen bij de verwerkingen, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-02-14&g=2026-02-14), tegen verlies of tegen enige vorm van onrechtmatige verwerking.
+1. VECOZO B.V. en Vektis C.V. dragen zorg voor passende technische en organisatorische maatregelen om persoonsgegevens te beveiligen bij de verwerkingen, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-03-01&g=2026-03-01), tegen verlies of tegen enige vorm van onrechtmatige verwerking.
 
-2. De door Vektis C.V. aan zorgaanbieders en zorgverzekeraars te verstrekken analyses, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-02-14&g=2026-02-14), bevatten geen tot individuele verzekerden te herleiden zorgvraagzwaartegegevens.
+2. De door Vektis C.V. aan zorgaanbieders en zorgverzekeraars te verstrekken analyses, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-03-01&g=2026-03-01), bevatten geen tot individuele verzekerden te herleiden zorgvraagzwaartegegevens.
 
-3. Voor VECOZO B.V. en Vektis C.V. gelden dezelfde wettelijke voorschriften inzake geheimhouding van de verwerkte gegevens, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-02-14&g=2026-02-14), als voor de zorgverzekeraar.
+3. Voor VECOZO B.V. en Vektis C.V. gelden dezelfde wettelijke voorschriften inzake geheimhouding van de verwerkte gegevens, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-03-01&g=2026-03-01), als voor de zorgverzekeraar.
 
-4. Personen werkzaam bij of ten behoeve van VECOZO B.V. en Vektis C.V. voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingplicht geldt, zijn verplicht tot geheimhouding van de gegevens die zij op grond van [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-02-14&g=2026-02-14) verwerken, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht.
+4. Personen werkzaam bij of ten behoeve van VECOZO B.V. en Vektis C.V. voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingplicht geldt, zijn verplicht tot geheimhouding van de gegevens die zij op grond van [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-03-01&g=2026-03-01) verwerken, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht.
 
-5. De zorgverzekeraar beschikt niet over de sleutel om het versleutelde gegeven zorgvraagzwaarte, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-02-14&g=2026-02-14) te ontsleutelen.
+5. De zorgverzekeraar beschikt niet over de sleutel om het versleutelde gegeven zorgvraagzwaarte, bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-03-01&g=2026-03-01) te ontsleutelen.
 
-6. De zorgverzekeraar beschikt, met inachtneming van het bepaalde in de [artikelen 7.5 tot en met 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-02-14&g=2026-02-14) inzake de uitvoering van materiële controle, over het gegeven zorgvraagzwaarte indien op grond van analyse op basis van geaggregeerde gegevens of naar aanleiding van een ander signaal er reden is voor het instellen van nadere formele of materiële controles, met dien verstande dat indien en voor zover dat noodzakelijk is voor die controles, het gegeven zorgvraagzwaarte van de patiënt of de gegevens die noodzakelijk zijn voor het onderbouwen en afleiden van het gegeven zorgvraagzwaarte van de desbetreffende patiënt herleidbaar naar die individuele patiënt wordt, respectievelijk worden verwerkt onder verantwoordelijkheid van een medisch adviseur in opdracht van de zorgverzekeraar.
+6. De zorgverzekeraar beschikt, met inachtneming van het bepaalde in de [artikelen 7.5 tot en met 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-03-01&g=2026-03-01) inzake de uitvoering van materiële controle, over het gegeven zorgvraagzwaarte indien op grond van analyse op basis van geaggregeerde gegevens of naar aanleiding van een ander signaal er reden is voor het instellen van nadere formele of materiële controles, met dien verstande dat indien en voor zover dat noodzakelijk is voor die controles, het gegeven zorgvraagzwaarte van de patiënt of de gegevens die noodzakelijk zijn voor het onderbouwen en afleiden van het gegeven zorgvraagzwaarte van de desbetreffende patiënt herleidbaar naar die individuele patiënt wordt, respectievelijk worden verwerkt onder verantwoordelijkheid van een medisch adviseur in opdracht van de zorgverzekeraar.
 
-7. De zorgautoriteit kan in een declaratieregeling, bedoeld in [artikel 7.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-02-14&g=2026-02-14), en onder daarbij te stellen voorwaarden, voorschriften of beperkingen, bepalen:
+7. De zorgautoriteit kan in een declaratieregeling, bedoeld in [artikel 7.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-03-01&g=2026-03-01), en onder daarbij te stellen voorwaarden, voorschriften of beperkingen, bepalen:
 
 - a. op welke wijze het gegeven zorgvraagzwaarte moet worden gemaskeerd en
 
@@ -2056,33 +2056,33 @@ De zorgverzekeraar beschikt ten behoeve van de in het voorgaande artikel aangege
 
 3. De zorgaanbieder, bedoeld in het eerste lid, verstrekt de gegevens, die op grond van het bij of krachtens [artikel 38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) bepaalde moeten worden verstrekt aan de verzekerde of namens een verzekerde aan diens zorgverzekeraar, zonder tussenkomst van VECOZO B.V.
 
-4. Het [zesde en zevende lid van artikel 7.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2b&z=2026-02-14&g=2026-02-14) zijn van overeenkomstige toepassing.
+4. Het [zesde en zevende lid van artikel 7.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2b&z=2026-03-01&g=2026-03-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 7.3
 
-1. De zorgaanbieder is verplicht tenzij bij of krachtens deze regeling anders wordt bepaald de in [artikel 7.2, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2&z=2026-02-14&g=2026-02-14), bedoelde gegevens te verstrekken aan:
+1. De zorgaanbieder is verplicht tenzij bij of krachtens deze regeling anders wordt bepaald de in [artikel 7.2, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2&z=2026-03-01&g=2026-03-01), bedoelde gegevens te verstrekken aan:
 
 - a. de zorgverzekeraar, of een door die zorgverzekeraar daartoe aangewezen persoon, indien die zorgaanbieder het tarief voor de geleverde prestatie krachtens een door hem met de zorgverzekeraar gesloten overeenkomst rechtstreeks bij die zorgverzekeraar in rekening brengt;
 
 - b. de verzekerde, indien de zorgaanbieder het tarief voor de geleverde prestatie bij de verzekerde in rekening brengt.
 
-2. De zorgaanbieder is verplicht de in [artikel 7.2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2&z=2026-02-14&g=2026-02-14), bedoelde gegevens desgevraagd te verstrekken aan de zorgverzekeraar of aan een door die zorgverzekeraar daartoe aangewezen persoon.
+2. De zorgaanbieder is verplicht de in [artikel 7.2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2&z=2026-03-01&g=2026-03-01), bedoelde gegevens desgevraagd te verstrekken aan de zorgverzekeraar of aan een door die zorgverzekeraar daartoe aangewezen persoon.
 
 3. Voor de door de zorgverzekeraar of de verwerker aangewezen persoon gelden dezelfde wettelijke voorschriften inzake de geheimhouding van de verwerkte gegevens als voor de zorgverzekeraar of de verwerker die hem heeft aangewezen.
 
 ##### Artikel 7.4
 
-1. De zorgverzekeraar verricht materiële controle op de wijze zoals bepaald in de [artikelen 7.2a tot en met 7.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-02-14&g=2026-02-14) en [7.5 tot en met 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-02-14&g=2026-02-14).
+1. De zorgverzekeraar verricht materiële controle op de wijze zoals bepaald in de [artikelen 7.2a tot en met 7.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.2a&z=2026-03-01&g=2026-03-01) en [7.5 tot en met 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-03-01&g=2026-03-01).
 
 2. De zorgaanbieder is verplicht zijn medewerking te verlenen aan de overeenkomstig het eerste lid uitgevoerde materiële controle.
 
-3. De zorgverzekeraar verricht fraudeonderzoek op de wijze zoals bepaald in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.10&z=2026-02-14&g=2026-02-14).
+3. De zorgverzekeraar verricht fraudeonderzoek op de wijze zoals bepaald in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.10&z=2026-03-01&g=2026-03-01).
 
 4. De zorgaanbieder is verplicht zijn medewerking te verlenen aan overeenkomstig het derde lid uitgevoerd fraudeonderzoek.
 
 ##### Artikel 7.4a
 
-De zorgverzekeraar verstrekt aan het CAK voor 1 oktober van het jaar waarin een uitkering als bedoeld in [artikel 118a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) wordt verstrekt, van zijn verzekerden of gewezen verzekerden die in dat jaar de leeftijd van achttien jaar hebben bereikt of nog zullen bereiken en die in de twee kalenderjaren, voorafgaande aan dat jaar voldoen aan de voorwaarden, bedoeld in [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2026-02-14&g=2026-02-14), of in een DKG als bedoeld in artikel 8.3, tweede lid, zijn ingedeeld, de volgende persoonsgegevens:
+De zorgverzekeraar verstrekt aan het CAK voor 1 oktober van het jaar waarin een uitkering als bedoeld in [artikel 118a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) wordt verstrekt, van zijn verzekerden of gewezen verzekerden die in dat jaar de leeftijd van achttien jaar hebben bereikt of nog zullen bereiken en die in de twee kalenderjaren, voorafgaande aan dat jaar voldoen aan de voorwaarden, bedoeld in [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2026-03-01&g=2026-03-01), of in een DKG als bedoeld in artikel 8.3, tweede lid, zijn ingedeeld, de volgende persoonsgegevens:
 
 - a. het burgerservicenummer;
 
@@ -2112,17 +2112,17 @@ De zorgverzekeraar verstrekt aan het CAK voor 1 oktober van het jaar waarin een 
 
 3. Het naar aanleiding van de algemene risicoanalyse opgestelde algemene controleplan voorziet niet in de inzet van het controle-instrument detailcontrole.
 
-4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 7.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-02-14&g=2026-02-14), is bereikt, kan alleen detailcontrole worden uitgevoerd als er van een ander dan de zorgverzekeraar afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
+4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 7.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-03-01&g=2026-03-01), is bereikt, kan alleen detailcontrole worden uitgevoerd als er van een ander dan de zorgverzekeraar afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
 
 ##### Artikel 7.7
 
-De zorgverzekeraar maakt informatie openbaar over het ingevolge [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-02-14&g=2026-02-14) vastgestelde controledoel en het ingevolge [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.6&z=2026-02-14&g=2026-02-14) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor verzekerden en zorgaanbieders gemakkelijk verkrijgbaar is.
+De zorgverzekeraar maakt informatie openbaar over het ingevolge [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.5&z=2026-03-01&g=2026-03-01) vastgestelde controledoel en het ingevolge [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.6&z=2026-03-01&g=2026-03-01) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor verzekerden en zorgaanbieders gemakkelijk verkrijgbaar is.
 
 ##### Artikel 7.8
 
 1. De zorgverzekeraar voert geen detailcontrole uit, dan nadat is voldaan aan de volgende voorwaarden:
 
-- a. de zorgverzekeraar heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan bedoeld in [artikel 7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.6&z=2026-02-14&g=2026-02-14);
+- a. de zorgverzekeraar heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan bedoeld in [artikel 7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.6&z=2026-03-01&g=2026-03-01);
 
 - b. de zorgverzekeraar heeft naar aanleiding van de specifieke risicoanalyse een specifiek controleplan en specifiek controledoel opgesteld, waarin de objecten van materiële controle en de methoden van detailcontrole zijn opgenomen;
 
@@ -2146,13 +2146,13 @@ De zorgverzekeraar maakt informatie openbaar over het ingevolge [artikel 7.5](ht
 
 ##### Artikel 7.10
 
-1. Bij fraudeonderzoek zijn de voorwaarden bedoeld in [artikel 7.8, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.8&z=2026-02-14&g=2026-02-14), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zo ver het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de betrokken verzekerde zich daar niet tegen verzet.
+1. Bij fraudeonderzoek zijn de voorwaarden bedoeld in [artikel 7.8, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.8&z=2026-03-01&g=2026-03-01), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zo ver het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de betrokken verzekerde zich daar niet tegen verzet.
 
 2. In afwijking van het eerste lid kan de zorgverzekeraar met betrekking tot een individuele verzekerde detailcontrole uitvoeren zonder dat de in dat lid genoemde voorwaarden van toepassing zijn, indien deze verzekerde ten behoeve van het fraudeonderzoek schriftelijk toestemming heeft gegeven voor verstrekking van hem betreffende gegevens over gezondheid aan de zorgverzekeraar. De zorgverzekeraar verwerkt bij de detailcontrole niet meer gegevens dan gelet op het onderzoeksdoel en de omstandigheden van het geval noodzakelijk is.
 
 ##### Artikel 7.11
 
-De zorgverzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 87, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87) slechts verder voor de uitvoering van de zorgverzekering en de aanvullende ziektekostenverzekering indien en voor zo ver dit noodzakelijk is voor de doelen omschreven in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.1&z=2026-02-14&g=2026-02-14) van deze regeling.
+De zorgverzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 87, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87) slechts verder voor de uitvoering van de zorgverzekering en de aanvullende ziektekostenverzekering indien en voor zo ver dit noodzakelijk is voor de doelen omschreven in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7&artikel=7.1&z=2026-03-01&g=2026-03-01) van deze regeling.
 
 ### Hoofdstuk 7a. Gegevens die de zorgaanbieder moet verstrekken aan het CAK indien hij in aanmerking wenst te komen voor een bijdrage in de kosten in verband met het verlenen van medisch noodzakelijke zorg aan bepaalde groepen vreemdelingen
 
@@ -2204,7 +2204,7 @@ De zorgverzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 87, eerste 
 
 ##### Artikel 8.1
 
-Indien de verzekerde op het tijdstip van inwerkingtreding van deze regeling in het bezit is van een hoortoestel als bedoeld in [artikel 2.14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.14&z=2026-02-14&g=2026-02-14), wordt dit toestel voor de toepassing van [artikel 2.14, derde tot en met het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.14&z=2026-02-14&g=2026-02-14), beschouwd als te zijn verstrekt op grond van deze regeling.
+Indien de verzekerde op het tijdstip van inwerkingtreding van deze regeling in het bezit is van een hoortoestel als bedoeld in [artikel 2.14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.14&z=2026-03-01&g=2026-03-01), wordt dit toestel voor de toepassing van [artikel 2.14, derde tot en met het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.4&artikel=2.14&z=2026-03-01&g=2026-03-01), beschouwd als te zijn verstrekt op grond van deze regeling.
 
 ##### Artikel 8.2
 
@@ -2218,7 +2218,7 @@ Vervallen
 
 ##### Artikel 8.4
 
-Deze regeling treedt in werking met ingang van 1 januari 2006, met uitzondering van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.2&z=2026-02-14&g=2026-02-14) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.3&z=2026-02-14&g=2026-02-14) die in werking treden met ingang van 1 januari 2007.
+Deze regeling treedt in werking met ingang van 1 januari 2006, met uitzondering van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.2&z=2026-03-01&g=2026-03-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.3&z=2026-03-01&g=2026-03-01) die in werking treden met ingang van 1 januari 2007.
 
 ##### Artikel 8.5
 
@@ -7051,7 +7051,7 @@ Twaalf maanden na start van de behandeling dient vanuit het SVNL-geaccrediteerd 
 
 ### 158. Dexamethason/tobramycine oogdruppels
 
-uitsluitend voor een verzekerde met niet-familiaire hypercholesterolemie of gemengde dyslipidemie met een (zeer) hoog cardiovasculair risico, indien een maximaal verdraagbare statine in combinatie met ezetimib niet de behandeldoelstelling bereikt overeenkomstig de richtlijnen die in Nederland door de desbetreffende beroepsgroepen zijn aanvaard; en de patiënt niet in aanmerking komt voor behandeling met een PCSK9 remmer, kan bempedoïnezuur worden ingezet als volgt:
+uitsluitend voor een verzekerde met hypercholesterolemie of gemengde dyslipidemie die de LDL-C streefwaarde niet bereikt met een statine en ezetimib in maximaal verdraagbare dosering.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -7129,7 +7129,7 @@ Vervallen.
 
 ### 158. Dexamethason/tobramycine oogdruppels
 
-### 159. Bempedoïnezuur
+### 159. Bempedoïnezuur en bempedoïnezuur/ezetimib
 
 ### 160. Risdiplam
 
@@ -9235,9 +9235,9 @@ uitsluitend voor een verzekerde met actieve lupus nefritis (LN) van klasse III, 
 
 Voorwaarde:
 
-Voorwaarde:
-
 uitsluitend voor een verzekerde met symptomatische (NYHA klasse II-III) hypertrofische obstructieve cardiomyopathie (HOCM), die
+
+Het recept dient te zijn voorgeschreven door een expertisecentrum.
 
 ## Bijlage 3. horende bij [artikel 2.5, vierde en vijfde, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2024-06-20&g=2024-06-20) van de Regeling zorgverzekering
 
@@ -9601,9 +9601,9 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### 177. Voclosporine
+### 179. Benralizumab
 
-uitsluitend voor een verzekerde met symptomatische (NYHA klasse II-III) hypertrofische obstructieve cardiomyopathie (HOCM), die
+Voorwaarde:
 
 ## Bijlage 7. van de Regeling zorgverzekering
 
@@ -9623,7 +9623,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 179. Benralizumab
 
-Voorwaarde:
+uitsluitend voor een verzekerde van achttien jaar en ouder:
 
 uitsluitend voor een verzekerde van achttien jaar en ouder:
 
@@ -9631,11 +9631,11 @@ Voorwaarde:
 
 ### 179. Benralizumab
 
-uitsluitend voor een verzekerde van zes jaar en ouder als aanvullende onderhoudsbehandeling bij patiënten met ernstig allergisch (IgE-gemedieerd) astma dat onvoldoende onder controle is, ondanks hooggedoseerde inhalatiecorticosteroïden en langwerkende β-agonisten.
+De behandeling dient tenminste de eerste 6 maanden te worden uitgevoerd in het ziekenhuis.
 
 De behandeling dient tenminste de eerste 6 maanden te worden uitgevoerd in het ziekenhuis.
 
-uitsluitend voor een verzekerde van zes jaar en ouder als aanvullende onderhoudsbehandeling bij patiënten met ernstig allergisch (IgE-gemedieerd) astma dat onvoldoende onder controle is, ondanks hooggedoseerde inhalatiecorticosteroïden en langwerkende β-agonisten.
+Voorwaarde:
 
 ## Bijlage 3. horende bij [artikel 2.5, vierde en vijfde, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2024-10-29&g=2024-10-29) van de Regeling zorgverzekering
 
@@ -10154,29 +10154,29 @@ Voorwaarde:
 
 ### 173. Meclozine/pyridoxine
 
-Voorwaarde:
-
-### 174. Bempedoïnezuur/ezetimib
-
-Voorwaarde:
+Vervallen.
 
 ### 175. Tezepelumab
 
-Voorwaarde:
+uitsluitend voor een verzekerde als aanvullende onderhoudsbehandeling bij patiënten met ernstig eosinofiel astma, ernstig IgE-gemedieerd astma, ernstig bewezen type 2 astma of ernstig niet bewezen type 2 astma dat onvoldoende onder controle is, ondanks hoog gedoseerde inhalatiecorticosteroïden in combinatie met een ander geneesmiddel als onderhoudsbehandeling. De behandeling dient tenminste de eerste 6 maanden te worden uitgevoerd in het ziekenhuis.
 
 ### 176. Keto/hydroxy-analogen
 
-Voorwaarde:
+uitsluitend op voorschrift van een internist-nefroloog en onder begeleiding van een diëtist een strikt eiwitbeperkt dieet (maximaal 0,30 g eiwit/kg/dag) voor een verzekerde:
 
 ### 177. Voclosporine
 
+uitsluitend voor een verzekerde met actieve lupus nefritis (LN) van klasse III, IV of V (met inbegrip van gemengde klasse III/V en IV/V) bij onvoldoende effect van de standaard eerstelijns immunosuppressieve behandeling.
+
 ### 178. Mavacamten
 
-Voorwaarde:
+### 178. Mavacamten
+
+uitsluitend voor een verzekerde van zes jaar en ouder als aanvullende onderhoudsbehandeling bij patiënten met ernstig allergisch (IgE-gemedieerd) astma dat onvoldoende onder controle is, ondanks hooggedoseerde inhalatiecorticosteroïden en langwerkende β-agonisten.
 
 ### 180. Omalizumab
 
-Voorwaarde:
+uitsluitend op voorschrift van een dermatoloog voor een verzekerde met als hoofdindicatie de behandeling van ernstige alopecia areata (AA) bij wie:
 
 ## Bijlage 6b. van de Regeling zorgverzekering
 
@@ -10214,7 +10214,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### B. Lijst van geneesmiddelen waarvoor geen vergoedingslimiet is vastgesteld
 
-## Bijlage 0. horende bij [artikel 2.1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.1&z=2026-02-14&g=2026-02-14), van de Regeling zorgverzekering
+## Bijlage 0. horende bij [artikel 2.1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.1&z=2026-03-01&g=2026-03-01), van de Regeling zorgverzekering
 
 - 1. Met ingang van 1 januari 2027: nivolumab, voor zover verstrekt in het kader van geneeskundige behandelingen, met uitzondering van de toepassing als monotherapie voor de behandeling van gevorderd melanoom bij volwassenen.
 
@@ -10878,7 +10878,7 @@ Vervallen.
 
 ### 173. Meclozine/pyridoxine
 
-### 174. Bempedoïnezuur/ezetimib
+### 174
 
 ### 175. Tezepelumab
 
@@ -10888,11 +10888,11 @@ Vervallen.
 
 ### 178. Mavacamten
 
-### 179. Benralizumab
+### 180. Omalizumab
 
-### 179. Benralizumab
+### 181. Baricitinib en ritlecitinib
 
-uitsluitend op voorschrift van een dermatoloog voor een verzekerde met als hoofdindicatie de behandeling van ernstige alopecia areata (AA) bij wie:
+De behandeling dient na 6 maanden te worden geëvalueerd en bij onvoldoende werkzaamheid gestaakt te worden overeenkomstig de richtlijnen die in Nederland door de desbetreffende beroepsgroepen zijn aanvaard.
 
 ## Bijlage 7. van de Regeling zorgverzekering
 
@@ -10982,9 +10982,9 @@ In deze paragraaf wordt verstaan onder:
 
 ### Hoofdstuk 8. Overige en slotbepalingen
 
-## Bijlage 1. horende bij [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2026-02-14&g=2026-02-14), van de Regeling zorgverzekering
+## Bijlage 1. horende bij [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2026-03-01&g=2026-03-01), van de Regeling zorgverzekering
 
-## Bijlage 2. horende bij [artikel 2.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2026-02-14&g=2026-02-14), van de Regeling zorgverzekering
+## Bijlage 2. horende bij [artikel 2.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2026-03-01&g=2026-03-01), van de Regeling zorgverzekering
 
 ### 27. Levodopa/carbidopa intestinale gel
 
@@ -10992,11 +10992,11 @@ In deze paragraaf wordt verstaan onder:
 
 ### 177. Voclosporine
 
-### 181. Baricitinib en ritlecitinib
-
-uitsluitend op voorschrift van een dermatoloog voor een verzekerde met als hoofdindicatie de behandeling van ernstige alopecia areata (AA) bij wie:
+### 182. Codeïne
 
 Voorwaarde:
+
+Uitsluitend voor een verzekerde met chronische diarree die niet kan uitkomen met loperamide indien loperamide onvoldoende effectief is gebleken of indien loperamide door een contra-indicatie of intolerantie niet ingezet kan worden.
 
 Uitsluitend voor een verzekerde met chronische diarree die niet kan uitkomen met loperamide indien loperamide onvoldoende effectief is gebleken of indien loperamide door een contra-indicatie of intolerantie niet ingezet kan worden.
 
@@ -11010,15 +11010,15 @@ Voorwaarde:
 
 uitsluitend voor een verzekerde voor wie het geneesmiddel is voorgeschreven door een academisch centrum na goedkeuring door de indicatiecommissie voor gegeneraliseerde myasthenia gravis (gMG).
 
-De behandeling dient te worden gestaakt indien na ten hoogste vier maanden ononderbroken behandeling geen klinisch aantoonbaar, symptomatisch behandelvoordeel kan worden vastgesteld.
-
 Voorwaarde:
 
-### 184. Zilucoplan
+uitsluitend op voorschrift van een kinderarts-allergoloog/kinderarts-allergologisch expert.
 
-uitsluitend voor een verzekerde voor wie het geneesmiddel is voorgeschreven door een academisch centrum na goedkeuring door de indicatiecommissie voor gegeneraliseerde myasthenia gravis (gMG).
+### 186. Teduglutide
 
 op grond van [artikel 2.1, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.1)
+
+Voorwaarde:
 
 ## Bijlage 3. horende bij [artikel 2.5, vierde en vijfde, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2025-03-01&g=2025-03-01) van de Regeling zorgverzekering
 
@@ -11239,7 +11239,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 185
 
-tot 01-04-2030 voor een verzekerde met kortedarmsyndroom van:
+waarbij natuurlijke adaptatie zoveel mogelijk is uitgesloten (conform startcriteria van de beroepsgroep).
 
 ### 186. Teduglutide
 
@@ -11247,11 +11247,11 @@ Voor zover de verzekerde deelneemt aan onderzoek als bedoeld in [artikel 2.2, vi
 
 Voorwaarde:
 
-Voorwaarde:
+uitsluitend voor patiënten met Duchenne musculaire dystrofie die onacceptabele bijwerkingen ervaren op prednison en onder behandeling zijn in een expertise-centrum.
 
 uitsluitend voor patiënten met Duchenne musculaire dystrofie die onacceptabele bijwerkingen ervaren op prednison en onder behandeling zijn in een expertise-centrum.
 
-Voor zover de verzekerde deelneemt aan onderzoek als bedoeld in [artikel 2.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.2&z=2025-12-16&g=2025-12-16).
+Voorwaarde:
 
 ## Bijlage 3. horende bij [artikel 2.5, vierde en vijfde, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2025-04-30&g=2025-04-30) van de Regeling zorgverzekering
 
@@ -11810,7 +11810,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 uitsluitend voor een verzekerde van achttien jaar of ouder met genetisch bevestigde, erfelijke transthyretine-amyloïdose en polyneuropathie in stadium 1 of 2 die hiervoor onder behandeling is in of onder supervisie is van een expertisecentrum.
 
-uitsluitend voor patiënten met Duchenne musculaire dystrofie die onacceptabele bijwerkingen ervaren op prednison en onder behandeling zijn in een expertise-centrum.
+Voorwaarde:
 
 ## Bijlage 6. behorende bij [artikel 8.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2025-06-28&g=2025-06-28), van de Regeling zorgverzekering
 
@@ -12029,31 +12029,31 @@ De behandeling dient na 6 maanden te worden geëvalueerd en bij onvoldoende werk
 
 ### 182. Codeïne
 
-Voorwaarde:
+Vervallen.
 
-### 182. Codeïne
+### 184. Zilucoplan en rozanolixizumab
 
-Voorwaarde:
+uitsluitend voor een verzekerde voor wie het geneesmiddel is voorgeschreven door een academisch centrum na goedkeuring door de indicatiecommissie voor gegeneraliseerde myasthenia gravis (gMG).
 
-### 183. Maralixibat
+### 185. Ontvet pinda-eiwit
 
 uitsluitend op voorschrift van een kinderarts-allergoloog/kinderarts-allergologisch expert.
 
 ### 186. Teduglutide
 
-Voorwaarde:
+tot 01-04-2030 voor een verzekerde met kortedarmsyndroom van:
 
 ### 186. Teduglutide
 
-waarbij natuurlijke adaptatie zoveel mogelijk is uitgesloten (conform startcriteria van de beroepsgroep).
-
-### 186. Teduglutide
-
-Voorwaarde:
+Voor zover de verzekerde deelneemt aan onderzoek als bedoeld in [artikel 2.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.1&artikel=2.2&z=2026-03-01&g=2026-03-01).
 
 ### 187. Deflazacort
 
-Voorwaarde:
+uitsluitend voor een verzekerde van achttien jaar of ouder met genetisch bevestigde, erfelijke transthyretine-amyloïdose en polyneuropathie in stadium 1 of 2 die hiervoor onder behandeling is in of onder supervisie is van een expertisecentrum.
+
+### 189. Sublinguaal toegediende huisstofmijtextract 12 SQ-HDM
+
+uitsluitend voor een verzekerde met aanhoudende door huisstofmijt geïnduceerde allergische rhinitis of rhinoconjunctivitis, gediagnosticeerd op basis van de klinische voorgeschiedenis en een positieve huisstofmijtsensitisatietest (huidpriktest en/of specifieke IgE), ondanks adequate medicamenteuze behandeling.
 
 ## Bijlage 5. behorende bij [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2025-10-29&g=2025-10-29) van de Regeling zorgverzekering, geldend voor de terhandstelling van geneesmiddelen in de kalenderjaren 2011 en 2012 voor de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) die betrekking heeft op het kalenderjaar 2013
 
@@ -12085,9 +12085,9 @@ uitsluitend voor een verzekerde met aanhoudende door huisstofmijt geïnduceerde 
 
 ### 190. Fremanezumab
 
-Voorwaarde:
-
 tenzij het een verzekerde betreft met chronische migraine die op 17 september 2021 al in het kader van een managed access program met een CGRP-remmer werd behandeld.
+
+Daarbij geldt voor zowel episodische migraine als chronische migraine het volgende:
 
 ## Bijlage 6. behorende bij [artikel 8.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2025-10-29&g=2025-10-29), van de Regeling zorgverzekering
 
@@ -12304,7 +12304,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 181. Baricitinib en ritlecitinib
 
-### 182. Codeïne
+### 183
 
 ### 184. Zilucoplan en rozanolixizumab
 
@@ -12312,7 +12312,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 188. Vutrisiran
 
-uitsluitend voor een verzekerde van achttien jaar of ouder met genetisch bevestigde, erfelijke transthyretine-amyloïdose en polyneuropathie in stadium 1 of 2 die hiervoor onder behandeling is in of onder supervisie is van een expertisecentrum.
+Voorwaarde:
 
 ### 189. Sublinguaal toegediende huisstofmijtextract 12 SQ-HDM
 
@@ -12320,11 +12320,11 @@ Daarbij geldt voor zowel episodische migraine als chronische migraine het volgen
 
 ### 191. Crovalimab
 
-Voorwaarde:
+uitsluitend voor een verzekerde met paroxismale nachtelijke hemoglobinurie.
 
 uitsluitend voor een verzekerde met paroxismale nachtelijke hemoglobinurie.
 
-Daarbij geldt voor zowel episodische migraine als chronische migraine het volgende:
+Voorwaarde:
 
 ## Bijlage 3. horende bij [artikel 2.5, vierde en vijfde, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2026-02-14&g=2026-02-14) van de Regeling zorgverzekering
 
@@ -12529,15 +12529,210 @@ Bijlage horende bij [artikel 6.3.1, negende lid, van de Regeling zorgverzekering
 | Zweden | 1,0000 |
 | Zwitserland | 1,0000 |
 
-## Bijlage 5. behorende bij [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2026-02-14&g=2026-02-14) van de Regeling zorgverzekering, geldend voor de terhandstelling van geneesmiddelen in de kalenderjaren 2011 en 2012 voor de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) die betrekking heeft op het kalenderjaar 2013
+## Bijlage 3. horende bij [artikel 2.5, vierde en vijfde, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=2&paragraaf=1&sub-paragraaf=1.3&artikel=2.5&z=2026-03-01&g=2026-03-01) van de Regeling zorgverzekering
 
-Vervallen
+| Registratienummer | Artikelnaam |
+| --- | --- |
+| EU/1/13/904/001 | MIRVASO 3 MG/G GEL (brimonidine) |
+| EU/1/13/904/002 | MIRVASO 3 MG/G GEL |
+| EU/1/13/904/003 | MIRVASO 3 MG/G GEL |
+| EU/1/18/1325/001-004 | NAMUSCLA 167 MG HARDE CAPSULE |
+| EU/1/18/1336/001 | BUVIDAL 8 MG OPL INJ MET VERLENGDE AFGIFTE |
+| EU/1/18/1336/002 | BUVIDAL 16 MG OPL INJ MET VERLENGDE AFGIFTE |
+| EU/1/18/1336/003 | BUVIDAL 24 MG OPL INJ MET VERLENGDE AFGIFTE |
+| EU/1/18/1336/004 | BUVIDAL 32 MG OPL INJ MET VERLENGDE AFGIFTE |
 
-## Bijlage 6. behorende bij [artikel 8.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2026-02-14&g=2026-02-14), van de Regeling zorgverzekering
+| Registratienummer | Artikelnaam |
+| --- | --- |
+| EU/1/07/419/001 | CERVARIX 20 UG/20 UG, SUSPENSIE VOOR INJECTIE(1ST) |
+| EU/1/07/392/001 | CIRCADIN 2 MG, TABLETTEN MET VERLENGDE AFGIFTE (melatonine) |
+| EU/1/06/357/015 | GARDASIL, SUSP. V. INJ. IN EEN VOORGEV. INJ.SPUIT (humaan papillomavirusvaccin) |
+| EU/1/08/462/001 | RANEXA, TABLET MVA 375 MG (ranolazine) |
+| EU/1/08/462/003 | RANEXA, TABLET MVA 500 MG |
+| EU/1/08/462/005 | RANEXA, TABLET MVA 750 MG |
+| EU/1/08/477/001 | CEPLENE 0,5MG/0,5ML OPLOSSING V INJECTIE FL 0,5ML (histamine dihydrochloride) |
+| EU/1/09/581/001 | RESOLOR 1 MG FILMOMHULDE TABLETTEN (prucalopride) |
+| EU/1/09/581/002 | RESOLOR 2 MG FILMOMHULDE TABLETTEN |
+| EU/1/11/679/001 | PRAVAFENIX 40 MG/ 160 MG HARDE CAPSULES (pravastatine/fenofibraat) |
+| EU/1/11/669/002 | TEYSUNO 15MG/4,35MG/11,8MG HARDE CAPSULE 126 STUKS (tegafur/gimeracil/oteracil) |
+| EU/1/11/669/001 | TEYSUNO 15MG/4,35MG/11,8MG HARDE CAPSULE 42 STUKS |
+| EU/1/11/669/003 | TEYSUNO 20MG/5,8MG/15,8MG HARDE CAPSULE 42 STUKS |
+| EU/1/11/669/004 | TEYSUNO 20MG/5,8MG/15,8MG HARDE CAPSULE 84 STUKS |
+| 109659 | APROKAM 50 MG POEDER VOOR OPLOSSING VOOR INJECTIE |
+| EU/1/09/591/003 | MULTAQ 400 MG FILMOMHULDE TABLETTEN (dronedarone) |
+| 111277 | SATIVEX SPRAY VOOR OROMUCOSAAL GEBRUIK (delta-9-tetrahydrocannabinol en cannabidiol) |
+| EU/1/12/760/001 | BRONCHITOL 40 MG INHALATIEPOEDER, HARDE CAPSULES (mannitol) |
+| EU/1/12/760/002 | BRONCHITOL 40 MG INHALATIEPOEDER, HARDE CAPSULES |
+| 113654 | VERSATIS 5% PLEISTER (lidocaïne) |
+| 114371 | FLUOMIZIN 10 MG TABLETTEN VOOR VAGINAAL GEBRUIK (dequaliniumchloride) |
+| 102951 | TARGINACT 10 MG/5 MG TABLET MVA (oxycodon/naloxon) |
+| 102961 | TARGINACT 20 MG/10 MG TABLET MVA |
+| 102647 | TARGINACT 40 MG/20 MG TABLET MVA |
+| 102645 | TARGINACT 5 MG/2,5 MG TABLET MVA |
+| EU/1/15/1082/001 | GALAFOLD 123 MG HARDE CAPSULES |
+| EU/1/16/1139/002 | OCALIVA 10 MG FILMOMHULDE TABLETTEN (obeticholzuur) |
+| EU/1/16/1139/001 | OCALIVA 5 MG FILMOMHULDE TABLETTEN |
+| EU/1/15/1080/003 | ZURAMPIC 200 MG FILMOMHULDE TABLETTEN (Lesinurad) |
+| EU/1/12/787/003 | REVESTIVE 1,25 MG PDR EN OPL MID V OPL V INJ (teduglutide) |
+| EU/1/12/787/002 | REVESTIVE 5 MG PDR EN OPL MID V OPL V INJ |
+| 15721 | EMLA, PLEISTER (lidocaïne/prilocaïne) |
+| 18357 | UROMITEXAN TABLETTEN 400 MG, TABLETTEN (mesna) |
+| 18358 | UROMITEXAN TABLETTEN 600 MG, TABLETTEN (mesna) |
+| 16513 | GUTRON 2,5, TABLETTEN 2,5 MG (midodrinehydrochloride) |
+| 16514 | GUTRON 5, TABLETTEN 5 MG (midodrinehydrochloride) |
+| 20455 | VESANOID, CAPSULES 10 MG (isotretinoïne) |
+| 20690 | VENOFER OPLOSSING VOOR INJECTIE 20 MG/ML (ferrioxidesaccharaat) |
+| 23476 | MUSE 1000, STIFT VOOR URETHRAAL GEBRUIK 1000 MCG (alprostadil) |
+| 23473 | MUSE 125, STIFT VOOR URETHRAAL GEBRUIK 125 MCG(alprostadil) |
+| 23474 | MUSE 250. STIFT VOOR URETHRAAL GEBRUIK 250 MCG(alprostadil) |
+| 23475 | MUSE 500, STIFT VOOR URETHRAAL GEBRUIK 500 MCG(alprostadil) |
+| 24160 | ZYBAN, TABLETTEN MGA 150 MG (amfebutamon) |
+| EU/1/00/155/001 | LUVERIS,75IE,PDR EN OPLM V OPL V INJ, 1 FLAC+1 AMP |
+| EU/1/00/155/002 | LUVERIS,75IE,PDR EN OPLM V OPL V INJ, 3 FLAC+3 AMP |
+| EU/1/00/155/004 | LUVERIS,75IE,PDR EN OPLM V OPL V INJ,1 FLAC+1 FLAC |
+| EU/1/00/155/003 | LUVERIS,75IE,PDR EN OPLM V OPL V INJ,10 FLAC+10AMP |
+| EU/1/00/155/006 | LUVERIS,75IE,PDR EN OPLM V OPL V INJ,10FLAC+10FLAC |
+| EU/1/00/155/005 | LUVERIS,75IE,PDR EN OPLM V OPL V INJ,3 FLAC+3 FLAC |
+| EU/1/98/071/002 | XENICAL 120 MG CAPSULES, VERP 42 CAPS (orlistat) |
+| EU/1/98/071/003 | XENICAL 120 MG CAPSULES, VERP 84 CAPS(orlistat) |
+| EU/1/03/248/006 | LEVITRA 10MG FILMOMHULDE TABLETTEN, 4 TABLETTEN (vardenafil) |
+| EU/1/03/248/008 | LEVITRA 10MG FILMOMHULDE TABLETTEN,12 TABLETTEN(vardenafil) |
+| EU/1/03/248/010 | LEVITRA 20MG FILMOMHULDE TABLETTEN, 4 TABLETTEN(vardenafil) |
+| EU/1/03/248/012 | LEVITRA 20MG FILMOMHULDE TABLETTEN,12 TABLETTEN(vardenafil) |
+| EU/1/03/248/002 | LEVITRA 5 MG FILMOMHULDE TABLETTEN, 2 TABLETTEN(vardenafil) |
+| EU/1/03/248/004 | LEVITRA 5 MG FILMOMHULDE TABLETTEN,12 TABLETTEN(vardenafil) |
+| EU/1/02/237/001 | CIALIS 10 MG, FILMOMHULDE TABLETTEN(tadalafil) |
+| EU/1/02/237/002 | CIALIS 20 MG, FILMOMHULDE TABLETTEN(tadalafil) |
+| EU/1/02/237/003 | CIALIS 20 MG, FILMOMHULDE TABLETTEN(tadalafil) |
+| EU/1/02/237/004 | CIALIS 20 MG, FILMOMHULDE TABLETTEN(tadalafil) |
+| 28822 | OMACOR 1000 MG ZACHTE CAPSULES (omega-3-vetzuren) |
+| EU/1/06/360/001 | CHAMPIX 0.5 MG, FILMOMHULDE TABLET (FLES 56 STUKS)(varenicline) |
+| EU/1/06/360/004 | CHAMPIX 1 MG, FILMOMHULDE TABLET (BLISTER 28 STUK)(varenicline) |
+| EU/1/06/360/003 | CHAMPIX STARTVERPAKKING (11 TABL 0.5MG+14 TABL 1MG(varenicline) |
+| EU/1/98/077/009 | VIAGRA 100 MG GEFILMCOATE TABLETTEN 1 TABLET |
+| EU/1/98/077/012 | VIAGRA 100 MG GEFILMCOATE TABLETTEN 12 TABLET |
+| EU/1/98/077/010 | VIAGRA 100 MG GEFILMCOATE TABLETTEN 4 TABLET |
+| EU/1/98/077/011 | VIAGRA 100 MG GEFILMCOATE TABLETTEN 8 TABLET |
+| EU/1/98/077/001 | VIAGRA 25 MG GEFILMCOATE TABLETTEN 1 TABLET |
+| EU/1/98/077/004 | VIAGRA 25 MG GEFILMCOATE TABLETTEN 12 TABLET |
+| EU/1/98/077/002 | VIAGRA 25 MG GEFILMCOATE TABLETTEN 4 TABLET |
+| EU/1/98/077/003 | VIAGRA 25 MG GEFILMCOATE TABLETTEN 8 TABLET |
+| EU/1/98/077/005 | VIAGRA 50 MG GEFILMCOATE TABLETTEN 1 TABLET |
+| EU/1/98/077/008 | VIAGRA 50 MG GEFILMCOATE TABLETTEN 12 TABLET |
+| EU/1/98/077/006 | VIAGRA 50 MG GEFILMCOATE TABLETTEN 4 TABLET |
+| EU/1/98/077/007 | VIAGRA 50 MG GEFILMCOATE TABLETTEN 8 TABLET |
+| 16929 | RheDQuin oplossing voor injectie 1000 IE |
+| 16928 | RheDQuin oplossing voor injectie 375 IE |
+| 33233 | Resonativ 625 IE/ml, olossing voor injecitie |
+| 27449 | Rhephylac 200 mcg,/2 ml, oplossing voor injectie in een voorgevulde spuit |
+| 27450 | Rhephylac 300 mcg,/2 ml, oplossing voor injectie in een voorgevulde spuit |
+| 26237=55665 | Paracetamol/Codeïnefosfaat 500mg/10 mg, tabletten |
+| 26238=57078 | Paracetamol/Codeïnefosfaat 500mg/20 mg, tabletten |
+| 57079 | Paracetamol/Codeïnefosfaat 500mg/50 mg, tabletten |
+| 15490 | PAPAVERINE/FENTOLAMINE INJECTIEVLOEISTOF 15/0,5MG/ML AMP 2ML TOEB |
+| 9988 | FLUIMUCIL BRUISTABLET SUIKERVRIJ 200MG |
+| 7289 | FLUIMUCIL GRANULAAT SUIKERVRIJ 200MG/1G IN SACHET |
+| 6742 | FLUIMUCIL INHVLST 100MG/ML AMPUL 4ML |
+| 57711=13521 | ACETYLCYSTEINE APOTEX POEDER SKVR 600MG IN SACHET |
+| 57487 | ACETYLCYSTEINE TEVA BRUISTABLET 600MG |
+| 57486 | ACETYLCYSTEINE PCH BRUISTABLET 200MG |
+| 34891 | ACETYLCYSTEINE BRUISTABLET 600MG |
+| 29360 | FLUIMUCIL DRANK FORTE 40MG/ML |
+| 28242=25408 | FLUIMUCIL ZUIGTABLET 200MG |
+| 26415=17414 | BRUISTABLET VASTZITTENDE HOEST ACETYLCYST 600MG |
+| 25408 | FLUIMUCIL ZUIGTABLET 200MG |
+| 25336=12151 | FLUIMUCIL VASTZITTENDE HOEST BRUISTABLET 600MG |
+| 25068=9988 | FLUIMUCIL VASTZITTENDE HOEST BRUISTABL SKRVR 200MG |
+| 25067=20870 | FLUIMUCIL DRANK JUNIOR 20MG/ML |
+| 23631=20515 | ACETYLCYSTEINE SAN BRUISTABLET 600MG BIJ HOEST |
+| 21020 | ACETYLCYSTEINE HEXAL GRANULAAT 200MG IN SACHET |
+| 20882 | ACETYLCYSTEINE IMPHOS BRUISTABLET 600MG |
+| 20870 | FLUIMUCIL DRANK 20MG/ML |
+| 20515 | ACETYLCYSTEINE HEXAL BRUISTABLET SKVR 600MG |
+| 19672=12777 | ACETYLCYSTEINE APOTEX POEDER SKVR 200MG IN SACHET |
+| 19211=13521 | ACETYLCYSTEINE SANIAS POEDER 600MG IN SACHET |
+| 18239 | ACETYLCYSTEINE MYLAN BRUISTABLET 600MG |
+| 17414 | HOESTBRUISTABLET HTP ACETYLCYSTEINE BRUISTAB 600MG |
+| 16493 | ACETYLCYSTEINE RP BRUISTABLET 200MG |
+| 16112=12777 | ACETYLCYSTEINE SANIAS POEDER 200MG IN SACHET |
+| 13521 | PHARCETIL POEDER SUIKERVRIJ 600MG IN SACHET |
+| 12777 | ACETYLCYSTEINE PCH POEDER 200MG IN SACHET |
+| 12305 | ACETYLCYSTEINE SAN POEDER 200MG BIJ HOEST |
+| 12151 | FLUIMUCIL BRUISTABLET 600MG |
+| 118880 | ACETYLCYSTEINE SANIAS BRUISTABLET 600MG |
+| 118724 | BPH HOESTTABLET BRUIS ACETYLCYSTEINE BRUIST 600MG |
+| 114189 | BISOLBRUIS BRUISTABLET 600MG |
+| 112971 | IDYL HOEST BRUISTABL ACETYLCYSTEINE BRUISTAB 600MG |
+| 111479 | ACETYLCYSTEINE APOTEX BRUISTABLET SKVR 600MG |
+| 111478 | ACETYLCYSTEINE HOESTT BRUIS APO BRUISTB SKVR 200MG |
+| 109369 | FLUIMUCIL TABLET 600MG |
+| 108576 | LIVSANE HOEST BRUISTAB ACETYLCYSTEINE BRUIST 600MG |
+| EU/1/19/1421/001-004 | STAQUIS 20 MG/G ZALF |
+| EU/1/15/1075/001 | FERACCRU 30 MG HARDE CAPSULE |
+| EU/1/21/1546/001-001 | OZAWADE 4,5 MG FILMOMHULDE TABLETTEN |
+| EU/1/21/1546/002-003 | OZAWADE 18 MG FILMOMHULDE TABLETTEN |
 
-Vervallen
+| 124826 | DUCRESSA 1 MG/ML 5 MG/ML, OOGDRUPPELS, OPLOSSING |
+| --- | --- |
+| EU/1/20/1500/004 | XOFLUZA 40 MG, FILMOMHULDE TABLETTEN |
+| EU/1/20/1500/003 | XOFLUZA 80 MG, FILMOMHULDE TABLETTEN |
+| 124170 | XONVEA 10 MG/10 MG MAAGSAPRESISTENTE TABLETTEN |
 
-## Bijlage 6a. van de Regeling zorgverzekering
+| VYDURA LYOFILISAAT 75MG EU/1/22/1645/001 | VYDURA LYOFILISAAT 75MG EU/1/22/1645/001 |
+| --- | --- |
+| VYDURA LYOFILISAAT 75MG EU/1/22/1645/002 | VYDURA LYOFILISAAT 75MG EU/1/22/1645/002 |
+
+| EU/1/23/1740/001 | Arexvy injpdr flacon + solv 0,5 ml |
+| --- | --- |
+| EU/1/23/1740/002 | Arexvy pdr susp voor injectie |
+
+## Bijlage 4. van de Regeling zorgverzekering
+
+Bijlage horende bij [artikel 6.3.1, negende lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2026-03-01&g=2026-03-01)
+
+| Land | Woonlandfactor |
+| --- | --- |
+| België | 0,8165 |
+| Bosnië-Herzegovina | 0,0881 |
+| Bulgarije | 0,1363 |
+| Cyprus | 0,4498 |
+| Denemarken | 1,0000 |
+| Duitsland | 1,0000 |
+| Estland | 0,3057 |
+| Finland | 0,8148 |
+| Frankrijk | 0,8304 |
+| Griekenland | 0,2206 |
+| Hongarije | 0,1887 |
+| Ierland | 0,9789 |
+| IJsland | 1,0000 |
+| Italië | 0,4641 |
+| Kaapverdië | 0,0346 |
+| Kroatië | 0,3201 |
+| Letland | 0,2110 |
+| Liechtenstein | 1,0000 |
+| Litouwen | 0,2459 |
+| Luxemburg | 0,8430 |
+| Malta | 0,4370 |
+| Marokko | 0,0212 |
+| Montenegro | 0,1202 |
+| Noord-Macedonië | 0,0599 |
+| Noorwegen | 1,0000 |
+| Oostenrijk | 0,9177 |
+| Polen | 0,1940 |
+| Portugal | 0,3205 |
+| Roemenië | 0,1453 |
+| Servië | 0,1118 |
+| Slovenië | 0,4029 |
+| Slowakije | 0,2684 |
+| Spanje | 0,4408 |
+| Tsjechië | 0,4257 |
+| Tunesië | 0,0306 |
+| Turkije | 0,0682 |
+| Verenigd Koninkrijk | 0,8498 |
+| Zweden | 1,0000 |
+| Zwitserland | 1,0000 |
+
+## Bijlage 5. behorende bij [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2026-03-01&g=2026-03-01) van de Regeling zorgverzekering, geldend voor de terhandstelling van geneesmiddelen in de kalenderjaren 2011 en 2012 voor de uitkering, bedoeld in [artikel 118a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) die betrekking heeft op het kalenderjaar 2013
 
 Vervallen
 
@@ -12547,9 +12742,35 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 192. Danicopan
 
-Voorwaarde:
+uitsluitend voor een verzekerde met paroxismale nachtelijke hemoglobinurie die na behandeling gedurende ten minste 3 maanden met een C5-remmer anemisch is met een hemoglobinewaarde <6,5mmol/l.
 
 uitsluitend voor een verzekerde met paroxismale nachtelijke hemoglobinurie die na behandeling gedurende ten minste 3 maanden met een C5-remmer anemisch is met een hemoglobinewaarde <6,5mmol/l.
+
+## Bijlage 6. behorende bij [artikel 8.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=8&artikel=8.3&z=2026-03-01&g=2026-03-01), van de Regeling zorgverzekering
+
+Vervallen
+
+## Bijlage 6a. van de Regeling zorgverzekering
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 188. Vutrisiran
+
+### 190. Fremanezumab
+
+### 191. Crovalimab
+
+Voorwaarde:
+
+### 192. Danicopan
+
+### 193. Acoramidis
+
+Voorwaarde:
+
+uitsluitend voor een verzekerde van achttien jaar of ouder met wild-type of erfelijke transthyretine-amyloïdose met cardiomyopathie én NYHA klasse I-II.
 
 ## Bijlage 6b. van de Regeling zorgverzekering
 
