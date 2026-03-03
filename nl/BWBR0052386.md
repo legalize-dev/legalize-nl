@@ -4,7 +4,7 @@ identifier: "BWBR0052386"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-03"
-last_updated: "2025-11-12"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052386"
 soort: "zbo"
@@ -108,7 +108,7 @@ ZonMw en het Zorginstituut stellen gezamenlijk de Commissie Onderzoek Passende Z
 
 1. De commissie bestaat uit ten minste acht leden die worden benoemd, geschorst en ontslagen door het bestuur van ZonMw en de Raad van Bestuur van het Zorginstituut gezamenlijk.
 
-2. De leden van de commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2025-11-12) bedoelde taak, alsook op grond van hun brede maatschappelijke kennis en ervaring. Daarbij geldt:
+2. De leden van de commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2026-03-03) bedoelde taak, alsook op grond van hun brede maatschappelijke kennis en ervaring. Daarbij geldt:
 
 - a. De voorzitter heeft veelzijdige bestuurlijke ervaring, is wetenschappelijk onderlegd, besluitvaardig, onafhankelijk en onpartijdig;
 
@@ -172,7 +172,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 4. De commissie heeft verder tot taak om het bestuur van ZonMw en het Zorginstituut gevraagd en ongevraagd te adviseren over andere aangelegenheden die binnen haar deskundigheidsgebied vallen en betrekking hebben op de in het eerste lid genoemde onderwerpen.
 
-5. De wijze waarop de commissie de in het tweede en derde lid genoemde taken uitvoert, is geregeld in de [artikelen 3.2 tot en met 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.2&z=2026-03-03&g=2025-11-12).
+5. De wijze waarop de commissie de in het tweede en derde lid genoemde taken uitvoert, is geregeld in de [artikelen 3.2 tot en met 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.2&z=2026-03-03&g=2026-03-03).
 
 ##### Artikel 3.2. Indiening kennisvragen, studiesynopsissen en subsidieaanvragen gerichte rondes KPPZ, ViO en ZE&GG
 
@@ -206,7 +206,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 ##### Artikel 3.4. Advisering studiesynopsissen ZE&GG
 
-1. Naast de in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2025-11-12), genoemde adviestaak heeft de commissie tot taak om projectgroepen te adviseren over de kwaliteit van de studiesynopsis.
+1. Naast de in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2026-03-03), genoemde adviestaak heeft de commissie tot taak om projectgroepen te adviseren over de kwaliteit van de studiesynopsis.
 
 2. Ter voorbereiding van de advisering over een studiesynopsis door de commissie wordt elke studiesynopsis door drie leden bestudeerd en getoetst aan de selectiecriteria aan de hand van een voorbewerkingsformulier.
 
@@ -218,7 +218,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 1. Ter voorbereiding van de advisering over de kwaliteit van een subsidieaanvraag bestuderen vijf leden de subsidieaanvraag en toetsen zij deze aan de selectiecriteria aan de hand van een voorbewerkingsformulier. Tot deze vijf leden behoren in ieder geval een lid dat afkomstig is uit de kring van patiëntenorganisaties en een lid dat afkomstig is uit de kring van zorgverzekeraars.
 
-2. Daarbij beoordelen zij zo nodig of het onderzoek zodanig is opgezet dat het gegevens oplevert voor de beoordeling door het Zorginstituut als bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2025-11-12).
+2. Daarbij beoordelen zij zo nodig of het onderzoek zodanig is opgezet dat het gegevens oplevert voor de beoordeling door het Zorginstituut als bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2026-03-03).
 
 3. De commissie bespreekt de subsidieaanvragen aan de hand van het aanvraagformulier, de voorbewerkingsformulieren, de selectiecriteria en eerdere adviezen van de commissie over de bijbehorende kennisvraag.
 
@@ -232,7 +232,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 1. Ter voorbereiding van de advisering over de kwaliteit van een subsidieaanvraag bestuderen vijf leden de subsidieaanvraag en toetsen zij deze aan de selectiecriteria aan de hand van een voorbewerkingsformulier. Tot deze vijf leden behoren in ieder geval een lid dat afkomstig is uit de kring van patiëntenorganisaties en een lid dat afkomstig is uit de kring van zorgverzekeraars.
 
-2. Daarbij beoordelen zij of het onderzoek zodanig is opgezet dat het gegevens oplevert voor de beoordeling door het Zorginstituut als bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2025-11-12).
+2. Daarbij beoordelen zij of het onderzoek zodanig is opgezet dat het gegevens oplevert voor de beoordeling door het Zorginstituut als bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2026-03-03).
 
 3. De commissie bespreekt de subsidieaanvragen aan de hand van het aanvraagformulier, de voorbewerkingsformulieren, de selectiecriteria en eerdere adviezen van de commissie over de bijbehorende studiesynopsis.
 
@@ -298,9 +298,9 @@ Voor de overige vragen om advies stemt de commissie haar werkwijze af op de aard
 
 6. De leden zijn gebonden aan geheimhouding over de kennisvragen, studiesynopsissen en subsidieaanvragen, alsmede over de beraadslaging en advisering daarover. Ook de secretarissen, betrokken medewerkers van ZonMw en het Zorginstituut, alsmede andere genodigden zijn aan dezelfde geheimhouding gebonden.
 
-7. De commissie bespreekt verklaringen, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=4&artikel=4.1&z=2026-03-03&g=2025-11-12), in haar eerste vergadering. Wijzigingen van de verklaringen of verklaringen van nieuw benoemde leden bespreekt de commissie in de eerste vergadering na de datum van wijziging of benoeming.
+7. De commissie bespreekt verklaringen, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=4&artikel=4.1&z=2026-03-03&g=2026-03-03), in haar eerste vergadering. Wijzigingen van de verklaringen of verklaringen van nieuw benoemde leden bespreekt de commissie in de eerste vergadering na de datum van wijziging of benoeming.
 
-8. Iedere vergadering vangt aan met een inventarisatie van persoonlijke belangen van de leden, de secretarissen en de betrokken medewerkers van ZonMw en het Zorginstituut, als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=4&artikel=4.1&z=2026-03-03&g=2025-11-12). De commissie beslist over deelname van leden met een persoonlijk belang alsmede over de geschiktheid van de beheersmaatregelen. De commissie stelt daarna vast of zij haar werk onpartijdig en zonder vooringenomenheid kan verrichten.
+8. Iedere vergadering vangt aan met een inventarisatie van persoonlijke belangen van de leden, de secretarissen en de betrokken medewerkers van ZonMw en het Zorginstituut, als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=4&artikel=4.1&z=2026-03-03&g=2026-03-03). De commissie beslist over deelname van leden met een persoonlijk belang alsmede over de geschiktheid van de beheersmaatregelen. De commissie stelt daarna vast of zij haar werk onpartijdig en zonder vooringenomenheid kan verrichten.
 
 ##### Artikel 5.2. Tussentijdse schriftelijke raadpleging gerichte rondes KPPZ, ViO, ZE&GG en Vezo
 
