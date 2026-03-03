@@ -4,7 +4,7 @@ identifier: "BWBR0052374"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-03"
-last_updated: "2026-01-01"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052374"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ BESLUIT:
 
 2. het Overheidsbreed Beleidsoverleg Digitale Overheid kan aanwijzingen geven voor agendering en de prioriteitstelling voor het Forum Standaardisatie;
 
-3. het Forum Standaardisatie legt jaarlijks ter goedkeuring een werkplan voor aan het Overheidsbreed Beleidsoverleg Digitale Overheid waarin de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052374&artikel=1&z=2026-03-03&g=2026-01-01) opgedragen taken nader worden gespecificeerd;
+3. het Forum Standaardisatie legt jaarlijks ter goedkeuring een werkplan voor aan het Overheidsbreed Beleidsoverleg Digitale Overheid waarin de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052374&artikel=1&z=2026-03-03&g=2026-03-03) opgedragen taken nader worden gespecificeerd;
 
 4. het Forum Standaardisatie zal jaarlijks aan het Overheidsbreed Beleidsoverleg Digitale Overheid rapporteren over de uitvoering van de werkzaamheden en resultaten van het voorgaande jaar, en over de aan haar in het kader van haar taken geboden medewerking;
 
