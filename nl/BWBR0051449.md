@@ -4,7 +4,7 @@ identifier: "BWBR0051449"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-03"
-last_updated: "2025-09-03"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051449"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 - q. de dienst Nationaal Coördinator Groningen (NCG).
 
-2. De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2025-09-03&g=2025-09-03).
+2. De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=4&paragraaf=4.1&artikel=31&z=2026-03-03&g=2026-03-03).
 
 3. De secretaris-generaal geeft hiërarchisch leiding aan de leidinggevende functionarissen van de dienstonderdelen genoemd in het eerste lid.
 
@@ -236,7 +236,7 @@ In dit besluit wordt verstaan onder:
 
 1. De directie Constitutionele Zaken en Wetgeving staat onder leiding van een directeur.
 
-2. De directie is, naast de beleidsmatige taken zoals genoemd in [artikel 6, tweede lid, onderdeel b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-09-03&g=2025-09-03) van dit besluit, belast met de departement brede juridische taken en zelfstandige advisering over onder meer:
+2. De directie is, naast de beleidsmatige taken zoals genoemd in [artikel 6, tweede lid, onderdeel b tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2026-03-03&g=2026-03-03) van dit besluit, belast met de departement brede juridische taken en zelfstandige advisering over onder meer:
 
 - a. het beheer en onderhoud van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en het [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -320,7 +320,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de directie Ruimtelijke Ontwikkeling;
 
-- c. de programmadirectie Aan de Slag.
+- c. de directie Ruimtelijke Informatie.
 
 #### Paragraaf 3.4. Directoraat-generaal Koninkrijksrelaties
 
@@ -662,7 +662,7 @@ In dit besluit wordt verstaan onder:
 
 - h. de verantwoordelijk voor het CIO stelsel van het Ministerie, het uitvoeren van de bijbehorende PDCA cyclus, CIO gesprekken, eigenaar van het I-beraad en het aanmelden van activiteiten bij het Adviescollege ICT-toetsing, als bedoeld in [artikel 11, eerste lid, van de Wet Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&artikel=11).
 
-#### Paragraaf 3.13. Cluster Bestuursondersteuning
+#### Paragraaf 3.12. Cluster Bestuursondersteuning
 
 ##### Artikel 21
 
@@ -720,7 +720,7 @@ In dit besluit wordt verstaan onder:
 
 - c. de economische rationaliteit inbrengen in het BZK/VRO-beleid.
 
-#### Paragraaf 3.14. Dienst van de Huurcommissie
+#### Paragraaf 3.13. Dienst van de Huurcommissie
 
 ##### Artikel 25
 
@@ -728,7 +728,7 @@ In dit besluit wordt verstaan onder:
 
 2. De Dienst van de Huurcommissie heeft de taken bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=4), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=4a) en [5 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=5).
 
-#### Paragraaf 3.15. Agentschap Logius
+#### Paragraaf 3.14. Agentschap Logius
 
 ##### Artikel 26
 
@@ -744,7 +744,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het voeren van het secretariaat voor het Forum voor Standaardisatie.
 
-#### Paragraaf 3.17. Agentschap Rijksdienst voor Identiteitsgegevens
+#### Paragraaf 3.15. Agentschap Rijksdienst voor Identiteitsgegevens
 
 ##### Artikel 27
 
@@ -758,7 +758,7 @@ In dit besluit wordt verstaan onder:
 
 - c. het bijdragen aan onderzoek en ontwikkeling, innovatie en regie in het identiteitsdomein.
 
-#### Paragraaf 3.18. Dienst Toelatingsorganisatie Kwaliteitsborging Bouw
+#### Paragraaf 3.16. Dienst Toelatingsorganisatie Kwaliteitsborging Bouw
 
 ##### Artikel 28
 
@@ -766,7 +766,7 @@ In dit besluit wordt verstaan onder:
 
 2. De dienst Toelatingsorganisatie Kwaliteitsborging Bouw heeft de taken bedoeld in [artikel 7ak Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ak).
 
-#### Paragraaf 3.19. Dienst Nationaal Coördinator Groningen
+#### Paragraaf 3.17. Dienst Nationaal Coördinator Groningen
 
 ##### Artikel 29
 
@@ -792,15 +792,17 @@ In dit besluit wordt verstaan onder:
 
 3. De dienst Nationaal Coördinator Groningen bestaat uit:
 
-- a. de directie Bedrijfsvoering;
+- a. de directie Algemeen;
 
-- b. de directie Uitvoering Centraal;
+- b. de directie Bedrijfsvoering;
 
-- c. de directie Versterking Eemsdelta;
+- c. de directie Dienstverlening;
 
-- d. de directie Versterking Stad & Ommeland.
+- d. de directie Eemsdelta;
 
-#### Paragraaf 3.19*. Toedeling taken aan het Ministerie van Volkshuisvesting en Ruimtelijke Ordening
+- e. de directie Stad & Ommeland.
+
+#### Paragraaf 3.18. Toedeling taken aan het Ministerie van Volkshuisvesting en Ruimtelijke Ordening
 
 ##### Artikel 30
 
@@ -818,9 +820,7 @@ In dit besluit wordt verstaan onder:
 
 - f. de regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- g. de directie Constitutionele Zaken en Wetgeving voor zover het de taak uit [artikel 7, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2025-09-03&g=2025-09-03), betreft;
-
-- h. de directie Bestuur, Financiën en Regio’s.
+- g. de directie Constitutionele Zaken en Wetgeving voor zover het de taak uit [artikel 7, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-03-03&g=2026-03-03), betreft.
 
 2. De volgende dienstonderdelen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties verrichten ook taken voor het Ministerie van Volkshuisvesting en Ruimtelijke Ordening:
 
@@ -828,7 +828,9 @@ In dit besluit wordt verstaan onder:
 
 - b. het cluster Bestuursondersteuning;
 
-- c. de directie Constitutionele Zaken en Wetgeving met uitzondering van de taak uit [artikel 7, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2025-09-03&g=2025-09-03).
+- c. de directie Constitutionele Zaken en Wetgeving met uitzondering van de taak uit [artikel 7, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2026-03-03&g=2026-03-03);
+
+- d. de directie Bestuur, Financiën en Regio’s.
 
 ### Hoofdstuk 4. Overige bepalingen
 
