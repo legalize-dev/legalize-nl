@@ -4,7 +4,7 @@ identifier: "BWBR0051453"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-03"
-last_updated: "2025-09-03"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051453"
 soort: "ministeriele-regeling"
@@ -198,7 +198,7 @@ Onverminderd het bepaalde in dit besluit, heeft het mandaat van de secretaris-ge
 
 - p. de bevoegdheid om te beslissen op bezwaarschriften tegen namens een bewindspersoon genomen besluiten met betrekking tot de uitvoering van de begroting voor Koninkrijksrelaties, met uitzondering van besluiten die door een bewindspersoon of de secretaris-generaal zijn genomen;
 
-- q. het wijzigen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit;
+- q. het wijzigen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit;
 
 - r. het behandelen van geschillen met werknemers;
 
@@ -230,7 +230,7 @@ Onverminderd het bepaalde in dit besluit, heeft het mandaat van de secretaris-ge
 
 ##### Artikel 3.5
 
-De secretaris-generaal verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=3&paragraaf=3&artikel=3.4&z=2025-09-03&g=2025-09-03), beschreven situatie, na advies van de directeur Constitutionele Zaken en Wetgeving, de directeur FEZ en de directeur P&O.
+De secretaris-generaal verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=3&paragraaf=3&artikel=3.4&z=2026-03-03&g=2026-03-03), beschreven situatie, na advies van de directeur Constitutionele Zaken en Wetgeving, de directeur FEZ en de directeur P&O.
 
 ##### Artikel 3.6
 
@@ -264,7 +264,7 @@ Onverminderd het bepaalde in dit besluit, heeft het mandaat van de plaatsvervang
 
 - h. het beheer van de archiefbescheiden van de onder de plaatsvervangend secretaris-generaal ressorterende dienstonderdelen op grond van de desbetreffende departementale regelgeving;
 
-- i. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein met uitzondering van die besluiten die door een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal zijn genomen, onverminderd [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2025-09-03&g=2025-09-03) en voor zover in wet- en regelgeving niet anders is bepaald;
+- i. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein met uitzondering van die besluiten die door een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal zijn genomen, onverminderd [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2026-03-03&g=2026-03-03) en voor zover in wet- en regelgeving niet anders is bepaald;
 
 - j. het inschakelen van de Landsadvocaat voor ondersteuning en vertegenwoordiging van het ministerie;
 
@@ -296,11 +296,11 @@ Onverminderd het bepaalde in dit besluit, heeft het mandaat van de plaatsvervang
 
 - h. het toekennen van vergoeding van representatiekosten op grond van paragraaf 11.3 CAO Rijk 2024–2025.
 
-2. Het eerste lid is niet van toepassing indien er sprake is van een situatie bedoeld in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-09-03&g=2025-09-03).
+2. Het eerste lid is niet van toepassing indien er sprake is van een situatie bedoeld in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2026-03-03&g=2026-03-03).
 
 ##### Artikel 4.4
 
-1. Het mandaat van de plaatsvervangend secretaris-generaal met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de plaatsvervangend secretaris-generaal ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur FEZ goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de plaatsvervangend secretaris-generaal verantwoordelijk is, met een maximumbedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit.
+1. Het mandaat van de plaatsvervangend secretaris-generaal met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de plaatsvervangend secretaris-generaal ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur FEZ goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de plaatsvervangend secretaris-generaal verantwoordelijk is, met een maximumbedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 2. De plaatsvervangend secretaris-generaal is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door een bewindspersoon of de secretaris-generaal, met instemming van de directeur FEZ.
 
@@ -314,19 +314,19 @@ Onverminderd het bepaalde in dit besluit, heeft het mandaat van de plaatsvervang
 
 2. De plaatsvervangend secretaris-generaal is, voor zover de plaatsvervangend secretaris-generaal leiding geeft aan een dienst of agentschap, tevens bevoegd tot het verlenen van ondermandaat aan rechtstreeks onder de plaatsvervangend secretaris-generaal ressorterende functionarissen van de betreffende dienst of het agentschap voor het uitoefenen van integraal management met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied.
 
-3. De plaatsvervangend secretaris-generaal kan bij toepassing van de bevoegdheid tot het verlenen van ondermandaat, bedoeld in het eerste lid, afwijken van hetgeen in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.5&z=2025-09-03&g=2025-09-03) van dit besluit is bepaald over het mandaat van de directeur, met uitzondering van het bepaalde in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.6&z=2025-09-03&g=2025-09-03) van dit besluit.
+3. De plaatsvervangend secretaris-generaal kan bij toepassing van de bevoegdheid tot het verlenen van ondermandaat, bedoeld in het eerste lid, afwijken van hetgeen in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.5&z=2026-03-03&g=2026-03-03) van dit besluit is bepaald over het mandaat van de directeur, met uitzondering van het bepaalde in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.6&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 4. De plaatsvervangend secretaris-generaal is bevoegd om in bijzondere gevallen, naast of in plaats van het bepaalde in het eerste, tweede en derde lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval.
 
 5. De plaatsvervangend secretaris-generaal kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris of in bijzondere gevallen aan een andere functionaris.
 
-6. Het verlenen van ondermandaat door de plaatsvervangend secretaris-generaal voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
+6. Het verlenen van ondermandaat door de plaatsvervangend secretaris-generaal voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
 
 ##### Artikel 4.6
 
-1. De plaatsvervangend secretaris-generaal verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 4.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2025-09-03&g=2025-09-03), beschreven situatie, in overeenstemming met de secretaris-generaal en na advies van de directeur FEZ en de directeur P&O.
+1. De plaatsvervangend secretaris-generaal verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 4.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2026-03-03&g=2026-03-03), beschreven situatie, in overeenstemming met de secretaris-generaal en na advies van de directeur FEZ en de directeur P&O.
 
-2. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de plaatsvervangend secretaris-generaal aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
+2. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de plaatsvervangend secretaris-generaal aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
 
 ##### Artikel 4.7
 
@@ -362,9 +362,9 @@ Aan de directeur-generaal wordt mandaat verleend ten aanzien van aangelegenheden
 
 - h. het afnemen van de eed of de belofte van ambtenaren die werkzaam zijn bij een onder de directeur-generaal ressorterend dienstonderdeel;
 
-- i. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein met uitzondering van die besluiten die door een bewindspersoon, de secretaris-generaal of de directeur-generaal zijn genomen, onverminderd [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2025-09-03&g=2025-09-03) en voor zover in wet- en regelgeving niet anders is bepaald;
+- i. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein met uitzondering van die besluiten die door een bewindspersoon, de secretaris-generaal of de directeur-generaal zijn genomen, onverminderd [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2026-03-03&g=2026-03-03) en voor zover in wet- en regelgeving niet anders is bepaald;
 
-- j. het inschakelen van de Landsadvocaat voor ondersteuning of vertegenwoordiging van het ministerie.
+- j. het inschakelen van de Landsadvocaat voor ondersteuning of vertegenwoordiging van het ministerie;
 
 - k. het behandelen van geschillen met werknemers die werkzaam zijn bij het dienstonderdeel dat onder de directeur-generaal ressorteert;
 
@@ -416,7 +416,7 @@ Het mandaat van de directeur-generaal is niet van toepassing op:
 
 ##### Artikel 5.6
 
-1. Het mandaat van de directeur-generaal met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de directeur-generaal ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur FEZ goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur-generaal verantwoordelijk is, met een maximumbedrag per (meerjarige) verplichting als vermeld in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit.
+1. Het mandaat van de directeur-generaal met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de directeur-generaal ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur FEZ goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur-generaal verantwoordelijk is, met een maximumbedrag per (meerjarige) verplichting als vermeld in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 2. De directeur-generaal is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door een bewindspersoon of de secretaris-generaal, met instemming van de directeur FEZ.
 
@@ -430,13 +430,13 @@ Het mandaat van de directeur-generaal is niet van toepassing op:
 
 2. De directeur-generaal die leiding geeft aan een agentschap is tevens bevoegd tot het verlenen van ondermandaat voor het uitoefenen van integraal management met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied.
 
-3. De directeur-generaal kan bij toepassing van de bevoegdheid tot het verlenen van ondermandaat, bedoeld in het eerste lid, afwijken van hetgeen in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.5&z=2025-09-03&g=2025-09-03) van dit besluit is bepaald over het mandaat van de directeur, met uitzondering van het bepaalde in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.6&z=2025-09-03&g=2025-09-03) van dit besluit.
+3. De directeur-generaal kan bij toepassing van de bevoegdheid tot het verlenen van ondermandaat, bedoeld in het eerste lid, afwijken van hetgeen in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.5&z=2026-03-03&g=2026-03-03) van dit besluit is bepaald over het mandaat van de directeur, met uitzondering van het bepaalde in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.6&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 4. De directeur-generaal is bevoegd om in bijzondere gevallen, naast of in plaats van het bepaalde in het eerste, tweede en derde lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval.
 
 5. De directeur-generaal kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris of in bijzondere gevallen aan een andere functionaris.
 
-6. Het verlenen van ondermandaat door de directeur-generaal, niet zijnde een directeur-generaal die leiding geeft aan een agentschap, voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
+6. Het verlenen van ondermandaat door de directeur-generaal, niet zijnde een directeur-generaal die leiding geeft aan een agentschap, voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
 
 7. In aanvulling op het eerste lid kan de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst ondermandaat verlenen aan daartoe aangewezen niet-ondergeschikte functionarissen, werkzaam bij het Ministerie van Defensie, voor het uitoefenen van daartoe aangewezen personele en financiële bevoegdheden met toestemming van de gemandateerde en met toestemming van de Minister van Defensie.
 
@@ -444,9 +444,9 @@ Het mandaat van de directeur-generaal is niet van toepassing op:
 
 ##### Artikel 5.8
 
-1. De directeur-generaal verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 5.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2025-09-03&g=2025-09-03), beschreven situatie, in overeenstemming met de secretaris-generaal en na advies van de directeur FEZ en de directeur P&O.
+1. De directeur-generaal verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 5.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=4&artikel=5.7&z=2026-03-03&g=2026-03-03), beschreven situatie, in overeenstemming met de secretaris-generaal en na advies van de directeur FEZ en de directeur P&O.
 
-2. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de directeur-generaal aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
+2. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de directeur-generaal aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
 
 ##### Artikel 5.9
 
@@ -466,7 +466,7 @@ Aan de algemeen directeur wordt mandaat verleend ten aanzien van aangelegenheden
 
 ##### Artikel 6.2
 
-1. Onverminderd het bepaalde in dit besluit, heeft het mandaat van de algemeen directeur in ieder geval betrekking op:
+Onverminderd het bepaalde in dit besluit, heeft het mandaat van de algemeen directeur in ieder geval betrekking op:
 
 - a. het uitoefenen van integraal management met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied;
 
@@ -476,7 +476,7 @@ Aan de algemeen directeur wordt mandaat verleend ten aanzien van aangelegenheden
 
 - d. het optreden als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de ondernemingsraad van het desbetreffende dienstonderdeel;
 
-- e. het vertegenwoordigen van een bewindspersoon namens de Staat in gerechtelijke procedures waarbij het dienstonderdeel is betrokken;
+- e. het vertegenwoordigen van een bewindspersoon (als bestuursorgaan of namens de Staat) in gerechtelijke procedures waarbij het dienstonderdeel is betrokken;
 
 - f. het vaststellen van beleidsregels en circulaires met betrekking tot aangelegenheden op het werkterrein van de algemeen directeur;
 
@@ -486,17 +486,25 @@ Aan de algemeen directeur wordt mandaat verleend ten aanzien van aangelegenheden
 
 - i. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein met uitzondering van die besluiten die door een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur-generaal of de algemeen directeur zijn genomen, voor zover in wet- en regelgeving niet anders is bepaald;
 
-- j. het behandelen van geschillen met werknemers die werkzaam zijn bij het onderdeel dat onder de algemeen directeur ressorteert.
+- j. het behandelen van geschillen met werknemers die werkzaam zijn bij het onderdeel dat onder de algemeen directeur ressorteert;
+
+- k. het inschakelen van de Landsadvocaat voor ondersteuning of vertegenwoordiging van het ministerie.
 
 ##### Artikel 6.2a
 
-Het mandaat van de algemeen directeur dienst Nationaal Coördinator Groningen omvat tevens het nemen van beslissingen die de versterkingsoperatie bevorderen of die vanwege overwegingen van redelijke en billijke aard nodig zijn. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit is op deze beslissingen niet van toepassing.
+1. Het mandaat van de algemeen directeur dienst Nationaal Coördinator Groningen omvat tevens, voor zover het aangelegenheden op het eigen werkterrein betreft:
+
+- a. het nemen van beslissingen ter uitvoering van de taken in [artikel 29, tweede lid, van het Organisatiebesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051449&artikel=29);
+
+- b. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de Algemene Verordening Gegevensbescherming en de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795).
+
+2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit is niet van toepassing op de aangelegenheden uit het vorige lid.
 
 #### § 2. Beperkingen mandaat algemeen directeuren
 
 ##### Artikel 6.3
 
-1. Het mandaat van de algemeen directeur is niet van toepassing op:
+Het mandaat van de algemeen directeur is niet van toepassing op:
 
 - a. de dienstonderdeel overstijgende kaders van het beleid en beheer inzake alle aspecten van de bedrijfsvoering van het ministerie met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied en aangelegenheden met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen;
 
@@ -520,13 +528,13 @@ Het mandaat van de algemeen directeur dienst Nationaal Coördinator Groningen om
 
 ##### Artikel 6.4
 
-1. Het mandaat van de algemeen directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de algemeen directeur ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur FEZ goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de algemeen directeur verantwoordelijk is, met een maximumbedrag per (meerjarige) verplichting als vermeld in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit.
+1. Het mandaat van de algemeen directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de algemeen directeur ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur FEZ goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de algemeen directeur verantwoordelijk is, met een maximumbedrag per (meerjarige) verplichting als vermeld in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 2. De algemeen directeur is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door een bewindspersoon of de secretaris-generaal, met instemming van de directeur FEZ.
 
 3. De algemeen directeur legt over het door hem gevoerde financiële beheer verantwoording af aan de secretaris-generaal.
 
-4. De algemeen directeur van een agentschap is verantwoordelijk voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt. Voor het aangaan van financiële verplichtingen en het doen van uitgaven geldt voor de algemeen directeur een maximum bedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit.
+4. De algemeen directeur van een agentschap is verantwoordelijk voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt. Voor het aangaan van financiële verplichtingen en het doen van uitgaven geldt voor de algemeen directeur een maximum bedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 #### § 3. Ondermandaat en plaatsvervanging
 
@@ -540,15 +548,15 @@ Het mandaat van de algemeen directeur dienst Nationaal Coördinator Groningen om
 
 4. De algemeen directeur is bevoegd om in bijzondere gevallen, naast het bepaalde in het eerste, tweede en derde lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval.
 
-5. Het verlenen van ondermandaat door de algemeen directeur voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
+5. Het verlenen van ondermandaat door de algemeen directeur voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
 
 ##### Artikel 6.6
 
-1. De algemeen directeur verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 6.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=6&paragraaf=3&artikel=6.5&z=2025-09-03&g=2025-09-03), beschreven situatie, in overeenstemming met de secretaris-generaal en na advies van de directeur P&O en de directeur FEZ.
+1. De algemeen directeur verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 6.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=6&paragraaf=3&artikel=6.5&z=2026-03-03&g=2026-03-03), beschreven situatie, in overeenstemming met de secretaris-generaal en na advies van de directeur P&O en de directeur FEZ.
 
-2. De door de algemeen directeur gemandateerde, bedoeld in [artikel 6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=6&paragraaf=3&artikel=6.6&z=2025-09-03&g=2025-09-03), verleent ondermandaat bij schriftelijk besluit, in overeenstemming met de algemeen directeur en na advies van de directeur P&O en de directeur FEZ.
+2. De door de algemeen directeur gemandateerde, bedoeld in [artikel 6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=6&paragraaf=3&artikel=6.6&z=2026-03-03&g=2026-03-03), verleent ondermandaat bij schriftelijk besluit, in overeenstemming met de algemeen directeur en na advies van de directeur P&O en de directeur FEZ.
 
-3. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de algemeen directeur aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
+3. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de algemeen directeur aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
 
 ##### Artikel 6.7
 
@@ -556,7 +564,7 @@ Het mandaat van de algemeen directeur dienst Nationaal Coördinator Groningen om
 
 2. De aanwijzing van een plaatsvervangend algemeen directeur geschiedt door de algemeen directeur met inachtneming van het [Organisatiebesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051449) en in overeenstemming met de secretaris-generaal.
 
-3. Bij gelijktijdige tijdelijke afwezigheid of verhindering van de algemeen directeur en de plaatsvervangend algemeen directeur worden de taken van de algemeen directeur bij wijze van plaatsvervanging uitgeoefend door de secretaris-generaal.
+3. Bij gelijktijdige tijdelijke afwezigheid of verhindering van de algemeen directeur en de plaatsvervangend algemeen directeur worden de taken van de algemeen directeur bij wijze van plaatsvervanging uitgeoefend door de secretaris-generaal. Dit lid is niet van toepassing op de dienst Nationaal Coördinator Groningen.
 
 4. In afwijking van het vorige lid kan de plaatsvervanging van de algemeen directeur die leiding geeft aan een agentschap volledig worden uitgeoefend door de functionaris die daartoe door de algemeen directeur in overeenstemming met de leidinggevende van de algemeen directeur is aangewezen.
 
@@ -578,7 +586,7 @@ Aan de directeur wordt mandaat verleend ten aanzien van aangelegenheden die beho
 
 - c. het optreden als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de ondernemingsraad van het desbetreffende dienstonderdeel, voor zover de directeur-generaal niet als zodanig optreedt;
 
-- d. het vertegenwoordigen van een bewindspersoon namens de Staat der Nederlanden in gerechtelijke procedures waarbij het organisatieonderdeel is betrokken;
+- d. het vertegenwoordigen van een bewindspersoon (als bestuursorgaan of namens de Staat) in gerechtelijke procedures waarbij het dienstonderdeel is betrokken;
 
 - e. het afnemen van de eed of de belofte van ambtenaren bij het dienstonderdeel waarover de directeur de leiding voert voor zover het een agentschap betreft;
 
@@ -586,7 +594,9 @@ Aan de directeur wordt mandaat verleend ten aanzien van aangelegenheden die beho
 
 - g. het behandelen van geschillen met werknemers die werkzaam zijn bij het onderdeel dat onder de directeur ressorteert;
 
-- h. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) voor zover het aangelegenheden op het werkterrein van de directeur betreft, met uitzondering van politiek gevoelige dossiers.
+- h. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) voor zover het aangelegenheden op het werkterrein van de directeur betreft, met uitzondering van politiek gevoelige dossiers;
+
+- i. het inschakelen van de Landsadvocaat voor ondersteuning of vertegenwoordiging van het ministerie.
 
 2. Het eerste lid, onder a, c, e, en g zijn niet van toepassing op de directeuren van BZK Kerndepartement.
 
@@ -646,13 +656,13 @@ Het mandaat van de directeur P&O omvat tevens:
 
 - h. het vaststellen van de formatie van de onder de plaatsvervangend secretaris-generaal, de directeuren-generaal en algemeen directeuren ressorterende (dienst)onderdelen;
 
-- i. de aangelegenheden genoemd in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=3&artikel=5.5&z=2025-09-03&g=2025-09-03).
+- i. de aangelegenheden genoemd in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=3&artikel=5.5&z=2026-03-03&g=2026-03-03).
 
 2. De beperkingen genoemd in het eerste lid, onderdeel b tot en met d, zijn niet van toepassing op het mandaat van de Clusterdirecteur Mensen & Middelen en de Clusterdirecteur Bestuursondersteuning, de directeur die leiding geeft aan een agentschap en de directeur die leiding geeft aan een kasdienst.
 
 ##### Artikel 7.6
 
-1. Het mandaat van de directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de directeur ter beschikking is gesteld op basis van een door de plaatsvervangend secretaris-generaal respectievelijk de directeur-generaal en de FEZ-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur verantwoordelijk is met een maximum bedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit.
+1. Het mandaat van de directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de directeur ter beschikking is gesteld op basis van een door de plaatsvervangend secretaris-generaal respectievelijk de directeur-generaal en de FEZ-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur verantwoordelijk is met een maximum bedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 2. De directeur is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal, met instemming van de FEZ-Controller en binnen het vastgestelde budget dat aan de plaatsvervangend secretaris-generaal respectievelijk de directeur-generaal ter beschikking is gesteld.
 
@@ -660,7 +670,7 @@ Het mandaat van de directeur P&O omvat tevens:
 
 4. In afwijking van het derde lid legt de directeur binnen het cluster Mensen en Middelen respectievelijk binnen het cluster Bestuursondersteuning over het door hem gevoerde financiële beheer verantwoording af aan de plaatsvervangend secretaris-generaal, met uitzondering van de directeur FEZ.
 
-5. De directeur van een agentschap is verantwoordelijk voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt. Voor het aangaan van financiële verplichtingen en het doen van uitgaven geldt voor de directeur een maximum bedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit.
+5. De directeur van een agentschap is verantwoordelijk voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt. Voor het aangaan van financiële verplichtingen en het doen van uitgaven geldt voor de directeur een maximum bedrag per (meerjarige) verplichting als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit.
 
 #### § 4. Ondermandaat en plaatsvervanging
 
@@ -674,19 +684,19 @@ Het mandaat van de directeur P&O omvat tevens:
 
 4. De directeur is bevoegd om in bijzondere gevallen, naast het bepaalde in het eerste, tweede en derde lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval.
 
-5. Het verlenen van ondermandaat door de directeur, niet zijnde een directeur die leiding geeft aan een agentschap, voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
+5. Het verlenen van ondermandaat door de directeur, niet zijnde een directeur die leiding geeft aan een agentschap, voor het aangaan van financiële verplichtingen en het doen van uitgaven is enkel mogelijk aan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen met inachtneming van het aldaar genoemde maximumgrensbedrag per (meerjarige) verplichting.
 
 ##### Artikel 7.8
 
-1. De directeur verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 7.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=4&artikel=7.7&z=2025-09-03&g=2025-09-03), beschreven situatie, in overeenstemming met de directeur-generaal en na advies van de directeur P&O en de directeur FEZ.
+1. De directeur verleent ondermandaat bij schriftelijk besluit, met uitzondering van de in [artikel 7.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=4&artikel=7.7&z=2026-03-03&g=2026-03-03), beschreven situatie, in overeenstemming met de directeur-generaal en na advies van de directeur P&O en de directeur FEZ.
 
-2. De door de directeur gemandateerde, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=4&artikel=7.9&z=2025-09-03&g=2025-09-03), verleent ondermandaat bij schriftelijk besluit, in overeenstemming met de directeur en na advies van de directeur P&O en de directeur FEZ.
+2. De door de directeur gemandateerde, bedoeld in [artikel 7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=4&artikel=7.9&z=2026-03-03&g=2026-03-03), verleent ondermandaat bij schriftelijk besluit, in overeenstemming met de directeur en na advies van de directeur P&O en de directeur FEZ.
 
-3. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de directeur aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
+3. De voorgeschreven overeenstemming uit het eerste lid is niet van toepassing op het verlenen van financieel ondermandaat door de directeur aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit genoemde onder hem ressorterende functionarissen voor zover dit een bedrag van € 50.000 niet te boven gaat.
 
 ##### Artikel 7.9
 
-1. De rechtstreeks onder de directeur ressorterende leidinggevenden zijn, voor zover door de directeur met toepassing van [artikel 7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=4&artikel=7.8&z=2025-09-03&g=2025-09-03), niet anders is bepaald, ten aanzien van de onder hen ressorterende functionarissen bevoegd tot:
+1. De rechtstreeks onder de directeur ressorterende leidinggevenden zijn, voor zover door de directeur met toepassing van [artikel 7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=4&artikel=7.8&z=2026-03-03&g=2026-03-03), niet anders is bepaald, ten aanzien van de onder hen ressorterende functionarissen bevoegd tot:
 
 - a. het vaststellen van het wekelijkse werkrooster;
 
@@ -740,13 +750,13 @@ Het mandaat van de directeur Inkoop-, Facilitair- en Huisvestingbeleid Rijk omva
 
 2. De uitvoering van de rijksbrede inkoopcategorie Energie is belegd bij de directeur-generaal Rijksvastgoedbedrijf van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
-3. Voor het aangaan van (meerjarige) verplichtingen voor de rijksbrede inkoopcategorie Energie heeft de directeur-generaal van het Rijksvastgoedbedrijf van het Ministerie van Volkshuivesting en Ruimtelijke Ordening mandaat.
+3. Voor het aangaan van (meerjarige) verplichtingen voor de rijksbrede inkoopcategorie Energie heeft de directeur-generaal van het Rijksvastgoedbedrijf van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening mandaat.
 
 4. Voor het aangaan van (meerjarige) verplichtingen boven de 25 miljoen euro inclusief btw voor de rijksbrede inkoopcategorie Energie heeft de plaatsvervangend secretaris-generaal mandaat samen met de directeur-generaal Rijksvastgoedbedrijf van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 8.5
 
-1. De maximumbedragen voor het aangaan van financiële verplichtingen en het doen van uitgaven, als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2025-09-03&g=2025-09-03) van dit besluit, zijn niet van toepassing op de in dit hoofdstuk verleende mandaten.
+1. De maximumbedragen voor het aangaan van financiële verplichtingen en het doen van uitgaven, als vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1&z=2026-03-03&g=2026-03-03) van dit besluit, zijn niet van toepassing op de in dit hoofdstuk verleende mandaten.
 
 ### Hoofdstuk 9. Algemene bepalingen inzake mandaat
 
@@ -834,11 +844,11 @@ Dit besluit wordt aangehaald als: Mandaatbesluit BZK 2025.
 
 ## Bijlage 1
 
-Maximumbedragen voor het aangaan van financiële verplichtingen en het doen van uitgaven, als bedoeld in de [artikelen 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2025-09-03&g=2025-09-03), [6.4, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=6&paragraaf=2&artikel=6.4&z=2025-09-03&g=2025-09-03), en [7.6 eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.6&z=2025-09-03&g=2025-09-03), van het Mandaatbesluit BZK 2025.
+Maximumbedragen voor het aangaan van financiële verplichtingen en het doen van uitgaven, als bedoeld in de [artikelen 5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2026-03-03&g=2026-03-03), [6.4, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=6&paragraaf=2&artikel=6.4&z=2026-03-03&g=2026-03-03), en [7.6 eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=7&paragraaf=3&artikel=7.6&z=2026-03-03&g=2026-03-03), van het Mandaatbesluit BZK 2025.
 
 Bedragen zijn per (meerjarige) verplichting, in euro’s en inclusief BTW.
 
-Deze bijlage is niet van toepassing op het Rijksvastgoedbedrijf.
+Deze bijlage is niet van toepassing op het Rijksvastgoedbedrijf. Deze bijlage is ook niet van toepassing op de dienst Nationaal Coördinator Groningen, voor zover het beslissingen betreft die zien op de taakuitvoering van de dienst Nationaal Coördinator Groningen (zie [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&hoofdstuk=6&paragraaf=1&artikel=6.2a&z=2026-03-03&g=2026-03-03) Mandaatbesluit BZK 2025).
 
 | **BZK Kerndepartement en Algemene Bestuursdienst (ABD)** | **BZK Kerndepartement en Algemene Bestuursdienst (ABD)** |
 | --- | --- |
@@ -910,9 +920,6 @@ Deze bijlage is niet van toepassing op het Rijksvastgoedbedrijf.
 | Teamleider | tot € 15.000 |
 | **De dienst Nationaal Coördinator Groningen (NCG)** |   |
 | Algemeen directeur | tot € 5.000.000 |
-| Directeur | tot € 2.500.000 |
-| Manager | tot € 60.000 |
-| Teamleider | tot € 12.500 |
 
 1 De functiebenaming directeur SSO-CN, zoals in deze bijlage 1 opgenomen, is in lijn met het [Organisatiebesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051449). De werktitel behorend bij deze functie betreft Directeur-generaal SSO-CN.
 
