@@ -4,7 +4,7 @@ identifier: "BWBR0052381"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-04"
-last_updated: "2025-12-03"
+last_updated: "2026-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052381"
 soort: "zbo"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2. Doel van de subsidie
 
-Subsidieverstrekking op grond van deze regeling heeft tot doel het stimuleren van vernieuwing binnen de journalistieke sector door het ondersteunen van deelnemers bij innovatie, als bedoeld in [artikel 1.1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=1&artikel=1.1&z=2026-03-04&g=2025-12-03). Om dat doel te bereiken is deelname aan een door het Stimuleringsfonds aangeboden begeleidingsprogramma onlosmakelijk aan de subsidieverstrekking verbonden.
+Subsidieverstrekking op grond van deze regeling heeft tot doel het stimuleren van vernieuwing binnen de journalistieke sector door het ondersteunen van deelnemers bij innovatie, als bedoeld in [artikel 1.1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=1&artikel=1.1&z=2026-03-04&g=2026-03-04). Om dat doel te bereiken is deelname aan een door het Stimuleringsfonds aangeboden begeleidingsprogramma onlosmakelijk aan de subsidieverstrekking verbonden.
 
 ##### Artikel 1.3. Subsidieperiode
 
@@ -114,7 +114,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 - h). de verkende mogelijkheden tot samenwerking met andere partijen.
 
-4. Een verzoek wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van het verzoek de volledigheid daarvan. Als het verzoek onvolledig is, krijgt de verzoeker bericht over de ontbrekende gegevens, met de eenmalige uitnodiging om de ontbrekende gegevens alsnog binnen één week, maar in elk geval vóór het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.3&z=2026-03-04&g=2025-12-03), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag geweigerd.
+4. Een verzoek wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van het verzoek de volledigheid daarvan. Als het verzoek onvolledig is, krijgt de verzoeker bericht over de ontbrekende gegevens, met de eenmalige uitnodiging om de ontbrekende gegevens alsnog binnen één week, maar in elk geval vóór het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.3&z=2026-03-04&g=2026-03-04), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag geweigerd.
 
 ##### Artikel 2.3. Termijn indiening verzoek
 
@@ -176,7 +176,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 6. Niet voor rangschikking in aanmerking komen verzoeken die na de beoordeling minder dan 8 punten hebben gehaald. Die verzoeken worden afgewezen.
 
-7. Indien het totaal van de in aanmerking komende verzoeken het maximale aantal van toelaatbare teams uit [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.1&z=2026-03-04&g=2025-12-03), overschrijdt, wordt de toegang tot het begeleidingsprogramma als volgt verdeeld:
+7. Indien het totaal van de in aanmerking komende verzoeken het maximale aantal van toelaatbare teams uit [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.1&z=2026-03-04&g=2026-03-04), overschrijdt, wordt de toegang tot het begeleidingsprogramma als volgt verdeeld:
 
 - a). het verzoek dat de meeste punten scoort volgens de rangschikking als genoemd in het vijfde lid, wordt als eerste gehonoreerd;
 
@@ -192,11 +192,11 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 - iv. de alsdan gelijk beoordeelde verzoeken op basis van loting door een notaris.
 
-8. Wanneer op basis van de verdeling uit het zevende lid het maximale aantal van toelaatbare teams uit [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.1&z=2026-03-04&g=2025-12-03), is bereikt, worden de daaropvolgende verzoeken in de rangschikking afgewezen.
+8. Wanneer op basis van de verdeling uit het zevende lid het maximale aantal van toelaatbare teams uit [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.1&z=2026-03-04&g=2026-03-04), is bereikt, worden de daaropvolgende verzoeken in de rangschikking afgewezen.
 
 ##### Artikel 2.7. Besluit verzoek en start begeleiding
 
-1. Het Stimuleringsfonds beslist binnen 6 weken na verstrijken van de termijn, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.3&z=2026-03-04&g=2025-12-03), op de ingediende verzoeken voor toelating tot het begeleidingsprogramma.
+1. Het Stimuleringsfonds beslist binnen 6 weken na verstrijken van de termijn, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.3&z=2026-03-04&g=2026-03-04), op de ingediende verzoeken voor toelating tot het begeleidingsprogramma.
 
 2. Het begeleidingsprogramma start per 11 mei 2026 en bestaat uit zes sprints.
 
@@ -248,7 +248,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 ##### Artikel 3.5. Verdeling subsidie en beoordeling subsidieaanvragen
 
-1. Het Stimuleringsfonds beslist op volgorde van binnenkomst op de subsidieaanvragen, tenzij de verwachting is dat in een sprint het in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=3&artikel=3.3&z=2026-03-04&g=2025-12-03) bedoelde subsidieplafond wordt overschreden. In dat geval kan het Stimuleringsfonds ertoe besluiten dat het resterende subsidiebudget op gelijkmatige wijze wordt verdeeld over de subsidieaanvragers. Het bestuur van het Stimuleringsfonds bericht de deelnemers/subsidieaanvragers hierover zo spoedig mogelijk, maar uiterlijk voor de datum waarop de aanvraag voor de nieuwe sprint kan worden ingediend.
+1. Het Stimuleringsfonds beslist op volgorde van binnenkomst op de subsidieaanvragen, tenzij de verwachting is dat in een sprint het in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=3&artikel=3.3&z=2026-03-04&g=2026-03-04) bedoelde subsidieplafond wordt overschreden. In dat geval kan het Stimuleringsfonds ertoe besluiten dat het resterende subsidiebudget op gelijkmatige wijze wordt verdeeld over de subsidieaanvragers. Het bestuur van het Stimuleringsfonds bericht de deelnemers/subsidieaanvragers hierover zo spoedig mogelijk, maar uiterlijk voor de datum waarop de aanvraag voor de nieuwe sprint kan worden ingediend.
 
 2. De subsidieaanvragen worden beoordeeld op de volgende criteria:
 
@@ -278,7 +278,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 2. Alle aanvragen tot subsidievaststelling moeten uiterlijk 11 december 2026 zijn ingediend.
 
-3. Een aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag, zoals bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=4&artikel=4.2&z=2026-03-04&g=2025-12-03). Het activiteitenverslag en het financieel verslag worden uitsluitend ingediend volgens een door het Stimuleringsfonds vast te stellen format.
+3. Een aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag, zoals bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=4&artikel=4.2&z=2026-03-04&g=2026-03-04). Het activiteitenverslag en het financieel verslag worden uitsluitend ingediend volgens een door het Stimuleringsfonds vast te stellen format.
 
 4. De subsidie wordt vastgesteld op basis van het activiteitenverslag en het financieel verslag.
 
