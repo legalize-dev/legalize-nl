@@ -4,7 +4,7 @@ identifier: "BWBR0052390"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2026-02-17"
+last_updated: "2026-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052390"
 soort: "ministeriele-regeling"
@@ -82,13 +82,13 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Mandaatbesluit algemeen directeur Justitiële ICT Organisatie 2026.
 
-## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=2&z=2026-03-05&g=2026-02-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=3&z=2026-03-05&g=2026-02-17)
+## Bijlage. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=2&z=2026-03-05&g=2026-03-05) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=3&z=2026-03-05&g=2026-03-05)
 
 ### Mandaatbesluit algemeen directeur Justitiële ICT Organisatie per 16 februari 2026
 
-**P-Mandaat:** De ambtenaren bij wie in kolom E de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=4&z=2026-03-05&g=2026-02-17) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290) (BW) en de Collectieve Arbeidsovereenkomst (CAO) Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend.
+**P-Mandaat:** De ambtenaren bij wie in kolom E de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=4&z=2026-03-05&g=2026-03-05) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290) (BW) en de Collectieve Arbeidsovereenkomst (CAO) Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend.
 
-De ambtenaren bij wie in kolom E de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=4&z=2026-03-05&g=2026-02-17) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het BW en de CAO Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend, met uitzondering van:
+De ambtenaren bij wie in kolom E de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052390&artikel=4&z=2026-03-05&g=2026-03-05) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het BW en de CAO Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend, met uitzondering van:
 
 **F-Mandaat:** De ambtenaren genoemd in kolom B zijn bevoegd tot het aangaan van verplichtingen en het doen van uitgaven. In kolom F-Mandaat is het maximumbedrag opgenomen waarvoor de ambtenaar telkens een verplichting mag aangaan of uitgave mag doen.
 
