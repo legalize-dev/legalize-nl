@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2025-06-04"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2 bis, eerste lid, artikel 2 quater, derde lid, artikel 3 bis, eerste en derde lid, artikel 4 bis, eerste lid, artikel 4 ter, artikel 4 quater, artikel 5, artikel 10 quinquies, eerste lid, artikel 15 bis, eerste lid, artikel 23, eerste tot en met vierde lid, artikel 23 bis, eerste tot en met vierde lid, artikel 29, eerste lid, tweede volzin, artikel 36, artikel 37, eerste en tweede lid, artikel 40, eerste lid, en artikel 41 van Verordening (EU) nr. 267/2012 van de Raad van de Europese Unie van 23 maart 2012 (Pb L 88).
+1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste en vierde lid, artikel 4, artikel 4 bis, eerste lid, artikel 4 ter, artikel 4 quater, artikel 5, eerste lid, artikel 8, eerste lid, artikel 9, artikel 10 bis, eerste lid, artikel 10 ter, artikel 10 quinquies, eerste lid, artikel 10 sexties, artikel 11, eerste lid, artikel 13, eerste lid, artikel 14 bis, eerste lid, artikel 15, eerste lid, artikel 15 bis, eerste lid, artikel 15 ter, eerste lid, artikel 16, artikel 17, eerste, tweede en vierde lid, artikel 18, eerst lid, artikel 22, artikel 23, eerste tot en met vierde lid, artikel 29, eerste lid, tweede volzin, artikel 30, eerste, derde, vijfde en zesde lid, artikel 30 bis, eerste en derde lid, artikel 30 ter, tweede lid, artikel 31, eerste lid, artikel 33, eerste en tweede lid, artikel 34, artikel 35, eerste en vierde lid, artikel 36, eerste en tweede lid, artikel 37, eerste, tweede en derde lid, artikel 37 bis, artikel 37 ter, eerste lid, artikel 40, eerste lid, en artikel 41 van [Verordening (EU) nr. 267/2012](32012R0267) van de Raad van de Europese Unie van 23 maart 2012 (Pb L 88).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 3 quater, artikel 15 bis, zesde lid, artikel 23, zevende lid, artikel 23 bis, zevende lid, of artikel 24 tot en met artikel 29 van Verordening (EU) nr. 267/2012 van toepassing is.
+2. Het verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 3, tweede lid, artikel 5, tweede lid, artikel 6, artikel 7, eerste lid, artikel 10, eerste of tweede lid, artikel 10 quater, eerste of tweede lid, artikel 10 septies, artikel 12, eerste of tweede lid, artikel 14, eerste of tweede lid, artikel 14 bis, tweede lid, artikel 15 bis, derde lid, artikel 15 ter, tweede lid, artikel 15 quater, artikel 19, eerste lid, artikel 20, artikel 21, artikel 23, zevende lid, artikel 24 tot en met artikel 28 bis, artikel 29, tweede lid, artikel 30, tweede lid, artikel 30 ter, eerste of derde lid, artikel 35, tweede of derde lid, artikel 37 ter, tweede lid, artikel 39, of artikel 43 bis, eerste of tweede lid, van [Verordening (EU) nr. 267/2012](32012R0267) van toepassing is.
 
 ##### Artikel 2
 
@@ -64,11 +64,17 @@ Besluit:
 
 ##### Artikel 3
 
-1. De bevoegde autoriteit, bedoeld in artikel 2 quater, artikel 3 bis, zesde lid en lid 6 bis, artikel 3 quater, tweede lid, en artikel 10 quinquies, tweede lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+1. De bevoegde autoriteit, bedoeld in artikel 3, tweede, vijfde en zesde lid, artikel 7, eerste lid, artikel 10, eerste en tweede lid, artikel 37, derde lid, en artikel 37 ter, tweede lid, van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. De bevoegde autoriteit, bedoeld in artikel 2 quinquies, eerste en tweede lid, artikel 3 bis, derde tot en met vijfde lid, artikel 3 ter, artikel 3 quinquies, eerste lid, tweede lid en lid 2 bis, en artikel 15 bis, tweede, vierde en vijfde lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
+2. De bevoegde autoriteit, bedoeld in artikel 5, tweede en derde lid, van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
 
-3. De bevoegde autoriteit, bedoeld in artikel 10 quinquies, vierde en vijfde lid, en in de artikelen 24 tot en met 28 ter van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking wat betreft de vrijgave of beschikbaarstelling van economische middelen en de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden.
+2a. De bevoegde autoriteit, bedoeld in artikel 12, eerste lid, en artikel 14, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Economische Zaken. De bevoegde autoriteit, bedoeld in artikel 43 bis, eerste en tweede lid, van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Klimaat en Groene Groei.
+
+2b. De bevoegde autoriteit, bedoeld in artikel 18, eerste en tweede lid, artikel 20 en artikel 21 van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Financiën of de Minister van Economische Zaken, elk voor het gebied waartoe hun competenties zich uitstrekken.
+
+2c. De bevoegde autoriteit, bedoeld in artikel 19, eerste lid, en artikel 39 van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Financiën, de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking Zaken of de Minister of de Minister van Economische Zaken, elk voor het gebied waartoe hun competenties zich uitstrekken.
+
+3. De bevoegde autoriteit, bedoeld in de artikelen 24 tot en met 28 bis, van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking wat betreft de vrijgave of beschikbaarstelling van economische middelen en de Minister van Financiën wat betreft de vrijgave of beschikbaarstelling van tegoeden. De bevoegde autoriteit, bedoeld in artikel 29, eerste lid, artikel 30, derde en vijfde lid, artikel 30 bis, eerste en derde lid, artikel 30 ter, eerste en derde lid, en artikel 31, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267), is de Minister van Financiën. De bevoegde autoriteit, bedoeld in artikel 30, zesde lid, van [Verordening (EU) nr. 267/2012](32012R0267), is de Financial Intelligence Unit – Nederland.
 
 4. De bevoegde autoriteit, bedoeld in artikel 29 van Verordening (EU) nr. 267/2012, is de Minister van Financiën.
 
@@ -98,15 +104,21 @@ Besluit:
 
 ##### Artikel 4
 
-Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, entiteiten of personen in Iran of voor gebruik in of ten behoeve van Iran, ongeacht het land van oorsprong. Dit verbod geldt niet voor voertuigen, niet zijnde gevechtsvoertuigen, die zijn gemaakt van of uitgerust met materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Iran.
+Vervallen
 
 ##### Artikel 5
 
-1. De Minister van Onderwijs, Cultuur en Wetenschap adviseert in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kennisinstellingen gevraagd of ongevraagd over een risico op overtreding van de verboden, bedoeld in artikel 4bis en artikel 4ter van [Verordening (EU) nr. 267/2012](32012R0267).
+1. Het is verboden om gespecialiseerde kennis die rechtstreeks of middellijk bijdraagt of kan bijdragen aan proliferatiegevoelige activiteiten van Iran of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Iran aan te bieden aan personen die niet beschikken over een ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap voor zover het betreft onderwijs en onderzoek aan een rechtspersoon die een in de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) opgenomen instelling of academisch ziekenhuis in stand houdt of is.
 
-2. De Minister van Onderwijs, Cultuur en Wetenschap is de verwerkingsverantwoordelijke in de zin van de Algemene verordening gegevensbescherming ter uitvoering van de taken bedoeld in het eerste lid.
+2. Het verbod, bedoeld in het eerste lid, strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen en associate degree-opleidingen als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a).
 
-3. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak bedoeld in het eerste lid, kunnen bijzondere persoonsgegevens worden verwerkt.
+3. In de bij deze regeling behorende bijlage wordt vermeld op welke gebieden van onderwijs en onderzoek het verbod, bedoeld in het eerste lid, betrekking heeft.
+
+4. De Minister van Onderwijs, Cultuur en Wetenschap verleent de gevraagde ontheffing tenzij hij het risico onaanvaardbaar groot acht dat het aanbieden van de bedoelde kennis aan de persoon voor wie de ontheffing is gevraagd, zal bijdragen aan proliferatiegevoelige activiteiten van Iran of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Iran.
+
+5. De Minister van Onderwijs, Cultuur en Wetenschap is de verwerkingsverantwoordelijke in de zin van de Algemene verordening gegevensbescherming ter uitvoering van de taken, bedoeld in het eerste lid.
+
+6. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak, bedoeld in het eerste lid, kunnen bijzondere persoonsgegevens worden verwerkt.
 
 ##### Artikel 6
 
@@ -126,7 +138,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-Vervallen
+Een rechtspersoon die een in de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) opgenomen instelling of academisch ziekenhuis in stand houdt of is, verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2026-03-06&g=2026-03-06).
 
 ## Bijlage. bij Sanctieregeling Iran 2012
 
@@ -148,8 +160,34 @@ Vervallen
 
 Deze regeling wordt aangehaald als: Sanctieregeling Iran 2012.
 
-## Bijlage. bij Sanctieregeling Iran 2012
+## Bijlage. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2026-03-06&g=2026-03-06)
 
-Vervallen
+- –. geavanceerde natuurkunde
+
+- –. geavanceerde computersimulatie en aanverwante computerwetenschappen
+
+- –. geospatiale navigatie
+
+- –. nucleaire technologie
+
+- –. ruimtevaarttechnologie
+
+- –. luchtvaarttechnologie en aanverwante vakgebieden
+
+- –. geavanceerde materiaalwetenschap
+
+- –. geavanceerde chemische technologie
+
+- –. geavanceerde machinebouw
+
+- –. geavanceerde elektrotechniek
+
+- –. geavanceerde industriële techniek
+
+- –. mechanica (non-linear solid mechanics en applied mechanics and data analysis), precisietechniek (materiaalkunde, elektrotechniek) en dynamics based maintenance
+
+- –. experimenteel en theoretisch onderzoek naar materiaal
+
+- –. geavanceerde natuurkunde (vloeistofdynamica, trillingen, geluid).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
