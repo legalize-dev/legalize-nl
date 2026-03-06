@@ -4,7 +4,7 @@ identifier: "BWBR0042578"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-06"
-last_updated: "2025-01-01"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042578"
 soort: "zbo"
@@ -74,19 +74,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1:2. - Toepassingsbereik van deze regeling
 
-1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2025-01-01&g=2025-01-01) van deze regeling wordt onder instelling verstaan:
+1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2026-03-06&g=2026-03-06) van deze regeling wordt onder instelling verstaan:
 
 - a. een bank, als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland;
 
 - b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2025-01-01&g=2025-01-01) van deze regeling wordt onder instelling verstaan:
+2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2026-03-06&g=2026-03-06) van deze regeling wordt onder instelling verstaan:
 
 - a. een bank, als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland die niet is aangemerkt als belangrijke kredietinstelling overeenkomstig artikel 6 lid 4 van de SSM Verordening; of
 
 - b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2025-01-01&g=2025-01-01) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
+3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2026-03-06&g=2026-03-06) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
 
 ##### Artikel 1:3. - Aanwijzing gemeenschappelijke regelingen met openbaar lichaam
 
@@ -148,7 +148,7 @@ Instellingen passen met betrekking tot de in artikel 178, lid 1, onderdeel b) va
 
 - f). de in artikel 400, lid 2, onderdeel i) van de CRR opgesomde vrijstellingen, tot het maximaal toegestane bedrag.
 
-2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2025-01-01&g=2025-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2025-01-01&g=2025-01-01), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
+2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2026-03-06&g=2026-03-06) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2026-03-06&g=2026-03-06), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
 
 ##### Artikel 3:5. – Identificatie van de belangrijke beursindexen van een lidstaat of een derde land
 
@@ -178,9 +178,9 @@ De volgende indexen kwalificeren als belangrijke aandelenindexen voor het bepale
 
 2. Instellingen die toestemming hebben ontvangen van DNB om het in deel zes, titel IV, hoofdstuk 5, van de CRR bedoelde vereenvoudigde nettostabielefinancieringsvereiste toe te passen, volgen de in het eerste lid gespecificeerde benadering bij de toepassing van artikel 428 quinquesquadragies, lid 2, van de CRR.
 
-##### Artikel 3:9. - Limieten van de grandfatheringposten voor bestanddelen die onder tier 1-kernkapitaal-, aanvullend tier 1-, en tier 2-bestanddelen vallen
+##### Artikel 3:9. – Toepassing toezichthouderdiscretie op grond van de CRR
 
-Vervallen
+Een bank als bedoeld in [artikel 3:33a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:33a) kan onroerend goed dat als zekerheid is gesteld voor gedekte obligaties waarderen tegen of onder de marktwaarde of tegen de hypotheekwaarde van dat onroerend goed, zonder dat de in artikel 229, eerste lid, onderdeel e, van de CRR vastgelegde plafonds hoeven te worden toegepast.
 
 ### Hoofdstuk 4. - Slotbepalingen
 
@@ -324,7 +324,7 @@ Van de aldus berekende risicogewichten voor de individuele blootstellingen wordt
 
 **Voorwaarden voor de beoordeling van een vrijstelling van de limiet voor grote blootstellingen, overeenkomstig artikel 400, lid 2, onderdeel c) van de CRR en artikel 3:4 van deze regeling.**
 
-- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:4&z=2025-01-01&g=2025-01-01) van deze regeling. Voor de toepassing van artikel 3:4 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421](https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421) opgevoerde derde landen als equivalent beschouwd.
+- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:4&z=2026-03-06&g=2026-03-06) van deze regeling. Voor de toepassing van artikel 3:4 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421](https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421) opgevoerde derde landen als equivalent beschouwd.
 
 - 2. Instellingen nemen de volgende criteria in acht om te beoordelen of een in artikel 400, lid 2, onderdeel c), van de CRR bedoelde blootstelling voldoet aan de voorwaarden voor een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 3 van de CRR:
 
