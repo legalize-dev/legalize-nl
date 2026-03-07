@@ -4,7 +4,7 @@ identifier: "BWBR0049684"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-07"
-last_updated: "2024-02-05"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049684"
 soort: "ministeriele-regeling"
@@ -40,127 +40,128 @@ tot vaststelling van de personele ondermandaat regeling binnen Logius, zoals ver
 
 Dit besluit wordt aangehaald als: Besluit vaststelling personele ondermandaten Logius
 
-## Bijlage
+## (Onder)mandaat personele aangelegenheden Logius + rollen
 
-| Personele aangeledenheden | wet- en regelgeving | SG | algemeen directeur | directeur / CIO / Algemeen Manager KOOP | afdelingshoofd / Afdelingsmanager KOOP | HR manager | Clustermanager | Opmerkingen |
+**Disclaimer: Voor financieel mandaat geldt een aparte regeling**
+
+| Personele aangeledenheden | wet- en regelgeving | secretaris-generaal BZK | algemeen directeur Logius | directeur / CIO / Algemeen Manager KOOP | afdelingshoofd / afdelingsmanager KOOP | HR-manager / clustermanager | Product Manager+ / Teammanager | Opmerkingen |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Organisatie en formatie** |   |   |   |   |   |   |   | X = eindverantwoordelijke/mandaathouder O = uitvoerende manager t = tekenbevoegdheid voor ovk's |
-| Het vaststellen van de formatie | [MandaatbesluitBZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) | X |   |   |   |   |   |   |
-| Vaststellen van capaciteitsplannen binnen het vastgesteld formatief kader | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   |   |
-| Optreden als bestuurder in de zin van de WOR | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   |   |
-| Het vaststellen van functie(her)waardering | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   | Topformatie valt onder bevoegdheid SG |
-| Toekennen representatievergoeding | §11.3 CAO Rijk | X | O |   |   |   |   |   |
+| **Organisatie en formatie** |   |   |   |   |   |   |   | X = eindverantwoordelijke/mandaathouder t = tekenbevoegdheid |
+| Vaststellen formatie | Mandaatbesluit BZK 2025 | X |   |   |   |   |   |   |
+| Vaststellen capaciteitsplannen binnen vastgesteld formatief kader | Mandaatbesluit BZK 2025 |   | X |   |   |   |   |   |
+| Optreden als bestuurder in de zin van de WOR | Mandaatbesluit BZK 2025 |   | X |   |   |   |   |   |
+| Vaststellen functie(her)waardering | Mandaatbesluit BZK 2025 |   | X |   |   |   |   | Topformatie valt onder bevoegdheid sg |
+| Toekennen representatievergoeding | §11.3 CAO Rijk | X |   |   |   |   |   |   |
 | **Personeelsgesprekken** |   |   |   |   |   |   |   |   |
-| Voeren van een plannings-, functionerings, en beoordelingsgesprek | §12.1 CAO Rijk |   | X | X | X | X | X |   |
-| Beoordeling opstellen | §12.2 CAO Rijk |   | X | X | X | X | X |   |
-| Vaststellen verslag van een plannings- en functioneringsgesprek | §12.1 CAO Rijk |   | X | X | X | X | X |   |
-| Beoordeling vaststellen / optreden als beoordelingsautoriteit | §12.2 CAO Rijk |   | X | X | O | O | O | * minimaal 1 niveau hoger dan opsteller beoordeling |
+| Voeren personeelsgesprek | §12.1 CAO Rijk |   | X | X | X | X | X |   |
+| Opstellen beoordeling over functioneren | §12.2 CAO Rijk |   | X | X | X | X | X |   |
+| Vaststellen verslag personeelsgesprek | §12.1 CAO Rijk |   | X | X | X | X | X |   |
+| Beoordeling vaststellen / optreden als beoordelingsautoriteit | §12.2 CAO Rijk |   | X | X |   |   |   | Minimaal 1 hiërarchisch niveau hoger dan opsteller beoordeling |
 | **Aannemen personeel en ontslag** |   |   |   |   |   |   |   |   |
-| Afnemen van de eed/belofte | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   |   |
-| Het sluiten van een arbeidsovereenkomst (bepaalde tijd/onbepaalde tijd) | §2.1/2.2 CAO Rijk |   | X / t | O | O | O | O | Uitzondering voor topformatie/MD-doelgroep |
-| Voeren van arbeidsvoorwaardengesprek en daarbij doen van een loonvoorstel binnen salarisschaal, inclusief bevestiging van aanbod arbeidsvoorwaarden aan kandidaat | § 6.1/6.2 CAO Rijk |   | X | X | X | X | X | Afstemming vooraf met mandaathouder (of kunnen handelen binnen overeengekomen bandbreedte/met advies HRM) |
-| Het wijzigen van de arbeidsovereenkomst (bijv verlengen of omzetten naar onbepaalde tijd) | §2.1/2.2 CAO Rijk |   | X | O | O | O | O |   |
-| Het wijzigen van de arbeidsduur (meer/minder werken) mits passend binnen formatie | §3.1 CAO Rijk |   | X | X | O | O | O |   |
-| Bevorderen naar een hogere/andere functie, mits passend binnen formatie | §2.2 CAO Rijk |   | X | X | O | O | O | met toepassing vrije werkplekken BZK en/of vacaturebeleid |
-| Het opzeggen/beëindigen van de arbeidsovereenkomst door werkgever | [art. 7:667/7:669 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=667) §2.3 CAO Rijk en §25.1 |   | X / t | O | O | O | O | bij directeuren na afstemming met SG, met advies HRM |
-| Het toekennen van transitievergoeding | [art. 7:673 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) |   | X | O | O | O | O |   |
-| Aanzeggen/bevestigen einde arbeidsovereenkomst voor bepaalde tijd (langer dan 6 mnd) | [art. 7:668 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668) |   | X | O | O | O | O |   |
-| Verzoek ontbinding arbeidsovereenkomst door de kantonrechter | [art. 7:671b BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b) |   | X | O |   |   |   |   |
-| Het aanvragen van een ontslagvergunning bij het UWV | [art. 7:671a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a) |   | X | O | O | O | O |   |
-| Bevestiging einde dienstverband wegens bereiken AOW-gerechtigde leeftijd | [art. 7:669 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669)/§25.2 CAO Rijk |   | X | O | O | O | O |   |
-| Toekennen verzoek tot langer doorwerken na AOW-gerechtigde leeftijd |   |   | X |   |   |   |   | Verzoeken om langer door te werken worden met tussenkomst van lijnmanager voorgelegd aan algemeen directeur |
-| Het toekennen van een overlijdensuitkering | [art. 7:674 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=674)/§2.7 CAO Rijk |   | X | O | O | O | O |   |
-| Het aanwijzen als VWNW kandidaat | §14.1 CAO Rijk |   | X | O | O | O | O | obv door SG vastgesteld O&F rapport |
-| Beslissen tot wijzigen werklocatie |   |   | X | O | O | O | O |   |
-| Overeenkomen detachering / interim- functievervulling (inclusief bijbehorende afspraken oa over terugkeer) |   |   | X / t | O | O | O | O |   |
-| Vaststellingsoverenkomst (personele individuele maatwerkregeling) | [art. 7:670b BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670b) |   | X / t | O |   |   |   | na afstemming met SG – vooraf verplichte toets hoofd HRM Advies namens SG |
+| Afnemen eed/belofte | Mandaatbesluit BZK 2025 |   | X |   |   |   |   |   |
+| Sluiten arbeidsovereenkomst (bepaalde tijd/onbepaalde tijd) | §2.1/2.2 CAO Rijk |   | X / t |   |   |   |   | Uitzondering voor topformatie/MD-doelgroep |
+| Voeren arbeidsvoorwaardengesprek en daarbij doen van loonvoorstel binnen salarisschaal, incl. bevestiging aanbod arbeidsvoorwaarden aan kandidaat | §6.1/6.2 CAO Rijk |   | X | X | X | X | X | Afstemming vooraf met mandaathouder (of kunnen handelen binnen overeengekomen bandbreedte/met advies HRM-advies) |
+| Wijzigen arbeidsovereenkomst (bijv. verlengen of omzetten naar onbepaalde tijd) | §2.1/2.2 CAO Rijk |   | X | X |   |   |   |   |
+| Wijzigen arbeidsduur (meer/minder werken) mits passend binnen formatie | §3.1 CAO Rijk |   | X | X |   |   |   |   |
+| Bevorderen naar hogere/andere functie, mits passend binnen formatie | §2.2 CAO Rijk |   | X | X |   |   |   | Met toepassing vrije werkplekken BZK en/of vacaturebeleid |
+| Opzeggen/beëindigenarbeidsovereenkomst door werkgever | art. 7:667/7:669 BW §2.3 CAO Rijk en §25.1 |   | X / t |   |   |   |   | Bij directeuren na afstemming met SG, met advies HRM-advies |
+| Toekennen transitievergoeding | art. 7:673 BW |   | X |   |   |   |   |   |
+| Aanzeggen/bevestigen einde arbeidsovereenkomst voor bepaalde tijd (langer dan 6 mnd.) | art. 7:668 BW |   | X |   |   |   |   |   |
+| Verzoeken om ontbinding arbeidsovereenkomst door kantonrechter | art. 7:671b BW |   | X |   |   |   |   |   |
+| Aanvragen ontslagvergunning bij UWV | art. 7:671a BW |   | X |   |   |   |   |   |
+| Bevestigen einde dienstverband wegens bereiken AOW-gerechtigde leeftijd | art. 7:669 BW/§2.5 CAO Rijk |   | X |   |   |   |   |   |
+| Toekennen verzoek tot langer doorwerken na AOW-gerechtigde leeftijd | §2.5 CAO Rijk |   | X |   |   |   |   | Verzoeken om langer door te werken worden met tussenkomst van lijnmanager voorgelegd aan algemeen directeur |
+| Toekennen overlijdensuitkering | art. 7:674 BW/§2.7 CAO Rijk |   | X |   |   |   |   |   |
+| Aanwijzen VWNW-kandidaat | §14.1 CAO Rijk |   | X |   |   |   |   | O.b.v. door SG vastgesteld O&F-rapport |
+| Toekennen VWNW-voorzieningen | §14.1 e.v. CAO Rijk |   | X |   |   |   |   |   |
+| Sluiten vaststellingsoverenkomst (personele individuele maatwerkregeling) | art. 7:670b BW |   | X / t |   |   |   |   | Na afstemming met SG – vooraf verplichte toets hoofd HRM-advies namens SG |
+| Beslissen openstellen vacature, mits passend binnen vastgestelde capaciteitsplan |   |   | X | X |   |   |   |   |
+| Overeenkomen detachering / interim-functievervulling (incl. bijbehorende afspraken o.a. over terugkeer) |   |   | X / t |   |   |   |   |   |
+| Beslissen tot wijzigen werklocatie |   |   | X |   |   |   |   |   |
+| Inhuren extern personeel |   |   | X | X |   |   |   | Binnen afgesproken kaders. |
+| Sluiten stage-overeenkomsten & -verlengingen |   |   | X / t | X |   |   |   |   |
 | **Ordemaatregelen en straffen** |   |   |   |   |   |   |   |   |
-| Het ontzeggen van de toegang tot de organisatie | §15 CAO Rijk |   | X |   |   |   |   | met advies HRM |
-| Opdracht tot verrichten van werkzaamheden elders of andere werkzaamheden i.h.k.v. orde maatregel | §15 CAO Rijk |   | X |   |   |   |   | met advies HRM |
-| Opleggen van een schorsing | §15 CAO Rijk |   | X |   |   |   |   | met advies HRM |
-| Het opleggen van een disciplinaire straf, o.a berisping, korten IKB uren, onthouden periodieke verhoging. | §15 CAO Rijk |   | X |   |   |   |   | met advies HRM |
-| Ontslag op staande voet, wegens dringende reden | [art. 7:677 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677) / §15 CAO Rijk |   | X / t | O |   |   |   | met advies HRM en afstemming arbeidsjurist |
+| Ontzeggen toegang tot werkplek | §15 CAO Rijk |   | X |   |   |   |   | Met advies HRM-advies |
+| Opdracht geven verrichten werkzaamheden elders of andere werkzaamheden i.h.k.v. ordemaatregel | §15 CAO Rijk |   | X |   |   |   |   | Met advies HRM-advies |
+| Opleggen schorsing | §15 CAO Rijk |   | X |   |   |   |   | Met advies HRM-advies |
+| Opleggen disciplinaire straf, o.a berisping, korten IKB uren, onthouden periodieke verhoging | §15 CAO Rijk |   | X |   |   |   |   | Met advies HRM-advies |
+| Geven ontslag op staande voet, wegens dringende reden | art. 7:677 BW / §15 CAO Rijk |   | X / t |   |   |   |   | Met advies HRM-advies en afstemming arbeidsjurist |
 | **Beloning** |   |   |   |   |   |   |   |   |
-| Het bepalen van het salaris (m.u.v. MD-functies) | §6.1 CAO Rijk |   | X | X | O | O | O | MD doelgroep: leidinggevenden en specialisten vanaf S15 Het is niet toegestaan een salaris in een hogere schaal dan de functieschaal toe te kennen |
-| Het toekennen/onthouden van een periodieke verhoging i.h.k.v. functioneren (gekoppeld aan beoordeling) | §6.2/§12.2 CAO Rijk |   | X | O | O | O | O |   |
-| Het toekennen van een eenmalige- of periodieke toeslag | §7.9 CAO Rijk |   | X | O | O | O | O | voor extra belonen geldt: Rijksbreed beleidskader Extra belonen |
-| Het vaststellen van een lager salaris (functieverlichting) | §12.6 CAO Rijk |   | X | O | O | O | O |   |
-| Het toekennen van partieel arbeidsdeelname senioren (PAS) | §3.3 CAO Rijk |   | X | X | O | O | O |   |
+| Bepalen salaris (m.u.v. MD-functies) | §6.1 CAO Rijk |   | X | X |   |   |   | MD-doelgroep: functies in S15 en hoger Het is niet toegestaan een salaris in een hogere schaal dan de functieschaal toe te kennen |
+| Toekennen/onthouden periodieke verhoging i.h.k.v. functioneren (gekoppeld aan beoordeling) | §6.2/§12.2 CAO Rijk |   | X |   |   |   |   |   |
+| Toekennen eenmalige of periodieke toeslag | §7.5 CAO Rijk |   | X |   |   |   |   | Voor extra belonen geldt: Rijksbreed beleidskader Extra belonen. Met advies HRM-advies |
+| Vaststellen lager salaris (functieverlichting) | §12.6 CAO Rijk |   | X |   |   |   |   |   |
+| Toekennen partiële arbeidsdeelname senioren (PAS) | §26.3 CAO Rijk |   | X | X |   |   |   |   |
 | **Variabele beloning** |   |   |   |   |   |   |   |   |
-| Het toekennen van een waarnemingstoelage | §7.8 CAO Rijk |   | X | O | O | O | O |   |
-| Het toekenen van een bindingspremie/arbeidsmarkttoelage | §7.9 CAO Rijk |   | X | O | O | O | O | zie voor proces notitie arbeidsmarkttoelage Logius |
-| Het toekennen van een aflopende toelage onregelmatige dienst | §7.1 / § 7.4 CAO Rijk |   | X | O | O | O | O |   |
-| Het toekennen van een (vaste) toelage bereikbaarbaarheid/beschikbaarheid | §7.6 CAO Rijk |   | X | O | O | O | O |   |
-| Het toekennen van een vergoeding voor overwerk | §7.10 CAO Rijk |   | X | X | O | O | O |   |
+| Toekennen waarnemingstoelage | §7.4 CAO Rijk |   | X | X |   |   |   | Met advies HRM-advies |
+| Toekenen bindingspremie/arbeidsmarkttoelage | §7.5 CAO Rijk |   | X |   |   |   |   | Met advies HRM-advies, zie voor proces notitie arbeidsmarkttoelage Logius |
+| Toekennen toelage bereikbaarbaarheid/beschikbaarheid | §7.1 CAO Rijk |   | X | X | X | X |   |   |
+| Toekennen vergoeding overwerk (tot maximaal s10) | §7.6 CAO Rijk |   | X | X | X | X |   |   |
+| Toekennen vergoeding overwerk in het kader van bereikbaarheid en beschikbaarheid Logius | Personeelsregelement BZK |   | X | X |   |   |   | Maximaal 2 personen mogen opdracht bij P-Direkt indienen. |
+| Uitbetalen overwerkverlof | Personeelsregelement BZK |   | X |   |   |   |   | Dit kan alleen als er sprake is van verstoring van de bedrijfsvoering bij opname van de uren |
 | **Vakantie en bijzonder verlof** |   |   |   |   |   |   |   |   |
-| Toekennen/wijzigen opname vakantie/verlof -uren | §4.1 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen/wijzigen opname vakantie-uren | §4.1 CAO Rijk |   | X | X | X | X | X |   |
+| Aanspraak wettelijke vakantie-uren verlengen | §4.1 CAO Rijk |   | X |   |   |   |   | Alleen bij ziekte, overleg met HRM-adviseur |
 | Toekennen opname verlof tijdens ziekte | §4.1 CAO Rijk |   | X | X | X | X | X |   |
-| Het vaststellen van een afbouwplan verlof | §4.1 CAO Rijk |   | X | X | X | X | X |   |
-| Het verlenen van kortdurend bijzonder verlof – CAO gelieerd (o.a. bijzondere gebeurtenissen) | § 4.3 / 4.9 CAO Rijk |   | X | X | X | X | X |   |
-| Het verlenen van langdurend bijzonder verlof | §4.3 / 5 CAO Rijk |   | X | X | O | O | O |   |
-| Het verlenen van onbetaald verlof | § 4.3 CAO Rijk |   | X | X | O | O | O |   |
-| Het verlenen van studieverlof (behorende bij studiefaciliteiten) | §12.3 CAO Rijk |   | X | X | O | O | O |   |
+| Vaststellen afbouwplan verlof | §4.1 CAO Rijk |   | X | X | X | X | X |   |
+| Verlenen kortdurende bijzonder verlof – CAO-gelieerd (o.a. bijzondere gebeurtenissen) | §4.3 / 4.9 CAO Rijk |   | X | X | X | X | X |   |
+| Verlenen langdurend bijzonder verlof | §4.3 / 5 CAO Rijk |   | X | X |   |   |   |   |
+| Verlenen onbetaald verlof | §4.3 CAO Rijk |   | X | X |   |   |   |   |
+| Verlenen studieverlof (behorende bij studiefaciliteiten) | §12.3 CAO Rijk |   | X | X |   |   |   |   |
 | **Aanvullingen verlofbepalingen Wet arbeid en Zorg** |   |   |   |   |   |   |   |   |
-| Het verlenen van zwangerschaps-/bevallingsverlof | § 5 CAO Rijk/[art. 3:1 WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) |   | X | X | X | X | X |   |
-| Het verlenen van ouderschapsverlof | § 5 CAO Rijk/[art. 6:1 WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:1) |   | X | X | X | X | X |   |
-| Het verlenen van adoptie- en pleegverlof | § 5 CAO Rijk/[art. 3:2 WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:2) |   | X | X | X | X | X |   |
-| Het verlenen van kortdurend zorgverlof | § 5 CAO Rijk/[art. 5:1 WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1) |   | X | X | X | X | X |   |
-| Het verlenen van langdurig zorgverlof | § 5 CAO Rijk/[art. 5:9 WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:9) |   | X | X | O | O | O |   |
-| Het verlenen van calamiteiten- en ander kort verlof | § 5 CAO Rijk/[art. 4:1 WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:1) |   | X | X | X | X | X |   |
+| Verlenen zwangerschaps-/bevallingsverlof | §5 CAO Rijk/art. 3:1 WAZO |   | X | X | X | X | X |   |
+| Verlenen ouderschapsverlof | §5 CAO Rijk/art. 6:1 WAZO |   | X | X | X | X | X |   |
+| Verlenen adoptie- en pleegverlof | §5 CAO Rijk/art. 3:2 WAZO |   | X | X | X | X | X |   |
+| Verlenen kortdurend zorgverlof | §5 CAO Rijk/art. 5:1 WAZO |   | X | X | X | X | X |   |
+| Verlenen langdurig zorgverlof | §5 CAO Rijk/art. 5:9 WAZO |   | X | X |   |   |   |   |
+| Verlenen calamiteiten- en ander kort verlof | §5 CAO Rijk/art. 4:1 WAZO |   | X | X | X | X | X |   |
 | **Gratificaties** |   |   |   |   |   |   |   |   |
-| Het toekennen van een eenmalige uitkering (gratificatie/beloning) | §7.9 CAO Rijk |   | X | X | O | O | O | Voordrachten extra belonen worden goedgekeurd door DT en uitgevoerd door afdelingshoofd. |
-| Toekennen gratificatie i.h.k.v. ambtsjubileum | § 6.4 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen eenmalige uitkering (gratificatie/beloning) | §7.5 CAO Rijk |   | X | X |   |   |   | Voordrachten extra belonen worden goedgekeurd door DT en uitgevoerd door afdelingshoofd. |
+| Toekennen gratificatie i.h.k.v. ambtsjubileum | §6.4 CAO Rijk |   | X | X | X | X |   |   |
 | **Opleidingen** |   |   |   |   |   |   |   |   |
-| Het vaststellen van het opleidingsplan organisatiebreed |   |   | X |   |   |   |   |   |
-| Toekennen/afwijzen studiefaciliteiten en opleidingen (binnen vastgesteld opleidingsplan organisatie) | §12.3 CAO Rijk |   | X | X | X | X | X | DT beslist vanaf 10K, directeur van 2,5K t/m 10K, afdelingshoofd tot 2,5K |
+| Vaststellen opleidingsplan organisatiebreed |   |   | X |   |   |   |   |   |
+| Geven vrijstelling voor terugbetaling kosten opleiding | §12.3 CAO Rijk |   | X | X |   |   |   | **Let op!** Vanaf 1 aug. 2022 is een studiekostenbeding niet geldig als het gaat om een verplichte opleiding (art. 7:611a lid 4 BW). |
+| Toekennen/afwijzen studiefaciliteiten en opleidingen (binnen vastgesteld opleidingsplan organisatie) | §12.3 CAO Rijk |   | X | X | X | X |   | MT beslist vanaf 10k, directeur van 2,5k t/m 10k, afdelingshoofd tot 2,5k |
 | **Ziekte en arbeidsongeschiktheid** |   |   |   |   |   |   |   |   |
-| Vergoeding schade en zorgkosten / medische behandeling | [art. 7:658 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=658)/§8.7 CAO Rijk |   | X |   |   |   |   | in overleg met HRM advies en bedrijfsarts |
-| Toekennen aanvullende vergoeding bij minder dan 35% arbeidsongeschiktheid | § 8.4 CAO Rijk |   | X | X | O | O | O |   |
+| Vergoeden schade en zorgkosten / medische behandeling | art. 7:658 BW/§8.7 CAO Rijk |   | X |   |   |   |   | In overleg met HRM-advies en bedrijfsarts |
+| Toekennen aanvullende vergoeding bij minder dan 35% arbeidsongeschiktheid | §8.4 CAO Rijk |   | X | X |   |   |   |   |
 | Registreren datum bevalling |   |   | X | X | X | X | X |   |
-| Besluit ´dienstongeval´, beroepsziekte, beroepsincident | § 8.7 CAO Rijk en Bijlage |   | X |   |   |   |   |   |
+| Besluiten tot dienstongeval, beroepsziekte, beroepsincident | §8.7 CAO Rijk en Bijlage |   | X |   |   |   |   |   |
 | **Werktijdregeling** |   |   |   |   |   |   |   |   |
-| Betaald meer uren werken (met gelijkblijvende arbeidsduur) | §9.2 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen betaald meer uren werken (met gelijkblijvende arbeidsduur) | §9.2 CAO Rijk |   | X | X | X | X |   |   |
 | Vaststellen werkrooster |   |   | X | X | X | X | X |   |
-| Opdragen/ aanwijzen tot het verrichten van bereikbaar- & beschikbaarheidsdiensten | § 3.2 en § 7.6 CAO Rijk |   | X / t |   |   |   |   |   |
-| Vaststellen periodiek B&B rooster | [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) |   | X | X | X | X | X |   |
-| Opdracht tot verrichten overwerk | 3.2 CAO Rijk |   | X | X | X | X | X |   |
+| Opdragen/aanwijzen tot verrichten bereikbaarheis- en beschikbaarheidsdiensten | §3.2 en §7.1 CAO Rijk |   | X / t |   |   |   |   |   |
+| Vaststellen periodiek rooster bereikbaarheids- en beschikbaarheidsdiensten | Arbeidstijdenwet |   | X | X | X | X | X |   |
+| Opdracht geven tot verrichten overwerk | §3.2 CAO Rijk |   | X | X | X | X | X |   |
 | **BHV** |   |   |   |   |   |   |   |   |
-| Aanwijzen om op te treden als BHV-er | §11.4 CAO Rijk |   | X | X | O | O | O |   |
-| Het verlenen van een vergoeding voor BHV | §11.4 CAO Rijk |   | X | X | O | O | O |   |
+| Aanwijzen om op te treden als BHV-er | §11.4 CAO Rijk |   | X | X |   |   |   |   |
+| Verlenen vergoeding BHV | §11.4 CAO Rijk |   | X | X |   |   |   |   |
+| Nemen aanwijzings- en beëdigingsbesluiten BHV |   |   | X | X |   |   |   |   |
 | **Personele regelingen** |   |   |   |   |   |   |   |   |
-| Beoordelen arbeidsomstandigheden (inclusief thuiswerkplek) | [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) / arbocatalogus Rijk |   | X | X | X | X | X |   |
-| Het toekennen/afkeuren van aanvragen gebruik IKB-budget | §9.1 CAO Rijk |   | X | X | X | X | X | Bij afkeuren advies HRM |
-| Besluit tot verbod verrichten van nevenwerkzaamheden | [art. 7:653a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653a)/ Gedragscode Integriteit Rijk en [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) |   | X |   |   |   |   | Let op! Sinds 1 aug. 2022 is een verbod op verrichten van nevenwerkzaamheden verboden, tenzij daar objectieve redenen voor zijn ([art. 7:653a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653a)). Voor verbod altijd in overleg met HRM Advies |
+| Beoordelen arbeidsomstandigheden (inclusief thuiswerkplek) | Arbowet / arbocatalogus Rijk |   | X | X | X | X | X |   |
+| Toekennen/afkeuren aanvragen gebruik IKB-budget | §9.1 CAO Rijk |   | X | X | X | X |   | Bij afkeuren advies HRM-advies |
+| Besluiten tot verbod verrichten nevenwerkzaamheden | art. 7:653a BW / Gedragscode Integriteit Rijk en Ambtenarenwet 2017 |   | X |   |   |   |   | **Let op!** Sinds 1 aug. 2022 is een verbod op verrichten van nevenwerkzaamheden verboden, tenzij daar objectieve redenen voor zijn (art. 7:653a BW). Voor verbod altijd in overleg met HRM-advies |
 | **Reizen en vergoedingen** |   |   |   |   |   |   |   |   |
-| Het toekennen van de pensionkostenvergoeding en verhuiskostenvergoeding | §11.5 CAO Rijk |   | X | X | O | O | O |   |
-| Het goedkeuren/afkeuren van reisdeclaraties | §10.1 CAO Rijk |   | X | X | X | X | X |   |
-| Het toekennen vergoeding woon-werkverkeer | §10.1 CAO Rijk |   | X | X | X | X | X |   |
-| Het toekennen vergoeding dienstreizen binnenland | §10.2 CAO Rijk |   | X | X | X | X | X |   |
-| Het toekennen vergoeding dienstreizen buitenland | §10.3 CAO Rijk |   | X | X | O | O | O |   |
+| Toekennen pensionkostenvergoeding en verhuiskostenvergoeding | §11.5 CAO Rijk |   | X | X |   |   |   |   |
+| Goedkeuren/afkeuren reisdeclaraties | §10.1 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen vergoeding woon-werkverkeer | §10.1 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen vergoeding dienstreizen binnenland | §10.2 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen vergoeding dienstreizen buitenland | §10.3 CAO Rijk |   | X | X |   |   |   |   |
 | Beslissen over gebruik dienstauto | §10.4 CAO Rijk |   | X |   |   |   |   |   |
-| Het toekennen van de hoge tegemoetkoming woon-werkverkeer | §10.1 CAO Rijk |   | X | X | O | O | O |   |
-|   |   |   |   |   |   |   |   |   |
+| Toekennen hoge tegemoetkoming woon-werkverkeer | §10.1 CAO Rijk |   | X | X |   |   |   |   |
 | **Overige vergoedingen** |   |   |   |   |   |   |   |   |
-| Het toekennen van een maaltijdvergoeding bij overwerk | §11.1 CAO Rijk |   | X | X | X | X | X |   |
-| Het toekennen van een thuiswerkvergoeding en voorzieningen thuiswerkplek en/of verduurzaming woning | §25.6 CAO Rijk |   | X | X | X | X | X |   |
-| Het toekennen vergoeding beeldschermbril | §11.6 CAO Rijk |   | X | X | X | X | X |   |
-| Vergoeding voor juridische ondersteuning | Bijlage 11 CAO Rijk |   | X |   |   |   |   |   |
-| Toekennen vergoeding overwerk (tot max S10) | § 7.10 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen maaltijdvergoeding bij overwerk | §11.1 CAO Rijk |   | X | X | X | X | X |   |
+| Toekennen thuiswerkvergoeding en voorzieningen thuiswerkplek en/of verduurzaming woning | §11.2 CAO Rijk |   | X | X | X | X |   |   |
+| Toekennen vergoeding beeldschermbril | §11.6 CAO Rijk |   | X | X | X | X |   |   |
+| Toekennen vergoeding juridische ondersteuning | §11.7 CAO Rijk |   | X |   |   |   |   |   |
 | **Overig** |   |   |   |   |   |   |   |   |
-| Personeelskaarten en personeelsdossiers raadplegen / documenten toevoegen |   |   | X | X | X | X | X |   |
-| Het opleggen van de verplichting tot vergoeden van door de dienst geleden schade | [art. 7:661 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=661) |   | X |   |   |   |   |   |
-| Vrijstelling geven op terugbetaling van kosten opleiding | §12.3 CAO Rijk |   | X | X |   |   |   | Let op! Vanaf 1 aug. 2022 is een studiekostenbeding niet geldig als het gaat om een verplichte opleiding ([art. 7:611a lid 4 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=611a)). |
-| Beslissen tot openstellen vacature, mits passend binnen vastgestelde capaciteitsplan |   |   | X | X | O | O | O |   |
-| Toekennen VWNW voorzieningen | §14.1 e.v. CAO Rijk |   | X | O |   |   |   |   |
-| Inhuur extern personeel |   |   | X | X | O | O | O | Binnen afgesproken kaders. |
-| BHV aanwijzings- en beëdigingsbesluiten |   |   | X | X |   |   |   |   |
-| Stage overeenkomsten & verlengingen |   |   | X / t | X | O | O | O |   |
-|   |   |   |   |   |   |   |   |   |
-| ****Proces van afstemming:**** |   |   |   |   |   |   |   |   |
-| In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient vooraf afstemming te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht |   |
-|   |   |   |   |   |   |   |   |   |
-| NB: |   |   |   |   |   |   |   |   |
-| Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. |   |
-| Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. | Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. | Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. | Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. | Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. | Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. | Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. | Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies. |   |
+| Raadplegen personeelskaarten en personeelsdossiers / toevoegen documenten |   |   | X | X | X | X | X |   |
+| Opleggen verplichting vergoeden van door dienst geleden schade | art. 7:661 BW |   | X |   |   |   |   |   |
+
+****Proces van afstemming:****
+
+In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht.
+
+Een beslissing dient genomen te worden door het daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werkenemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. Bij twijfel, raadpleeg de HRM-adviseur voor een toelichting en/of advies.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
