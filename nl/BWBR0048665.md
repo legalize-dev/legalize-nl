@@ -4,7 +4,7 @@ identifier: "BWBR0048665"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-07"
-last_updated: "2025-01-01"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048665"
 soort: "ministeriele-regeling"
@@ -51,9 +51,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Thuiswerkvergoeding
 
-1. Indien werkzaamheden op basis van het voor de defensieambtenaar geldende persoonlijk werkrooster vanuit de woning worden verricht, heeft de defensieambtenaar aanspraak op een thuiswerkvergoeding ter hoogte van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2026-03-07&g=2025-01-01) opgenomen bedragen.
+1. Indien werkzaamheden op basis van het voor de defensieambtenaar geldende persoonlijk werkrooster vanuit de woning worden verricht, heeft de defensieambtenaar aanspraak op een thuiswerkvergoeding ter hoogte van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2026-03-07&g=2026-03-07) opgenomen bedragen.
 
-2. De defensieambtenaar waarvoor geen persoonlijk werkrooster is vastgesteld in een geautomatiseerd personeelssysteem van defensie en die vanuit de woning werkzaamheden verricht, heeft op aanvraag aanspraak op een thuiswerkvergoeding van € 2,– per thuiswerkdag.
+2. De defensieambtenaar waarvoor geen persoonlijk werkrooster is vastgesteld in een geautomatiseerd personeelssysteem van defensie en die vanuit de woning werkzaamheden verricht, heeft op aanvraag aanspraak op een thuiswerkvergoeding van € 2,35 per thuiswerkdag.
 
 ##### Artikel 3. Internetvergoeding
 
@@ -75,7 +75,7 @@ De defensieambtenaar die aanspraak heeft op een thuiswerkvergoeding, heeft teven
 
 ##### Artikel 6. Aanvang en beëindiging thuiswerkvergoeding
 
-1. Indien de aanspraak op een thuiswerkvergoeding aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand, dan wordt het bedrag opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2026-03-07&g=2025-01-01), voor die maand berekend naar rato van het aantal werkdagen die vanuit de woning worden verricht.
+1. Indien de aanspraak op een thuiswerkvergoeding aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand, dan wordt het bedrag opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2026-03-07&g=2026-03-07), voor die maand berekend naar rato van het aantal werkdagen die vanuit de woning worden verricht.
 
 2. De aanspraak op een thuiswerkvergoeding wordt opgeschort, nadat de defensieambtenaar langer dan zes aaneengesloten weken afwezig is en geen werkzaamheden verricht vanuit de woning. De thuiswerkvergoeding vangt wederom aan op de eerste dag van de maand volgend op de datum van terugkeer op basis van het dan geldende persoonlijk werkrooster.
 
@@ -109,11 +109,11 @@ Wijzigt de Inkomstenregeling militairen en de Inkomstenregeling burgerlijke ambt
 
 ##### Artikel 8. Overgangsbepaling
 
-De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=2&artikel=7&z=2026-03-07&g=2025-01-01) genoemde artikelen blijven tot en met 1 januari 2024 van kracht ten aanzien van degenen die in het buitenland van rijkswege zijn gehuisvest, voor zover zij niet op andere gronden in aanmerking komen voor een internetvergoeding en er niet reeds internet in de huisvesting aanwezig is.
+De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=2&artikel=7&z=2026-03-07&g=2026-03-07) genoemde artikelen blijven tot en met 1 januari 2024 van kracht ten aanzien van degenen die in het buitenland van rijkswege zijn gehuisvest, voor zover zij niet op andere gronden in aanmerking komen voor een internetvergoeding en er niet reeds internet in de huisvesting aanwezig is.
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt ten aanzien van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=1&z=2026-03-07&g=2025-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=2&z=2026-03-07&g=2025-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=4&z=2026-03-07&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=5&z=2026-03-07&g=2025-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=6&z=2026-03-07&g=2025-01-01) terug tot en met 1 juli 2022.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt ten aanzien van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=1&z=2026-03-07&g=2026-03-07), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=2&z=2026-03-07&g=2026-03-07), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=4&z=2026-03-07&g=2026-03-07), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=5&z=2026-03-07&g=2026-03-07) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&hoofdstuk=1&artikel=6&z=2026-03-07&g=2026-03-07) terug tot en met 1 juli 2022.
 
 ##### Artikel 10. Citeertitel
 
