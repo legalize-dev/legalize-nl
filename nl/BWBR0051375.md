@@ -4,7 +4,7 @@ identifier: "BWBR0051375"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-10"
-last_updated: "2025-08-01"
+last_updated: "2026-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051375"
 soort: "zbo"
@@ -73,5 +73,9 @@ Het <college van burgemeester en wethouders van de gemeente [naam gemeente] / da
 Het <college van burgemeester en wethouders van de gemeente [naam gemeente] / dagelijks bestuur van het waterschap [naam waterschap] / bestuurscollege van het openbaar lichaam [naam openbaar lichaam]> verklaart dat de ingerichte decentrale voorzieningen en getroffen decentrale maatregelen voldoen of gaan voldoen aan de vastgestelde aansluitvoorschriften gedurende de periode van gebruik van de uitslagprogrammatuur.
 
 <niet voor dagelijks bestuur waterschap> Daarnaast levert het <college van burgemeester en wethouders van de gemeente [naam gemeente] / bestuurscollege van het openbaar lichaam [naam openbaar lichaam]> een lijst van alle stembureaus in de <gemeente/openbaar lichaam>, zoals deze is gedeeld met de kiezers, via een uitwisselplatform aan bij de Kiesraad.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+Modellen als bedoeld in artikel 1 van Stcrt. 2026/6394 gepubliceerd op [https://zoek.officielebekendmakingen.nl/stcrt-2026-6394-b1](https://zoek.officielebekendmakingen.nl/stcrt-2026-6394-b1).
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
