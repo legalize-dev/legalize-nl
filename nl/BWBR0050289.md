@@ -4,7 +4,7 @@ identifier: "BWBR0050289"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-10"
-last_updated: "2025-11-02"
+last_updated: "2026-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050289"
 soort: "zbo"
@@ -108,11 +108,11 @@ De werkgever heeft activiteiten verricht of ingekocht voor de begeleiding van de
 
 ### Artikel 22. Vrijstellingsregeling voor eigen uitkeringsgerechtigden
 
-Om financiële drempels bij het aannemen van uitkeringsgerechtigden weg te nemen, is het mogelijk om onder voorwaarden gebruik te maken van een vrijstelling voor de reguliere verlagingsvereisten. De werkgever komt in aanmerking voor vrijstelling van de voorwaarden van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2025-11-02), wanneer is voldaan aan het bepaalde in het eerste tot en met het derde lid.
+Om financiële drempels bij het aannemen van uitkeringsgerechtigden weg te nemen, is het mogelijk om onder voorwaarden gebruik te maken van een vrijstelling voor de reguliere verlagingsvereisten. De werkgever komt in aanmerking voor vrijstelling van de voorwaarden van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2026-03-10), wanneer is voldaan aan het bepaalde in het eerste tot en met het derde lid.
 
 ### Artikel 23. Vrijstellingsregeling voor niet eigen uitkeringsgerechtigden nieuw
 
-Om financiële drempels bij het aannemen van uitkeringsgerechtigden weg te nemen, is het mogelijk om onder voorwaarden gebruik te maken van een vrijstelling voor de reguliere verlagingsvereisten. Voor werknemers die op of na 1 augustus 2022 een dienstverband zijn aangegaan, komt de werkgever in aanmerking voor vrijstelling van de voorwaarden van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2025-11-02), wanneer is voldaan aan het bepaalde in het eerste tot en met het derde lid.
+Om financiële drempels bij het aannemen van uitkeringsgerechtigden weg te nemen, is het mogelijk om onder voorwaarden gebruik te maken van een vrijstelling voor de reguliere verlagingsvereisten. Voor werknemers die op of na 1 augustus 2022 een dienstverband zijn aangegaan, komt de werkgever in aanmerking voor vrijstelling van de voorwaarden van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2026-03-10), wanneer is voldaan aan het bepaalde in het eerste tot en met het derde lid.
 
 ### Hoofdstuk 4. Slotbepalingen
 
