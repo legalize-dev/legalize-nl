@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2026-01-01"
+last_updated: "2026-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -8399,7 +8399,7 @@ De IND neemt voor Sudan geen binnenlands beschermingsalternatief aan als is geco
 
 ### 32.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND neemt voor Sudan aan dat sprake is van een relatief hoger niveau van willekeurig geweld in de regio West-Darfur.
+De IND neemt voor Sudan aan dat sprake is van een relatief hoger niveau van willekeurig geweld in de staten Oost-Darfur, Blauwe Nijl, Witte Nijl en Sennar.
 
 ### 33. Het asielbeleid ten aanzien van Syrië
 
@@ -8481,7 +8481,7 @@ De IND neemt aan dat geen binnenlands beschermingsalternatief in Pakistan aanwez
 
 De IND neemt voor Sudan aan dat sprake is van een relatief hoger niveau van willekeurig geweld in de regio West-Darfur.
 
-### 32.4.1. Ernstige schade in de zin van artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw als bedoeld in paragraaf C2/3.3.2 Vc
+### 32.4.1. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.2 Vc
 
 De IND neemt voor Sudan geen binnenlands beschermingsalternatief aan als is geconcludeerd dat de vreemdeling een gegronde vrees heeft voor vervolging of ernstige schade, tenzij uit het individuele dossier blijkt dat de vreemdeling zich elders kan vestigen.
 
@@ -8489,7 +8489,7 @@ De IND merkt voor Sudan de volgende groep aan als risicoprofiel:
 
 ### 32.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
-De IND neemt voor Sudan aan dat sprake is van een uitzonderlijk niveau van willekeurig geweld in de regio’s Khartoum, Noord-, Zuid-, en Centraal-Darfur, Kordofan en El Gezira.
+De IND neemt voor Sudan aan dat sprake is van een uitzonderlijk niveau van willekeurig geweld in de staten Khartoum, Noord-, Zuid-, West- en Centraal-Darfur, Kordofan en El Gezira.
 
 ### 32.7. Vertrekmoratorium
 
@@ -8743,7 +8743,7 @@ De IND beoordeelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde t
 
 Vervallen
 
-De IND neemt voor Sudan aan dat sprake is van een relatief lager niveau van willekeurig geweld in de regio’s Abyei, Blauwe Nijl, Gedaref, Kassala, Noordelijk, Nijl, Oost-Darfur, Rode Zee, Sennar en Witte Nijl.
+De IND neemt voor Sudan aan dat in de staten Abyei, Noordelijke Staat, Nijl, Rode Zee, Gedaref en Kassala sprake is van een relatief lager niveau van willekeurig geweld.
 
 De IND neemt aan dat het in Syrië niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
 
