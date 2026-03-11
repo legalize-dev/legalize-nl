@@ -4,7 +4,7 @@ identifier: "BWBR0052416"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2025-10-29"
+last_updated: "2026-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052416"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Ten behoeve van het bestrijden van bepaalde exotische muggen (Aedes spec) in bin
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0052416&artikel=1&z=2026-03-11&g=2025-10-29), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0052416&artikel=1&z=2026-03-11&g=2026-03-11), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -62,7 +62,7 @@ Dit besluit wordt aangehaald als: Vrijstelling VectoBac WG exotische muggen 2026
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt bekendgemaakt, werkt terug tot en met 29 oktober 2025 en vervalt met ingang van 2 mei 2027.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052416&artikel=2&z=2026-03-11&g=2025-10-29)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052416&artikel=2&z=2026-03-11&g=2026-03-11)
 
 De biocide VectoBac WG kan door professionele gebruikers worden gebruikt ter bestrijding van exotische muggen in binnenruimtes (kassen, loodsen, hallen, overdekte overslag locaties, bagagekelders), onder de volgende voorwaarden:
 
