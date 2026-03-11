@@ -4,7 +4,7 @@ identifier: "BWBR0052412"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2025-09-01"
+last_updated: "2026-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052412"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **NAPL:** Nationale Aanpak Professionalisering Leraren;
 
-- c. **commissie:** Kwaliteitsraad NAPL, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052412&artikel=2&z=2026-03-11&g=2025-09-01);
+- c. **commissie:** Kwaliteitsraad NAPL, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052412&artikel=2&z=2026-03-11&g=2026-03-11);
 
 - d. **stuurgroep:** stuurgroep NAPL;
 
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter en de overige leden beschikken over relevante kennis en ervaring en zijn benoemd op basis van deskundigheid, (praktijk)ervaring en maatschappelijke betrokkenheid.
 
-4. De benoeming geschiedt voor de duur van de commissie zoals opgenomen in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052412&artikel=4&z=2026-03-11&g=2025-09-01).
+4. De benoeming geschiedt voor de duur van de commissie zoals opgenomen in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052412&artikel=4&z=2026-03-11&g=2026-03-11).
 
 5. Bij tussentijds vertrek van een lid kan de verantwoordelijke organisatie een ander lid voordragen.
 
