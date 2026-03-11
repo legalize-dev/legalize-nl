@@ -4,7 +4,7 @@ identifier: "BWBR0052413"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-11"
-last_updated: "2026-03-01"
+last_updated: "2026-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052413"
 soort: "zbo"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - **formats:** schematische ordening van de aan te leveren gegevens;
 
-- **formats jaar-, kwartaalstaat:** formats jaar- en kwartaalstaten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-01) en gepubliceerd op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
+- **formats jaar-, kwartaalstaat:** formats jaar- en kwartaalstaten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-11) en gepubliceerd op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
 
 - **gegevens:** feitelijke informatie over de aantallen en kosten van de op grond van de zorgverzekeringen verzekerde zorg of andere diensten en/of (aanvullende) informatie over de betreffende verzekerden;
 
@@ -150,7 +150,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanlevering gegevens en bestanden door zorgverzekeraars voor uitvoering [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
-1. De zorgverzekeraar levert de gegevens en bestanden uit de aanleverkalender Zvw (zie Tabel 1) op de genoemde datum aan inclusief de verlangde bestuursverklaringen en accountantsproducten, met uitzondering van de gegevens die betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (zie [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-01)).
+1. De zorgverzekeraar levert de gegevens en bestanden uit de aanleverkalender Zvw (zie Tabel 1) op de genoemde datum aan inclusief de verlangde bestuursverklaringen en accountantsproducten, met uitzondering van de gegevens die betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (zie [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11)).
 
 2. De zorgverzekeraar dient één opgave/bestand in, waarin de opgaven van eventuele volmachten zijn opgenomen. De zorgverzekeraar draagt er zorg voor dat de opgenomen opgaven van de volmachten voldoen aan de voorschriften zoals in de formats en record lay-outs opgenomen.
 
@@ -207,9 +207,9 @@ De Wlz-uitvoerder levert de Wlz-gegevens 2025 uit de aanleverkalender Zvw (zie T
 
 ##### Artikel 5. Verstrekken gegevens aan derden
 
-1. Het Zorginstituut verstrekt de gegevens bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-01) op verzoek aan de NZa en het CBS, voor zover de betreffende verzoeker onderbouwt dat die informatie noodzakelijk is voor de wettelijke taak van die verzoeker.
+1. Het Zorginstituut verstrekt de gegevens bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-11) op verzoek aan de NZa en het CBS, voor zover de betreffende verzoeker onderbouwt dat die informatie noodzakelijk is voor de wettelijke taak van die verzoeker.
 
-2. Het Zorginstituut verstrekt de kwartaal- en jaarstaten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-01), alsmede de vereveningsbijdrage per zorgverzekeraar, op verzoek aan het CPB, DNB en VWS voor zover de betreffende verzoeker onderbouwt dat die informatie noodzakelijk is voor de wettelijke taak van die verzoeker.
+2. Het Zorginstituut verstrekt de kwartaal- en jaarstaten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11), alsmede de vereveningsbijdrage per zorgverzekeraar, op verzoek aan het CPB, DNB en VWS voor zover de betreffende verzoeker onderbouwt dat die informatie noodzakelijk is voor de wettelijke taak van die verzoeker.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -229,24 +229,24 @@ Deze regeling wordt in de Staatscourant geplaatst, met uitzondering van de bijla
 
 Bij deze regeling zijn bijlagen opgenomen die de verplichtingen over de gegevensaanlevering in de artikelen concretiseren. Deze bijlagen, gepubliceerd op [www.zorginstituutnederland.nl,](http://www.zorginstituutnederland.nl/) zijn een integraal onderdeel van deze regeling. Elke bijlage bestaat uit een format voor de gegevens die de zorgverzekeraar, Wlz-uitvoerder of het zorgkantoor moet aanleveren. De toelichting op de afzonderlijke bijlagen is opgenomen in de Algemene toelichting.
 
-- •. Bijlage 1a. Formats kwartaalstaat Zvw 2026 KW 1, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 1a. Formats kwartaalstaat Zvw 2026 KW 1, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 1b. Formats kwartaalstaat Zvw 2026 KW 2, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 1b. Formats kwartaalstaat Zvw 2026 KW 2, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 1c. Formats kwartaalstaat Zvw 2026 KW 3, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 1c. Formats kwartaalstaat Zvw 2026 KW 3, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 1d. Formats kwartaalstaat Zvw 2026 KW 4, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 1d. Formats kwartaalstaat Zvw 2026 KW 4, specifieke informatie A en C, schadejaren 2026, 2025, en 2024, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 1e. Formats jaarstaat Zvw 2025, specifieke informatie A en C, schadejaren 2025, 2024 en 2023, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 1e. Formats jaarstaat Zvw 2025, specifieke informatie A en C, schadejaren 2025, 2024 en 2023, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 1f. Formats kwartaalstaat Zvw 2026 KW 1 verzekerdenstanden, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 1f. Formats kwartaalstaat Zvw 2026 KW 1 verzekerdenstanden, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 2. Record lay-outs uitvraag 2026 risicoverevening, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 2. Record lay-outs uitvraag 2026 risicoverevening, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 3. Format Opgave verzekerden zonder BSN en verzekerden zonder geverifieerd BSN 2025, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 3. Format Opgave verzekerden zonder BSN en verzekerden zonder geverifieerd BSN 2025, behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 4. Format kwartaalstaat Wlz 2026 behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-01) in regeling 2026;
+- •. Bijlage 4. Format kwartaalstaat Wlz 2026 behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-11) in regeling 2026;
 
-- •. Bijlage 5. Format kwartaalstaat Wlz 2026, specificaties PGB, beheerskosten en aantal Wlz-verzekerden behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-01) in regeling 2026.
+- •. Bijlage 5. Format kwartaalstaat Wlz 2026, specificaties PGB, beheerskosten en aantal Wlz-verzekerden behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-11) in regeling 2026.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
