@@ -4,7 +4,7 @@ identifier: "BWBR0046497"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-12"
-last_updated: "2023-02-04"
+last_updated: "2026-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046497"
 soort: "ministeriele-regeling"
@@ -44,31 +44,27 @@ Besluit:
 
 ##### Artikel 1
 
-1. Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van feitelijke handelingen die verband houden met de subsidieverstrekking op grond van:
+Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van feitelijke handelingen die verband houden met de subsidieverstrekking op grond van:
 
-- a. de [Regeling waardevermeerdering woningen gaswinning Groningenveld](https://wetten.overheid.nl/jci1.3:c:BWBR0039336);
+- a. de Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026;
 
-- b. de [Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0045187);
-
-- c. [artikel 7b, vijfde lid, van het Besluit versterking gebouwen Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0042265&artikel=7b).
-
-2. Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van feitelijke handelingen die verband houden met het verstrekken van tegemoetkomingen op grond van de [Beleidsregel tegemoetkoming huurders van gereguleerde woningen van particuliere verhuurders in het aardbevingsgebied Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0046476).
+- b. de [Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0045187).
 
 ##### Artikel 2
 
-Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2023-02-04&g=2023-02-04), waaronder het nemen van beslissingen op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen, en het instellen van hoger beroep.
+Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2026-03-12&g=2026-03-12), waaronder het nemen van beslissingen op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen, en het instellen van hoger beroep.
 
 ##### Artikel 3
 
-In het geval de Minister van Economische Zaken en Klimaat een mededeling doet aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland dat een aangelegenheid als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2023-02-04&g=2023-02-04), door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de Nationaal Coördinator Groningen van het Ministerie van Economische Zaken en Klimaat.
+In het geval de Minister van Binnenlandse Zaken en Koninkrijksrelaties een mededeling doet aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland dat een aangelegenheid als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2026-03-12&g=2026-03-12), door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de Nationaal Coördinator Groningen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
-1. Het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2023-02-04&g=2023-02-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=2&z=2023-02-04&g=2023-02-04) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam bij het Samenwerkingsverband Noord-Nederland.
+1. Het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2026-03-12&g=2026-03-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=2&z=2026-03-12&g=2026-03-12) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam bij het Samenwerkingsverband Noord-Nederland.
 
-2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
+2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Constitutionele Zaken en Wetgeving van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-3. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het tweede lid wordt gezonden aan de secretaris-generaal en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens het besluit ondermandaat is verleend.
+3. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het tweede lid wordt gezonden aan de secretaris-generaal en de directeur Constitutionele Zaken en Wetgeving van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en aan degenen aan wie krachtens het besluit ondermandaat is verleend.
 
 ##### Artikel 5
 
