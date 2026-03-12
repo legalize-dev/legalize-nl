@@ -4,7 +4,7 @@ identifier: "BWBR0052420"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-12"
-last_updated: "2025-08-01"
+last_updated: "2026-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052420"
 soort: "ministeriele-regeling"
@@ -41,8 +41,6 @@ Gelet op de instemming van de secretaris-generaal van het Ministerie van Binnenl
 Gelet op artikelen 6.5 en 6.6 van het Mandaatbesluit BZK 2025
 
 Besluit:
-
-De terugwerkende kracht betreft herplaatsing van de regeling.
 
 #### § 1. Algemene bepalingen
 
