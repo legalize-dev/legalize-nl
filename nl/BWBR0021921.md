@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2025-02-28"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -55,8 +55,6 @@ Deze regeling kan worden aangehaald als: Warenwetregeling aanwijzing algemene ve
 ## Bijlage. bij de Warenwetregeling aanwijzing algemene veiligheidsnormen
 
 EN 716-1:2017+AC:2019 Meubelen – Kinderledikanten en opvouwbare kinderbedjes voor huishoudelijk gebruik – Deel 1: Veiligheidsvoorschriften
-
-EN 913:2018 Turntoestellen – Algemene veiligheidseisen en beproevingsmethoden
 
 EN 913:2018+A1:2021 Turntoestellen – Algemene veiligheidseisen en beproevingsmethoden
 
@@ -146,8 +144,6 @@ EN 13899:2003 Rolsportmaterieel – Rolschaatsen – Veiligheidseisen en beproev
 
 EN 14059:2002 Decoratieve olielampen – Veiligheidseisen en beproevingsmethoden
 
-EN 14344:2004 Artikelen voor zuigelingen en peuters – Kinderzitjes voor de fiets – Veiligheidseisen en beproevingsmethoden
-
 EN 14344:2022 Artikelen voor zuigelingen en peuters – Kinderzitjes voor de fiets – Veiligheidseisen en beproevingsmethoden
 
 EN 14350-1:2004 Artikelen voor zuigelingen en peuters – Drinkgerei – Deel 1: Algemene en mechanische eisen en beproevingsmethoden
@@ -165,8 +161,6 @@ EN 16281:2013 Producten veilig voor kinderen – Kindveilige sluitingen voor ram
 EN 16433:2014 Aan de binnenzijde geplaatste zonneschermen – Bescherming tegen verwurging – Beproevingsmethoden
 
 EN 16434:2014 Aan de binnenzijde geplaatste zonneschermen – Bescherming tegen verwurging – Eisen en beproevingsmethoden voor veiligheidsvoorzieningen
-
-EN 16890:2017 Kindermeubilair – Matrassen voor kinderbedden en wiegen – Veiligheidseisen en beproevingsmethoden
 
 EN 16890:2017+A1:2021 Kindermeubilair – Matrassen voor kinderbedden en wiegen – Veiligheidseisen en beproevingsmethoden
 
