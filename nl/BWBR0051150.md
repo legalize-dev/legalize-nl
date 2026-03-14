@@ -4,7 +4,7 @@ identifier: "BWBR0051150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-14"
-last_updated: "2026-03-02"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051150"
 soort: "ministeriele-regeling"
@@ -55,6 +55,8 @@ In deze regeling wordt verstaan onder:
 - **erkend leerbedrijf:** bedrijf of organisatie die bevoegd is om beroepspraktijkvorming te verzorgen, als bedoeld in [artikel 7.2.8, eerste lid van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8) en een erkenning heeft als bedoeld in [artikel 1.5.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.3);
 
 - **helpende:** helpende zorg en welzijn als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&artikel=3) en [bijlage 1 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1);
+
+- **GGD:** een gemeentelijke gezondheidsdienst als bedoeld in [artikel 14, tweede lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14);
 
 - **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
@@ -112,11 +114,11 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 ##### Artikel 4. Voorwaarden samenwerkingsverband en penvoerder
 
-1. Een samenwerkingsverband bestaat uit ten minste:
+1. Een samenwerkingsverband bestaat uit ten minste één onderwijsinstelling die een opleiding verzorgt, blijkens de Registratie instellingen en opleidingen, en
 
-- a. twee zorgaanbieders, of één zorgaanbieder en één welzijnsaanbieder; en
+- a. twee zorgaanbieders, of één zorgaanbieder en één welzijnsaanbieder; of
 
-- b. een onderwijsinstelling die een opleiding verzorgt, blijkens de Registratie instellingen en opleidingen.
+- b. één GGD en één zorg- of welzijnsaanbieder.
 
 2. De penvoerder is een zorg- of welzijnsaanbieder binnen het samenwerkingsverband.
 
@@ -124,7 +126,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 4. Subsidie kan enkel worden verstrekt indien de penvoerder en ten minste een andere zorg- of welzijnsaanbieder beschikt over een toelatingsvergunning en AGB-code.
 
-5. In afwijking van het eerste en vierde lid, kan subsidie worden verstrekt indien naar het oordeel van de minister op de in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=11&z=2025-06-28&g=2026-03-02), aangegeven wijze is aangetoond dat het samenwerkingsverband bestaat uit ten minste twee zorgaanbieders of één welzijnsaanbieder en één zorgaanbieder, waaronder de penvoerder.
+5. In afwijking van het eerste en vierde lid, kan subsidie worden verstrekt indien naar het oordeel van de minister op de in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=11&z=2026-03-14&g=2026-03-14), aangegeven wijze is aangetoond dat het samenwerkingsverband bestaat uit ten minste twee zorgaanbieders of één welzijnsaanbieder en één zorgaanbieder, waaronder de penvoerder.
 
 6. Indien de penvoerder mbo-leerlingen begeleidt, kan subsidie enkel worden verstrekt indien het een erkend leerbedrijf betreft.
 
@@ -144,21 +146,21 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 ##### Artikel 6. Staatssteun
 
-1. De activiteit, zoals genoemd in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), wordt aangewezen als een DAEB.
+1. De activiteit, zoals genoemd in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), wordt aangewezen als een DAEB.
 
 2. Subsidie wordt uitsluitend verstrekt indien de penvoerder met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de DAEB, bedoeld in het eerste lid.
 
 ##### Artikel 7. Hoogte van de subsidie
 
-1. De subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), bedraagt:
+1. De subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), bedraagt:
 
 - a. € 13.000 per deelnemer in het samenwerkingsverband tot een maximum van € 78.000; en
 
 - b. een vast bedrag van € 22.500 per samenwerkingsverband.
 
-2. De subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), bedraagt per aanvraag minimaal € 125.000 en maximaal € 750.000.
+2. De subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), bedraagt per aanvraag minimaal € 125.000 en maximaal € 750.000.
 
-##### Artikel 8. Subsidiabele kosten voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02)
+##### Artikel 8. Subsidiabele kosten voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14)
 
 1. Het subsidiabele bedrag bestaat voor ten hoogste 40% uit andere kosten dan personele kosten.
 
@@ -176,9 +178,9 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 2. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van complete aanvragen, met dien verstande dat wanneer de penvoerder krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst geldt.
 
-##### Artikel 10. Activiteitenplan voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02)
+##### Artikel 10. Activiteitenplan voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14)
 
-In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), vermeldt de penvoerder voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), in het activiteitenplan:
+In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), vermeldt de penvoerder voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), in het activiteitenplan:
 
 - a. een beschrijving van de wijze waarop het activiteitenplan aansluit bij een of meerdere regiobeelden of regioplannen;
 
@@ -192,9 +194,9 @@ In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/j
 
 ##### Artikel 11. Aanvraag tot subsidieverlening
 
-1. De subsidieaanvraag voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), kan worden ingediend in de periode van 18 augustus 2025 9.00 uur tot en met 30 september 2025 13.00 uur.
+1. De subsidieaanvraag voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), kan worden ingediend in de periode van 18 augustus 2025 9.00 uur tot en met 30 september 2025 13.00 uur.
 
-2. De subsidieaanvraag voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), kan worden ingediend in de periode:
+2. De subsidieaanvraag voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), kan worden ingediend in de periode:
 
 - a. van 18 augustus 2025 9.00 uur tot en met 30 september 2025 13.00 uur;
 
@@ -208,15 +210,15 @@ In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - b. een samenwerkingsovereenkomst ondertekend door alle deelnemers in het samenwerkingsverband.
 
-4. Indien sprake is van de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), gaat de aanvraag in aanvulling op het derde lid vergezeld van een verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening.
+4. Indien sprake is van de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), gaat de aanvraag in aanvulling op het derde lid vergezeld van een verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening.
 
-5. Indien sprake is van de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), gaat de aanvraag in aanvulling op het derde lid vergezeld van:
+5. Indien sprake is van de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), gaat de aanvraag in aanvulling op het derde lid vergezeld van:
 
 - a. een door de minister vastgestelde ondertekende overeenkomst voor het vestigen van een DAEB als bedoeld in artikel 7, tweede lid; en
 
 - b. een verklaring als bedoeld in artikel 7, vierde lid, van de DAEB de-minimisverordening.
 
-6. Indien de penvoerder of de andere zorg- of welzijnsaanbieder niet beschikt over een toelatingsvergunning en AGB-code, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=4&z=2025-06-28&g=2026-03-02), dan dient de aanvraag vergezeld te gaan van:
+6. Indien de penvoerder of de andere zorg- of welzijnsaanbieder niet beschikt over een toelatingsvergunning en AGB-code, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=4&z=2026-03-14&g=2026-03-14), dan dient de aanvraag vergezeld te gaan van:
 
 - a. een contract tussen de financier en de betreffende zorg- of welzijnsaanbieder waaruit blijkt dat er in het jaar van de aanvraag zorg is of wordt ingekocht bij deze zorg- of welzijnsaanbieder in combinatie met factuur en betalingsbewijs in de vorm van een bankafschrift waaruit blijkt dat prestaties in het jaar van de aanvraag of het jaar voorafgaand aan de aanvraag, zijn geleverd; of
 
@@ -232,29 +234,29 @@ De minister verleent bij het besluit tot verlening van de subsidie een voorschot
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de penvoerder verplicht:
 
-- a. bij de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), in de administratie verslagen bij te houden van de overleggen tussen de deelnemers van het samenwerkingsverband;
+- a. bij de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), in de administratie verslagen bij te houden van de overleggen tussen de deelnemers van het samenwerkingsverband;
 
-- b. bij de activiteit, bedoeld in [artikel 5, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), eenmaal in de 12 maanden verslag te doen aan de minister over de voortgang van de gesubsidieerde activiteit.
+- b. bij de activiteit, bedoeld in [artikel 5, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), eenmaal in de 12 maanden verslag te doen aan de minister over de voortgang van de gesubsidieerde activiteit.
 
 ##### Artikel 14. Afwijzingsgronden
 
 De minister wijst een subsidieaanvraag in ieder geval af indien:
 
-- a. deze na de periode, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=11&z=2025-06-28&g=2026-03-02), wordt ontvangen;
+- a. deze na de periode, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=11&z=2026-03-14&g=2026-03-14), wordt ontvangen;
 
 - b. aan het samenwerkingsverband al een subsidie is verleend voor dezelfde activiteit;
 
-- c. de verstrekking van een subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), niet in overeenstemming is met de de-minimisverordening; of
+- c. de verstrekking van een subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), niet in overeenstemming is met de de-minimisverordening; of
 
-- d. de verstrekking van een subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), niet in overeenstemming is met de DAEB de-minimisverordening.
+- d. de verstrekking van een subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), niet in overeenstemming is met de DAEB de-minimisverordening.
 
 ##### Artikel 15. Verantwoording en vaststelling
 
 1. Een aanvraag tot vaststelling van de subsidie wordt ingediend binnen 22 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
 
-2. In aanvulling op [artikel 7.6 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.6), gaat de aanvraag tot vaststelling voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), vergezeld van een breed gedragen plan ondersteund door de deelnemers in het samenwerkingsverband.
+2. In aanvulling op [artikel 7.6 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.6), gaat de aanvraag tot vaststelling voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), vergezeld van een breed gedragen plan ondersteund door de deelnemers in het samenwerkingsverband.
 
-3. In aanvulling op [artikel 7.8 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8), gaat de aanvraag tot vaststelling voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2025-06-28&g=2026-03-02), vergezeld van een publieksvriendelijke samenvatting waarin de geleerde lessen en resultaten worden gedeeld.
+3. In aanvulling op [artikel 7.8 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8), gaat de aanvraag tot vaststelling voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), vergezeld van een publieksvriendelijke samenvatting waarin de geleerde lessen en resultaten worden gedeeld.
 
 ##### Artikel 16. Hardheidsclausule
 
