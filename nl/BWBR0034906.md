@@ -4,7 +4,7 @@ identifier: "BWBR0034906"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-14"
-last_updated: "2021-08-01"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034906"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1. Modellen schooldiploma’s voortgezet speciaal onderwijs
 
-De modellen voor de schooldiploma’s voor het arbeidsmarktgerichte uitstroomprofiel en het uitstroomprofiel dagbesteding, bedoeld in [artikel 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14d) respectievelijk [artikel 14g van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14g), worden vastgesteld volgens respectievelijk de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034906&bijlage=1&z=2021-08-01&g=2021-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034906&bijlage=2&z=2021-08-01&g=2021-08-01) bij deze regeling.
+De modellen voor de schooldiploma’s voor het arbeidsmarktgerichte uitstroomprofiel en het uitstroomprofiel dagbesteding, bedoeld in [artikel 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14d) respectievelijk [artikel 14g van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14g), worden vastgesteld volgens respectievelijk de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034906&bijlage=1&z=2026-03-14&g=2026-03-14) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034906&bijlage=2&z=2026-03-14&g=2026-03-14) bij deze regeling.
 
 ##### Artikel 2. Regels voor het invullen van de modellen en beveiligen papier
 
-Regels voor het invullen van de modellen en het beveiligen van het papier dat wordt gebruikt voor de schooldiploma’s zijn vastgelegd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034906&bijlage=3&z=2021-08-01&g=2021-08-01) bij deze regeling.
+Regels voor het invullen van de modellen en het beveiligen van het papier dat wordt gebruikt voor de schooldiploma’s zijn vastgelegd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034906&bijlage=3&z=2026-03-14&g=2026-03-14) bij deze regeling.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -72,7 +72,7 @@ geboren ............. te ...................,
 
 van ......... tot ..........................
 
-met gunstig gevolg heeft deelgenomen aan het voortgezet speciaal onderwijs als bedoeld in [artikel 14c van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c) heeft gevolgd aan
+met gunstig gevolg heeft deelgenomen aan het voortgezet speciaal onderwijs als bedoeld in [artikel 14c van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c) aan
 
 ......................................
 
@@ -108,7 +108,7 @@ geboren ............. te ...................,
 
 van ......... tot ..........................
 
-met gunstig gevolg heeft deelgenomen aan het voortgezet speciaal onderwijs als bedoeld in [artikel 14f van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) heeft gevolgd aan
+met gunstig gevolg heeft deelgenomen aan het voortgezet speciaal onderwijs als bedoeld in [artikel 14f van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) aan
 
 ......................................
 
