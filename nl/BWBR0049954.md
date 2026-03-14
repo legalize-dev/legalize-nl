@@ -4,7 +4,7 @@ identifier: "BWBR0049954"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-14"
-last_updated: "2025-08-01"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049954"
 soort: "zbo"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1. Tijdvakken en examenrooster centrale examens 2026
 
-1. Het eerste tijdvak voor de schriftelijke centrale examens begint op vrijdag 8 mei 2026 en eindigt op woensdag 27 mei 2026. De dagen en uren waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&bijlage=1&z=2025-08-01&g=2025-08-01).
+1. Het eerste tijdvak voor de schriftelijke centrale examens begint op vrijdag 8 mei 2026 en eindigt op woensdag 27 mei 2026. De dagen en uren waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&bijlage=1&z=2026-03-14&g=2026-03-14).
 
-2. Het tweede tijdvak voor de schriftelijke centrale examens begint op dinsdag 16 juni 2026 en eindigt op dinsdag 23 juni 2026 en wordt vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&bijlage=2&z=2025-08-01&g=2025-08-01).
+2. Het tweede tijdvak voor de schriftelijke centrale examens begint op dinsdag 16 juni 2026 en eindigt op dinsdag 23 juni 2026 en wordt vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&bijlage=2&z=2026-03-14&g=2026-03-14).
 
 3. De afnameperiode voor de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken begint op woensdag 1 april 2026 en eindigt op vrijdag 17 juli 2026.
 
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2. Onderdelen met een vroege start
 
-In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&artikel=1&z=2025-08-01&g=2025-08-01), vangt de afname van het centraal praktische examen van tekenen, handvaardigheid, textiele vormgeving vwo aan op donderdag 1 januari 2026 en het centraal praktisch examen van de beeldende vakken vmbo gemengde en theoretische leerweg op maandag 9 maart 2026.
+In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&artikel=1&z=2026-03-14&g=2026-03-14), vangt de afname van het centraal praktische examen van tekenen, handvaardigheid, textiele vormgeving vwo aan op donderdag 1 januari 2026 en het centraal praktisch examen van de beeldende vakken vmbo gemengde en theoretische leerweg op maandag 9 maart 2026.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -64,7 +64,7 @@ Dit besluit treedt in werking met ingang van 1 augustus 2025.
 
 Dit besluit wordt aangehaald als: Rooster voor de centrale examens voortgezet onderwijs in 2026.
 
-## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2026 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&artikel=1&z=2025-08-01&g=2025-08-01)
+## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2026 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&artikel=1&z=2026-03-14&g=2026-03-14)
 
 |   | **bb** | **kb** | **gl/tl** | **havo** | **vwo** |
 | --- | --- | --- | --- | --- | --- |
@@ -151,14 +151,123 @@ Dit besluit wordt aangehaald als: Rooster voor de centrale examens voortgezet on
 |   |   |   |   | Spaans/Arabisch/ Turks | Spaans/Arabisch/ Turks |
 |   |   |   |   |   |   |
 
-In het geval de geheimhouding van de examens geschonden is of afname niet mogelijk is, treedt het Continuïteitsplan in werking. In een uiterst geval kunnen één of meer centrale examens worden uitgesteld en kunnen het eerste en tweede tijdvak zich uitstrekken tot en met 2 juli 2026.
+In het geval de geheimhouding van de examens geschonden is of afname niet mogelijk is, treedt het Continuïteitsplan in werking. In een uiterst geval kunnen één of meer centrale examens worden uitgesteld en kunnen het eerste en tweede tijdvak zich uitstrekken tot en met 3 juli 2026.
 
-## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2026 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&artikel=1&z=2025-08-01&g=2025-08-01)
+## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2026 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&artikel=1&z=2026-03-14&g=2026-03-14)
 
-Het tweede tijdvak begint voor de schriftelijke examens op dinsdag 16 juni 2026. In het voorjaar van 2026 wordt bekendgemaakt op welke dagen en tijdstippen de centrale examens in het tweede tijdvak worden afgenomen. Op donderdag 18 juni vindt de afname van de aangewezen vakken plaats door de commissie staatsexamens vo van het College voor toetsen en examens. In het voorjaar van 2026 worden de aangewezen vakken bekendgemaakt.
+Rooster centrale examens tweede tijdvak 2026
 
-Zowel de eerste afname als de herkansing van de flexibele digitale centrale examens in algemene vakken in de basisberoepsgerichte leerweg en kaderberoepsgerichte leerweg vinden tijdens de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&bijlage=1&z=2025-08-01&g=2025-08-01) vermelde afnameperiode plaats.
+**Dinsdag 16 juni**
 
-Zowel de eerste afname als de herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken vinden tijdens de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&bijlage=1&z=2025-08-01&g=2025-08-01) vermelde afnameperiode plaats. Herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte vakken in de gemengde leerweg kan pas vanaf de datum van de bekendmaking van de normering van de algemene vakken vmbo plaatsvinden.
+| Schooltype | Examen | Begin- en eindtijd |
+| --- | --- | --- |
+| gl/tl | nask 1 | 13:30–15:30 |
+| gl/tl | beeldende vorming | 13:30–15:30 |
+| havo | Frans | 13:30–16:00 |
+| havo | natuurkunde | 13:30–16:30 |
+| havo | scheikunde | 13:30–16:30 |
+| vwo | Frans | 13:30–16:00 |
+| vwo | natuurkunde | 13:30–16:30 |
+| vwo | scheikunde | 13:30–16:30 |
+
+**Woensdag 17 juni**
+
+| Schooltype | Examen | Begin- en eindtijd |
+| --- | --- | --- |
+| gl/tl | maatschappijkunde | 13:30–15:30 |
+| gl/tl | geschiedenis | 13:30–15:30 |
+| havo | Nederlands | 13:30–16:30 |
+| havo | economie | 13:30–16:30 |
+| havo | wiskunde A | 13:30–16:30 |
+| vwo | Nederlands | 13:30–16:30 |
+| vwo | economie | 13:30–16:30 |
+| vwo | wiskunde A, C | 13:30–16:30 |
+
+**Donderdag 18 juni–Afname op staatsexamenlocaties – aangewezen vakken**
+
+De aangewezen vakken worden afgenomen door het College voor Toetsen en Examens. Meer informatie hierover is te vinden in [hoofdstuk 11](https://www.examenblad.nl/2026/onderwerpen/mededelingen-over-eindexamens-2026-vmbo-havo-vwo-septembermededeling-maartaanvulling#par-11) van de Septembermededeling.
+
+| Schooltype | Examen | Begin- en eindtijd |
+| --- | --- | --- |
+| bb | Turks | 9:00–10:30 |
+| bb | Arabisch | 9:00–10:30 |
+| bb | Frans | 9:00–10:30 |
+| bb | Spaans | 9:00–10:30 |
+| gl/tl | Fries | 9:00–11:00 |
+| gl/tl | Turks | 9:00–11:00 |
+| gl/tl | Arabisch | 9:00–11:00 |
+| gl/tl | Spaans | 9:00–11:00 |
+| gl/tl | dans | 9:00–11:00 |
+| gl/tl | drama | 9:00–11:00 |
+| gl/tl | muziek | 9:00–11:00 |
+| vwo | Fries | 9:00–11:30 |
+| vwo | Russisch | 9:00–11:30 |
+| vwo | Turks | 9:00–11:30 |
+| vwo | Arabisch | 9:00–11:30 |
+| kb | Turks | 13:30–15:30 |
+| kb | Arabisch | 13:30–15:30 |
+| kb | Frans | 13:30–15:30 |
+| kb | Spaans | 13:30–15:30 |
+| havo | Fries | 13:30–16:00 |
+| havo | Russisch | 13:30–16:00 |
+| havo | Turks | 13:30–16:00 |
+| havo | Arabisch | 13:30–16:00 |
+| havo | Spaans | 13:30–16:00 |
+| havo | muziek | 13:30–16:00 |
+| vwo | tehatex | 13:30–16:00 |
+| vwo | muziek | 13:30–16:00 |
+
+**Donderdag 18 juni – Afname op de scholen**
+
+| Schooltype | Examen | Begin- en eindtijd |
+| --- | --- | --- |
+| gl/tl | aardrijkskunde | 13:30–15:30 |
+| gl/tl | biologie | 13:30–15:30 |
+| gl/tl | wiskunde | 13:30–15:30 |
+| havo | wiskunde B | 13:30–16:30 |
+| havo | geschiedenis | 13:30–16:30 |
+| havo | aardrijkskunde | 13:30–16:30 |
+| vwo | geschiedenis | 13:30–16:30 |
+| vwo | aardrijkskunde | 13:30–16:30 |
+| vwo | wiskunde B | 13:30–16:30 |
+
+**Vrijdag 19 juni**
+
+| Schooltype | Examen | Begin- en eindtijd |
+| --- | --- | --- |
+| vwo | Grieks | 9:00–12:00 |
+| gl/tl | nask 2 | 13:30–15:30 |
+| havo | filosofie | 13:30–16:30 |
+| havo | kunst (algemeen) | 13:30–16:30 |
+| vwo | Spaans | 13:30–16:00 |
+| vwo | filosofie | 13:30–16:30 |
+| vwo | kunst (algemeen) | 13:30–16:30 |
+
+**Maandag 22 juni**
+
+| Schooltype | Examen | Begin- en eindtijd |
+| --- | --- | --- |
+| gl/tl | Frans | 13:30–15:30 |
+| gl/tl | Duits | 13:30–15:30 |
+| gl/tl | Nederlands | 13:30–15:30 |
+| havo | Engels | 13:30–16:00 |
+| havo | tehatex | 13:30–16:00 |
+| havo | bedrijfseconomie | 13:30–16:30 |
+| vwo | Engels | 13:30–16:00 |
+| vwo | bedrijfseconomie | 13:30–16:30 |
+| vwo | Latijn | 13:30–16:30 |
+
+**Dinsdag 23 juni**
+
+| Schooltype | Examen | Begin- en eindtijd |
+| --- | --- | --- |
+| gl/tl | economie | 13:30–15:30 |
+| gl/tl | Engels | 13:30–15:30 |
+| havo | Duits | 13:30–16:00 |
+| havo | biologie | 13:30–16:30 |
+| havo | maatschappijwetenschappen | 13:30–16:30 |
+| vwo | Duits | 13:30–16:00 |
+| vwo | biologie | 13:30–16:30 |
+| vwo | maatschappijwetenschappen | 13:30–16:30 |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
