@@ -4,7 +4,7 @@ identifier: "BWBR0051702"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-14"
-last_updated: "2025-11-06"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0051702"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 1. Voor subsidieverlening op grond van [artikel 2.2, sub a en sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.2), en [artikel 2.3, sub a en sub c, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.3) in het kader van het Nederlands Fonds voor Regionale Partnerschappen (NFRP) Politieke Partijen Programma 2026 met het oog op de financiering van activiteiten ter bevordering van de capaciteitsversterking van politieke partijen, bewegingen of organisaties waarmee Nederlandse politieke partijen ideologische en democratische waarden delen gelden voor het tijdvak vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-2. Voor subsidieverlening in het kader van het Nederlands Fonds voor Regionale Partnerschappen Politieke Partijen Programma 2026 geldt voor de periode vanaf 1 januari 2026 tot en met 31 december 2026 een subsidieplafond van € 1.491.569,00.
+2. Voor subsidieverlening in het kader van het Nederlands Fonds voor Regionale Partnerschappen Politieke Partijen Programma 2026 geldt voor de periode vanaf 1 januari 2026 tot en met 31 december 2026 een subsidieplafond van € 1.985.569,00.
 
-3. Van het in het tweede lid genoemde subsidieplafond is € 100.139,33 beschikbaar voor subsidieverstrekking in het kader van NFRP-Matra en € 1.391.429,67 voor subsidieverstrekking in het kader van NRFP-Shiraka.
+3. Van het in het tweede lid genoemde subsidieplafond is € 594.139,33 beschikbaar voor subsidieverstrekking in het kader van NFRP-Matra en € 1.391.429,67 voor subsidieverstrekking in het kader van NRFP-Shiraka.
 
 ##### Artikel 2
 
@@ -74,9 +74,9 @@ Het NPPP heeft tot doel Nederlandse politieke partijen middels twinning in staat
 
 ### 2. Beschikbare middelen en verdeling
 
-Binnen de totale budgetten van NFRP-Matra en NFRP-Shiraka is 12 procent gereserveerd voor het Politieke Partijen Programma. Een deel van dit bedrag stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties (BZK) op basis van de [Wet financiering Politieke Partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004) (WfPP) beschikbaar. De Minister van Buitenlandse Zaken stelt het resterende deel voor 2026 – € 1.491.569,00 – beschikbaar voor subsidieverstrekking in het kader van het NFRP Politieke Partijen Programma. Van dit laatste bedrag is € 100.139,33 bestemd voor subsidieverlening voor activiteiten in het kader van het Matra programma in de hierna onder 4. genoemde (potentiële) pre-accessielanden en landen van het Oostelijk Partnerschap en € 1.391.429,67 voor subsidieverlening voor activiteiten in het kader van het Shiraka programma in de onder 4. genoemde landen in het Midden-Oosten en Noord-Afrika.
+Binnen de totale budgetten van NFRP-Matra en NFRP-Shiraka is 12 procent gereserveerd voor het Politieke Partijen Programma. Een deel van dit bedrag stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties (BZK) op basis van de [Wet financiering Politieke Partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004) (WfPP) beschikbaar. De Minister van Buitenlandse Zaken stelt het resterende deel voor 2026 – € 1.985.569,00 – beschikbaar voor subsidieverstrekking in het kader van het NFRP Politieke Partijen Programma. Van dit laatste bedrag is € 594.139,33 bestemd voor subsidieverlening voor activiteiten in het kader van het Matra programma in de hierna onder 4. genoemde (potentiële) pre-accessielanden en landen van het Oostelijk Partnerschap en € 1.391.429,67 voor subsidieverlening voor activiteiten in het kader van het Shiraka programma in de onder 4. genoemde landen in het Midden-Oosten en Noord-Afrika.
 
-De beschikbare middelen worden verdeeld aan de hand van een basisbedrag per aanvrager en voor het overige naar rato van het aantal zetels dat de Kamerfractie van de politieke partij waaraan de aanvragende rechtspersoon is gelieerd in de Tweede Kamer der Staten-Generaal (hierna: Tweede Kamer) heeft, zoals de Kiesraad vaststelt naar aanleiding van de Tweede Kamerverkiezing op 29 oktober 2025.2Ingevolge artikel 3, tweede lid, van het besluit geldt daarbij voor aanvragers die gelieerd zijn aan politieke partijen die in een gezamenlijke fractie in de Tweede Kamer zitten, dat zij het totale bedrag dat naar rato van het aantal zetels van die Kamerfractie beschikbaar is voor deze aanvragers, delen. Deze aanvragers beslissen zelf hoe zij dit bedrag verdelen. De subsidie bedraagt ten hoogste de som van het basisbedrag plus een bedrag per zetel in de Tweede Kamer van de betreffende politieke partij. Dit wordt als volgt berekend:
+De beschikbare middelen worden verdeeld aan de hand van een basisbedrag per aanvrager en voor het overige naar rato van het aantal zetels dat de Kamerfractie van de politieke partij waaraan de aanvragende rechtspersoon is gelieerd in de Tweede Kamer der Staten-Generaal (hierna: Tweede Kamer) heeft, zoals de Kiesraad vaststelt naar aanleiding van de Tweede Kamerverkiezing op 29 oktober 2025.1Ingevolge artikel 3, tweede lid, van het besluit geldt daarbij voor aanvragers die gelieerd zijn aan politieke partijen die in een gezamenlijke fractie in de Tweede Kamer zitten, dat zij het totale bedrag dat naar rato van het aantal zetels van die Kamerfractie beschikbaar is voor deze aanvragers, delen. Deze aanvragers beslissen zelf hoe zij dit bedrag verdelen. De subsidie bedraagt ten hoogste de som van het basisbedrag plus een bedrag per zetel in de Tweede Kamer van de betreffende politieke partij. Dit wordt als volgt berekend:
 
 ### 3. Voor wie is het NFRP Politieke Partijen Programma 2026 bedoeld?
 
