@@ -4,7 +4,7 @@ identifier: "BWBR0040293"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-16"
-last_updated: "2026-02-28"
+last_updated: "2026-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040293"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **bestuursdepartement:** de departementsleiding alsmede de beleids-, staf- en bedrijfsvoeringonderdelen ter ondersteuning van de departementsleiding;
 
-- e. **bestuursraad:** de bestuursraad, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-02-28&g=2026-02-28).
+- e. **bestuursraad:** de bestuursraad, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16).
 
 ##### Artikel 2
 
@@ -116,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De secretaris-generaal is ambtelijk eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28) genoemde dienstonderdelen. De plaatsvervangend secretaris-generaal vervult de rol van eigenaar als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), de Inspectie Justitie en Veiligheid, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven alsmede voor de hieronder genoemde zelfstandige bestuursorganen. De hoofddirecteur bedrijfsvoering is Chief Information Officer van het Ministerie van Justitie en Veiligheid.
+1. De secretaris-generaal is ambtelijk eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen. De plaatsvervangend secretaris-generaal vervult de rol van eigenaar als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), de Inspectie Justitie en Veiligheid, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven alsmede voor de hieronder genoemde zelfstandige bestuursorganen. De hoofddirecteur bedrijfsvoering is Chief Information Officer van het Ministerie van Justitie en Veiligheid.
 
 - a. het Centraal Orgaan opvang asielzoekers;
 
@@ -144,17 +144,17 @@ In dit besluit wordt verstaan onder:
 
 - m. de Autoriteit online Terroristisch en Kinderpornografisch materiaal (ATKM).
 
-2. De secretaris-generaal wordt bij afwezigheid vervangen door de plaatsvervangend secretaris-generaal. Bij afwezigheid van de secretaris-generaal en de plaatsvervangend secretaris-generaal vindt vervanging plaats door de hoofddirecteur bedrijfsvoering. Bij afwezigheid van zowel de secretaris-generaal, de plaatsvervangend secretaris-generaal als de hoofddirecteur bedrijfsvoering vindt vervanging plaats door een van de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28) of de Nationaal Coördinator Terrorismebestrijding en Veiligheid, in volgorde van de datum van benoeming. De plaatsvervangend secretaris-generaal en de hoofddirecteur bedrijfsvoering zullen elkaar bij afwezigheid vervangen.
+2. De secretaris-generaal wordt bij afwezigheid vervangen door de plaatsvervangend secretaris-generaal. Bij afwezigheid van de secretaris-generaal en de plaatsvervangend secretaris-generaal vindt vervanging plaats door de hoofddirecteur bedrijfsvoering. Bij afwezigheid van zowel de secretaris-generaal, de plaatsvervangend secretaris-generaal als de hoofddirecteur bedrijfsvoering vindt vervanging plaats door een van de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) of de Nationaal Coördinator Terrorismebestrijding en Veiligheid, in volgorde van de datum van benoeming. De plaatsvervangend secretaris-generaal en de hoofddirecteur bedrijfsvoering zullen elkaar bij afwezigheid vervangen.
 
 3. De hoofden van de clusters zijn belast met de beleids- en bedrijfsvoering van de tot hun cluster behorende onderdelen tenzij anders is bepaald.
 
-4. De directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), de directeur Wetgeving en Juridische Zaken en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vervullen de rol van opdrachtgever als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’.
+4. De directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), de directeur Wetgeving en Juridische Zaken en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vervullen de rol van opdrachtgever als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’.
 
-5. De hoofden van de diensten, baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), de zelfstandige bestuursorganen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-02-28&g=2026-02-28), en het secretariaat van het Schadefonds Geweldsmisdrijven vervullen de rol van opdrachtnemer als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286).
+5. De hoofden van de diensten, baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), de zelfstandige bestuursorganen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16), en het secretariaat van het Schadefonds Geweldsmisdrijven vervullen de rol van opdrachtnemer als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286).
 
 6. Eén van de tot het directoraat-generaal behorende directeuren wordt op voordracht van de desbetreffende directeur-generaal namens de bewindspersoon door de secretaris-generaal aangewezen als plaatsvervangend directeur-generaal. Het voorgaande is van overeenkomstige toepassing op de Nationaal Coördinator Terrorismebestrijding en Veiligheid en de inspecteur-generaal van de Inspectie Justitie en Veiligheid.
 
-7. De secretaris-generaal (voorzitter), de plaatsvervangend secretaris-generaal, de hoofddirecteur bedrijfsvoering, de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28) en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vormen samen de bestuursraad. De bestuursraad formuleert de ministeriebrede en gemeenschappelijke kaders en bewaakt dat de activiteiten en het beleid van de onderscheiden clusters daarbinnen blijven.
+7. De secretaris-generaal (voorzitter), de plaatsvervangend secretaris-generaal, de hoofddirecteur bedrijfsvoering, de directeuren-generaal van de clusters als bedoeld in [artikel 2, tweede lid onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) en de Nationaal Coördinator Terrorismebestrijding en Veiligheid vormen samen de bestuursraad. De bestuursraad formuleert de ministeriebrede en gemeenschappelijke kaders en bewaakt dat de activiteiten en het beleid van de onderscheiden clusters daarbinnen blijven.
 
 De voorzitter van het College van procureurs-generaal, de directeur-generaal van de Dienst Justitiële Inrichtingen, de directeur-generaal van de Immigratie- en Naturalisatiedienst en de korpschef van de Nationale Politie nemen als toehoorder deel aan de bestuursraad.
 
@@ -324,7 +324,7 @@ De directie Innovatie, Kennis en Strategie is belast met het versterken van de f
 
 - d. de advisering over kaders en richtlijnen voor diensten en verzelfstandigde organisaties en het coördineren van ontwikkelingen daaromtrent.
 
-2. Het aandachtsgebied van de taken van de DEA omvat de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-02-28&g=2026-02-28).
+2. Het aandachtsgebied van de taken van de DEA omvat de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16).
 
 ##### Artikel 13
 
@@ -368,7 +368,7 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 - d. dienstverlening op het terrein van bedrijfsvoering ter ondersteuning van de primaire processen op het bestuursdepartement.
 
-2. De hoofddirectie bedrijfsvoering is tevens belast met de advisering en ondersteuning van de eigenaar ten aanzien van de organisaties genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-02-28&g=2026-02-28), tweede lid.
+2. De hoofddirectie bedrijfsvoering is tevens belast met de advisering en ondersteuning van de eigenaar ten aanzien van de organisaties genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16), tweede lid.
 
 3. De hoofddirectie bedrijfsvoering bestaat uit de Landelijke Eenheid Vertrouwenspersonen en de volgende dienstonderdelen:
 
@@ -608,7 +608,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 ##### Artikel 23
 
-1. De directie Advies, Regie en Centrale autoriteit (DARC) is belast met financiële advisering aan de directeur-generaal en de directeuren van de andere onderdelen als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2026-02-28&g=2026-02-28). Deze advisering heeft in ieder geval betrekking op uitvoeringsdiensten, zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en gesubsidieerde organisaties op het terrein van het directoraat-generaal, voor zover het geen taak van DFEZ of DEA betreft.
+1. De directie Advies, Regie en Centrale autoriteit (DARC) is belast met financiële advisering aan de directeur-generaal en de directeuren van de andere onderdelen als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2026-03-16&g=2026-03-16). Deze advisering heeft in ieder geval betrekking op uitvoeringsdiensten, zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en gesubsidieerde organisaties op het terrein van het directoraat-generaal, voor zover het geen taak van DFEZ of DEA betreft.
 
 2. Daarnaast is de directie belast met:
 
@@ -636,7 +636,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 5. Het team Subsidieportaal, genoemd in het zevende lid, onder d, is belast met:
 
-- a. het voor de hoofden van de clusters, bedoeld in [artikel 2, tweede lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), voorbereiden en uitvoeren van beslissingen met betrekking tot subsidies en financiële bijdragen aan medeoverheden met uitzondering van subsidies en bijdragen aan zelfstandige bestuursorganen en rechtspersonen met een wettelijke taak, alsmede met uitzondering van EU-subsidies;
+- a. het voor de hoofden van de clusters, bedoeld in [artikel 2, tweede lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), voorbereiden en uitvoeren van beslissingen met betrekking tot subsidies en financiële bijdragen aan medeoverheden met uitzondering van subsidies en bijdragen aan zelfstandige bestuursorganen en rechtspersonen met een wettelijke taak, alsmede met uitzondering van EU-subsidies;
 
 - b. de feitelijke uitvoering van betaalopdrachten ter uitvoering van beslissingen als bedoeld in onderdeel a, voor zover de beslissingsbevoegde daartoe machtiging heeft verleend;
 
@@ -1088,17 +1088,17 @@ Vervallen
 
 ##### Artikel 50
 
-1. De Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) heeft tot taak het versterken van de nationale veiligheid en het voorkomen van maatschappelijke ontwrichting door dreigingen voor de vitale belangen van de samenleving te identificeren en de weerbaarheid en bescherming van die vitale belangen te versterken. Hiertoe verricht de NCTV in het bijzonder activiteiten die zijn gericht op:
+1. De Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) heeft tot taak het verhogen van de weerbaarheid tegen dreigingen en risico’s, het beschermen van de nationale veiligheidsbelangen en het voorkomen van maatschappelijke ontwrichting, door het coördineren van de samenhang en effectiviteit van het beleid en de door overheidsorganisaties te nemen maatregelen in het kader van terrorismebestrijding en de bescherming van nationale veiligheid, alsook door het anderszins identificeren van dreigingen en risico’s voor de nationale veiligheidsbelangen en het versterken van de bescherming van die belangen. Hiertoe verricht de NCTV in het bijzonder activiteiten die zijn gericht op:
 
-- a. het bevorderen van de identificatie en de analyse van dreigingen en risico's op het gebied van terrorisme en nationale veiligheid;
+- a. het signaleren, analyseren en duiden van trends en fenomenen, alsook het bevorderen van de identificatie van dreigingen en risico’s op het gebied van terrorisme en nationale veiligheid;
 
 - b. het reduceren van kansen of effecten van de genoemde dreigingen en risico’s door:
 
-- i. het verhogen van weerbaarheid van vitale belangen;
+- i. het verhogen van weerbaarheid van nationale veiligheidsbelangen;
 
 - ii. het zorgdragen voor een samenhangend crisisbeheersingsbeleid op nationaal niveau en voor een adequaat functioneren van het stelsel van nationale crisisbeheersing inclusief de aansluiting daarvan op het beleid en het stelsel van decentrale crisisbeheersing en op de afspraken met betrekking tot de internationale samenwerking;
 
-- c. het zorgdragen voor de coördinatie van de bescherming van de vitale infrastructuur en voor een integrale aanpak van dreigingen voor de nationale veiligheid;
+- c. het zorgdragen voor de coördinatie van de bescherming van de nationale veiligheidsbelangen, waaronder de vitale infrastructuur, en voor een integrale aanpak van dreigingen voor de nationale veiligheid;
 
 - d. het nemen van beschermingsmaatregelen ten aanzien van daartoe aangewezen bijzondere personen, objecten en diensten;
 
@@ -1110,15 +1110,15 @@ Vervallen
 
 2. De Nationaal Coördinator Terrorismebestrijding en Veiligheid bestaat uit de volgende dienstonderdelen:
 
-- a. de portefeuille Contraterrorisme en Beveiliging Burgerluchtvaart;
+- a. de portefeuille Contraterrorisme, Beveiliging Burgerluchtvaart en Bedrijfsvoering;
 
-- b. de portefeuille Cybersecurity, Weerbaarheid Statelijke Dreigingen en Economische Veiligheid;
+- b. de portefeuille Cybersecurity, Weerbaarheid Statelijke Dreigingen en Analyse Nationale Veiligheid;
 
 - c. de portefeuille Nationale Crisisbeheersing;
 
 - d. de portefeuille Bewaken en Beveiligen;
 
-- e. de portefeuille Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering;
+- e. de afdeling Strategie, Staf en Juridische Zaken;
 
 - f. het secretariaat van de Cyber Security Raad.
 
@@ -1130,17 +1130,19 @@ Vervallen
 
 ##### Artikel 52
 
-1. De portefeuille Contraterrorisme en Beveiliging Burgerluchtvaart heeft de volgende taken:
+1. De portefeuille Contraterrorisme, Beveiliging Burgerluchtvaart en Bedrijfsvoering heeft de volgende taken:
 
-- a. het ontwikkelen, implementeren, uitvoeren, coördineren, evalueren van en communiceren over het beleid en de maatregelen inzake het contraterrorisme en het tegengaan van extremisme;
+- a. het ontwikkelen, implementeren, uitvoeren, coördineren, evalueren van en communiceren over het beleid en de maatregelen inzake het contraterrorisme en het tegengaan van extremisme ,waaronder het coördineren van de aanpak van casuïstiek op het terrein van terrorisme en extremisme;
 
 - b. het versterken van de samenwerking en verbinden van nationale en internationale partners in de integrale aanpak van terrorisme en extremisme;
 
 - c. het coördineren, evalueren en adviseren inzake de lokale aanpak van terrorisme, extremisme en andere veiligheidsdreigingen, alsmede het met het oog op de bescherming van de nationale veiligheid uitvoeren van en adviseren over de uitvoering van wettelijke regelingen ten behoeve van maatregelen ter voorkoming of aanpak van terrorisme en extremisme;
 
-- d. het ontwikkelen, implementeren, coördineren, evalueren van en communiceren over het beleid inzake de beveiliging van de burgerluchtvaart en het signaleren en detecteren van reisbewegingen in relatie tot terrorisme en ernstige criminaliteit, waaronder de beleids- en financieringsverantwoordelijkheid en het opdrachtgeverschap van de Passagiersinformatie-eenheid Nederland (Pi-NL) en de sturing alsmede ontwikkeling van de (verdere) inrichting van de technische voorziening Travel Information Portal (TRIP);
+- d. het ontwikkelen, implementeren, coördineren, evalueren van en communiceren over het beleid inzake het signaleren en detecteren van reisbewegingen in relatie tot terrorisme en ernstige criminaliteit, waaronder de beleids- en financieringsverantwoordelijkheid en het opdrachtgeverschap van de Passagiersinformatie-eenheid Nederland (Pi-NL);
 
-- e. het coördineren, implementeren en evalueren van en communiceren over het beleid en, de maatregelen op het terrein van de beveiliging van de burgerluchtvaart, waaronder het geven van aanwijzingen aan de Koninklijke marechaussee en de luchtvaartsector op basis van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267).
+- e. het coördineren, implementeren en evalueren van en communiceren over het beleid en, de maatregelen op het terrein van de beveiliging van de burgerluchtvaart, waaronder het geven van aanwijzingen aan de Koninklijke marechaussee en de luchtvaartsector op basis van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267);
+
+- f. de ondersteuning van de NCTV op het gebied van de bedrijfsvoering en facilitaire zaken, in het bijzonder betreffende personeelsaangelegenheden, ICT en informatiemanagement, huisvesting, beveiliging en financiële advisering.
 
 2. De portefeuille bestaat uit:
 
@@ -1148,25 +1150,31 @@ Vervallen
 
 - b. de Afdeling Contraterrorisme 2;
 
-- c. de Afdeling Beveiliging Burgerluchtvaart.
+- c. de Afdeling Beveiliging Burgerluchtvaart;
+
+- d. de Afdeling Bedrijfsvoering.
 
 ##### Artikel 53
 
-1. De portefeuille Cybersecurity, Weerbaarheid Statelijke Dreigingen en Economische Veiligheid heeft de volgende taken:
+1. De portefeuille Cybersecurity, Weerbaarheid Statelijke Dreigingen en Analyse Nationale Veiligheid heeft de volgende taken:
 
-- a. het coördineren, ontwikkelen, implementeren, uitvoeren, evalueren van en communiceren over het beleid en de maatregelen inzake dreigingen van statelijke actoren;
+- a. het coördineren, ontwikkelen, implementeren, uitvoeren, evalueren van en communiceren over het beleid en de maatregelen inzake dreigingen van statelijke actoren, waaronder het coördineren van de aanpak van casuïstiek op het terrein van statelijke dreigingen;
 
-- b. het zorgdragen voor de coördinatie van de bescherming van de vitale infrastructuur;
+- b. het zorgdragen voor de coördinatie van de bescherming van de vitale infrastructuur, waaronder het coördineren van de aanpak van casuïstiek op het terrein van de bescherming van de vitale infrastructuur;
 
 - c. het zorgdragen voor een integrale aanpak van dreigingen voor de nationale veiligheid alsmede het invulling geven aan de strategie ter borging van de nationale veiligheid;
 
-- d. het coördineren, ontwikkelen en evalueren van het beleid en de maatregelen inzake cyber security, waaronder de uitvoering van de Nederlandse Cyber Security Agenda.
+- d. het coördineren, ontwikkelen en evalueren van het beleid en de maatregelen inzake cyber security, waaronder de uitvoering van de Nederlandse Cyber Security Agenda;
+
+- e. het in samenwerking en in overleg met andere partijen binnen en buiten de NCTV verrichten en aanleveren van analyses van dreigingen en risico’s ten behoeve van de werkzaamheden van de NCTV en de werkzaamheden van veiligheidspartners, alsmede het opstellen van het actuele dreigings- en incidentenbeeld en de omgevingsanalyse ten behoeve van de nationale crisisbesluitvorming.
 
 2. De portefeuille bestaat uit:
 
-- a. de Afdeling Weerbaarheid Statelijke Dreigingen en Economische Veiligheid;
+- a. de Afdeling Weerbaarheid Statelijke Dreigingen;
 
-- b. de Afdeling Cybersecurity.
+- b. de Afdeling Cybersecurity;
+
+- c. de Afdeling Analyse Nationale Veiligheid.
 
 ##### Artikel 54
 
@@ -1174,39 +1182,31 @@ Vervallen
 
 - a. het ontwikkelen van crisisbeheersingsbeleid op nationaal niveau, waaronder het onderhouden van het stelsel van nationale crisisbeheersing en het, in samenspraak met het directoraat-generaal Politie en Veiligheidsregio’s, zorgdragen voor de aansluiting daarvan op het beleid en het stelsel van decentrale crisisbeheersing en op de afspraken met betrekking tot de internationale samenwerking;
 
-- b. het zorg dragen voor rijksbrede crisiscoördinatie en het faciliteren, adviseren en coördineren bij grote evenementen met een potentieel veiligheidsrisico;
+- b. het zorg dragen voor rijksbrede crisiscoördinatie en de coördinatie van de nationale crisisbesluitvorming, alsook het faciliteren, adviseren en coördineren bij grote evenementen met een potentieel veiligheidsrisico;
 
-- c. het zorg dragen voor de ondersteunende communicatie ten behoeve van de taakuitoefening van de NCTV en voor het ontwikkelen en uitvoeren van de rijksbrede crisiscommunicatie.
+- c. het zorg dragen voor de ondersteunende communicatie ten behoeve van de taakuitoefening van de NCTV en voor het ontwikkelen en uitvoeren van de rijksbrede crisiscommunicatie;
+
+- d. het organiseren, faciliteren en stimuleren van de opleiding en de persoonlijke ontwikkeling van NCTV-medewerkers alsmede het organiseren, faciliteren en stimuleren van het ontwikkelen, benutten en borgen van kennis die relevant is voor de taakuitoefening van de NCTV.
 
 2. De portefeuille bestaat uit:
 
 - a. het Nationaal Crisiscentrum;
 
-- b. de Afdeling Communicatie.
+- b. de Afdeling Communicatie;
+
+- c. de NCTV Academie.
 
 ##### Artikel 55
 
-1. De portefeuille Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering heeft de volgende taken:
+De afdeling Strategie, Staf en Juridische Zaken heeft de volgende taken:
 
-- a. de strategische advisering over alle aangelegenheden die het werkterrein van de NCTV betreffen, de coördinatie en procesbewaking van algemene parlementaire aangelegenheden, de voorbereiding van interdepartementale en politiek-bestuurlijke besluitvorming alsmede van bestuurlijke besluitvorming, en de uitvoering van de decentrale juridische functie ten behoeve van de NCTV;
+- a. de strategische advisering over alle aangelegenheden die het werkterrein van de NCTV betreffen;
 
-- b. de voorbereiding van de internationale en Europese beleidsvorming op het gebied van de NCTV;
+- b. de coördinatie en procesbewaking van algemene parlementaire aangelegenheden, alsook de voorbereiding van interdepartementale, politiek-bestuurlijke en bestuurlijke besluitvorming;
 
-- c. het in samenwerking en in overleg met andere partijen binnen en buiten de NCTV verrichten en aanleveren van analyses van dreigingen en risico’s ten behoeve van de werkzaamheden van de NCTV en de werkzaamheden van veiligheidspartners, alsmede het opstellen van het actuele dreigings- en incidentenbeeld en de omgevingsanalyse ten behoeve van de nationale crisisbesluitvorming;
+- c. de uitvoering van de decentrale juridische functie ten behoeve van de NCTV;
 
-- d. de ondersteuning van de NCTV op het gebied van de bedrijfsvoering en facilitaire zaken, in het bijzonder betreffende personeelsaangelegenheden, ICT en informatiemanagement, huisvesting, beveiliging en financiële advisering;
-
-- e. het organiseren, faciliteren en stimuleren van de opleiding en de persoonlijke ontwikkeling van NCTV-medewerkers alsmede het organiseren, faciliteren en stimuleren van het ontwikkelen, benutten en borgen van kennis die relevant is voor de taakuitoefening van de NCTV.
-
-2. De portefeuille bestaat uit:
-
-- a. de Afdeling Strategie, Staf en Juridische zaken;
-
-- b. de Afdeling Analyse Nationale Veiligheid;
-
-- c. de Afdeling Bedrijfsvoering;
-
-- d. de NCTV Academie.
+- d. de voorbereiding van de internationale en Europese beleidsvorming op het werkterrein van de NCTV.
 
 ##### Artikel 56
 
@@ -1490,7 +1490,7 @@ Het secretariaat van het Schadefonds Geweldsmisdrijven (secretariaat SGM) is bel
 
 ##### Artikel 64
 
-Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28) genoemde dienstonderdelen en daaronder ressorterende dienstonderdelen liggen voor het daarbij werkzame personeel ter inzage:
+Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen en daaronder ressorterende dienstonderdelen liggen voor het daarbij werkzame personeel ter inzage:
 
 - a. een exemplaar van dit besluit;
 
@@ -1504,13 +1504,13 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 ##### Artikel 66
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport en, voor zover van toepassing, een taakbesluit en een baten-lastenagentschapsregeling.
+1. Elk onderdeel dat ressorteert onder de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport en, voor zover van toepassing, een taakbesluit en een baten-lastenagentschapsregeling.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen a, b, i of j en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), of het secretariaat van het Schadefonds Geweldsmisdrijven, is de secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen a, b, i of j en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), of het secretariaat van het Schadefonds Geweldsmisdrijven, is de secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
-3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28), is de directeur-generaal onder wie het onderdeel ressorteert, bevoegd het document namens de bewindspersoon vast te stellen.
+3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 2, tweede lid, onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), is de directeur-generaal onder wie het onderdeel ressorteert, bevoegd het document namens de bewindspersoon vast te stellen.
 
-4. De secretaris-generaal respectievelijk de directeur-generaal van de clusters als bedoeld in [artikel 2, tweede lid, onderdelen d tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-02-28&g=2026-02-28) kan de in het tweede respectievelijk derde lid bedoelde bevoegdheid mandateren aan een onder hem ressorterende ambtenaar.
+4. De secretaris-generaal respectievelijk de directeur-generaal van de clusters als bedoeld in [artikel 2, tweede lid, onderdelen d tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) kan de in het tweede respectievelijk derde lid bedoelde bevoegdheid mandateren aan een onder hem ressorterende ambtenaar.
 
 5. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. De directeur Financieel Economische Zaken en de directeur Personeel en Organisatie adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
@@ -1526,7 +1526,7 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 2. Besluiten of handelingen die vóór de inwerkingtreding van dit besluit namens de bewindspersoon zijn genomen of verricht door een functionaris van een dienstonderdeel zoals dat dienstonderdeel vóór 26 oktober 2017 werd aangeduid, behouden hun rechtskracht.
 
-3. Besluiten of handelingen die in de periode vanaf 15 augustus 2018 en vóór de inwerkingtreding van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2026-02-28&g=2026-02-28) en [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=5&artikel=28&z=2026-02-28&g=2026-02-28) van dit besluit namens de bewindspersoon door de directeur-generaal Politie dan wel de directeur-generaal Straffen en Beschermen zijn genomen of verricht, behouden hun rechtskracht.
+3. Besluiten of handelingen die in de periode vanaf 15 augustus 2018 en vóór de inwerkingtreding van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2026-03-16&g=2026-03-16) en [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=5&artikel=28&z=2026-03-16&g=2026-03-16) van dit besluit namens de bewindspersoon door de directeur-generaal Politie dan wel de directeur-generaal Straffen en Beschermen zijn genomen of verricht, behouden hun rechtskracht.
 
 4. Ondermandaten, volmachten en machtigingen verleend door of namens de directeur-generaal Politie dan wel de directeur-generaal Straffen en beschermen blijven van kracht.
 
@@ -1640,7 +1640,19 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. het uitvoeren van het nationaal stelsel van bewaken en beveiligen, het stelsel van speciale eenheden en de procedure Renegade.
 
-2. De portefeuille bestaat uit de afdeling Coördinatie Bewaken en Beveiligen.
+2. De portefeuille bestaat uit:
+
+- a. de Afdeling Openbaar Bestuur, Koninklijk Huis en Weerbaar Bewaken en Beveiligen;
+
+- b. de Afdeling Internationaal, Contact en Intake;
+
+- c. de Afdeling Rechtsstaat;
+
+- d. de Afdeling Dienstverlening, Uitvoeringsbeleid en Beheersing;
+
+- e. de Afdeling Stelsel – Strategie, Integratie en Innovatie;
+
+- f. het Kenniscentrum Bewaken en Beveiligen.
 
 ##### Artikel 63h5
 
