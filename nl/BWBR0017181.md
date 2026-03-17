@@ -4,7 +4,7 @@ identifier: "BWBR0017181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2024-01-16"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017181"
 soort: "ministeriele-regeling"
@@ -48,21 +48,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 2, 3, 6 en 8 van [Verordening (EG) nr. 314/2004](32004R0314) van de Raad van 19 februari 2004 inzake beperkende maatregelen in het licht van de situatie in Zimbabwe (Pb EG L 55).
+1. Het is verboden te handelen in strijd met de artikelen 2, 3 en 8 van [Verordening (EG) nr. 314/2004](32004R0314) van de Raad van 19 februari 2004 betreffende een wapenembargo in het licht van de situatie in Zimbabwe (Pb EG L 55).
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikelen 4, 4bis, 5, 7 of 7 bis, eerste, tweede of derde lid, van [Verordening (EG) nr. 314/2004](32004R0314) van toepassing zijn.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 4, eerste lid, 4bis, eerste lid, of 5 van [Verordening (EG) nr. 314/2004](32004R0314) van toepassing zijn.
 
 ##### Artikel 2
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.
-
-2. Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer, met vooraf verleende ontheffing van de bevoegde autoriteit, genoemd in bijlage II bij [Verordening (EG) nr. 314/2004](32004R0314) van:
-
-- a. niet-letale militaire uitrusting uitsluitend bestemd voor humanitair gebruik of beschermingsdoeleinden, of voor programma’s voor institutionele versterking van de Verenigde Naties, de Europese Unie of de Gemeenschap; en
-
-- b. materieel bedoeld voor crisisbeheersingsoperaties van de Verenigde Naties of de Europese Unie.
-
-3. Het eerste lid is niet van toepassing op de tijdelijke uitvoer van beschermende kleding voor persoonlijk gebruik, met inbegrip van scherfwerende vesten en militaire helmen, door personeel van de Verenigde Naties, de Europese Unie, de Gemeenschap of haar lidstaten, vertegenwoordigers van de media, of medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel.
+Vervallen
 
 ##### Artikel 3
 
@@ -76,8 +68,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. De bevoegde autoriteit, bedoeld in artikel 4, artikel 4 bis, artikel 7, 7bis, tweede en derde lid, en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister van Financiën voor zover het betreft financieringen of financiële bijstand, de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 4bis, eerste en derde lid, en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister van Financiën voor zover het betreft financieringen of financiële bijstand, de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
 
-2. De bevoegde autoriteit bedoeld in artikel 4, artikel 4bis, artikel 7, 7bis, tweede en derde lid, en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand dan wel de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+2. De bevoegde autoriteit bedoeld in artikel 4, eerste lid, artikel 4bis, eerste en derde lid, en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand dan wel de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
