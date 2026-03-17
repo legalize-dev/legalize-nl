@@ -4,7 +4,7 @@ identifier: "BWBR0043862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2026-01-01"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043862"
 soort: "ministeriele-regeling"
@@ -46,29 +46,27 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Beslu
 
 In deze regeling wordt verstaan onder:
 
-- **vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak:** de vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- **vrijwillige ambtenaar:** de vrijwillige ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - **vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:** de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-- **vrijwillige ambtenaar in opleiding:** de vrijwillige ambtenaar in opleiding als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+##### Artikel 2. Vergoeding vrijwillige ambtenaar
 
-- **vrijwilliger-aspirant:** de vrijwilliger-aspirant als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+1. De vrijwillige ambtenaar ontvangt per uur dat hij voor zijn functie relevant onderwijs volgt of in opdracht van het bevoegd gezag daadwerkelijk dienst verricht een vergoeding van € 9,89.
 
-##### Artikel 2. Vergoeding vrijwilliger-aspirant, vrijwillige ambtenaar in opleiding, vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die opsporingsbevoegdheid bezit of die in opleiding is om die opsporingsbevoegdheid te verkrijgen
+2. De in het eerste lid genoemde vergoeding wordt jaarlijks aangepast overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.
 
-1. Aan de vrijwilliger-aspirant, de vrijwillige ambtenaar in opleiding, de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die opsporingsbevoegdheid bezit of die in opleiding is om die opsporingsbevoegdheid te verkrijgen en de vrijwillige ambtenaar aangesteld voor de uitoefening van de politietaak wordt door het bevoegd gezag toegekend:
+##### Artikel 3. Vergoeding voor de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie in dienst op 31 december 2025, die geen opsporingsbevoegdheid bezit of in opleiding is om die opsporingsbevoegdheid te verkrijgen
 
-- a. per kalenderjaar een vaste vergoeding van € 224,87 bruto, en
+1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=2&z=2026-03-17&g=2026-03-17), ontvangt de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die op 31 december 2025 in dienst is en geen opsporingsbevoegdheid bezit of in opleiding is om die opsporingsbevoegdheid te verkrijgen, per uur dat hij in opdracht van het bevoegd gezag daadwerkelijke dienst verricht een vergoeding van € 4,00 netto.
 
-- b. per uur dat de ambtenaar voor zijn functie relevant onderwijs volgt of in opdracht van het bevoegd gezag daadwerkelijke dienst verricht een vergoeding van € 9,38 bruto.
+2. De ambtenaar, bedoeld in het eerste lid, heeft tot en met 2030 eenmalig de keuze om voortaan per uur dat hij in opdracht van het bevoegd gezag daadwerkelijke dienst verricht, de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=2&z=2026-03-17&g=2026-03-17), te ontvangen, waarbij geldt dat:
 
-2. Indien de in het eerste lid bedoelde ambtenaar niet het gehele kalenderjaar is aangesteld, wordt de vaste vergoeding naar rato toegekend.
+- a. de keuze uiterlijk 30 november van het lopend kalenderjaar aan het bevoegd gezag kenbaar wordt gemaakt;
 
-3. De in het eerste lid genoemde vergoedingen worden jaarlijks aangepast aan overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.
+- b. toekenning van de vergoeding, bedoel in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=2&z=2026-03-17&g=2026-03-17), eerst plaatsvindt met ingang van het kalenderjaar volgend op het jaar waarin hiervoor de keuze is gemaakt;
 
-##### Artikel 3. Vergoeding vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie
-
-Aan de vrijwillige ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, wordt door het bevoegd gezag per uur dat de ambtenaar in opdracht van het bevoegd gezag daadwerkelijke dienst verricht een vergoeding van € 4,00 netto toegekend.
+- c. op een gemaakte keuze niet kan worden teruggekomen.
 
 ##### Artikel 4. Intrekking regeling
 
@@ -76,9 +74,9 @@ De [Regeling Vergoeding vrijwillige politie](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 5. Inwerkingtreding
 
-1. Deze regeling, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2025-07-10&g=2026-01-01), treedt in werking met ingang van de datum van inwerkingtreding van het Besluit tot wijziging van het Besluit algemene rechtspositie politie en enkele andere algemene maatregelen van bestuur in verband met de invoeging van rechtspositionele bepalingen omtrent politievrijwilligers en de intrekking van het Besluit rechtspositie vrijwillige ambtenaren van politie.
+1. Deze regeling, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2026-03-17&g=2026-03-17), treedt in werking met ingang van de datum van inwerkingtreding van het Besluit tot wijziging van het Besluit algemene rechtspositie politie en enkele andere algemene maatregelen van bestuur in verband met de invoeging van rechtspositionele bepalingen omtrent politievrijwilligers en de intrekking van het Besluit rechtspositie vrijwillige ambtenaren van politie.
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2025-07-10&g=2026-01-01) treedt in werking met ingang van 1 januari 2021.
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3&z=2026-03-17&g=2026-03-17) treedt in werking met ingang van 1 januari 2021.
 
 ##### Artikel 6. Citeertitel
 
