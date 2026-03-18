@@ -4,7 +4,7 @@ identifier: "BWBR0052430"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-03-18"
-last_updated: "2025-12-19"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052430"
 soort: "beleidsregel"
@@ -50,7 +50,7 @@ In dit beleidskader wordt verstaan onder:
 
 - **drone:** een onbemand luchtvaartuig;
 
-- **bestrijdingshandeling:** een handeling als bedoeld in [artikel 4, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0052430&artikel=4&z=2026-03-18&g=2025-12-19).
+- **bestrijdingshandeling:** een handeling als bedoeld in [artikel 4, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0052430&artikel=4&z=2026-03-18&g=2026-03-18).
 
 ##### Artikel 2. Informatiepositie en voorbereiding
 
