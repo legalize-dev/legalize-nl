@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2025-08-30"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -280,9 +280,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028148&artikel=2&z=2025-08-30&g=2025-08-30)
+## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028148&artikel=2&z=2026-03-20&g=2026-03-20)
 
-| wo bachelor in combinatie met educatieve minor1 of de wo bachelor verbonden aan de educatieve module | Opleidingscode | Universiteit indien beperkt tot daarbij genoemde universiteit(en) | Bevoegdheid |
+| wo bachelor in combinatie met educatieve minor 1 of de wo bachelor verbonden aan de educatieve module | Opleidingscode | Universiteit indien beperkt tot daarbij genoemde universiteit(en) | Bevoegdheid |
 | --- | --- | --- | --- |
 | Aarde en economie | 50668 | Vrije Universiteit Amsterdam | Leraar Aardrijkskunde |
 | Aardwetenschappen | 56986 | Universiteit Utrecht, Vrije Universiteit Amsterdam | Leraar Aardrijkskunde |
@@ -293,14 +293,15 @@ Vervallen
 | Geografie, Planologie en Milieu | 56947 | Radboud Universiteit Nijmegen | Leraar Aardrijkskunde |
 | Global Sustainability Science | 56987 | Universiteit Utrecht | Leraar Aardrijkskunde |
 | Human Geography and Planning | 50974 | Rijksuniversiteit Groningen | Leraar Aardrijkskunde |
-| International Land and Water Management2 | 50100 | Wageningen University | Leraar Aardrijkskunde |
+| International Land and Water Management 2 | 50100 | Wageningen University | Leraar Aardrijkskunde |
 | Landschapsarchitectuur en ruimtelijke planning2 | 56848 | Wageningen University | Leraar Aardrijkskunde |
 | Sociale Geografie en Planologie | 56838 | Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam | Leraar Aardrijkskunde |
 | Soil, Water, Athmosphere2 | 56968 | Wageningen University | Leraar Aardrijkskunde |
 | Technische Planologie | 56194 | Rijksuniversiteit Groningen | Leraar Aardrijkskunde |
 | Arabische Taal en Cultuur | 56040 | Universiteit van Amsterdam | Leraar Arabisch |
-| Midden-Oostenstudies: Arabisch | 56098 | Universiteit Leiden, Rijksuniversiteit Groningen3 | Leraar Arabisch |
-| Animal Sciences (leertraject onderwijsbevoegdheid Biologie)4 | 56849 | Wageningen University | Leraar Biologie |
+| Midden-Oostenstudies: Arabisch | 56098 | Universiteit Leiden, Rijksuniversiteit Groningen 3 | Leraar Arabisch |
+| Fiscale Economie | 56402 | Universiteit Maastricht | Leraar Bedrijfseconomie |
+| Animal Sciences (leertraject onderwijsbevoegdheid Biologie) 4 | 56849 | Wageningen University | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Biologie) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Biomedische Wetenschappen) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Neurobiologie) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
@@ -309,12 +310,12 @@ Vervallen
 | Biomedical Sciences | 59324 | Vrije Universiteit Amsterdam | Leraar Biologie |
 | Biomedische Wetenschappen | 56990 | Universiteit Leiden, Universiteit Utrecht, Universiteit Maastricht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Biologie |
 | Geneeskunde | 56551 | Universiteit Maastricht | Leraar Biologie |
-| Gezondheid en Leven5 | 50509 | Vrije Universiteit Amsterdam | Leraar Biologie |
-| Gezondheidswetenschappen (specialisatie Biologie & Gezondheid) | 56553 | Universiteit Maastricht | Leraar Biologie |
+| Gezondheid en Leven 5 | 50509 | Vrije Universiteit Amsterdam | Leraar Biologie |
+| Gezondheidswetenschappen | 56553 | Universiteit Maastricht | Leraar Biologie |
 | Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | Leraar Biologie |
-| Plantenwetenschappen (leertraject onderwijs bevoegdheid Biologie)6 | 56835 | Wageningen University | Leraar Biologie |
+| Plantenwetenschappen (leertraject onderwijs bevoegdheid Biologie) 6 | 56835 | Wageningen University | Leraar Biologie |
 | Psychobiologie | 50014 | Universiteit van Amsterdam | Leraar Biologie |
-| Regenerative Medicine and Technology7 | 59346 | Universiteit Maastricht | Leraar Biologie |
+| Regenerative Medicine and Technology 7 | 59346 | Universiteit Maastricht | Leraar Biologie |
 | Chinastudies | 56818 | Universiteit Leiden | Leraar Chinees |
 | Duitse Taal en Cultuur (afstudeerrichting Duits) | 56805 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Duits |
 | Europese Talen en Culturen (afstudeerrichting Duits) | 56124 | Rijksuniversiteit Groningen | Leraar Duits |
@@ -322,17 +323,16 @@ Vervallen
 | Taal- en Cultuurstudies (afstudeerrichting Duits) | 56801 | Universiteit Utrecht | Leraar Duits |
 | Bedrijfseconomie | 50750 | Tilburg University | Leraar Economie |
 | Bedrijfs- en Consumentenwetenschappen | 56836 | Wageningen University | Leraar Economie |
-| Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Open Universiteit | Leraar Economie |
+| Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Open Universiteit, Tilburg University | Leraar Economie |
 | Business Administration | 50897 | Universiteit van Amsterdam | Leraar Economie |
-| Econometrics and Operations Research8 | 56833 | Universiteit Maastricht | Leraar Economie |
+| Econometrics and Operations Research 8 | 56833 | Universiteit Maastricht | Leraar Economie |
 | Economics and Business Economics | 59318 | Universiteit van Amsterdam | Leraar Economie |
 | Economics and Business Economics, specialisatie Economics | 50950 | Universiteit Maastricht | Leraar Economie |
 | Economie | 56401 | Tilburg University | Leraar Economie |
 | Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University, Universiteit Utrecht | Leraar Economie |
 | Economie en Bedrijfskunde | 50905 | Universiteit van Amsterdam | Leraar Economie |
 | Economie en Beleid | 50101 | Wageningen University | Leraar Economie |
-| Economie & Samenleving | 50996 | Universiteit Leiden | Leraar Economie |
-| Fiscale Economie | 56402 | Universiteit Maastricht, Universiteit van Amsterdam | Leraar Economie |
+| Fiscale Economie | 56402 | Universiteit van Amsterdam | Leraar Economie |
 | International Business Administration | 50952 | Universiteit Twente, Vrije Universiteit Amsterdam | Leraar Economie |
 | Technische Bedrijfskunde | 56994 | Universiteit Twente | Leraar Economie |
 | Communicatie- en Informatiewetenschappen | 56826 | Vrije Universiteit Amsterdam | Leraar Engels |
@@ -367,11 +367,11 @@ Vervallen
 | Computing Science | 59326 | Radboud Universiteit Nijmegen | Leraar Informatica |
 | Creative Technology | 50447 | Universiteit Twente | Leraar Informatica |
 | Data Science & Artificial Intelligence | 50300 | Universiteit Maastricht | Leraar Informatica |
-| Data Science (joint degree)9 | 55018 | Tilburg University, Technische Universiteit Eindhoven | Leraar Informatica |
+| Data Science (joint degree) 9 | 55018 | Tilburg University, Technische Universiteit Eindhoven | Leraar Informatica |
 | Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | Leraar Informatica |
 | Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Informatica |
 | Informatica | 56978 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam | Leraar Informatica |
-| Informatiekunde | 56842 | Rijksuniversiteit Groningen, Universiteit van Amsterdam, Universiteit Utrecht | Leraar Informatica |
+| Informatiekunde | 56842 | Universiteit van Amsterdam, Universiteit Utrecht | Leraar Informatica |
 | Information Sciences | 56869 | Vrije Universiteit Amsterdam | Leraar Informatica |
 | Kunstmatige Intelligentie | 56981 | Universiteit van Amsterdam, Universiteit Utrecht | Leraar Informatica |
 | Technical Computer Science | 59335 | Universiteit Twente | Leraar Informatica |
@@ -394,12 +394,6 @@ Vervallen
 | Management, Society and Technology | 56654 | Universiteit Twente | Leraar Maatschappijleer |
 | Politicologie | 56606 | Universiteit Leiden, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen | Leraar Maatschappijleer |
 | Sociologie | 56601 | Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University | Leraar Maatschappijleer |
-| Bedrijfseconomie | 50750 | Tilburg University | Leraar Management en Organisatie |
-| Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Open Universiteit | Leraar Management en Organisatie |
-| Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University | Leraar Management en Organisatie |
-| International Business | 50019 | Rijksuniversiteit Groningen, Universiteit Maastricht | Leraar Management en Organisatie |
-| International Business Administration | 50952 | Universiteit Twente | Leraar Management en Organisatie |
-| Technische Bedrijfskunde | 56994 | Universiteit Twente | Leraar Management en Organisatie |
 | Advanced Technology | 50002 | Universiteit Twente | Leraar Natuurkunde |
 | Agrotechnologie | 56831 | Wageningen University | Leraar Natuurkunde |
 | Bèta-gamma (afstudeerrichting Natuurkunde) | 50250 | Universiteit van Amsterdam | Leraar Natuurkunde |
@@ -483,7 +477,6 @@ Vervallen
 | Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
 | Actuariële Wetenschappen | 56411 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Advanced Technology | 50002 | Universiteit Twente | Leraar Wiskunde |
-| Agrotechnologie | 56831 | Wageningen University | Leraar Wiskunde |
 | Applied Mathematics | 59336 | Universiteit Twente | Leraar Wiskunde |
 | Bèta-gamma (afstudeerrichting Wiskunde) | 50250 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Biomedische Technologie | 56226 | Technische Universiteit Eindhoven, Universiteit Twente | Leraar Wiskunde |
@@ -520,22 +513,22 @@ Vervallen
 | Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Wiskunde |
 | Wiskunde | 56980 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Wiskunde |
 
-1 Dit omvat tevens de situatie waarin de educatieve minor niet in combinatie met een van de in deze bijlage genoemde wo bachelors is gehaald, maar wel in combinatie met een wo bachelor met een vakkenpakket waarbij naar het oordeel van de instelling sprake is van voldoende vakinhoudelijke bekwaamheid.
+1Dit omvat tevens de situatie waarin de educatieve minor niet in combinatie met een van de in deze bijlage genoemde wo bachelors is gehaald, maar wel in combinatie met een wo bachelor met een vakkenpakket waarbij naar het oordeel van de instelling sprake is van voldoende vakinhoudelijke bekwaamheid.
 
-2 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
+2Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
 
-3 Het buitenlandprogramma (30EC) dient onderdeel te zijn van de bacheloropleiding.
+3Het buitenlandprogramma (30EC) dient onderdeel te zijn van de bacheloropleiding.
 
-4 Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Animal Sciences, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
+4Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Animal Sciences, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
 
-5 Met specialisatie Biomedische wetenschappen (BMW) en keuzevak Humane evolutie.
+5Met specialisatie Biomedische wetenschappen (BMW) en keuzevak Humane evolutie.
 
-6 Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Plantenwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
+6Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Plantenwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
 
-7 Het vak Plantfysiologie & Ecologie (5 EC) dient extra curriculair te worden gevolgd.
+7Het vak Plantfysiologie & Ecologie (5 EC) dient extra curriculair te worden gevolgd.
 
-8 De domeinen openbare financiën en ontwikkelingseconomie dienen extra curriculair te worden aangevuld bij deze bacheloropleiding. Dit kan met de vakken Public Economics (6,5 EC) en Development Economics (6,5 EC) van de Universiteit Maastricht.
+8De domeinen openbare financiën en ontwikkelingseconomie dienen extra curriculair te worden aangevuld bij deze bacheloropleiding. Dit kan met de vakken Public Economics (6,5 EC) en Development Economics (6,5 EC) van de Universiteit Maastricht.
 
-9 De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
+9De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
