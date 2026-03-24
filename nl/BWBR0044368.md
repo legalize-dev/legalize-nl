@@ -4,7 +4,7 @@ identifier: "BWBR0044368"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2024-04-01"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044368"
 soort: "ministeriele-regeling"
@@ -59,5 +59,75 @@ Deze regeling treedt in werking met ingang van 1 januari 2021.
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Warenwetregeling algemene chemische productveiligheid.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Het Europees Agentschap voor chemische stoffen (ECHA) en het Nationaal Vergiftigingen Informatie Centrum worden aangewezen als de organen, bedoeld in artikel 45, eerste lid, van [Verordening (EG) nr. 1272/2008](32008R1272) van het Europees parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels, tot wijziging en intrekking van de [Richtlijnen 67/548/EEG](31967L0548) en [1999/45/EG](31999L0045) en tot wijziging van [Verordening (EG) nr. 1907/2006](32006R1907).
+
+##### Artikel 1b
+
+Deze regeling berust mede op [artikel 9.3a.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.3a.1).
+
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044368&artikel=1&z=2026-03-24&g=2026-03-24) van de Warenwetregeling algemene chemische productveiligheid
+
+**De in kolom 1 van bijlage XVII bij Verordening (EG) nr. 1907/2006 onder de volgende nummers aangeduide stoffen, groepen van stoffen, mengsels of voorwerpen:**
+
+| 2 |
+| --- |
+| 3 |
+| 4 |
+| 5 |
+| 6 |
+| 7 |
+| 8 |
+| 9 |
+| 10 |
+| 11 |
+| 16 |
+| 17 |
+| 18bis, punt 1 van de bijbehorende kolom 2 |
+| 20, punten 1, 2, 4, 5 en 6 van de bijbehorende kolom 2 |
+| 23, punten 1, 2 en 10 van de bijbehorende kolom 2 |
+| 27 |
+| 28 |
+| 29 |
+| 30 |
+| 31, punten 1 en 3 van de bijbehorende kolom 2 |
+| 32 |
+| 34 |
+| 35 |
+| 36 |
+| 37 |
+| 38 |
+| 40 |
+| 43 |
+| 45, punt 2 van de bijbehorende kolom 2 |
+| 46, eerste alinea en de punten 2, 7 en 8 van de bijbehorende kolom 2 |
+| 46bis |
+| 47, punten 1, 5 en 6 van de bijbehorende kolom 2 |
+| 48 |
+| 50, punten 5, 6, 9, 10 en 11 van de bijbehorende kolom 2 |
+| 51 |
+| 52 |
+| 54 |
+| 55 |
+| 56 |
+| 57 |
+| 59, punt 1 van de bijbehorende kolom 2 |
+| 61 |
+| 62 |
+| 63, punten 1, 7 en 15 van de bijbehorende kolom 2 |
+| 64 |
+| 66 |
+| 68, punten 1, 2 en 3 van de bijbehorende kolom 2 |
+| 69 |
+| 70 |
+| 72 |
+| 73 |
+| 75, punten 1, 7 en 8 van de bijbehorende kolom 2 |
+| 77 |
+| 79 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
