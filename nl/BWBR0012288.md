@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2026-03-11"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -5871,7 +5871,7 @@ De IND beschouwt de volgende groep als groep die systematisch wordt blootgesteld
 
 ### 17.1. Besluitmoratorium
 
-Geen bijzonderheden.
+Er geldt een besluitmoratorium in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) voor vreemdelingen afkomstig uit Iran. De beslistermijnen van lopende asielaanvragen en van aanvragen die tijdens het besluitmoratorium worden ontvangen, worden verlengd met 12 maanden. De maximale beslistermijn van 21 maanden kan hierbij niet worden overschreden.
 
 De IND merkt voor Iran de volgende groepen aan als risicoprofiel:
 
@@ -5977,7 +5977,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 17.4.2. Ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw als bedoeld in paragraaf C2/3.3.3 Vc
+### 17.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
 ### 17.7. Vertrekmoratorium
 
@@ -6031,7 +6031,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 17.4.1. Ernstige schade in de zin van artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw als bedoeld in paragraaf C2/3.3.2 Vc
+### 17.4.1. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.2 Vc
 
 ### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -6045,7 +6045,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
+Er geldt een vertrekmoratorium in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) voor vreemdelingen afkomstig uit Iran.
 
 ### 18. Het asielbeleid ten aanzien van Ivoorkust
 
