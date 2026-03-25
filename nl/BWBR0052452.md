@@ -4,7 +4,7 @@ identifier: "BWBR0052452"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-25"
-last_updated: "2026-01-01"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052452"
 soort: "zbo"
@@ -165,17 +165,17 @@ Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of k
 
 De loon- en materiële kosten van de beleidsregelwaarden bevatten de definitieve percentages 2025 en de voorschotpercentages 2026.
 
-Indien binnen de beleidsregelwaarde een nhc is opgenomen (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-01-01)), dan bevat de nhc de jaarlijkse index van 2,5%.
+Indien binnen de beleidsregelwaarde een nhc is opgenomen (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-03-25)), dan bevat de nhc de jaarlijkse index van 2,5%.
 
-Indien binnen de beleidsregelwaarde een nic is opgenomen (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-01-01)), dan bevat de nic de index voor materiële kosten.
+Indien binnen de beleidsregelwaarde een nic is opgenomen (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-03-25)), dan bevat de nic de index voor materiële kosten.
 
 ##### Artikel 5. Beleidsregelwaarden voor tariefvaststelling
 
-De NZa stelt de tarieven in een tariefbeschikking vast op de bedragen zoals vermeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=14&z=2026-03-25&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=15&z=2026-03-25&g=2026-01-01) (beleidsregelwaarden).
+De NZa stelt de tarieven in een tariefbeschikking vast op de bedragen zoals vermeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-03-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=14&z=2026-03-25&g=2026-03-25) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=15&z=2026-03-25&g=2026-03-25) (beleidsregelwaarden).
 
 De tarieven die de NZa vaststelt op basis van deze beleidsregel zijn maximumtarieven. Een maximumtarief is een tarief dat ten hoogste in rekening mag worden gebracht. Bij het maken van productieafspraken kunnen de Wlz-uitvoerder/het zorgkantoor en de zorgaanbieder lagere tarieven afspreken.
 
-Een uitzondering betreft de prestaties voor bepaalde postcodegebieden waarin zorglevering duurder is dan in andere gebieden. Die prestaties zijn beschreven in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01). Daarvoor geldt een bandbreedtetarief: een bedrag dat ligt tussen of gelijk is aan het bedrag dat ten minste en het bedrag dat ten hoogste als tarief in rekening mag worden gebracht. Het gedeelte van 0 tot en met de laagste bandbreedte, het minimumtarief, is dus niet onderhandelbaar. Het gedeelte van het minimum tot de hoogste bandbreedte, het maximumtarief, is wel onderhandelbaar. De Wlz-uitvoerder/het zorgkantoor en de zorgaanbieder kunnen in zoverre dus lagere tarieven afspreken.
+Een uitzondering betreft de prestaties voor bepaalde postcodegebieden waarin zorglevering duurder is dan in andere gebieden. Die prestaties zijn beschreven in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25). Daarvoor geldt een bandbreedtetarief: een bedrag dat ligt tussen of gelijk is aan het bedrag dat ten minste en het bedrag dat ten hoogste als tarief in rekening mag worden gebracht. Het gedeelte van 0 tot en met de laagste bandbreedte, het minimumtarief, is dus niet onderhandelbaar. Het gedeelte van het minimum tot de hoogste bandbreedte, het maximumtarief, is wel onderhandelbaar. De Wlz-uitvoerder/het zorgkantoor en de zorgaanbieder kunnen in zoverre dus lagere tarieven afspreken.
 
 Voor zover de aanvaardbare kosten bestaan uit zzp’s of vpt’s, dan worden die bepaald door de gehonoreerde productieafspraak met betrekking tot de prestaties en beleidsregelwaarden zoals vermeld in deze beleidsregel.
 
@@ -193,11 +193,11 @@ Voor cliënten die zijn aangewezen op een zzp ggz-b inclusief dagbesteding geldt
 
 Voor cliënten die zijn aangewezen zijn op een zzp ggz-wonen, zzp vg, zzp lg of zzp zg is de component dagbesteding niet een onlosmakelijk onderdeel van de zzp-prestatie. Er is sprake van:
 
-- –. zzp’s exclusief dagbesteding waarvan de tarieven in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-01-01) staan;
+- –. zzp’s exclusief dagbesteding waarvan de tarieven in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-03-25) staan;
 
-- –. zzp’s inclusief dagbesteding waarvan de tarieven in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-01-01) staan;
+- –. zzp’s inclusief dagbesteding waarvan de tarieven in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-03-25) staan;
 
-- –. afzonderlijke dagbestedingsprestaties waarvan de tarieven in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-01-01) staan. Het aantal afzonderlijke dagdelen dagbesteding dat wordt afgesproken moet passen binnen de zzp-prestatie of vpt-prestatie die past bij de indicatie van de cliënt.
+- –. afzonderlijke dagbestedingsprestaties waarvan de tarieven in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-03-25) staan. Het aantal afzonderlijke dagdelen dagbesteding dat wordt afgesproken moet passen binnen de zzp-prestatie of vpt-prestatie die past bij de indicatie van de cliënt.
 
 Een toeslag op de dagbesteding van kinderen mag tot een kalenderleeftijd van 18 jaar worden afgesproken.
 
@@ -211,9 +211,9 @@ Een cliënt heeft op grond van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - d. Cliënten die zijn geïndiceerd voor of aangewezen op een zzp vv of een bij deze zzp’s passend profiel op grond van de [Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014) én die dagbesteding/dagbehandeling behoeven op afstand van de verblijfslocatie waarbij het vervoer om medische redenen noodzakelijk is.
 
-De beleidsregelwaarden behorend bij vervoer bij dagbesteding/dagbehandeling zijn opgenomen in [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-01-01) (zzp) en [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=15&z=2026-03-25&g=2026-01-01) (vpt) van deze beleidsregel. Hierbij wordt ook een onderscheid gemaakt in de verblijfsplaats van de cliënt. Voor het vervoer van cliënten met een zzp die de dagbesteding van dezelfde zorgaanbieder krijgen als het verblijf gelden Z-codes. Voor het vervoer van cliënten die de dagbesteding niet van dezelfde zorgaanbieder krijgen als het verblijf gelden H-codes.
+De beleidsregelwaarden behorend bij vervoer bij dagbesteding/dagbehandeling zijn opgenomen in [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-03-25) (zzp) en [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=15&z=2026-03-25&g=2026-03-25) (vpt) van deze beleidsregel. Hierbij wordt ook een onderscheid gemaakt in de verblijfsplaats van de cliënt. Voor het vervoer van cliënten met een zzp die de dagbesteding van dezelfde zorgaanbieder krijgen als het verblijf gelden Z-codes. Voor het vervoer van cliënten die de dagbesteding niet van dezelfde zorgaanbieder krijgen als het verblijf gelden H-codes.
 
-De prestatiebeschrijving vervoer is opgenomen in [artikel 6, vierde lid, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01).
+De prestatiebeschrijving vervoer is opgenomen in [artikel 6, vierde lid, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25).
 
 Er zijn aparte prestaties voor het vervoer van:
 
@@ -225,7 +225,7 @@ Er zijn aparte prestaties voor het vervoer van:
 
 - –. cliënten met een zzp ggz wonen.
 
-De vervoersprestaties voor cliënten in de gehandicaptenzorg zijn gebaseerd op een aantal cliëntkenmerken (het onderscheid tussen individueel vervoer en vervoer in groep, kind en volwassene, rolstoelgebonden en niet-rolstoelgebonden cliënten,) en een aantal vervoerskenmerken (gecontracteerd vervoer, eigen vervoermiddel zorgaanbieder/ouder/vrijwilliger, eigen vervoermiddel cliënt, openbaar vervoer). Daarnaast is in de prestatie-indeling rekening gehouden met de postcode-afstand tussen de verblijfplaats van de cliënt en de plek waar de cliënt de dagbesteding/behandeling ontvangt. De tabel in [artikel 6, vierde lid, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01) geeft aan in welke prestatiecategorie een cliënt valt.
+De vervoersprestaties voor cliënten in de gehandicaptenzorg zijn gebaseerd op een aantal cliëntkenmerken (het onderscheid tussen individueel vervoer en vervoer in groep, kind en volwassene, rolstoelgebonden en niet-rolstoelgebonden cliënten,) en een aantal vervoerskenmerken (gecontracteerd vervoer, eigen vervoermiddel zorgaanbieder/ouder/vrijwilliger, eigen vervoermiddel cliënt, openbaar vervoer). Daarnaast is in de prestatie-indeling rekening gehouden met de postcode-afstand tussen de verblijfplaats van de cliënt en de plek waar de cliënt de dagbesteding/behandeling ontvangt. De tabel in [artikel 6, vierde lid, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25) geeft aan in welke prestatiecategorie een cliënt valt.
 
 Het gecontracteerde vervoer betreft het vervoer dat wordt geleverd door een professionele vervoerder (taxi-vervoer) waarmee de zorgaanbieder een contract heeft afgesloten. Het niet-gecontracteerde vervoer betreft alle overige vormen van vervoer, waaronder vervoer met vervoersmiddelen die eigendom zijn van de zorgaanbieder of een aan de zorgaanbieder gelieerde onderneming.
 
@@ -241,15 +241,15 @@ Zorgaanbieders in de gehandicaptenzorg en zorgkantoor hebben de mogelijkheid om 
 
 Een zorgaanbieder moet het wel vastleggen wanneer hij deze werkwijze hanteert.
 
-Voor het vervoer van cliënten in de sector vv wordt aangesloten bij twee prestatiecategorieën uit de tabel in [artikel 6, vierde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01). Er zijn aparte prestatiecodes voor vervoer in de vv. In de vv zijn de categorieën C0 en C1 van toepassing. C0 is voor niet-gecontracteerd vervoer. Hieronder vallen bijvoorbeeld eigen vervoermiddel en openbaar vervoer. C1 is in de vv voor alle gecontracteerd vervoer, zowel voor niet-rolstoelgebonden als rolstoelgebonden cliënten.
+Voor het vervoer van cliënten in de sector vv wordt aangesloten bij twee prestatiecategorieën uit de tabel in [artikel 6, vierde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25). Er zijn aparte prestatiecodes voor vervoer in de vv. In de vv zijn de categorieën C0 en C1 van toepassing. C0 is voor niet-gecontracteerd vervoer. Hieronder vallen bijvoorbeeld eigen vervoermiddel en openbaar vervoer. C1 is in de vv voor alle gecontracteerd vervoer, zowel voor niet-rolstoelgebonden als rolstoelgebonden cliënten.
 
-De vervoersprestaties voor cliënten ggz wonen sluiten aan bij de vervoersprestaties voor cliënten in de gehandicaptenzorg, zoals hierboven beschreven. Wel zijn er aparte prestatiecodes voor de vervoersprestaties voor cliënten ggz wonen. Op basis van de tabel Prestatiecategorieën vervoer dagbesteding/dagbehandeling ghz/ggz wonen in [artikel 6, vierde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01), kan ook voor de doelgroep ggz wonen bepaald worden in welke prestatiecategorie een cliënt valt.
+De vervoersprestaties voor cliënten ggz wonen sluiten aan bij de vervoersprestaties voor cliënten in de gehandicaptenzorg, zoals hierboven beschreven. Wel zijn er aparte prestatiecodes voor de vervoersprestaties voor cliënten ggz wonen. Op basis van de tabel Prestatiecategorieën vervoer dagbesteding/dagbehandeling ghz/ggz wonen in [artikel 6, vierde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25), kan ook voor de doelgroep ggz wonen bepaald worden in welke prestatiecategorie een cliënt valt.
 
 - a. Het is mogelijk om een logeerprestatie te combineren met behandelprestaties, voor zover behandeling niet is meegenomen in de logeerprestatie. Ook is het mogelijk dagbestedingsprestaties te leveren in combinatie met een logeerprestatie wanneer de cliënt behoefte heeft aan dagbesteding gedurende het logeren. De behandel- en dagbestedingsprestaties zijn vermeld in de Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg.
 
-- b. Geen van de toeslagen genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-01-01) van deze beleidsregel mag in combinatie met een logeerprestatie in rekening worden gebracht.
+- b. Geen van de toeslagen genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-03-25) van deze beleidsregel mag in combinatie met een logeerprestatie in rekening worden gebracht.
 
-- c. Er is een prestatiebeschrijving logeren voor vv, vg, zg, lg, lvg en ggz wonen, en een prestatiebeschrijving logeren voor cliënten met een zeer ernstige verstandelijke en meervoudige beperking (zevmb). De prestatiebeschrijvingen zijn opgenomen in [artikel 6, vierde lid, onder 7 en h](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01) van deze beleidsregel.
+- c. Er is een prestatiebeschrijving logeren voor vv, vg, zg, lg, lvg en ggz wonen, en een prestatiebeschrijving logeren voor cliënten met een zeer ernstige verstandelijke en meervoudige beperking (zevmb). De prestatiebeschrijvingen zijn opgenomen in [artikel 6, vierde lid, onder 7 en h](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25) van deze beleidsregel.
 
 ##### Artikel 6. Prestatiebeschrijvingen basisprestaties
 
@@ -322,9 +322,9 @@ De NZa stelt de prestatiebeschrijvingen van de vpt’s vast op de zzp’s, vermi
 
 De NZa stelt de prestaties inclusief niet-beïnvloedbare factoren vast op dezelfde inhoud als de reguliere prestaties:
 
-- a). zzp vv 4 t/m vv 10 met of zonder behandeling (zie [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01));
+- a). zzp vv 4 t/m vv 10 met of zonder behandeling (zie [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25));
 
-- b). vpt vv 4 t/m vv 10 met of zonder behandeling (zie [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01);
+- b). vpt vv 4 t/m vv 10 met of zonder behandeling (zie [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25);
 
 met deze aanvulling dat het gaat om zorg die wordt verleend aan een cliënt die feitelijk verblijft op een (postcode)locatie als bedoeld in onderstaande tabel. **Overzicht postcodes waarvoor de beleidsregelwaarden zzp (artikel 13, eerste lid, onder b), dtv (artikel 14, eerste lid, onder b) en vpt (artikel 15, eerste lid, onder b) van toepassing zijn. Dit zijn de beleidsregelwaarden inclusief de component nbf.**
 
@@ -441,7 +441,7 @@ De NZa stelt de navolgende prestatiebeschrijvingen vast. Deze prestaties zijn al
 
 2 Overige vervoermiddelen die als vervoermiddel zijn bedoeld (bijv. fiets, OV, elektrokar).
 
-Hoe het declareren van vervoer in zijn werk gaat in geval van deeltijdverblijf staat beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=12&z=2026-03-25&g=2026-01-01).
+Hoe het declareren van vervoer in zijn werk gaat in geval van deeltijdverblijf staat beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=12&z=2026-03-25&g=2026-03-25).
 
 | **Beveiligde zorg LZ niveau 2 (Z1007)** |
 | --- |
@@ -491,7 +491,7 @@ Om voor extra bekostiging bovenop de zzp in aanmerking te komen gelden de volgen
 
 - –. De toeslag, met uitzondering van de prestatiecodes Z913, Z914, Z915, Z919 en Z981 en V913, V914, V915, V919 en V981, mag per cliënt per dag eenmaal worden gedeclareerd. Het aantal afgesproken dagen per toeslag is niet groter dan het aantal afgesproken vpt- of zzp-dagen voor die cliënt. De toeslagen met prestatiecodes Z913, Z914, Z915 en Z919 en V913, V914, V915 en V919 mogen per cliënt tweemaal per dag gedeclareerd worden.
 
-- –. In de Tabel combinaties toeslagen is weergegeven welke toeslagen wel en niet in combinatie met elkaar gedeclareerd kunnen worden. De tabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-01-01). Deze bijlage maakt onlosmakelijk deel uit van deze beleidsregel.
+- –. In de Tabel combinaties toeslagen is weergegeven welke toeslagen wel en niet in combinatie met elkaar gedeclareerd kunnen worden. De tabel is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-03-25). Deze bijlage maakt onlosmakelijk deel uit van deze beleidsregel.
 
 | Huntington (Z920) of (V920) |
 | --- |
@@ -533,13 +533,13 @@ Om voor extra bekostiging bovenop de zzp in aanmerking te komen gelden de volgen
 | --- |
 | **Doel:** Doel is om gespecialiseerde epilepsiezorg te bieden aan cliënten met een (vooralsnog) niet (goed) behandelbare epilepsie en daarmee samenhangende problematiek. |
 | **Grondslag en doelgroep:** Zzp vg-3 tot en met vg-5, ggz-3b tot en met ggz-7b, zzp ggz wonen 1 tot en met ggz wonen 5. |
-| **Voorwaarden:** – De cliënt is geïndiceerd voor vg-3, vg-4, vg-5, ggz-3b, ggz-4b, ggz-5b, ggz-6b, ggz-7b, ggz wonen-1, ggz wonen-2, ggz wonen-3, ggz wonen-4, ggz wonen-5 of er is sprake van crisiszorg zoals omschreven in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01). – De zorg wordt geboden door een zorgaanbieder toegelaten voor behandeling. – Een mix van pv, vp, bg of bh wordt geleverd, het totaal van de mix is gemiddeld 5,5 uur per week. – De toeslag is bedoeld voor cliënten die gespecialiseerde epilepsiezorg ontvangen die voldoet aan een aantal criteria: – De primaire zorg wordt te allen tijde geleverd door deskundig personeel op het gebied van epilepsie en vaak voorkomende co-morbiditeit, reanimatie en voorbehouden handelingen. – De verschillende sectoren als wonen, school en dagbesteding werken nauw samen zodat de zorgcomponent binnen deze disciplines geïntegreerd geleverd wordt. – De zorg wordt geleverd in een veilige en passende woonomgeving voor de cliënt respectievelijk werkomgeving voor de zorgverlening. – De zorg is een integraal pakket, inclusief diagnostiek én behandeling inzake gespecialiseerde epilepsiezorg en inclusief aandacht voor de sociale en maatschappelijke participatie door de cliënt, voor zover de beperkingen dat toelaten. – De zorg wordt geleverd door een zorgaanbieder die het volledige spectrum aan epilepsiezorg op een voldoende kwalitatief niveau kan bieden. – De zorg wordt multidisciplinair benaderd, waarbij aan iedere cliënt een kernteam is gekoppeld. De zorgverleners in het kernteam zijn gespecialiseerd op in ieder geval de volgende gebieden: generalistische basiszorg, neurologie en gedragswetenschappen. Daarnaast is er een op epilepsiegebied gespecialiseerde deskundigheidsniveau op de volgende gebieden (neuro)psychologie, diëtiek, farmaceutische zorg, verpleegkunde, fysiotherapie, logopedie en ergotherapie. – Als aanvulling op de multidisciplinaire zorg kan de zorgaanbieder vaste specialisten consulteren die kennis hebben van de invloed van epilepsie op hun specialisme. Te denken valt aan psychiatrie, urologie et cetera. – De zorg wordt geleverd door een zorgaanbieder die geïntegreerde samenwerking heeft met een ziekenhuis met een epilepsie observatie unit ter borging van: – 7x24 uur beschikbaarheid van neurologie en gedragswetenschappen; – dienstverlening inzake diagnostiek en farmaceutische zorgverlening. |
+| **Voorwaarden:** – De cliënt is geïndiceerd voor vg-3, vg-4, vg-5, ggz-3b, ggz-4b, ggz-5b, ggz-6b, ggz-7b, ggz wonen-1, ggz wonen-2, ggz wonen-3, ggz wonen-4, ggz wonen-5 of er is sprake van crisiszorg zoals omschreven in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25). – De zorg wordt geboden door een zorgaanbieder toegelaten voor behandeling. – Een mix van pv, vp, bg of bh wordt geleverd, het totaal van de mix is gemiddeld 5,5 uur per week. – De toeslag is bedoeld voor cliënten die gespecialiseerde epilepsiezorg ontvangen die voldoet aan een aantal criteria: – De primaire zorg wordt te allen tijde geleverd door deskundig personeel op het gebied van epilepsie en vaak voorkomende co-morbiditeit, reanimatie en voorbehouden handelingen. – De verschillende sectoren als wonen, school en dagbesteding werken nauw samen zodat de zorgcomponent binnen deze disciplines geïntegreerd geleverd wordt. – De zorg wordt geleverd in een veilige en passende woonomgeving voor de cliënt respectievelijk werkomgeving voor de zorgverlening. – De zorg is een integraal pakket, inclusief diagnostiek én behandeling inzake gespecialiseerde epilepsiezorg en inclusief aandacht voor de sociale en maatschappelijke participatie door de cliënt, voor zover de beperkingen dat toelaten. – De zorg wordt geleverd door een zorgaanbieder die het volledige spectrum aan epilepsiezorg op een voldoende kwalitatief niveau kan bieden. – De zorg wordt multidisciplinair benaderd, waarbij aan iedere cliënt een kernteam is gekoppeld. De zorgverleners in het kernteam zijn gespecialiseerd op in ieder geval de volgende gebieden: generalistische basiszorg, neurologie en gedragswetenschappen. Daarnaast is er een op epilepsiegebied gespecialiseerde deskundigheidsniveau op de volgende gebieden (neuro)psychologie, diëtiek, farmaceutische zorg, verpleegkunde, fysiotherapie, logopedie en ergotherapie. – Als aanvulling op de multidisciplinaire zorg kan de zorgaanbieder vaste specialisten consulteren die kennis hebben van de invloed van epilepsie op hun specialisme. Te denken valt aan psychiatrie, urologie et cetera. – De zorg wordt geleverd door een zorgaanbieder die geïntegreerde samenwerking heeft met een ziekenhuis met een epilepsie observatie unit ter borging van: – 7x24 uur beschikbaarheid van neurologie en gedragswetenschappen; – dienstverlening inzake diagnostiek en farmaceutische zorgverlening. |
 
 | Gespecialiseerde epilepsiezorg hoog (Z977) of (V977) |
 | --- |
 | **Doel:** Doel is om gespecialiseerde epilepsiezorg te bieden aan cliënten met een (vooralsnog) niet (goed) behandelbare epilepsie en daarmee samenhangende problematiek. |
 | **Grondslag en doelgroep:** Zzp vg-6 tot en met vg-8, vv-1 tot en met vv-10, lg-1 tot en met lg-7, zzp zg-vis-1, zg-vis-2 tot en met zg-vis-5, zg-aud 1 tot en met zg-aud-4 en crisiszorg. |
-| **Voorwaarden:** – De cliënt is geïndiceerd voor vg-6, vg-7, vg-8, vv-1, vv-2, vv-3, vv-4, vv-5, vv-6, vv-7, vv-8, vv-9b, lg-1, lg-2, lg-3, lg-4, lg-5, lg-6, lg-7, zg-vis-1, zg-vis-2, zg-vis-3, zg-vis-4, zg-vis-5, zg-aud-1, zg-aud-2, zg-aud-3 of zg-aud-4 of er is sprake van de levering van de prestatie crisiszorg zoals omschreven in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-01-01). – De zorg wordt geboden door een zorgaanbieder toegelaten voor behandeling. – Een mix van pv, vp, bg of bh wordt geleverd, het totaal van de mix is gemiddeld 9 uur per week. – De toeslag is bedoeld voor cliënten die gespecialiseerde epilepsiezorg ontvangen die voldoet aan een aantal criteria: – De primaire zorg wordt te allen tijde geleverd door deskundig personeel op het gebied van epilepsie en vaak voorkomende co-morbiditeit, reanimatie en voorbehouden handelingen. – De verschillende sectoren als wonen, school en dagbesteding werken nauw samen zodat de zorgcomponent binnen deze disciplines geïntegreerd geleverd wordt. – De zorg wordt geleverd in een veilige en passende woonomgeving voor de cliënt respectievelijk werkomgeving voor de zorgverlening. – De zorg is een integraal pakket, inclusief diagnostiek én behandeling inzake gespecialiseerde epilepsiezorg en inclusief aandacht voor de sociale en maatschappelijke participatie door de cliënt, voor zover de beperkingen dat toelaten. – De zorg wordt geleverd door een zorgaanbieder die het volledige spectrum aan epilepsiezorg op een voldoende kwalitatief niveau kan bieden. – De zorg wordt multidisciplinair benaderd, waarbij aan iedere cliënt een kernteam is gekoppeld. De zorgverleners in het kernteam zijn gespecialiseerd op in ieder geval de volgende gebieden: generalistische basiszorg, neurologie en gedragswetenschappen. Daarnaast is er een op epilepsiegebied gespecialiseerde deskundigheidsniveau op de volgende gebieden (neuro)psychologie, diëtiek, farmaceutische zorg, verpleegkunde, fysiotherapie, logopedie en ergotherapie. – Als aanvulling op de multidisciplinaire zorg kan de zorgaanbieder vaste specialisten consulteren die kennis hebben van de invloed van epilepsie op hun specialisme. Te denken valt aan psychiatrie, urologie et cetera. – De zorg wordt geleverd door een zorgaanbieder die geïntegreerde samenwerking heeft met een ziekenhuis met een epilepsie observatie unit ter borging van: – 7x24 uur beschikbaarheid van neurologie en gedragswetenschappen; – dienstverlening inzake diagnostiek en farmaceutische zorgverlening. |
+| **Voorwaarden:** – De cliënt is geïndiceerd voor vg-6, vg-7, vg-8, vv-1, vv-2, vv-3, vv-4, vv-5, vv-6, vv-7, vv-8, vv-9b, lg-1, lg-2, lg-3, lg-4, lg-5, lg-6, lg-7, zg-vis-1, zg-vis-2, zg-vis-3, zg-vis-4, zg-vis-5, zg-aud-1, zg-aud-2, zg-aud-3 of zg-aud-4 of er is sprake van de levering van de prestatie crisiszorg zoals omschreven in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25). – De zorg wordt geboden door een zorgaanbieder toegelaten voor behandeling. – Een mix van pv, vp, bg of bh wordt geleverd, het totaal van de mix is gemiddeld 9 uur per week. – De toeslag is bedoeld voor cliënten die gespecialiseerde epilepsiezorg ontvangen die voldoet aan een aantal criteria: – De primaire zorg wordt te allen tijde geleverd door deskundig personeel op het gebied van epilepsie en vaak voorkomende co-morbiditeit, reanimatie en voorbehouden handelingen. – De verschillende sectoren als wonen, school en dagbesteding werken nauw samen zodat de zorgcomponent binnen deze disciplines geïntegreerd geleverd wordt. – De zorg wordt geleverd in een veilige en passende woonomgeving voor de cliënt respectievelijk werkomgeving voor de zorgverlening. – De zorg is een integraal pakket, inclusief diagnostiek én behandeling inzake gespecialiseerde epilepsiezorg en inclusief aandacht voor de sociale en maatschappelijke participatie door de cliënt, voor zover de beperkingen dat toelaten. – De zorg wordt geleverd door een zorgaanbieder die het volledige spectrum aan epilepsiezorg op een voldoende kwalitatief niveau kan bieden. – De zorg wordt multidisciplinair benaderd, waarbij aan iedere cliënt een kernteam is gekoppeld. De zorgverleners in het kernteam zijn gespecialiseerd op in ieder geval de volgende gebieden: generalistische basiszorg, neurologie en gedragswetenschappen. Daarnaast is er een op epilepsiegebied gespecialiseerde deskundigheidsniveau op de volgende gebieden (neuro)psychologie, diëtiek, farmaceutische zorg, verpleegkunde, fysiotherapie, logopedie en ergotherapie. – Als aanvulling op de multidisciplinaire zorg kan de zorgaanbieder vaste specialisten consulteren die kennis hebben van de invloed van epilepsie op hun specialisme. Te denken valt aan psychiatrie, urologie et cetera. – De zorg wordt geleverd door een zorgaanbieder die geïntegreerde samenwerking heeft met een ziekenhuis met een epilepsie observatie unit ter borging van: – 7x24 uur beschikbaarheid van neurologie en gedragswetenschappen; – dienstverlening inzake diagnostiek en farmaceutische zorgverlening. |
 
 | Niet strafrechtelijke forensische psychiatrie (Z922) |
 | --- |
@@ -608,9 +608,9 @@ Om voor extra bekostiging bovenop de zzp in aanmerking te komen gelden de volgen
 
 ##### Artikel 9. Aan- en afwezigheid
 
-Voor de bekostiging van de prestaties zzp, verblijfscomponent-niet geïndiceerde partner, crisiszorg vv en lvg, crisiszorg ghz, logeren, logeren zevmb, kib en alle toeslagen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-01-01), vallende onder deze beleidsregel geldt als voorwaarde dat de cliënt aanwezig is in de instelling.
+Voor de bekostiging van de prestaties zzp, verblijfscomponent-niet geïndiceerde partner, crisiszorg vv en lvg, crisiszorg ghz, logeren, logeren zevmb, kib en alle toeslagen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-03-25), vallende onder deze beleidsregel geldt als voorwaarde dat de cliënt aanwezig is in de instelling.
 
-In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), geldt voor afwezigheid het volgende:
+In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), geldt voor afwezigheid het volgende:
 
 Voor cliënten waarvoor een zzp-prestatie wordt afgenomen, komen de volgende dagen in aanmerking voor bekostiging ter hoogte van het afgesproken tarief met ingang van de eerste volledige dag van afwezigheid van de cliënt:
 
@@ -632,9 +632,9 @@ Voor cliënten waarvoor een zzp-prestatie wordt afgenomen, komen de volgende dag
 
 - d). De maximaal twee aaneengesloten dagen dat een cliënt afwezig is in een periode van zeven dagen (maandag tot en met zondag), voorheen weekendverlof.
 
-De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), genoemde uitzonderingen hebben geen betrekking op de toeslagen die zijn vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-01-01), met uitzondering van de toeslagen woonzorg ghz (Z978, Z979 en Z980) en de toeslag gespecialiseerde epilepsiezorg laag (Z975).
+De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), genoemde uitzonderingen hebben geen betrekking op de toeslagen die zijn vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-03-25), met uitzondering van de toeslagen woonzorg ghz (Z978, Z979 en Z980) en de toeslag gespecialiseerde epilepsiezorg laag (Z975).
 
-De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), genoemde uitzonderingen hebben ook geen betrekking op:
+De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), genoemde uitzonderingen hebben ook geen betrekking op:
 
 - –. afzonderlijk afgesproken dagbesteding;
 
@@ -644,7 +644,7 @@ De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&ar
 
 Voor de bekostiging van de prestaties vpt, dagbesteding, behandeling en alle toeslagen als genoemd in deze beleidsregel geldt als voorwaarde dat de prestatie daadwerkelijk geleverd is. Dit houdt in dat afwezigheid niet wordt bekostigd. Onder afwezigheid wordt verstaan dat de cliënt niet verblijft op zijn/haar woonadres.
 
-In afwijking van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), geldt voor afwezigheid het volgende:
+In afwijking van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), geldt voor afwezigheid het volgende:
 
 Voor cliënten waarvoor een vpt wordt afgenomen of die als leveringsvorm hebben gekozen voor een vpt-prestatie komen de volgende dagen in aanmerking voor bekostiging ter hoogte van het afgesproken vpt-tarief met ingang van de eerste volledige dag van afwezigheid van de cliënt:
 
@@ -660,7 +660,7 @@ Voor cliënten waarvoor een vpt wordt afgenomen of die als leveringsvorm hebben 
 
 - –. Medisch specialistische zorg.
 
-- 2. De dagen dat een cliënt tijdelijk afwezig is door vakantie, tijdelijk verblijf bij familie, logeren in verband met het ontlasten van de mantelzorger3Zoals genoemd in de Wet langdurige zorg artikel 3.1.1., eerste lid, onderdeel g., of detentie. De dagen worden alleen bekostigd indien de cliënt voorafgaand aan de afwezigheidsperiode reeds 14 dagen zijn vpt-dagen ontving. Per kalenderjaar kunnen niet meer dan 42 afwezigheidsdagen als gevolg van bovengenoemde worden bekostigd, met uitzondering van verblijf bij familie in de weekenden. De in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), genoemde uitzonderingen hebben geen betrekking op de toeslagen die zijn vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-01-01), met uitzondering van de toeslagen woonzorg ghz (V978, V979 en V980) en de toeslag gespecialiseerde epilepsiezorg laag (V975). De in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), genoemde uitzonderingen hebben ook geen betrekking op:
+- 2. De dagen dat een cliënt tijdelijk afwezig is door vakantie, tijdelijk verblijf bij familie, logeren in verband met het ontlasten van de mantelzorger3Zoals genoemd in de Wet langdurige zorg artikel 3.1.1., eerste lid, onderdeel g., of detentie. De dagen worden alleen bekostigd indien de cliënt voorafgaand aan de afwezigheidsperiode reeds 14 dagen zijn vpt-dagen ontving. Per kalenderjaar kunnen niet meer dan 42 afwezigheidsdagen als gevolg van bovengenoemde worden bekostigd, met uitzondering van verblijf bij familie in de weekenden. De in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), genoemde uitzonderingen hebben geen betrekking op de toeslagen die zijn vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-03-25), met uitzondering van de toeslagen woonzorg ghz (V978, V979 en V980) en de toeslag gespecialiseerde epilepsiezorg laag (V975). De in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), genoemde uitzonderingen hebben ook geen betrekking op:
 
 - –. afzonderlijk afgesproken dagbesteding;
 
@@ -670,7 +670,7 @@ Voor cliënten waarvoor een vpt wordt afgenomen of die als leveringsvorm hebben 
 
 Voor de bekostiging van zorg via dtv vallende onder deze beleidsregel geldt als voorwaarde dat de cliënt aanwezig is in de instelling.
 
-In afwijking van [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), geldt voor afwezigheid het volgende:
+In afwijking van [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), geldt voor afwezigheid het volgende:
 
 Voor cliënten die in deeltijd verblijven, komen de volgende dagen in aanmerking voor bekostiging ter hoogte van het afgesproken tarief met ingang van de eerste volledige dag van afwezigheid van de cliënt:
 
@@ -694,7 +694,7 @@ Voor cliënten die in deeltijd verblijven, komen de volgende dagen in aanmerking
 
 - –. 4,5 dag 16 afwezigheidsdagen.
 
-- 3. De dagen dat een cliënt die als leerling voor dagonderwijs staat ingeschreven en dit onderwijs ook daadwerkelijk volgt, tijdelijk afwezig is door vakantie. De in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), genoemde uitzonderingen hebben geen betrekking op de toeslagen die zijn vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-01-01), met uitzondering van de toeslagen woonzorg ghz (Z978, Z979 en Z980) en de toeslag gespecialiseerde epilepsiezorg laag (Z975). De in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-01-01), genoemde uitzonderingen hebben ook geen betrekking op:
+- 3. De dagen dat een cliënt die als leerling voor dagonderwijs staat ingeschreven en dit onderwijs ook daadwerkelijk volgt, tijdelijk afwezig is door vakantie. De in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), genoemde uitzonderingen hebben geen betrekking op de toeslagen die zijn vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-03-25), met uitzondering van de toeslagen woonzorg ghz (Z978, Z979 en Z980) en de toeslag gespecialiseerde epilepsiezorg laag (Z975). De in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=9&z=2026-03-25&g=2026-03-25), genoemde uitzonderingen hebben ook geen betrekking op:
 
 - –. afzonderlijk afgesproken dagbesteding;
 
@@ -728,11 +728,11 @@ De onderbouwing van de extra zorginzet, de inschatting van de levensverwachting,
 
 2. Geen indicatiebesluit voor zorgprofiel ‘Beschermd verblijf met intensieve palliatief-terminale zorg’
 
-Het CIZ indiceert met ingang van 1-1-2018 niet meer voor bovengenoemd zorgprofiel. Wanneer in een beleidsregel of nadere regel gesproken wordt over ‘geïndiceerd voor’, ‘aangewezen op’ of ‘indicatiebesluit’ wordt hiermee tevens bedoeld de cliënt waarvoor vpt of zzp vv-10 in rekening wordt gebracht en voldoet aan de voorwaarden die gesteld worden in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=11&z=2026-03-25&g=2026-01-01).
+Het CIZ indiceert met ingang van 1-1-2018 niet meer voor bovengenoemd zorgprofiel. Wanneer in een beleidsregel of nadere regel gesproken wordt over ‘geïndiceerd voor’, ‘aangewezen op’ of ‘indicatiebesluit’ wordt hiermee tevens bedoeld de cliënt waarvoor vpt of zzp vv-10 in rekening wordt gebracht en voldoet aan de voorwaarden die gesteld worden in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=11&z=2026-03-25&g=2026-03-25).
 
 3. Palliatief terminale zorg voor Wlz-cliënten met een zorgprofiel gehandicaptenzorg (ghz) of geestelijke gezondheidszorg (ggz)
 
-Wlz-cliënten met een zorgprofiel gehandicaptenzorg (ghz) of geestelijke gezondheidszorg (ggz) die terminale zorg behoeven, hebben toegang tot de prestatie vpt of zzp vv-10 wanneer de dominante grondslag een somatische en/of psychogeriatrische ziekte/aandoening wordt en wanneer zij voldoen aan de gestelde voorwaarden in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=11&z=2026-03-25&g=2026-01-01).
+Wlz-cliënten met een zorgprofiel gehandicaptenzorg (ghz) of geestelijke gezondheidszorg (ggz) die terminale zorg behoeven, hebben toegang tot de prestatie vpt of zzp vv-10 wanneer de dominante grondslag een somatische en/of psychogeriatrische ziekte/aandoening wordt en wanneer zij voldoen aan de gestelde voorwaarden in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=11&z=2026-03-25&g=2026-03-25).
 
 ##### Artikel 12. Deeltijdverblijf (dtv)
 
@@ -772,7 +772,7 @@ Het bekostigen van dagbesteding en vervoer in geval van dtv gaat via de volgende
 
 ##### Artikel 13. Zzp-beleidsregelwaarden
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=2026-03-25&g=2026-01-01) beschreven beleidsregelwaarden voor tariefvaststelling zijn:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=2026-03-25&g=2026-03-25) beschreven beleidsregelwaarden voor tariefvaststelling zijn:
 
 | zzp | incl. dagbesteding | incl. dagbesteding |
 | --- | --- | --- |
@@ -1172,7 +1172,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=20
 
 ##### Artikel 15. Vpt-beleidsregelwaarden
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=2026-03-25&g=2026-01-01) beschreven beleidsregelwaarden voor tariefvaststelling zijn:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=2026-03-25&g=2026-03-25) beschreven beleidsregelwaarden voor tariefvaststelling zijn:
 
 | vpt-zzp | incl. dagbesteding | incl. dagbesteding |
 | --- | --- | --- |
@@ -1429,11 +1429,11 @@ Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsrege
 
 De [Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050109), met kenmerk BR/REG-25131a, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-[Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=1&z=2026-03-25&g=2026-01-01),[2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=3&z=2026-03-25&g=2026-01-01) maken deel uit van deze beleidsregel.
+[Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=1&z=2026-03-25&g=2026-03-25),[2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-03-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=3&z=2026-03-25&g=2026-03-25) maken deel uit van deze beleidsregel.
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel, ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst, met uitzondering van de [bijlagen Prestatiebeschrijving zzp-vv10](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=1&z=2026-03-25&g=2026-01-01), [Tabel combinaties toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-01-01) en [Onderbouwing beleidsregelwaarde per prestatie](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=3&z=2026-03-25&g=2026-01-01), die uitsluitend ter inzage worden gelegd bij de NZa en te raadplegen zijn op [www.nza.nl](http://www.nza.nl), en werkt terug tot en met 1 januari 2026.
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel, ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst, met uitzondering van de [bijlagen Prestatiebeschrijving zzp-vv10](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=1&z=2026-03-25&g=2026-03-25), [Tabel combinaties toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-03-25) en [Onderbouwing beleidsregelwaarde per prestatie](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=3&z=2026-03-25&g=2026-03-25), die uitsluitend ter inzage worden gelegd bij de NZa en te raadplegen zijn op [www.nza.nl](http://www.nza.nl), en werkt terug tot en met 1 januari 2026.
 
-De beleidsregel en alle [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=1&z=2026-03-25&g=2026-01-01) liggen ter inzage bij de NZa en zijn te raadplegen op [www.nza.nl](http://www.nza.nl/).
+De beleidsregel en alle [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=1&z=2026-03-25&g=2026-03-25) liggen ter inzage bij de NZa en zijn te raadplegen op [www.nza.nl](http://www.nza.nl/).
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2026.
 
