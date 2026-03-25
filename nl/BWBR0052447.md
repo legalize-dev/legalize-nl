@@ -4,7 +4,7 @@ identifier: "BWBR0052447"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-25"
-last_updated: "2026-01-01"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052447"
 soort: "zbo"
@@ -97,13 +97,13 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - –. werkoverleg.
 
-- **uur directe zorgverlening voor uitsluitend de prestaties verpleging en persoonlijke verzorging:** voorbeelden van activiteiten die onder directe zorgverlening voor de prestaties verpleging en persoonlijke verzorging, zoals omschreven in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-01-01) en 8.4 van deze beleidsregel, kunnen vallen zijn: Ook wanneer een cliënt nog ergens anders verblijft dan thuis (bijvoorbeeld in een ziekenhuis, geriatrische revalidatiezorg, hospice) kan verpleging en verzorging worden verleend zolang er sprake is van directe zorgverlening. Hieronder wordt begrepen coördinatie en (warme) overdracht bij ontslag van de cliënt terwijl de cliënt dus nog ergens anders verblijft. Wat voorkomen dient te worden is dubbele bekostiging. Reguliere verpleging gedurende verblijf valt onder de bekostiging voor verblijf.
+- **uur directe zorgverlening voor uitsluitend de prestaties verpleging en persoonlijke verzorging:** voorbeelden van activiteiten die onder directe zorgverlening voor de prestaties verpleging en persoonlijke verzorging, zoals omschreven in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25) en 8.4 van deze beleidsregel, kunnen vallen zijn: Ook wanneer een cliënt nog ergens anders verblijft dan thuis (bijvoorbeeld in een ziekenhuis, geriatrische revalidatiezorg, hospice) kan verpleging en verzorging worden verleend zolang er sprake is van directe zorgverlening. Hieronder wordt begrepen coördinatie en (warme) overdracht bij ontslag van de cliënt terwijl de cliënt dus nog ergens anders verblijft. Wat voorkomen dient te worden is dubbele bekostiging. Reguliere verpleging gedurende verblijf valt onder de bekostiging voor verblijf.
 
 - –. Het opstellen en aanpassen van het zorgplan;
 
 - –. Bijwerken voortgangsrapportage.
 
-- **verplaatste directe contacttijd:** uitsluitend voor de prestaties verpleging en persoonlijke verzorging, zoals omschreven in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-01-01) en 8.4 van deze beleidsregel, geldt dat het mogelijk is om verplaatste directe contacttijd te declareren. Directe contacttijd kan, maar hoeft niet plaats te vinden in de thuissituatie/werksituatie. Indien directe contacttijd om efficiëntieredenen of om te voorkomen dat de zorgaanbieder te laat komt bij de volgende cliënt wordt verplaatst naar kantoor of een andere locatie spreken we over verplaatste directe contacttijd. Regelmatig komt het voor dat deze werkzaamheden als 'huiswerk' op de route worden verzameld en (een deel hiervan) na afloop van de route moeten gebeuren.
+- **verplaatste directe contacttijd:** uitsluitend voor de prestaties verpleging en persoonlijke verzorging, zoals omschreven in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25) en 8.4 van deze beleidsregel, geldt dat het mogelijk is om verplaatste directe contacttijd te declareren. Directe contacttijd kan, maar hoeft niet plaats te vinden in de thuissituatie/werksituatie. Indien directe contacttijd om efficiëntieredenen of om te voorkomen dat de zorgaanbieder te laat komt bij de volgende cliënt wordt verplaatst naar kantoor of een andere locatie spreken we over verplaatste directe contacttijd. Regelmatig komt het voor dat deze werkzaamheden als 'huiswerk' op de route worden verzameld en (een deel hiervan) na afloop van de route moeten gebeuren.
 
 - **levensloopaanbieder:** zorgaanbieder die zorg levert in het kader Ketenveldnorm levensloopfunctie en beveiligde intensieve zorg. De levensloopaanbieder geeft de levensloopaanpak vorm in een of meer aparte levensloopteams of koppelt de levensloopaanpak aan een (forensisch) FACT team waar ook kennis vanuit de gehandicaptensector en de verslavingszorgsector, het sociaal domein en het veiligheidsdomein aan wordt toegevoegd.
 
@@ -123,13 +123,13 @@ Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of k
 
 De loon- en materiële kosten van de beleidsregelwaarden bevatten de definitieve percentages 2025 en de voorschotpercentages 2026.
 
-Indien binnen de beleidsregelwaarde een nhc is opgenomen (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-01-01)), dan bevat de nhc de jaarlijkse index van 2,5%.
+Indien binnen de beleidsregelwaarde een nhc is opgenomen (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-03-25)), dan bevat de nhc de jaarlijkse index van 2,5%.
 
 ##### Artikel 5. Beleidsregelwaarden voor tariefvaststelling en overige onderwerpen
 
-Voor zover de aanvaardbare kosten bestaan uit modulair geboden zorg, dan worden die bepaald door de gehonoreerde productieafspraak met betrekking tot de prestaties en beleidsregelwaarden zoals vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-01-01) van deze beleidsregel.
+Voor zover de aanvaardbare kosten bestaan uit modulair geboden zorg, dan worden die bepaald door de gehonoreerde productieafspraak met betrekking tot de prestaties en beleidsregelwaarden zoals vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25) van deze beleidsregel.
 
-De NZa stelt de tarieven in een tariefbeschikking vast op de bedragen zoals vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-01-01).
+De NZa stelt de tarieven in een tariefbeschikking vast op de bedragen zoals vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25).
 
 De tarieven die de NZa vaststelt op basis van deze beleidsregel zijn maximumtarieven. Een maximumtarief is een tarief dat ten hoogste in rekening mag worden gebracht. Bij het maken van productieafspraken kunnen veldpartijen lagere tarieven afspreken.
 
@@ -159,15 +159,15 @@ Dagbesteding (begeleiding in groepsverband) en dagbehandeling voor kinderen kan 
 
 Een cliënt heeft op grond van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) aanspraak op vervoer naar en van de dagbesteding/dagbehandeling wanneer deze cliënt hier redelijkerwijs op is aangewezen. In dat geval kan per aanwezigheidsdag waarop vervoer naar dagbesteding (begeleiding in groepsverband)/dagbehandeling plaatsvindt een vergoeding voor vervoer worden afgesproken. Deze vergoeding per dag is voor het vervoer naar en van de locatie waar de dagbesteding of dagbehandeling wordt aangeboden.
 
-De prestatiebeschrijving vervoer is opgenomen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-01-01).
+De prestatiebeschrijving vervoer is opgenomen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-03-25).
 
-Het gecontracteerde vervoer betreft het vervoer dat wordt geleverd door een professionele vervoerder (taxi-vervoer) waarmee de zorgaanbieder een contract heeft afgesloten. Het niet-gecontracteerde vervoer betreft alle overige vormen van vervoer, waaronder vervoer met vervoersmiddelen die eigendom zijn van de zorgaanbieder of een aan de zorgaanbieder gelieerde onderneming. De vervoersprestaties zijn opgenomen in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-01-01).
+Het gecontracteerde vervoer betreft het vervoer dat wordt geleverd door een professionele vervoerder (taxi-vervoer) waarmee de zorgaanbieder een contract heeft afgesloten. Het niet-gecontracteerde vervoer betreft alle overige vormen van vervoer, waaronder vervoer met vervoersmiddelen die eigendom zijn van de zorgaanbieder of een aan de zorgaanbieder gelieerde onderneming. De vervoersprestaties zijn opgenomen in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25).
 
-De vervoersprestaties voor cliënten in de ghz zijn gebaseerd op een aantal cliëntkenmerken (het onderscheid tussen individueel vervoer en vervoer in groep, kind en volwassene, rolstoelgebonden en niet-rolstoelgebonden cliënten) en een aantal vervoerskenmerken (gecontracteerd vervoer, eigen vervoermiddel zorgaanbieder/ouder/vrijwilliger, eigen vervoermiddel cliënt, openbaar vervoer). Daarnaast is in de prestatie-indeling rekening gehouden met de postcode-afstand tussen de verblijfplaats van de cliënt en de plek waar de cliënt de dagbesteding ontvangt. De tabel bij de prestatiebeschrijving in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-01-01) geeft aan in welke prestatiecategorie een cliënt valt. Zorgaanbieders maken voor het declareren van vervoer naar en van de dagbesteding in de gehandicaptenzorg gebruik van de Tabel prestatiecategorieën vervoer dagbesteding/dagbehandeling ghz conform de prestatiebeschrijving in artikel 7 van deze beleidsregel. Afhankelijk van de cliënt- en vervoerskenmerken valt het vervoer van een cliënt in een van de categorieën C0 tot en met C6.
+De vervoersprestaties voor cliënten in de ghz zijn gebaseerd op een aantal cliëntkenmerken (het onderscheid tussen individueel vervoer en vervoer in groep, kind en volwassene, rolstoelgebonden en niet-rolstoelgebonden cliënten) en een aantal vervoerskenmerken (gecontracteerd vervoer, eigen vervoermiddel zorgaanbieder/ouder/vrijwilliger, eigen vervoermiddel cliënt, openbaar vervoer). Daarnaast is in de prestatie-indeling rekening gehouden met de postcode-afstand tussen de verblijfplaats van de cliënt en de plek waar de cliënt de dagbesteding ontvangt. De tabel bij de prestatiebeschrijving in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-03-25) geeft aan in welke prestatiecategorie een cliënt valt. Zorgaanbieders maken voor het declareren van vervoer naar en van de dagbesteding in de gehandicaptenzorg gebruik van de Tabel prestatiecategorieën vervoer dagbesteding/dagbehandeling ghz conform de prestatiebeschrijving in artikel 7 van deze beleidsregel. Afhankelijk van de cliënt- en vervoerskenmerken valt het vervoer van een cliënt in een van de categorieën C0 tot en met C6.
 
 Zorgaanbieders in de gehandicaptenzorg en zorgkantoor hebben de mogelijkheid om in individuele gevallen af te wijken van de van toepassing zijnde categorie. Dit kan om twee redenen:
 
-- 1. Maatwerk De huidige indeling in zeven prestatiecategorieën sluit aan bij de huidige praktijk. Er kunnen echter situaties zijn dat het tarief voor de toepasbare categorie te hoog of te laag is. Indien er een structurele noodzaak is, kunnen zorgaanbieder en zorgkantoor in gezamenlijk overleg afwijken van de vastgestelde categorie-indeling zoals in de tabel in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-01-01) staat weergegeven. Met deze vrijheid om in afstemming met het zorgkantoor cliënten in een andere categorie te plaatsen, kan de vergoeding nog beter aansluiten bij de situatie van individuele zorgaanbieders. Een overeengekomen afwijking moet beargumenteerd worden vastgelegd.
+- 1. Maatwerk De huidige indeling in zeven prestatiecategorieën sluit aan bij de huidige praktijk. Er kunnen echter situaties zijn dat het tarief voor de toepasbare categorie te hoog of te laag is. Indien er een structurele noodzaak is, kunnen zorgaanbieder en zorgkantoor in gezamenlijk overleg afwijken van de vastgestelde categorie-indeling zoals in de tabel in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-03-25) staat weergegeven. Met deze vrijheid om in afstemming met het zorgkantoor cliënten in een andere categorie te plaatsen, kan de vergoeding nog beter aansluiten bij de situatie van individuele zorgaanbieders. Een overeengekomen afwijking moet beargumenteerd worden vastgelegd.
 
 - 2. Minder administratie bij wisselende afstanden of vervoermiddelen Om tegemoet te komen aan zorgaanbieders die administratieve last ervaren bij wisselende vervoersafstanden of wisselend gebruik van verschillende vervoermiddelen, kunnen zorgaanbieders de volgende werkwijze hanteren: Een zorgaanbieder moet het wel vastleggen wanneer hij deze werkwijze hanteert.
 
@@ -175,9 +175,9 @@ Zorgaanbieders in de gehandicaptenzorg en zorgkantoor hebben de mogelijkheid om 
 
 - ○. bij wisselende manieren van vervoer als uitgangspunt voor declaratie de wijze van vervoer te nemen zoals cliënt in de meeste gevallen reist, in plaats van de wijze van vervoer steeds in de administratie te moeten aanpassen.
 
-Voor het vervoer van cliënten in de sector vv wordt aangesloten bij de tabel in de prestatiebeschrijving in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-01-01) van deze beleidsregel en bij de tabel in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-01-01). Er zijn aparte prestatiecodes voor vervoer in de vv, en de tabel wordt op een andere manier gehanteerd.
+Voor het vervoer van cliënten in de sector vv wordt aangesloten bij de tabel in de prestatiebeschrijving in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-03-25) van deze beleidsregel en bij de tabel in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25). Er zijn aparte prestatiecodes voor vervoer in de vv, en de tabel wordt op een andere manier gehanteerd.
 
-De vervoersprestaties voor cliënten ggz wonen sluiten aan bij de vervoersprestaties voor cliënten in de gehandicaptenzorg, zoals hierboven beschreven. Wel zijn er aparte prestatiecodes voor de vervoersprestaties voor cliënten ggz wonen. Op basis van de tabel Prestatiecategorieën vervoer dagbesteding/dagbehandeling ghz/ggz wonen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-01-01) kan ook voor de doelgroep ggz wonen bepaald worden in welke prestatiecategorie een cliënt valt.
+De vervoersprestaties voor cliënten ggz wonen sluiten aan bij de vervoersprestaties voor cliënten in de gehandicaptenzorg, zoals hierboven beschreven. Wel zijn er aparte prestatiecodes voor de vervoersprestaties voor cliënten ggz wonen. Op basis van de tabel Prestatiecategorieën vervoer dagbesteding/dagbehandeling ghz/ggz wonen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-03-25) kan ook voor de doelgroep ggz wonen bepaald worden in welke prestatiecategorie een cliënt valt.
 
 De prestaties en prestatiebeschrijvingen voor logeren zijn vermeld in de [Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis](https://wetten.overheid.nl/jci1.3:c:BWBR0051621).
 
@@ -187,7 +187,7 @@ Indien een cliënt geïndiceerd wordt voor een sglvg- of lvg-indicatie, maar er 
 
 ##### Artikel 7. Prestatiebeschrijvingen modulaire zorg
 
-De NZa stelt de navolgende prestatiebeschrijvingen vast. Deze prestaties zijn alleen van toepassing indien is voldaan aan de voorwaarden als weergegeven in de onderstaande overzichten. In [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-01-01) van deze beleidsregel staan de beleidsregelwaarden van deze prestaties vermeld.
+De NZa stelt de navolgende prestatiebeschrijvingen vast. Deze prestaties zijn alleen van toepassing indien is voldaan aan de voorwaarden als weergegeven in de onderstaande overzichten. In [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25) van deze beleidsregel staan de beleidsregelwaarden van deze prestaties vermeld.
 
 | Huishoudelijke hulp (H117) |
 | --- |
@@ -938,7 +938,7 @@ Niet gecontracteerd vervoer heeft betrekking op eigen vervoermiddelen en overige
 
 ##### Artikel 8. Prestatiebeschrijvingen en beleidsregelwaarden modulair pakket thuis
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=5&z=2026-03-25&g=2026-01-01) beschreven beleidsregelwaarden voor tariefvaststelling zijn hieronder beschreven. De prestatiebeschrijvingen van de in dit artikel vermelde prestaties zijn opgenomen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-01-01) van deze beleidsregel.
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=5&z=2026-03-25&g=2026-03-25) beschreven beleidsregelwaarden voor tariefvaststelling zijn hieronder beschreven. De prestatiebeschrijvingen van de in dit artikel vermelde prestaties zijn opgenomen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-03-25) van deze beleidsregel.
 
 | Prestatie | Prestatiecode | Br. Waarde per uur |
 | --- | --- | --- |
@@ -1122,11 +1122,11 @@ Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsrege
 
 De [Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050781), met kenmerk BR/REG-25130c, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-[Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-01-01) maakt deel uit van deze beleidsregel.
+[Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-03-25) maakt deel uit van deze beleidsregel.
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel, ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst, met uitzondering van de [bijlage Onderbouwing beleidsregelwaarde per prestatie](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-01-01), die uitsluitend ter inzage wordt gelegd bij de NZa en te raadplegen is op [www.nza.nl](http://www.nza.nl), en werkt terug tot en met 1 januari 2026.
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel, ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst, met uitzondering van de [bijlage Onderbouwing beleidsregelwaarde per prestatie](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-03-25), die uitsluitend ter inzage wordt gelegd bij de NZa en te raadplegen is op [www.nza.nl](http://www.nza.nl), en werkt terug tot en met 1 januari 2026.
 
-De beleidsregel en de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-01-01) liggen ter inzage bij de NZa en zijn te raadplegen op [www.nza.nl](http://www.nza.nl).
+De beleidsregel en de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-03-25) liggen ter inzage bij de NZa en zijn te raadplegen op [www.nza.nl](http://www.nza.nl).
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2026.
 
