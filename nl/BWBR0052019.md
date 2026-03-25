@@ -4,7 +4,7 @@ identifier: "BWBR0052019"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-25"
-last_updated: "2026-02-23"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052019"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken;
+- a. **minister:** Minister van Economische Zaken en Klimaat;
 
-- b. **secretaris-generaal:** secretaris-generaal van het Ministerie van Economische Zaken;
+- b. **secretaris-generaal:** secretaris-generaal van het Ministerie van Economische Zaken en Klimaat;
 
-- c. **plaatsvervangend secretaris-generaal:** plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken;
+- c. **plaatsvervangend secretaris-generaal:** plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat;
 
 - d. **hoofden van dienst:**
 
@@ -102,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De organisatie van het Ministerie van Economische Zaken wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
+De organisatie van het Ministerie van Economische Zaken en Klimaat wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
 
 ##### Artikel 3
 
@@ -144,7 +144,7 @@ Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking 
 
 - e. aangelegenheden op het gebied van personeel, financiën, organisatie en bedrijfsvoering, voor zover niet vallend onder het werkterrein van een hoofd van dienst;
 
-- f. het vaststellen van de formatie en personeelsbudgetten van het kerndepartement van het Ministerie van Economische Zaken;
+- f. het vaststellen van de formatie en personeelsbudgetten van het kerndepartement van het Ministerie van Economische Zaken en Klimaat;
 
 - g. het afnemen van de eed of de belofte bij de indiensttreding van een werknemer bij het kerndepartement, bedoeld in [artikel 5, eerste lid, onderdeel a, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5);
 
@@ -278,13 +278,13 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 
 - n. het inschrijven in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten van: en hun machtigingenbeheerders;
 
-- –. het kerndepartement, bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Economische Zaken;
+- –. het kerndepartement, bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat;
 
 - –. het Centraal Planbureau;
 
 - –. de Autoriteit Consument en Markt;
 
-- o. het verstrekken van ketenmachtigingen als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten door registratie in het machtigingenregister, op naam van het kerndepartement, en van de buitendiensten, bedoeld in paragraaf I, derde lid, van de Bijlage Organisatie van het Ministerie van Economische Zaken, aan agentschappen of aan publiekrechtelijke of privaatrechtelijke rechtspersonen;
+- o. het verstrekken van ketenmachtigingen als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten door registratie in het machtigingenregister, op naam van het kerndepartement, en van de buitendiensten, bedoeld in paragraaf I, derde lid, van de Bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat, aan agentschappen of aan publiekrechtelijke of privaatrechtelijke rechtspersonen;
 
 - p. het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van werknemers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, betreffende:
 
@@ -372,7 +372,7 @@ Mandaat, volmacht en machtiging worden uitgeoefend met inachtneming van:
 
 1. Het krachtens mandaat of machtiging ondertekenen van stukken geschiedt als volgt:
 
-De Minister van Economische Zaken,
+De Minister/Staatssecretaris van Economische Zaken,
 
 namens deze:
 
@@ -384,7 +384,7 @@ namens deze:
 
 2. Het krachtens mandaat of machtiging ondertekenen van automatisch gegenereerde stukken geschiedt als volgt:
 
-De Minister van Economische Zaken,
+De Minister/Staatssecretaris van Economische Zaken,
 
 namens deze:
 
@@ -394,11 +394,11 @@ namens deze:
 
 Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
-3. Bij ondertekening van stukken op grond van volmacht wordt de aanduiding van de minister voorafgegaan door: Namens de Staat der Nederlanden.
+3. Bij ondertekening van stukken op grond van volmacht wordt de aanduiding van de minister of staatssecretaris voorafgegaan door: Namens de Staat der Nederlanden.
 
 4. Het krachtens mandaat of machtiging ondertekenen van digitaal geaccordeerde stukken kan als volgt geschieden:
 
-De Minister van Economische Zaken,
+De Minister/Staatssecretaris van Economische Zaken,
 
 namens deze:
 
@@ -420,13 +420,13 @@ Dit bericht is digitaal geaccordeerd en bevat daarom geen handtekening.
 
 3. De secretaris-generaal kan voorts aan de plaatsvervangend secretaris-generaal ondermandaat, volmacht en machtiging verlenen voor de aangelegenheden op zijn werkterrein, waaronder voor P&O-aangelegenheden.
 
-4. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=4&z=2026-03-25&g=2026-02-23). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
+4. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=4&z=2026-03-25&g=2026-03-25). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
 
 5. De plaatsvervangend secretaris-generaal kan voor wat betreft de bevoegdheden verband houdend met de rol van CIO ondermandaat, volmacht en machtiging verlenen aan de uitvoerend CIO.
 
 ##### Artikel 14
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=6&z=2026-03-25&g=2026-02-23), en [7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=7&z=2026-03-25&g=2026-02-23), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=6&z=2026-03-25&g=2026-03-25), en [7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=7&z=2026-03-25&g=2026-03-25), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -460,7 +460,7 @@ Dit bericht is digitaal geaccordeerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=14&z=2026-03-25&g=2026-02-23) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-03-25&g=2026-02-23) wordt gezonden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=14&z=2026-03-25&g=2026-03-25) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-03-25&g=2026-03-25) wordt gezonden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -472,7 +472,7 @@ Dit bericht is digitaal geaccordeerd en bevat daarom geen handtekening.
 
 3. De uit dit besluit voor de hoofden van dienst voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
 
-4. De uit dit besluit voor de directeur Financieel-Economische Zaken voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de directeur Financieel-Economische Zaken van het Ministerie van Klimaat en Groene Groei, behalve waar het gaat over aangelegenheden met betrekking tot de begroting van het Ministerie van Economische Zaken. Voor die aangelegenheden wordt de directeur Financieel-Economische Zaken vervangen door het MT-lid Begrotingszaken EZ en Control (BEC).
+4. De uit dit besluit voor de directeur Financieel-Economische Zaken voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de directeur Financieel-Economische Zaken van het Ministerie van Klimaat en Groene Groei, behalve waar het gaat over aangelegenheden met betrekking tot de begroting van het Ministerie van Economische Zaken en Klimaat. Voor die aangelegenheden wordt de directeur Financieel-Economische Zaken vervangen door het MT-lid Begrotingszaken EZ en Control (BEC).
 
 #### § 6. Ondertekening bij afwezigheid minister
 
@@ -500,19 +500,19 @@ secretaris-generaal
 
 ##### Artikel 18
 
-1. De directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de bijlage, voor zover van toepassing, ook voor het Ministerie van Economische Zaken.
+1. De directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de bijlage, voor zover van toepassing, ook voor het Ministerie van Economische Zaken en Klimaat.
 
-2. De Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de bijlage, voor zover van toepassing, (ook) voor het Ministerie van Economische Zaken.
+2. De Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de bijlage, voor zover van toepassing, (ook) voor het Ministerie van Economische Zaken en Klimaat.
 
 #### § 7.2. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur, en aan de secretaris-generaal van het Ministerie van Klimaat en Groene Groei
 
 ##### Artikel 19
 
-Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur, en aan de secretaris-generaal van het Ministerie van Klimaat en Groene Groei wordt ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een werknemer bij het kerndepartement van het Ministerie van Economische Zaken, bedoeld in [artikel 5, eerste lid, onderdeel a, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5).
+Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur, en aan de secretaris-generaal van het Ministerie van Klimaat en Groene Groei wordt ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een werknemer bij het kerndepartement van het Ministerie van Economische Zaken en Klimaat, bedoeld in [artikel 5, eerste lid, onderdeel a, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5).
 
 ##### Artikel 20
 
-Aan de directeur Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur wordt mandaat, volmacht en machtiging verleend voor de coördinatie van de departementale crisisbeheersing van het Ministerie van Economische Zaken.
+Aan de directeur Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur wordt mandaat, volmacht en machtiging verleend voor de coördinatie van de departementale crisisbeheersing van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 21
 
@@ -524,13 +524,13 @@ Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van he
 
 1. De directeur Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur en de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur, kunnen, ieder voor zich, ondermandaat, volmacht en machtiging verlenen aan onder hen ressorterende functionarissen.
 
-2. Het ondermandaatbesluit van de directeur Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur is, voor zover van toepassing, van overeenkomstige toepassing op werkzaamheden die worden verricht voor het Ministerie van Economische Zaken.
+2. Het ondermandaatbesluit van de directeur Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur is, voor zover van toepassing, van overeenkomstige toepassing op werkzaamheden die worden verricht voor het Ministerie van Economische Zaken en Klimaat.
 
-3. Het ondermandaatbesluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur is, voor zover van toepassing, van overeenkomstige toepassing op werkzaamheden die worden verricht voor het Ministerie van Economische Zaken.
+3. Het ondermandaatbesluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur is, voor zover van toepassing, van overeenkomstige toepassing op werkzaamheden die worden verricht voor het Ministerie van Economische Zaken en Klimaat.
 
-4. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
+4. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-5. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en de Auditdienst Rijk.
+5. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
 #### § 9. Instructies aan niet-ondergeschikten
 
@@ -546,7 +546,7 @@ Mandaat, volmacht en machtiging worden uitgeoefend met inachtneming van:
 
 1. Het krachtens mandaat of machtiging ondertekenen van stukken geschiedt als volgt:
 
-De Minister van Economische Zaken,
+De Minister/Staatssecretaris van Economische Zaken,
 
 namens deze:
 
@@ -558,7 +558,7 @@ namens deze:
 
 2. Het krachtens mandaat of machtiging ondertekenen van automatisch gegenereerde stukken geschiedt als volgt:
 
-De Minister van Economische Zaken,
+De Minister/Staatssecretaris van Economische Zaken,
 
 namens deze:
 
@@ -568,11 +568,11 @@ namens deze:
 
 Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
-3. Bij ondertekening van stukken op grond van volmacht wordt de aanduiding van de minister voorafgegaan door: Namens de Staat der Nederlanden.
+3. Bij ondertekening van stukken op grond van volmacht wordt de aanduiding van de minister of staatssecretaris voorafgegaan door: Namens de Staat der Nederlanden.
 
 4. Het krachtens mandaat of machtiging ondertekenen van digitaal geaccordeerde stukken kan als volgt geschieden:
 
-De Minister van Economische Zaken,
+De Minister/Staatssecretaris van Economische Zaken,
 
 namens deze:
 
@@ -598,7 +598,7 @@ Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de plaa
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
-2. Na inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-03-25&g=2026-02-23) van dit besluit:
+2. Na inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-03-25&g=2026-03-25) van dit besluit:
 
 - –. het [Besluit ondermandaat, volmacht en machtiging voor het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041818);
 
@@ -610,7 +610,7 @@ Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de plaa
 
 ##### Artikel 28
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging EZ 2025.
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging EZK 2026.
 
 ## Bijlage. Organisatie van het Ministerie van Economische Zaken
 
@@ -702,7 +702,7 @@ Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige t
 
 #### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
 
-#### § 7.1. Dienstonderdelen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur die ook taken verrichten voor het Ministerie van Economische Zaken
+#### § 7.1. Dienstonderdelen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur die ook taken verrichten voor het Ministerie van Economische Zaken en Klimaat
 
 #### § 7.2. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur, en aan de secretaris-generaal van het Ministerie van Klimaat en Groene Groei
 
@@ -712,7 +712,7 @@ Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige t
 
 #### § 10. Overgangs- en slotbepalingen
 
-## Bijlage. Organisatie van het Ministerie van Economische Zaken
+## Bijlage. Organisatie van het Ministerie van Economische Zaken en Klimaat
 
 ### XVI. Het secretariaat van de Wetenschappelijke Klimaatraad
 
