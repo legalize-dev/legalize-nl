@@ -4,7 +4,7 @@ identifier: "BWBR0047756"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-26"
-last_updated: "2023-01-06"
+last_updated: "2026-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047756"
 soort: "ministeriele-regeling"
@@ -114,21 +114,21 @@ Het Project wordt uitgevoerd met in achtneming van de IFC Environmental and Soci
 
 Het bevorderen van de naleving van de OESO IMVO-richtlijnen is een vereiste van DRIVE. Daarom is van belang dat bij de inzet van DRIVE-middelen binnen het project en door de betrokken en uitvoerende partijen, met name contractanten, deze OESO richtlijnen worden opgevolgd. Deze richtlijnen gaan in op arbeid(somstandigheden), belastingen, consumentenbelangen, corruptiebestrijding, informatieverstrekking, mededinging, mensenrechten, milieu, uitgangspunten & ketenbeheer, wetenschap & technologie. Het schenkingsarrangement zal derhalve een afspraak bevatten waarin de ontvangende overheid akkoord gaat met de naleving van deze richtlijnen voor ontwikkeling en uitvoering van het project. Op grond daarvan zullen de richtlijnen onderdeel moeten zijn van aanbestedingen voor het project.
 
-In het kader van DRIVE zullen geen activiteiten worden gefinancierd die op de Invest International uitsluitingslijst worden genoemd; zie hiervoor [www.investinternational.nl](onbekend). Voor evt. aanpassing van deze lijst stemt Invest dit af met de Minister.
+In het kader van DRIVE zullen geen activiteiten worden gefinancierd die op de Invest International uitsluitingslijst worden genoemd; zie hiervoor [www.investinternational.nl](http://www.investinternational.nl). Voor evt. aanpassing van deze lijst stemt Invest dit af met de Minister.
 
 ### 5.5. Aanbesteding en gunning
 
 Inkoop van goederen, werken en diensten in het kader van het project waarop de DRIVE-aanvraag betrekking heeft zal op een transparante en competitieve wijze plaatsvinden, in overeenstemming met de wetgeving van de ontvangende overheid en de OESO **Good Procurement Practices for Official Development Assistance**. Tevens moeten de aanbestedingsprocedures voorzien in beoordeling op kwaliteits- en duurzaamheidsaspecten. De ontvangende overheid bepaalt samen met Invest per project de meest geschikte wijze van aanbesteding en gunning om optimale impact en een efficiënte totstandkoming van de beoogde publieke infrastructuur tot stand te brengen.
 
-Als een contract wordt aanbesteed, wordt waar mogelijk gebruik gemaakt van internationale aanbestedingsprocedures. Als dat van toegevoegde waarde is voor de ontwikkelingsimpact van een project kan daarvan worden afgeweken. Gunning vindt waar mogelijk plaats op basis van de beste prijs-kwaliteitverhouding, waarbij aspecten als **value for money** en **life cycle cost**een rol kunnen krijgen. Daarbij wordt waar mogelijk aanbesteed op basis van **concept design** in plaats van **detailed design**, en worden contractvormen als **design and build**, **design, build and maintenance** of **design, build, finance and maintenance**overwogen.
+Bij aanbestedingsprocedures in landen waarvoor dit volgens de OESO-DAC Recommendation on Untying ODA is toegestaan2Middeninkomenslanden komen in aanmerking voor een gebonden aanbestedingsprocedure tenzij zij in de categorie Heavily Indebted Poor Countries (HIPCs) en IDA-only countries and territories vallen. Voor de actuele lijst zie: [ODA recipients: countries, territories, and international organisations | OECD](https://www.oecd.org/en/topics/sub-issues/oda-eligibility-and-conditions/dac-list-of-oda-recipients.html) kan door het ontvangende land gekozen worden voor een gebonden aanbestedingsprocedure, in lijn met de OESO-regelgeving en WTO regelgeving, indien dit juridisch is toegestaan in het desbetreffende land.
+
+Invest International kan bij aanbestedingsprocedures in landen waarvoor dit volgens de OESO-DAC Recommendation on Untying ODA is toegestaan, het ontvangende land verzoeken te kiezen voor een gebonden aanbestedingsprocedure, in lijn met de OESO-regelgeving en WTO regelgeving. In een dergelijke gebonden aanbestedingsprocedure dient de voorwaarde te worden opgenomen, dat een nader te bepalen percentage van ten minste 35% van de aanbesteding ten goede komt aan de Nederlandse economie (berekend aan de hand van de Atradius DSB-methodologie)3Bijdrage aan de Nederlandse economie wordt berekend op basis van 1. Directe manuren 2. Overhead 3. Afschrijvingen 4. Financieringskosten 5. Toeleveringen door derden 6. Winst voor de volledige methode zie: [NATIONAAL BESTANDDEEL](https://atradiusdutchstatebusiness.nl/dam/jcr/a46cb36d-6d04-47e3-b3b2-95ceef75a8e3/Atradius%20DSB%20Calculation%20Method%20National%20Content.pdf).
+
+Als het van toegevoegde waarde is voor de ontwikkelingsimpact van een project kan van internationale aanbestedingsprocedures worden afgeweken. Gunning vindt idealiter plaats op basis van de beste prijs-kwaliteitverhouding, waarbij aspecten als **value for money** en **life cycle cost**een rol krijgen. Daarbij wordt indien gewenst aanbesteed op basis van **concept design** in plaats van **detailed design**, en worden contractvormen als **design and build**, **design, build and maintenance** of **design, build, finance and maintenance**overwogen.
 
 In de contracten worden eisen gesteld aan ecologische en sociale duurzaamheid, impact op duurzame economische ontwikkeling en IMVO; zie ook par. 5.4.
 
 Invest toetst de wijze waarop beoordeling van offertes op **value-for-money** wordt gewaarborgd.
-
-De totstandkoming van PPP’s wordt gestimuleerd als dat van toegevoegde waarde is. Bij schenkingen in het kader van DRIVE kan bij PPP-projecten o.a. een bijdrage worden geleverd om de totale opbrengsten en kosten van het project met elkaar in evenwicht te brengen en daarmee het project mogelijk te maken (zgn Viability Gap Funding). In samenhang met de wetgeving m.b.t. PPP’s in het ontvangende land behoort in het kader van DRIVE volledige financiering van de viability gap tot de mogelijkheden.
-
-In het kader van **Know-Your-Customer** beleid zal in schenkingsarrangementen een afspraak worden gemaakt op basis waarvan Invest opdrachtnemers tegen het licht zal houden.
 
 ### Paragraaf 6. – Uitvoering van het project
 
@@ -136,9 +136,13 @@ In het kader van **Know-Your-Customer** beleid zal in schenkingsarrangementen ee
 
 Een schenkingsarrangement zal ook afspraken bevatten over de uitwerking van een implementatieplan. Nadat het schenkingsarrangement is getekend wordt het implementatieplan verder uitgewerkt door de partijen bij het schenkingsarrangement en kan het project van start gaan. Het implementatieplan reguleert o.a. de inkoop (zie 6.2) en zal bepalen hoe het toezicht op de implementatie wordt geregeld. In veel gevallen zal het toezicht op naleving van het uitvoeringscontract (c.q. het contract tussen de ontvangende overheid en de aannemer die het project ten uitvoering brengt) worden uitgeoefend door een (onafhankelijke) **engineer of employers representative,** die zal rapporteren aan het bevoegd gezag en aan Invest (en de andere financiers).
 
-### 6.2. Inkoop van goederen en diensten i.h.k.v. ketenverantwoordelijkheid
+### 6.1. Implementatieplan
 
-In het kader van ketenverantwoordelijkheid dient de inkoop van goederen, werken en diensten door de ontvangende overheid en de geselecteerde aannemer die het project uitvoert tijdens de realisatiefase van het project te voldoen aan de wetgeving van het betreffende land en de OESO **Good Procurement Practices for Official Development Assistance**. Bij de selectie van een leverancier zal ook aandacht zijn voor kwaliteits- en duurzaamheidsaspecten van de te leveren goederen en diensten.
+Een schenkingsarrangement zal ook afspraken bevatten over de uitwerking van een implementatieplan. Nadat het schenkingsarrangement is getekend wordt het implementatieplan verder uitgewerkt door de partijen bij het schenkingsarrangement en kan het project van start gaan. Het implementatieplan reguleert o.a. de inkoop (zie 6.2) en zal bepalen hoe het toezicht op de implementatie wordt geregeld. In veel gevallen zal het toezicht op naleving van het uitvoeringscontract (c.q. het contract tussen de ontvangende overheid en de aannemer die het project ten uitvoering brengt) worden uitgeoefend door een (onafhankelijke) **engineer of employers representative,** die zal rapporteren aan het bevoegd gezag en aan Invest (en de andere financiers).
+
+Tijdens het inkoopproces zullen de afzonderlijke stappen aan Invest worden voorgelegd om een verklaring van geen bezwaar voor de gunning af te geven (zogeheten sono-procedure).
+
+### 6.3. Toezicht gedurende de uitvoering van het project
 
 Tijdens het inkoopproces zullen de afzonderlijke stappen aan Invest worden voorgelegd om een verklaring van geen bezwaar voor de gunning af te geven (zogeheten sono-procedure).
 
@@ -154,11 +158,11 @@ De ontvangende overheid is verplicht binnen zes maanden na voltooiing van de wer
 
 In het schenkingsarrangement kunnen afspraken worden gemaakt over samenwerking en cofinanciering met multilaterale ontwikkelingsbanken.
 
-### Paragraaf 8. – Verantwoordelijkheid
+Invest keurt geen activiteiten of documenten goed, maar geeft slechts in voorkomende gevallen, zoals in relatie tot inkoop (zie paragraaf 6.2) een verklaring van geen bezwaar af. Acceptatie door Invest van activiteiten en documenten met betrekking tot het project door middel van een dergelijke verklaring heeft slechts een betekenis in relatie tot de verstrekking van de schenking.
 
 De ontvangende overheid is verantwoordelijk voor de uitvoering van het project.
 
-Invest keurt geen activiteiten of documenten goed, maar geeft slechts in voorkomende gevallen, zoals in relatie tot inkoop (zie paragraaf 6.2) een verklaring van geen bezwaar af. Acceptatie door Invest van activiteiten en documenten met betrekking tot het project door middel van een dergelijke verklaring heeft slechts een betekenis in relatie tot de verstrekking van de schenking.
+### Paragraaf 9. – Monitoring en evaluatie
 
 De Minister draagt geen verantwoordelijkheid of aansprakelijkheid tegenover een derde partij voor projecten of activiteiten die zijn uitgevoerd voortvloeiend uit een schenkingsarrangement.
 
@@ -178,7 +182,7 @@ In het schenkingsarrangement worden afspraken opgenomen over beslechting van eve
 
 Indien in deze beleidsregels wordt verwezen naar documenten waarin internationale beleidsafspraken zijn vastgelegd, waarvan na de inwerkingtreding van deze faciliteit één of meer nieuwere versies zijn vastgesteld, is in beginsel voor DRIVE steeds de meest recente versie van toepassing, voor zover deze ook door de Minister is geaccordeerd. In geval van strijdigheid tussen de op een schenking van toepassing zijnde documenten prevaleert het document in de volgende rangorde:
 
-### Bijlage 1. – Landenlijst DRIVE:
+Angola
 
 Algerije
 
@@ -255,6 +259,24 @@ Tunesië
 Vietnam
 
 Zimbabwe
+
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+De totstandkoming van PPP’s wordt gestimuleerd als dat van toegevoegde waarde is. Bij schenkingen in het kader van DRIVE kan bij PPP-projecten o.a. een bijdrage worden geleverd om de totale opbrengsten en kosten van het project met elkaar in evenwicht te brengen en daarmee het project mogelijk te maken (zgn Viability Gap Funding). In samenhang met de wetgeving m.b.t. PPP’s in het ontvangende land behoort in het kader van DRIVE volledige financiering van de viability gap tot de mogelijkheden.
+
+In het kader van **Know-Your-Customer** beleid zal in schenkingsarrangementen een afspraak worden gemaakt op basis waarvan Invest opdrachtnemers tegen het licht zal houden.
+
+### Paragraaf 6. – Uitvoering van het project
+
+### 6.2. Inkoop van goederen en diensten i.h.k.v. ketenverantwoordelijkheid
+
+In het kader van ketenverantwoordelijkheid dient de inkoop van goederen, werken en diensten door de ontvangende overheid en de geselecteerde aannemer die het project uitvoert tijdens de realisatiefase van het project te voldoen aan de wetgeving van het betreffende land en de OESO **Good Procurement Practices for Official Development Assistance**. Bij de selectie van een leverancier zal ook aandacht zijn voor kwaliteits- en duurzaamheidsaspecten van de te leveren goederen en diensten.
+
+### Paragraaf 8. – Verantwoordelijkheid
+
+Invest keurt geen activiteiten of documenten goed, maar geeft slechts in voorkomende gevallen, zoals in relatie tot inkoop (zie paragraaf 6.2) een verklaring van geen bezwaar af. Acceptatie door Invest van activiteiten en documenten met betrekking tot het project door middel van een dergelijke verklaring heeft slechts een betekenis in relatie tot de verstrekking van de schenking.
+
+### Bijlage 1. – Landenlijst DRIVE:
 
 Zuid-Afrika
 
