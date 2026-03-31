@@ -4,7 +4,7 @@ identifier: "BWBR0052471"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-31"
-last_updated: "2026-01-01"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052471"
 soort: "ministeriele-regeling"
@@ -60,13 +60,13 @@ De minister verstrekt per gecertificeerde instelling een subsidie van ten hoogst
 
 ##### Artikel 4. Subsidiebedrag
 
-1. De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-01-01), bedraagt ten hoogste € 65.000,– per zij-instromer, met dien verstande dat het totaalbedrag per gecertificeerde instelling niet hoger is dan het bedrag dat met betrekking tot die gecertificeerde instelling is opgenomen in de bijlage.
+1. De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-03-31), bedraagt ten hoogste € 65.000,– per zij-instromer, met dien verstande dat het totaalbedrag per gecertificeerde instelling niet hoger is dan het bedrag dat met betrekking tot die gecertificeerde instelling is opgenomen in de bijlage.
 
 2. Indien een zij-instromerstraject voortijdig wordt beëindigd, komen enkel de kosten die voor die zij-instromer daadwerkelijk zijn gemaakt voor subsidiëring in aanmerking.
 
 ##### Artikel 5. Aanvraagtijdvak
 
-Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-01-01) kan worden aangevraagd van 1 april 2026 tot 13 mei 2026.
+Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-03-31) kan worden aangevraagd van 1 april 2026 tot 13 mei 2026.
 
 ##### Artikel 6. Subsidieplafond
 
@@ -74,11 +74,11 @@ Voor subsidieverstrekking op grond van deze regeling is ten hoogste € 3.250.00
 
 ##### Artikel 7. Indiening van de aanvraag
 
-Een aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-01-01) wordt ingediend door middel van een daartoe door de minister elektronisch beschikbaar gesteld aanvraagformulier.
+Een aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-03-31) wordt ingediend door middel van een daartoe door de minister elektronisch beschikbaar gesteld aanvraagformulier.
 
 ##### Artikel 8. Verplichtingen
 
-De voor subsidie in aanmerking komende activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-01-01) worden in de periode van 1 januari 2026 tot en met 31 december 2026 uitgevoerd.
+De voor subsidie in aanmerking komende activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=2&z=2026-03-31&g=2026-03-31) worden in de periode van 1 januari 2026 tot en met 31 december 2026 uitgevoerd.
 
 ##### Artikel 9. Verantwoording
 
@@ -88,9 +88,9 @@ De voor subsidie in aanmerking komende activiteiten als bedoeld in [artikel 2](h
 
 ##### Artikel 10. Hardheidsclausule
 
-1. De minister kan de termijn voor de uitvoering van subsidieactiviteiten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=8&z=2026-03-31&g=2026-01-01) verlengen met maximaal twaalf maanden, indien de subsidieontvanger een daartoe voldoende gemotiveerd verzoek indient voor het einde van deze termijn.
+1. De minister kan de termijn voor de uitvoering van subsidieactiviteiten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=8&z=2026-03-31&g=2026-03-31) verlengen met maximaal twaalf maanden, indien de subsidieontvanger een daartoe voldoende gemotiveerd verzoek indient voor het einde van deze termijn.
 
-2. Een verzoek tot verlenging wordt slechts ingewilligd indien er sprake is van bijzondere of onvoorziene omstandigheden, waardoor het niet toewijzen van het verzoek zou leiden tot onevenredige gevolgen voor de subsidieontvanger. In dat geval wordt ook de beschikking tot subsidieverlening gewijzigd dan wel aangevuld met nieuwe uiterste data voor verantwoording van de besteding van de subsidiegelden die een jaar later liggen dan de data voor verantwoording bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=9&z=2026-03-31&g=2026-01-01).
+2. Een verzoek tot verlenging wordt slechts ingewilligd indien er sprake is van bijzondere of onvoorziene omstandigheden, waardoor het niet toewijzen van het verzoek zou leiden tot onevenredige gevolgen voor de subsidieontvanger. In dat geval wordt ook de beschikking tot subsidieverlening gewijzigd dan wel aangevuld met nieuwe uiterste data voor verantwoording van de besteding van de subsidiegelden die een jaar later liggen dan de data voor verantwoording bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=9&z=2026-03-31&g=2026-03-31).
 
 3. Onder bijzondere of onvoorziene omstandigheden worden in ieder geval verstaan onvoorzien hoog personeelsverloop, onvoorziene stijging van de cliënteninstroom, onvoorziene krapte op de arbeidsmarkt en onvoorziene tariefverhoging. In het verzoek tot verlenging wordt gemotiveerd welke omstandigheden van toepassing zijn en hoe deze omstandigheden tot vertraging in de uitvoering hebben geleid.
 
@@ -104,7 +104,7 @@ De voor subsidie in aanmerking komende activiteiten als bedoeld in [artikel 2](h
 
 Deze regeling wordt aangehaald als: Regeling subsidie zij-instromers gecertificeerde instellingen 2026.
 
-## Bijlage. behorend bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=3&z=2026-03-31&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=4&z=2026-03-31&g=2026-01-01) van de Regeling subsidie zij-instromers gecertificeerde instellingen 2026
+## Bijlage. behorend bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=3&z=2026-03-31&g=2026-03-31) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052471&artikel=4&z=2026-03-31&g=2026-03-31) van de Regeling subsidie zij-instromers gecertificeerde instellingen 2026
 
 | Gecertificeerde instelling | % van totaal maatregelen | Het op basis van de percentages afgeronde maximaal aan te vragen bedrag, deelbaar door € 65.000 |
 | --- | --- | --- |
