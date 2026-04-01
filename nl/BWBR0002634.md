@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2026-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1a), [2a, eerste lid, onderdelen l en m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), [6k, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6k), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), [8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), [11, eerste lid, onderdelen a, onder 2°, b, onder 5°, p, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17e), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24), [25b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=25b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26), [28d](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28d), [28i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28i), [28p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28p), [28zb, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28zb), [29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), [31, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), [32f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32f), [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32h), [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32i), [34, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34), [34c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34c), [34e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34e), [35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a), en [37d, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), [onderdeel a, posten 31 en 35, van de bij die wet behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), [artikel 62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), alsmede de [artikelen 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=4), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=13), [24b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24b), [24ba, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24ba), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24c).
+1. Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1a), [2a, eerste lid, onderdelen l en m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), [6k, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=6k), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), [8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), [11, eerste lid, onderdelen a, onder 2°, b, onder 5°, p, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17e), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24), [25b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=25b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26), [28d](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28d), [28i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28i), [28p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28p), [28zb, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28zb), [29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), [31, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), [32f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32f), [32g](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32g), [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32h), [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32i), [34, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34), [34c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34c), [34e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34e), [35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a), en [37d, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), [onderdeel a, posten 31 en 35, van de bij die wet behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), [artikel 62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), alsmede de [artikelen 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=4), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=13), [24b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24b), [24ba, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24ba), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24c).
 
 2. Deze regeling verstaat onder:
 
@@ -109,7 +109,7 @@ Publiekrechtelijke lichamen worden als ondernemer aangemerkt met betrekking tot 
 
 - b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) uit de fiscale eenheid, het tweede lid van overeenkomstige toepassing.
 
-4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2026-01-01&g=2026-01-01).
+4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2026-04-01&g=2026-04-01).
 
 ### Hoofdstuk III. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 
@@ -269,7 +269,7 @@ De vrijstelling van belasting voor voordrachten en dergelijke diensten, als zijn
 
 1. In het geval, bedoeld in [artikel 37d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.
 
-2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2026-01-01&g=2026-01-01).
+2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2026-04-01&g=2026-04-01).
 
 ##### Artikel 9
 
@@ -353,7 +353,7 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ##### Artikel 13a
 
-1. In geval van levering door de ondernemer van de goederen, bedoeld in [artikel 13, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2026-01-01&g=2026-01-01), binnen de termijn waarin de aftrek voor het goed of de aan het goed verrichte investeringsdienst, bedoeld in artikel 13, eerste lid, onderdeel c, wordt herzien, is artikel 13, tweede en derde lid, van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van elk van die termijnen het gebruik van het goed, onderscheidenlijk de dienst, voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
+1. In geval van levering door de ondernemer van de goederen, bedoeld in [artikel 13, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2026-04-01&g=2026-04-01), binnen de termijn waarin de aftrek voor het goed of de aan het goed verrichte investeringsdienst, bedoeld in artikel 13, eerste lid, onderdeel c, wordt herzien, is artikel 13, tweede en derde lid, van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van elk van die termijnen het gebruik van het goed, onderscheidenlijk de dienst, voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
 
 - a. belaste handelingen, indien ter zake van de levering van het goed belasting verschuldigd is dan wel geen belasting verschuldigd is omdat het gaat om een handeling als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15);
 
@@ -425,7 +425,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2026-01-01&g=2026-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2026-01-01&g=2026-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2026-04-01&g=2026-04-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2026-04-01&g=2026-04-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -445,7 +445,7 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2026-01-01&g=2026-01-01);
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2026-04-01&g=2026-04-01);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
@@ -469,9 +469,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2026-01-01&g=2026-01-01);
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2026-04-01&g=2026-04-01);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2026-01-01&g=2026-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2026-04-01&g=2026-04-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -489,7 +489,7 @@ Vervallen
 
 ##### Artikel 19
 
-De schriftelijke opdracht, bedoeld in [artikel 12, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), tot uitvoer uit de Unie of tot plaatsing onder de regeling douane-entrepot op basis van artikel 237, tweede lid, van het Douanewetboek van de Unie wordt opgemaakt overeenkomstig het in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&bijlage=B&z=2026-01-01&g=2026-01-01) opgenomen model.
+De schriftelijke opdracht, bedoeld in [artikel 12, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), tot uitvoer uit de Unie of tot plaatsing onder de regeling douane-entrepot op basis van artikel 237, tweede lid, van het Douanewetboek van de Unie wordt opgemaakt overeenkomstig het in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&bijlage=B&z=2026-04-01&g=2026-04-01) opgenomen model.
 
 ##### Artikel 19a
 
@@ -515,7 +515,7 @@ In de aangifte ter verkrijging van teruggaaf op grond van [artikel 24, eerste li
 
 - b. de soort en de hoeveelheid van de uit de Unie uitgevoerde of onder de regeling douane-entrepot geplaatste goederen;
 
-- c. een omschrijving van het bewijs, bedoeld in [artikel 20 onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=20&z=2026-01-01&g=2026-01-01), waarmee het verband tussen dat bewijs en de goederen kan worden vastgesteld;
+- c. een omschrijving van het bewijs, bedoeld in [artikel 20 onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=20&z=2026-04-01&g=2026-04-01), waarmee het verband tussen dat bewijs en de goederen kan worden vastgesteld;
 
 - d. een omschrijving van de bescheiden waarmee kan worden aangetoond hoeveel belasting voor de goederen is betaald.
 
@@ -619,7 +619,7 @@ De ondernemer of de tussenpersoon die het recht uitoefent om overeenkomstig [art
 
 ##### Artikel 29c
 
-Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2026-01-01&g=2026-01-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
+Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2026-04-01&g=2026-04-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
 
 ##### Artikel 29d
 
@@ -747,7 +747,9 @@ mits daarop de vermeldingen, bedoeld in [artikel 35a, tweede lid, van de wet](ht
 
 2. De aanvrager van het verzoek bedoeld in het eerste lid omschrijft in het verzoek mede zijn beroepsactiviteit op de wijze als genoemd in [artikel 32h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32h).
 
-3. De aanvrager kan zowel voor het verstrekken van de gegevens in het in het eerste lid bedoelde verzoek als voor alle mogelijke andere op dit teruggaafverzoek betrekking hebbende te verstrekken aanvullende of verder aanvullende gegevens, gebruik maken van de Nederlandse, Engelse of Duitse taal.
+3. De aanvrager overlegt tezamen met het teruggaafverzoek langs elektronische weg een afschrift van de factuur of het invoerdocument, indien de maatstaf van heffing op de factuur of het invoerdocument € 1.000 of meer beloopt. Indien de factuur betrekking heeft op brandstof, is dit drempelbedrag € 250.
+
+4. De aanvrager kan zowel voor het verstrekken van de gegevens in het in het eerste lid bedoelde verzoek als voor alle mogelijke andere op dit teruggaafverzoek betrekking hebbende te verstrekken aanvullende of verder aanvullende gegevens, gebruik maken van de Nederlandse, Engelse of Duitse taal. Het afschrift van de factuur of het invoerdocument, genoemd in het derde lid, wordt verstrekt in een van de talen, genoemd in artikel 1 van de Verordening No. 1 tot regeling van het taalgebruik in de Europese Economische Gemeenschap.
 
 ### Hoofdstuk XII. Administratieve verplichtingen
 
