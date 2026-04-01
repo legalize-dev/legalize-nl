@@ -4,7 +4,7 @@ identifier: "BWBR0047663"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2023-06-10"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047663"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 1. Ter uitvoering van artikel 123, eerste lid, eerste alinea, van [verordening (EU) 2021/2115](32021R2115) wordt de minister aanwezen als nationale beheersautoriteit.
 
-2. Ter uitvoering van artikel 123, vierde lid, van [verordening (EU) 2021/2115](32021R2115) wordt gedeputeerde staten van de onderscheiden twaalf provincies aangewezen als intermediaire instantie waaraan de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=2&artikel=3&z=2023-06-10&g=2023-06-10), worden gedelegeerd.
+2. Ter uitvoering van artikel 123, vierde lid, van [verordening (EU) 2021/2115](32021R2115) wordt gedeputeerde staten van de onderscheiden twaalf provincies aangewezen als intermediaire instantie waaraan de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=2&artikel=3&z=2026-04-01&g=2026-04-01), worden gedelegeerd.
 
 3. Ter uitvoering van artikel 9, eerste lid, van [verordening (EU) 2021/2116](32021R2116) wordt de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat aangewezen als geaccrediteerd betaalorgaan.
 
@@ -110,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - f. het instellen van een comité overeenkomstig artikel 32, tweede lid, van [verordening (EU) 2021/1060](32021R1060);
 
-- g. uitvoering geven aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=8&z=2023-06-10&g=2023-06-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=10&z=2023-06-10&g=2023-06-10) voor zover van toepassing op de verrichtingen bedoeld in het eerste lid.
+- g. uitvoering geven aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=8&z=2026-04-01&g=2026-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=10&z=2026-04-01&g=2026-04-01) voor zover van toepassing op de verrichtingen bedoeld in het eerste lid.
 
 ##### Artikel 4
 
@@ -165,6 +165,10 @@ Gedeputeerde staten van de onderscheiden twaalf provincies dragen er zorg voor d
 - iii. LandschappenNL;
 
 - iv. LTO vrouw;
+
+- v. de Dierenbescherming;
+
+- vi. Biohuis;
 
 - e. de Europese Commissie.
 
