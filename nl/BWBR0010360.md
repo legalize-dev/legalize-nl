@@ -4,7 +4,7 @@ identifier: "BWBR0010360"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2024-10-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010360"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. bijlage 1: de van deze regeling deel uitmakende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-10-01&g=2024-10-01);
+- a. bijlage 1: de van deze regeling deel uitmakende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2026-04-01&g=2026-04-01);
 
-- b. bijlage 2: de van deze regeling deel uitmakende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-10-01&g=2024-10-01);
+- b. bijlage 2: de van deze regeling deel uitmakende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2026-04-01&g=2026-04-01);
 
-- c. IVS-post: post van het Informatie- en Volgsysteem voor de scheepvaart (IVS) als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-10-01&g=2024-10-01);
+- c. IVS-post: post van het Informatie- en Volgsysteem voor de scheepvaart (IVS) als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2026-04-01&g=2026-04-01);
 
 - d. vaarweggedeelte: vaarweggedeelte waarop het [Binnenvaartpolitiereglement](onbekend) van toepassing is;
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De schipper of kapitein van de volgende schepen en samenstellen, meldt zich alvorens een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-10-01&g=2024-10-01) binnen te varen elektronisch overeenkomstig de bepalingen van deel IV Standaard voor het elektronisch melden van schepen in de binnenvaart van ES-RIS:
+1. De schipper of kapitein van de volgende schepen en samenstellen, meldt zich alvorens een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2026-04-01&g=2026-04-01) binnen te varen elektronisch overeenkomstig de bepalingen van deel IV Standaard voor het elektronisch melden van schepen in de binnenvaart van ES-RIS:
 
 - a. een schip dat gevaarlijke stoffen vervoert waarop de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115) van toepassing is;
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - b. uniek Europees scheepsidentificatienummer of IMO-identificatienummer voor zeeschepen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
-- c. soort vaartuig of samenstel en bij samenstellen soort vaartuig voor alle schepen, overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=4&z=2024-10-01&g=2024-10-01);
+- c. soort vaartuig of samenstel en bij samenstellen soort vaartuig voor alle schepen, overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=4&z=2026-04-01&g=2026-04-01);
 
 - d. laadvermogen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
@@ -136,33 +136,33 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01) genoemde gegevens, met uitzondering van die genoemd onder l en m, kunnen ook vanaf een andere plaats of door een andere persoon dan de schipper of de kapitein, tijdig schriftelijk of telefonisch dan wel anderszins aan de IVS-post die op de vaarroute het eerst zal worden gepasseerd, worden medegedeeld.
+1. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01) genoemde gegevens, met uitzondering van die genoemd onder l en m, kunnen ook vanaf een andere plaats of door een andere persoon dan de schipper of de kapitein, tijdig schriftelijk of telefonisch dan wel anderszins aan de IVS-post die op de vaarroute het eerst zal worden gepasseerd, worden medegedeeld.
 
-2. In ieder geval meldt de schipper of kapitein het tijdstip van in- en uitvaren met zijn schip of samenstel van een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-10-01&g=2024-10-01).
+2. In ieder geval meldt de schipper of kapitein het tijdstip van in- en uitvaren met zijn schip of samenstel van een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2026-04-01&g=2026-04-01).
 
 ##### Artikel 4
 
-De schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01), meldt wanneer de vaart op een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-10-01&g=2024-10-01) gedurende meer dan twee uur wordt onderbroken, het begin en het einde van deze onderbreking aan de dichtstbijzijnde IVS-post.
+De schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01), meldt wanneer de vaart op een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2026-04-01&g=2026-04-01) gedurende meer dan twee uur wordt onderbroken, het begin en het einde van deze onderbreking aan de dichtstbijzijnde IVS-post.
 
 ##### Artikel 5
 
-1. Indien de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01), genoemde gegevens tijdens de vaart wijzigen, wordt dit door de schipper of de kapitein van een schip als bedoeld in artikel 2, eerste lid, onmiddellijk aan de dichtstbijzijnde IVS-post medegedeeld, of indien sprake is van een schip als bedoeld in artikel 2, derde lid, via elektronische weg.
+1. Indien de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01), genoemde gegevens tijdens de vaart wijzigen, wordt dit door de schipper of de kapitein van een schip als bedoeld in artikel 2, eerste lid, onmiddellijk aan de dichtstbijzijnde IVS-post medegedeeld, of indien sprake is van een schip als bedoeld in artikel 2, derde lid, via elektronische weg.
 
-2. Het eerste lid is niet van toepassing op de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01), dat zich bevindt op een vaarweg benedenstrooms van km 991.7 van de Nieuwe Maas of van km 998 van de Oude Maas.
+2. Het eerste lid is niet van toepassing op de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01), dat zich bevindt op een vaarweg benedenstrooms van km 991.7 van de Nieuwe Maas of van km 998 van de Oude Maas.
 
 ##### Artikel 6
 
-De gegevens genoemd in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01), worden door de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01), onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01) bepaalde, gemeld op het ter plaatse aangeduide marifoonkanaal bij het passeren van een sluis en bij een met teken B.11 uit [bijlage 7 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) aangeduid meldpunt.
+De gegevens genoemd in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01), worden door de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01), onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01) bepaalde, gemeld op het ter plaatse aangeduide marifoonkanaal bij het passeren van een sluis en bij een met teken B.11 uit [bijlage 7 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) aangeduid meldpunt.
 
 #### Paragraaf 3. Meldingen met betrekking tot de in bijlage 2 genoemde vaarweggedeelten
 
 ##### Artikel 7
 
-De schipper of de kapitein van een schip als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-10-01&g=2024-10-01), dat vaart op een vaarweggedeelte genoemd in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-10-01&g=2024-10-01), meldt zich, onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01) bepaalde, overeenkomstig hetgeen in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-10-01&g=2024-10-01) is aangegeven.
+De schipper of de kapitein van een schip als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2026-04-01&g=2026-04-01), dat vaart op een vaarweggedeelte genoemd in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2026-04-01&g=2026-04-01), meldt zich, onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01) bepaalde, overeenkomstig hetgeen in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2026-04-01&g=2026-04-01) is aangegeven.
 
 ##### Artikel 8
 
-Andere schepen dan bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01), luisteren tijdens de vaart op een vaarweggedeelte genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-10-01&g=2024-10-01), uit en communiceren op het in die bijlage aangegeven marifoonkanaal.
+Andere schepen dan bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01), luisteren tijdens de vaart op een vaarweggedeelte genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2026-04-01&g=2026-04-01), uit en communiceren op het in die bijlage aangegeven marifoonkanaal.
 
 #### Paragraaf 4. Toegestane afmetingen en diepgang vaarweggedeelten
 
@@ -455,7 +455,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-De vaarwegen, en de daarop toegestane grootste lengte, breedte en diepgang van een schip of samenstel, bedoeld in [artikel 9.02, eerste lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=3&z=2024-10-01&g=2024-10-01) van deze regeling.
+De vaarwegen, en de daarop toegestane grootste lengte, breedte en diepgang van een schip of samenstel, bedoeld in [artikel 9.02, eerste lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=3&z=2026-04-01&g=2026-04-01) van deze regeling.
 
 #### Paragraaf 4. Toegestane afmetingen en diepgang vaarweggedeelten
 
@@ -747,7 +747,7 @@ Verkeerspost Nijmegen
 | VTS-Terschelling | 02 |
 | Sector Terschelling (buiten VTS-gebied) | 05 |
 | Sector Texel | 05 |
-| Sector Ameland | 27 |
+| Sector Ameland | 04 |
 | Centrale Meldpost Waddenzee | 04 |
 | **NOORD OOST** |   |
 | Aadorpsluis | 22 |
@@ -761,7 +761,7 @@ Verkeerspost Nijmegen
 | Post Lauwersoog | 85 |
 | Eefde sluis | 22 |
 | Eilandbrug Kampen | 84 |
-| Farmsum (zee)sluis | 26 |
+| Farmsum (zee)sluis | 60 |
 | Gaarkeuken sluis | 18 |
 | Hengelo sluis | 22 |
 | Houtribsluizen Lelystad | 20 |
@@ -881,7 +881,7 @@ De vaarwegen benedenstrooms van km 991.7 van de Nieuwe Maas en van km 998 van de
 
 | **Wie** | **Wat** | **Bij wie** | **Hoe** | **Wanneer** | **Opmerkingen** |
 | --- | --- | --- | --- | --- | --- |
-| Ieder schip, met uitzondering van een klein schip dat geen stoffen vervoert, als bedoeld in [artikel 9.07, derde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07) | scheepsnaam positie vaarrichting elke bijzondere manoeuvre | De betreffende sector | Op het sectorkanaal | **Zeevaart:** Bij het binnenvaren van een sector. **Binnenvaart:** Bij het voornemen tot het uitvoeren van een bijzondere manoeuvre, zoals het | Alle schepen moeten gedurende de vaart in het blokgebied uitluisteren communiceren en oproepen beantwoorden |
+| Ieder schip, met uitzondering van een klein schip dat geen stoffen vervoert, als bedoeld in [artikel 9.07, derde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07) | scheepsnaam positie vaarrichting elke bijzondere manoeuvre | De betreffende sector | Op het sectorkanaal | **Zeevaart:** **Binnenvaart:** Bij het voornemen tot het uitvoeren van een bijzondere manoeuvre, zoals het | Alle schepen moeten gedurende de vaart in het blokgebied uitluisteren communiceren en oproepen beantwoorden |
 
 Regionale Verkeerscentrale Dordrecht
 
@@ -926,9 +926,9 @@ Regio Amsterdam
 
 De vaarwegen ten westen van km 26.5 van het afgesloten IJ tot aan de kustlijn en behorende tot het beheersgebied van de Gemeenschappelijke Regeling Centraal Nautisch Beheer Noorzeekanaalgebied.
 
-| **Wie** | **Wat** | **Bij wie** | **Hoe** | **Wanneer** | **Opmerkingen** |
+| Wie | Wat | Bij wie | Hoe | Wanneer | Opmerkingen |
 | --- | --- | --- | --- | --- | --- |
-| Ieder schip, met uitzondering van een klein schip dat geen stoffen vervoert, als bedoeld in [artikel 9.07, derde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07) | Zeevaart: Binnenvaart: | De betreffende sector | op het sectorkanaal | Zeevaart: Binnenvaart | Alle schepen moeten gedurende de vaart in het blokgebied uitluisteren, communiceren en oproepen beantwoorden |
+| Ieder schip, met uitzondering van een klein schip dat geen stoffen vervoert, als bedoeld in [artikel 9.07, derde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07) | * scheepsnaam * positie * bestemming * elke bijzondere manoeuvre | De betreffende sector | Op het sectorkanaal | – bij het binnenvaren van een sector – bij het uitvoeren van een bijzondere manoeuvre, zoals het – in- of uitvaren van een haven of nevenvaarwater – keren en oversteken van de vaarweg – ten anker komen of verlaten van de anker- of ligplaats | Alle schepen moeten gedurende de vaart in het blokgebied uitluisteren, communiceren en oproepen beantwoorden |
 
 Verkeerscentrale Schellingwoude
 
@@ -970,7 +970,7 @@ Administratieve voormelding Waddenzee buiten de VTS-gebieden
 
 | Wie | Wat | Bij wie | Hoe | Wanneer | Opmerkingen |
 | --- | --- | --- | --- | --- | --- |
-| – schepen met gevaarlijke ladingen – bijzondere transporten – bovenmaatse schepen | * scheepsnaam en call-sign * nationaliteit * scheepstype en tonnage * lengte, breedte en diepgang * Lloydsnummer * haven van bestemming * ETA * geplande vaarroute * soort lading (naam en hoeveelheid van stoffen; klasse, cijfers en voorzover bekend stofnummer en VN-nummer * bevestiging dat ladingplan aan boord is * aantal personen aan boord | Centrale Meldpost Waddenzee | Telefonisch Fax | • 24 uur voor het binnenvaren van de Waddenzee. • Bij onvoorziene omstandigheden binnen VHF-bereik kanaal 4. |   |
+| – schip met gevaarlijke stoffen – bijzonder transport – bovenmaats schip | * scheepsnaam * call-sign * nationaliteit * scheepstype en tonnage * lengte, breedte en diepgang * Lloydsnummer * haven van bestemming * ETA * geplande vaarroute * soort lading (naam en hoeveelheid van stoffen; klasse, cijfers en voorzover bekend stofnummer en VN-nummer * bevestiging dat ladingplan aan boord is * aantal personen aan boord | Centrale Meldpost Waddenzee | Telefonisch E-mail VHF 04 | • 24 uur voor het binnenvaren van de Waddenzee. • Bij onvoorziene omstandigheden. |   |
 
 Operationele melding Waddenzee buiten:
 
@@ -980,7 +980,13 @@ Operationele melding Waddenzee buiten:
 
 | Wie | Wat | Bij wie | Hoe | Wanneer | Opmerkingen |
 | --- | --- | --- | --- | --- | --- |
-| – schepen met gevaarlijke ladingen – bijzondere transporten | * scheepsnaam en call-sign * positie * bijzonderheden * VN-nummer/IMO klasse * aantal personen aan boord | Centrale Meldpost Waddenzee | Marifoonkanaal 4 | Tijdig voor het binnenvaren van de Waddenzee via: – de VTS-gebieden van Den Helder, Terschelling en Eems; – de zeegaten tussen de Waddeneilanden – de havens van de Waddeneilanden; – de sluizen en havens aan het IJsselmeer en landzijde |   |
+| – schip met gevaarlijke stoffen – bijzonder transport – bovenmaats schip | * scheepsnaam en call-sign * positie * bijzonderheden * VN-nummer/IMO klasse * aantal personen aan boord | Centrale Meldpost Waddenzee | Marifoonkanaal 4 | Tijdig voor het binnenvaren van de Waddenzee via: – de VTS-gebieden van Den Helder, Terschelling en Eems; – de zeegaten tussen de Waddeneilanden – de havens van de Waddeneilanden; – de sluizen en havens aan het IJsselmeer en landzijde |   |
+
+Verkeerscentrale Terschelling
+
+| Wie | Wat | Bij wie | Hoe | Wanneer | Opmerkingen |
+| --- | --- | --- | --- | --- | --- |
+| Ieder schip, met uitzondering van een klein schip dat geen stoffen vervoert, als bedoeld in [artikel 9.07, derde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07) | * scheepsnaam * positie * vaarrichting * elke bijzondere manoeuvre | Verkeerscentrale Brandaris | VHF 02 | Bij het voornemen tot het uitvoeren van een bijzondere manoeuvre, zoals het – in- of uitvaren van een haven of nevenvaarwater – keren en oversteken van de vaarweg – ten anker gaan of verlaten van de anker- of ligplaats | Alle schepen moeten gedurende de vaart in het blokgebied uitluisteren, communiceren en oproepen beantwoorden |
 
 Verkeerspost Schiermonnikoog
 
@@ -1032,14 +1038,12 @@ Verkeerspost Nijmegen
 | Haven Vlieland | 60 | 10 | 3,40 |
 | Vaarweg tussen zee en Harlingen, via het Stortemelk, de Vliestroom, de Blauwe Slenk en het vaarwater langs de Pollendam | 140 |   | 6,50 |
 | Prinses Margrietkanaal | 111 | 11,50 | 3,50 |
-| Vaarweg tussen Lorentzsluis en Harlingen, inclusief het vaarweggedeelte dat aansluit vanaf de Doove Balg (de Boontjes) | 135 | 11,50 | 3,501 |
-| Vaarwater Makkum | 110 | 11,50 | 3,202 |
-| Vaarwater Hindeloopen/Workum | 55 | 6,60 | 1,902 |
-| Vaarwater Stavoren (tot Johan Frisosluis) | 85 | 8,50 | 2,752 |
+| Boontjes (vaarweg tussen Lorentzsluis en Harlingen inclusief het vaarweggedeelte dat aansluit vanaf de Doove Balg) | 135 | 11,50 | 3,50 |
+| Vaarwater Makkum | 110 | 11,50 | 3,201 |
+| Vaarwater Hindeloopen/Workum | 55 | 6,60 | 1,901 |
+| Vaarwater Stavoren (tot Johan Frisosluis) | 85 | 8,50 | 2,751 |
 
-1 Bij een waterstand te Harlingen van NAP +0,75 m of zoveel minder dan de verwachte waterstand te Harlingen tijdens de passage lager is.
-
-2 Bij waterstand = -0,60 m NAP of zoveel minder dan de waterstand lager is dan -0,60 m NAP.
+1 Bij waterstand = -0,60 m NAP of zoveel minder dan de waterstand lager is dan -0,60 m NAP.
 
 | Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
 | --- | --- | --- | --- |
@@ -1108,18 +1112,16 @@ Verkeerspost Nijmegen
 | 8. Zijkanaal E |   |   | 2,20 |
 | 9. Zijkanaal G over een lengte van 1.000 m gemeten uit de as van het Noordzeekanaal |   |   | 8 |
 | 10. Zijkanaal H |   |   | 1,30 |
-| Vaarweg tussen Stevinsluis en Den Helder, via het Vissersgaatje en het Malzwin | 120 | 11,50 | 3,202 |
-| Vaarwater Medemblik | 85 | 8,20 | 2,703 |
-| Vaarwater Gouwzee (tot havens Monnickendam, Marken, Volendam, Edam) | 55 | 6,60 | 1,903 |
-| Haven Marken | 55 | 6,60 | 1,903 |
-| Vaarwater Muiden | 52 | 7,50 | 1,803 |
-| Vaarwater Eem | 73 | 8,50 | 2,803 |
+| Vaarweg tussen Stevinsluis en Den Helder, via het Visjagersgaatje en het Malzwin | 120 | 11,50 | 3,20 |
+| Vaarwater Medemblik | 85 | 8,20 | 2,702 |
+| Vaarwater Gouwzee (tot havens Monnickendam, Marken, Volendam, Edam) | 55 | 6,60 | 1,902 |
+| Haven Marken | 55 | 6,60 | 1,902 |
+| Vaarwater Muiden | 52 | 7,50 | 1,802 |
+| Vaarwater Eem | 73 | 8,50 | 2,802 |
 
 1 Bij een waterstand van NAP –0,50 m of hoger of zoveel minder dan de waterstand lager is dan NAP –0,50 m.
 
-2 Bij een waterstand te Harlingen van NAP +0,66 m of zoveel minder dan de verwachte waterstand te Harlingen tijdens de passage lager is.
-
-3 Bij waterstand = -0,60 m NAP of zoveel minder dan de waterstand lager is dan -0,60 m NAP.
+2 Bij waterstand = -0,60 m NAP of zoveel minder dan de waterstand lager is dan -0,60 m NAP.
 
 | Vaarwater Amsterdam – Lemmer (via Houtribsluizen): | Vaarwater Amsterdam – Lemmer (via Houtribsluizen): |   |   |   |
 | --- | --- | --- | --- | --- |
@@ -1302,10 +1304,10 @@ Verkeerspost Nijmegen
 | a) Verbindingskanaal in het Bossche Veld | 86 | 8,30 | 2,50 |
 | b) Belgische grens nabij Loozen tot met sluis 15 | 68 | 7,25 | 2,10 |
 | c) Sluis 15 – Randwegbrug | 95 | 9,60 | 2,10 |
-| d) Randwegbrug – kruising ZWV-WHK |   |   |   |
+| d) Randwegbrug – kruising omloop Helmond/ZWV |   |   |   |
 | i. ≤ 68 m | 68 | 7,25 | 1,90 |
 | ii. > 68 m | 80 | 5,20 | 1,90 |
-| e) Kruising ZWV-WHK tot sluis 4 | 110 | 7,25 | 1,90 |
+| e) Kruising omloop Helmond/ZWV tot sluis 4 | 110 | 7,25 | 1,90 |
 | f) Sluis 4 – Maximakanaal |   |   |   |
 | i. ≤ 105 m | 105 | 9,60 | 3 |
 | ii. > 105 m | 110 | 7,25 | 3 |
