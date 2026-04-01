@@ -4,7 +4,7 @@ identifier: "BWBR0028473"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-04-01"
-last_updated: "2025-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028473"
 soort: "ministeriele-regeling-BES"
@@ -56,11 +56,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De identiteitskaarten worden in het openbaar lichaam Bonaire afgegeven overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&bijlage=1&z=2025-01-01&g=2025-01-01) bij deze regeling is gevoegd.
+1. De identiteitskaarten worden in het openbaar lichaam Bonaire afgegeven overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&bijlage=1&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 
-2. De identiteitskaarten worden in het openbaar lichaam Sint Eustatius afgegeven overeenkomstig het model dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&bijlage=2&z=2025-01-01&g=2025-01-01) bij deze regeling is gevoegd.
+2. De identiteitskaarten worden in het openbaar lichaam Sint Eustatius afgegeven overeenkomstig het model dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&bijlage=2&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 
-3. De identiteitskaarten worden in het openbaar lichaam Saba afgegeven overeenkomstig het model dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&bijlage=3&z=2025-01-01&g=2025-01-01) bij deze regeling is gevoegd.
+3. De identiteitskaarten worden in het openbaar lichaam Saba afgegeven overeenkomstig het model dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 
 ### Hoofdstuk 2. Fotovereisten en nadere gegevens in de identiteitskaart
 
@@ -100,7 +100,7 @@ De vernietiging van een ingeleverde identiteitskaart geschiedt door het document
 
 ##### Artikel 8
 
-De [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=90), [91, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=91), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=92), [93, eerste lid, onder a, b en d, vijfde, zesde, negende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=93), [94, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=94) en [95 van de Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=95) zijn van overeenkomstige toepassing.
+De [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=90), [91, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=91), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=92), [93, eerste lid, onder a, b en d, zesde, zevende, tiende tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=93), [94, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=94) en [95 van de Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=95) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Kosten en afdracht aan het rijk
 
@@ -136,10 +136,10 @@ Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.o
 
 Deze regeling wordt aangehaald als: Regeling identiteitskaarten BES.
 
-## Bijlage 1. bij de Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279) en het [Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517) (Regeling identiteitskaarten BES), zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01), van deze regeling
+## Bijlage 1. bij de Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279) en het [Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517) (Regeling identiteitskaarten BES), zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&hoofdstuk=1&artikel=2&z=2026-04-01&g=2026-04-01), van deze regeling
 
-## Bijlage 2. bij de Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279) en het [Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517) (Regeling identiteitskaarten BES), zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01), van deze regeling
+## Bijlage 2. bij de Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279) en het [Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517) (Regeling identiteitskaarten BES), zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&hoofdstuk=1&artikel=2&z=2026-04-01&g=2026-04-01), van deze regeling
 
-## Bijlage 3. bij de Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279) en het [Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517) (Regeling identiteitskaarten BES), zoals bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01), van deze regeling
+## Bijlage 3. bij de Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279) en het [Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517) (Regeling identiteitskaarten BES), zoals bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&hoofdstuk=1&artikel=2&z=2026-04-01&g=2026-04-01), van deze regeling
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
