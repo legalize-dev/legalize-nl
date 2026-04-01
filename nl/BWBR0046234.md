@@ -4,7 +4,7 @@ identifier: "BWBR0046234"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2026-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046234"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **duurzame warmteoptie:** warmteoptie als bedoeld in artikel 5a;
 
-- **energiebesparende maatregelen:** maatregelen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01);
+- **energiebesparende maatregelen:** maatregelen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01);
 
 - **EP-maatwerkadviseur:** een persoon die voldoet aan de eisen aan de vakbekwaamheid van ‘EP-maatwerkadviseur’ conform bijlage 2 van BRL 9500-MWA-W;
 
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - **maatregel:** energiebesparende maatregel of onderhoudsmaatregel;
 
-- **maatwerkadvies:** een advies als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-01-01&g=2026-01-01);
+- **maatwerkadvies:** een advies als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-04-01&g=2026-04-01);
 
 - **meldcode:** code beschikbaar gesteld door de Minister:
 
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - c. cultureel erfgoed in een provinciaal erfgoedregister als bedoeld in [artikel 3.17, derde lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.17);
 
-- **onderhoudsmaatregelen:** maatregelen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-01-01&g=2026-01-01);
+- **onderhoudsmaatregelen:** maatregelen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-04-01&g=2026-04-01);
 
 - **prestatieverklaring:** prestatieverklaring als bedoeld in artikel 2.14 van het Besluit bouwwerken leefomgeving;
 
@@ -117,6 +117,8 @@ In deze regeling wordt verstaan onder:
 - **thermische schil:** thermische schil als beschreven in ISSO 82.1;
 
 - **triple-glas:** glas met een maximale U-waarde van 0,7 [W/m2K];
+
+- **UF-schuim:** ureumformaldehydeschuim, een tweecomponentenschuim op basis van ureumformaldehyde;
 
 - **verordening (EU) 2024/573:** [verordening (EU) 2024/573](32024R0573) van het Europees Parlement en de Raad van 7 februari 2024 betreffende gefluoreerde broeikasgassen, tot wijziging van [Richtlijn (EU) 2019/1937](32019L1937) en tot intrekking van [Verordening (EU) nr. 517/2014](32014R0517);
 
@@ -228,9 +230,9 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 5. Het vierde lid is niet van toepassing op een tweede aanvraag voor:
 
-- a. de aanschaf en het door een branchegerelateerd bedrijf in een huurwoning of monumentale huurwoning laten vervangen of plaatsen van glas, kozijnpanelen, voor- of achterzetbeglazing of deuren in de bestaande thermische schil, bedoeld in [artikel 5, onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01), die door de verhuurder is ingediend binnen 24 maanden nadat de subsidiebeschikking voor de eerste aanvraag voor die energiebesparende maatregel in die huurwoning of monumentale huurwoning is verleend; of
+- a. de aanschaf en het door een branchegerelateerd bedrijf in een huurwoning of monumentale huurwoning laten vervangen of plaatsen van glas, kozijnpanelen, voor- of achterzetbeglazing of deuren in de bestaande thermische schil, bedoeld in [artikel 5, onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01), die door de verhuurder is ingediend binnen 24 maanden nadat de subsidiebeschikking voor de eerste aanvraag voor die energiebesparende maatregel in die huurwoning of monumentale huurwoning is verleend; of
 
-- b. de aanschaf en het door een branchegerelateerd bedrijf in een huurwoning of monumentale woning laten plaatsen of laten herstellen van een nieuw buitenkozijn van een deur of raam in de bestaande thermische schil, bedoeld in [artikel 6, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-01-01&g=2026-01-01), die door de verhuurder is ingediend binnen 24 maanden nadat de subsidiebeschikking voor de eerste aanvraag voor die onderhoudsmaatregel in die huurwoning of monumentale huurwoning is verleend.
+- b. de aanschaf en het door een branchegerelateerd bedrijf in een huurwoning of monumentale woning laten plaatsen of laten herstellen van een nieuw buitenkozijn van een deur of raam in de bestaande thermische schil, bedoeld in [artikel 6, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-04-01&g=2026-04-01), die door de verhuurder is ingediend binnen 24 maanden nadat de subsidiebeschikking voor de eerste aanvraag voor die onderhoudsmaatregel in die huurwoning of monumentale huurwoning is verleend.
 
 6. Er wordt op grond van het eerste lid geen subsidie verstrekt ten behoeve van een huurwoning of monumentale huurwoning die in eigendom is van een toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19).
 
@@ -238,23 +240,23 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 1. De subsidie voor maatregelen en maatwerkadvies bedraagt:
 
-- a. voor een maatregel als bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01): € 10,50 per m2;
+- a. voor een maatregel als bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01): € 10,50 per m2;
 
-- b. voor een maatregel als bedoeld in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01): € 40,50 per m2;
+- b. voor een maatregel als bedoeld in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01): € 40,50 per m2;
 
-- c. voor een maatregel als bedoeld in [artikel 5, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01):
+- c. voor een maatregel als bedoeld in [artikel 5, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01):
 
 - 1°. voor het isoleren van het bestaande dak: € 32,50 per m2;
 
 - 2°. voor het isoleren van de bestaande zolder- of vlieringvloer: € 8 per m2;
 
-- d. voor een maatregel als bedoeld in [artikel 5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01):
+- d. voor een maatregel als bedoeld in [artikel 5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01):
 
 - 1°. voor het isoleren van de bestaande vloer: € 11 per m2;
 
 - 2°. voor het isoleren van de bestaande bodem: € 6 per m2;
 
-- e. voor een energiebesparende maatregel als bedoeld in [artikel 5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01):
+- e. voor een energiebesparende maatregel als bedoeld in [artikel 5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01):
 
 - 1°. voor het vervangen van glas of deuren door HR ++ glas of nieuwe isolerende deuren: € 50 per m2;
 
@@ -276,15 +278,15 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - 5°. voor het vervangen van kozijnpanelen door nieuwe isolerende kozijnpanelen met een Up-waarde van ten hoogste 2,0 [W/m2K]: € 40 per m2;
 
-- g. voor een maatregel als bedoeld in [artikel 5, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01): 30% van de totale kosten van de activiteit, van ten hoogste € 1.200 per huurwoning of monumentale huurwoning;
+- g. voor een maatregel als bedoeld in [artikel 5, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01): 30% van de totale kosten van de activiteit, van ten hoogste € 1.200 per huurwoning of monumentale huurwoning;
 
 - h. voor een onderhoudsmaatregel:
 
-- 1°. als bedoeld in [artikel 6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-01-01&g=2026-01-01): € 75 per m2;
+- 1°. als bedoeld in [artikel 6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-04-01&g=2026-04-01): € 75 per m2;
 
-- 2°. als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-01-01&g=2026-01-01): van ten hoogste € 150 per huurwoning of monumentale huurwoning;
+- 2°. als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-04-01&g=2026-04-01): van ten hoogste € 150 per huurwoning of monumentale huurwoning;
 
-- i. voor een maatwerkadvies als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-01-01&g=2026-01-01), dat betrekking heeft op:
+- i. voor een maatwerkadvies als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-04-01&g=2026-04-01), dat betrekking heeft op:
 
 - 1°. één tot en met vier huurwoningen of monumentale huurwoningen in hetzelfde gebouw: 75% van de kosten met een maximum van € 400;
 
@@ -292,7 +294,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - 3°. negen of meer huurwoningen of monumentale huurwoningen in hetzelfde gebouw: 75% van de kosten met een maximum van € 880, plus € 80 per huurwoning of monumentale huurwoning vanaf de tiende woning, met een totaalbedrag van ten hoogste € 2.560;
 
-- j. voor een duurzaam monumentenadvies als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-01-01&g=2026-01-01), dat betrekking heeft op:
+- j. voor een duurzaam monumentenadvies als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-04-01&g=2026-04-01), dat betrekking heeft op:
 
 - 1°. één tot en met vier monumentale huurwoningen in hetzelfde gebouw: 50% van de kosten met een maximum van € 1.750;
 
@@ -300,7 +302,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - 3°. negen of meer monumentale huurwoningen in hetzelfde gebouw: 50% van de kosten met een maximum van € 2.480, plus € 80 per monumentale huurwoning vanaf de tiende woning, met een maximum van € 4.160;
 
-- k. voor een energiebesparende maatregel als bedoeld in [artikel 5, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01):
+- k. voor een energiebesparende maatregel als bedoeld in [artikel 5, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01):
 
 - 1°. voor het vervangen van voor- of achterzetbeglazing door voor- of achterzetbeglazing met een Ug-waarde van ten hoogste 2,0 [W/m2K]; € 92 per m2;
 
@@ -334,7 +336,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - d. bij aanvragen van € 25.000 of meer door de verhuurder ondertekende offertes voor de te uit te voeren maatregelen, onder vermelding, voor zover van belang voor de subsidieverstrekking, van de aantallen of de oppervlakten waarover de onderscheiden maatregelen worden uitgevoerd, alsmede van de energetische kwaliteit van de te uitvoeren maatregelen;
 
-- e. een verklaring waaruit blijkt dat de aanvrager geen subsidie van een ander of hetzelfde bestuursorgaan heeft ontvangen voor het uitvoeren van dezelfde activiteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=8&z=2026-01-01&g=2026-01-01), bij dezelfde huurwoning of monumentale huurwoning dan wel huurwoningen of monumentale huurwoningen;
+- e. een verklaring waaruit blijkt dat de aanvrager geen subsidie van een ander of hetzelfde bestuursorgaan heeft ontvangen voor het uitvoeren van dezelfde activiteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=8&z=2026-04-01&g=2026-04-01), bij dezelfde huurwoning of monumentale huurwoning dan wel huurwoningen of monumentale huurwoningen;
 
 - f. indien ook subsidie wordt aangevraagd voor maatwerkadvies of een duurzaam monumentenadvies, een verklaring dat daarvoor niet reeds subsidie is aangevraagd bij of verstrekt door een ander of hetzelfde bestuursorgaan;
 
@@ -378,7 +380,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - e. ten minste één foto per energiebesparende isolatie- en onderhoudsmaatregel, genomen tijdens de uitvoering van de werkzaamheden door het branchegerelateerde bedrijf, met daarop zichtbaar de naam, merk, soort, en dikte van het isolatiemateriaal of merk en type ventilatiebox;
 
-- f. indien het een investering voor glas, voor- of achterzetbeglazing of kozijnpaneel- of deurisolatie als bedoeld in [artikel 5, onderdelen e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01) betreft, voor zover van toepassing, een kozijnstaat met daarin merk en type van het kozijn en het daarbij behorende frame, glas en netto afmetingen van het glas of de kozijnpanelen per kozijn.
+- f. indien het een investering voor glas, voor- of achterzetbeglazing of kozijnpaneel- of deurisolatie als bedoeld in [artikel 5, onderdelen e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01) betreft, voor zover van toepassing, een kozijnstaat met daarin merk en type van het kozijn en het daarbij behorende frame, glas en netto afmetingen van het glas of de kozijnpanelen per kozijn.
 
 6. Indien een aanvraag betrekking heeft op alle huurwoningen of monumentale huurwoningen in hetzelfde gebouw, bevat, in afwijking van het vierde lid, onder a en d, en vijfde lid, onder a, de aanvraag:
 
@@ -392,11 +394,11 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 1. De Minister wijst de aanvraag voor een subsidie af voor zover:
 
-- a. de aanvrager reeds subsidie heeft ontvangen van een ander of hetzelfde bestuursorgaan voor het uitvoeren van dezelfde maatregelen, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=8&z=2026-01-01&g=2026-01-01), bij dezelfde huurwoningen of monumentale huurwoningen;
+- a. de aanvrager reeds subsidie heeft ontvangen van een ander of hetzelfde bestuursorgaan voor het uitvoeren van dezelfde maatregelen, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=8&z=2026-04-01&g=2026-04-01), bij dezelfde huurwoningen of monumentale huurwoningen;
 
-- b. de aanvraag een subsidie betreft als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=8&z=2026-01-01&g=2026-01-01), en er reeds door een ander of hetzelfde bestuursorgaan subsidie is verstrekt aan de aanvrager voor het uitvoeren van dezelfde maatregel, bedoeld in artikel 8, eerste lid, onderdeel b, bij dezelfde huurwoningen of monumentale huurwoningen;
+- b. de aanvraag een subsidie betreft als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=8&z=2026-04-01&g=2026-04-01), en er reeds door een ander of hetzelfde bestuursorgaan subsidie is verstrekt aan de aanvrager voor het uitvoeren van dezelfde maatregel, bedoeld in artikel 8, eerste lid, onderdeel b, bij dezelfde huurwoningen of monumentale huurwoningen;
 
-- c. de aanvraag een subsidie betreft als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-01-01&g=2026-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-01-01&g=2026-01-01) staatssteun bevat die gerechtvaardigd wordt op grond van de algemene groepsvrijstellingsverordening en:
+- c. de aanvraag een subsidie betreft als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-04-01&g=2026-04-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-04-01&g=2026-04-01) staatssteun bevat die gerechtvaardigd wordt op grond van de algemene groepsvrijstellingsverordening en:
 
 - 1°. er sprake is van ongeoorloofde cumulatie van steun als bedoeld in artikel 8 van de algemene groepsvrijstellingsverordening;
 
@@ -410,7 +412,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - 6°. een bedrag aan subsidie verstrekt zou worden dat hoger is dan geoorloofd is op grond van artikel 49, derde lid, van de algemene groepsvrijstellingsverordening; of.
 
-- d. de aanvraag een subsidie betreft als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-01-01&g=2026-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-01-01&g=2026-01-01) die wordt verleend met toepassing van de de-minimisverordening en een bedrag aan subsidie verstrekt zou worden dat hoger is dan geoorloofd is op grond van die verordening.
+- d. de aanvraag een subsidie betreft als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-04-01&g=2026-04-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=6&z=2026-04-01&g=2026-04-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-04-01&g=2026-04-01) die wordt verleend met toepassing van de de-minimisverordening en een bedrag aan subsidie verstrekt zou worden dat hoger is dan geoorloofd is op grond van die verordening.
 
 2. De Minister wijst een aanvraag voor subsidie voor maatregelen af indien:
 
@@ -426,17 +428,19 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - 4°. het vergroten van het dak, de gevel, de vloer of de glasoppervlakte;
 
-- c. meer dan 24 maanden zijn verstreken tussen het installeren of aanbrengen van de maatregel of maatregelen en de aanvraag voor subsidie in het geval de subsidieaanvraag een subsidiebedrag van minder dan € 25.000 betreft; of
+- c. meer dan 24 maanden zijn verstreken tussen het installeren of aanbrengen van de maatregel of maatregelen en de aanvraag voor subsidie in het geval de subsidieaanvraag een subsidiebedrag van minder dan € 25.000 betreft;
 
-- d. meer dan 24 maanden zijn verstreken tussen de aanvraag voor subsidie en het installeren of aanbrengen van de maatregel of maatregelen in het geval de subsidieaanvraag een subsidiebedrag van ten minste € 25.000 betreft.
+- d. meer dan 24 maanden zijn verstreken tussen de aanvraag voor subsidie en het installeren of aanbrengen van de maatregel of maatregelen in het geval de subsidieaanvraag een subsidiebedrag van ten minste € 25.000 betreft; of
 
-3. De Minister wijst een aanvraag voor subsidie voor duurzame warmteopties als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-01-01&g=2026-01-01) af indien:
+- e. de aanvraag betrekking heeft op het aanbrengen van UF-schuim.
+
+3. De Minister wijst een aanvraag voor subsidie voor duurzame warmteopties als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-04-01&g=2026-04-01) af indien:
 
 - a. de installatie waar de investering betrekking op heeft, is of wordt geïnstalleerd om te voldoen aan de wettelijke voorschriften, bedoeld in [afdeling 4.4 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&afdeling=4.4);
 
 - b. de aanvraag voor subsidie betrekking heeft op een gebruikte installatie; of
 
-- c. het een aanvraag voor subsidie betreft voor een lucht-waterwarmtepomp, grondwaterwarmtepomp of water-waterwarmtepomp als bedoeld in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-01-01&g=2026-01-01), met een thermisch vermogen tussen 1 kW en 70 kW behorend tot een energie-efficiëntieklasse lager dan A++ en deze is of wordt aangebracht op of na 1 januari 2024.
+- c. het een aanvraag voor subsidie betreft voor een lucht-waterwarmtepomp, grondwaterwarmtepomp of water-waterwarmtepomp als bedoeld in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-04-01&g=2026-04-01), met een thermisch vermogen tussen 1 kW en 70 kW behorend tot een energie-efficiëntieklasse lager dan A++ en deze is of wordt aangebracht op of na 1 januari 2024.
 
 ##### Artikel 12. Wijze van subsidieverstrekking
 
@@ -456,7 +460,7 @@ Bij het verzoek tot vaststelling van de subsidie wordt meegestuurd:
 
 - e. ten minste één foto per energiebesparende isolatie- en onderhoudsmaatregel, genomen tijdens de uitvoering van de werkzaamheden door het branchegerelateerde bedrijf, met daarop zichtbaar de naam, merk, soort, en dikte van het isolatiemateriaal of merk en type ventilatiebox;
 
-- f. indien het een investering voor glas of deurisolatie als bedoeld in [artikel 5, onderdelen e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-01-01&g=2026-01-01), betreft, voor zover van toepassing, een kozijnstaat met daarin merk en type van het kozijn en het daarbij behorende frame, glas en netto afmetingen van het glas;
+- f. indien het een investering voor glas of deurisolatie als bedoeld in [artikel 5, onderdelen e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5&z=2026-04-01&g=2026-04-01), betreft, voor zover van toepassing, een kozijnstaat met daarin merk en type van het kozijn en het daarbij behorende frame, glas en netto afmetingen van het glas;
 
 - g. indien het een investering in een duurzame warmteoptie betreft, een document waaruit blijkt dat een investering:
 
@@ -502,7 +506,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. aangevangen zijn met de uitvoering van maatregelen en een subsidieaanvraag hebben ingediend voor 1 april 2025.
 
-3. Onder een maatwerkadvies als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-01-01&g=2026-01-01), komt ook voor subsidie mede in aanmerking een energieadvies dat in de periode tot 1 juli 2024 is opgesteld door een persoon die voldoet aan de eisen aan de vakbekwaamheid van ‘EPA-adviseur’ conform bijlage 2 van BRL 9500, deel 2.
+3. Onder een maatwerkadvies als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=7&z=2026-04-01&g=2026-04-01), komt ook voor subsidie mede in aanmerking een energieadvies dat in de periode tot 1 juli 2024 is opgesteld door een persoon die voldoet aan de eisen aan de vakbekwaamheid van ‘EPA-adviseur’ conform bijlage 2 van BRL 9500, deel 2.
 
 4. Een subsidieaanvraag die mogelijk is geworden vanaf het moment van inwerkingtreding van de **Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 27 december 2024 nr. 2024-0000945659, tot wijziging van de Subsidieregeling Verduurzaming en Onderhoud Huurwoningen in verband met het verlengen van de regeling, het verbreden van de regeling met duurzame warmteopties, het introduceren van een bonus voor biobased milieuvriendelijk isolatiemateriaal en het duurzaam monumentenadvies, en enkele andere maatregelen om de regeling beter aan te laten sluiten op de doelgroep** komt slechts voor subsidie in aanmerking als de maatregel is uitgevoerd na 31 december 2024.
 
@@ -519,6 +523,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 - a. een subsidieaanvraag hebben ingediend; of
 
 - b. aangevangen zijn met de uitvoering van maatregelen en een subsidieaanvraag hebben ingediend voor 1 januari 2026.
+
+8. De Subsidieregeling Verduurzaming en Onderhoud Huurwoningen (SVOH) zoals die gold direct voorafgaand aan het moment van inwerkingtreding van de Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 30 maart 2026, nr. 2026-0000139091, tot wijziging van de Subsidieregeling Verduurzaming en Onderhoud Huurwoningen (SVOH) en de Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars (SVVE) in verband met het uitsluiten van UF-schuim voor subsidiëring, blijft van toepassing op verhuurders die voor 1 april 2026:
+
+- a. een subsidieaanvraag hebben ingediend;
+
+- b. aangevangen zijn met de uitvoering van de maatregel of het materiaal reeds hebben aangeschaft.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
