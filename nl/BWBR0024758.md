@@ -4,7 +4,7 @@ identifier: "BWBR0024758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2025-07-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024758"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor de meldingsplicht van de arts op grond van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), gelden voor de hieronder genoemde infectieziekten de volgende voorwaarden:
 
-- a. mpox, behorende tot groep B1, en pest, tuberculose en infectieziekten behorende tot groep B2 en groep C: de vaststelling wordt op normale werktijden binnen 24 uur gemeld,
+- a. mpox, tuberculose, infectieziekten behorende tot groep B2, met uitzondering van invasieve groep A streptokokkeninfectie, en infectieziekten behorende tot groep C, met uitzondering van meningokokkenziekte: de vaststelling wordt op normale werktijden binnen 24 uur gemeld,
 
 - b. hepatitis B: de vaststelling van chronisch dragerschap wordt alleen gemeld als de infectie voor de eerste keer wordt vastgesteld,
 
@@ -82,9 +82,9 @@ Voor de meldingsplicht van het hoofd van het laboratorium op grond van [artikel 
 
 - a. de vaststelling van een verwekker van een infectieziekte behorend tot groep A wordt onverwijld gemeld aan de gemeentelijke gezondheidsdienst;
 
-- b. de vaststelling van een verwekker van een infectieziekte behorend tot groep B1, met uitzondering van pest en tuberculose, wordt binnen 24 uur gemeld aan de gemeentelijke gezondheidsdienst;
+- b. de vaststelling van een verwekker van een infectieziekte behorend tot groep B1, met uitzondering van mpox en tuberculose, alsmede de vaststelling van een invasieve groep A streptokokkeninfectie of meningokokkenziekte, wordt binnen 24 uur gemeld aan de gemeentelijke gezondheidsdienst;
 
-- c. de vaststelling van pest of tuberculose, alsmede van een verwekker van een infectieziekte behorend tot groep B2 of C wordt op normale werktijden binnen 24 uur gemeld aan de gemeentelijke gezondheidsdienst.
+- c. de vaststelling van mpox of tuberculose, de vaststelling van een verwekker van een infectieziekte behorend tot groep B2, met uitzondering van een invasieve groep A streptokokkeninfectie, alsmede de vaststelling van een verwekker van een infectieziekte behorend tot groep C, met uitzondering van meningokokkenziekte, wordt op normale werktijden binnen 24 uur gemeld aan de gemeentelijke gezondheidsdienst.
 
 ##### Artikel 4
 
@@ -116,7 +116,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 8
 
-1. Ter verkrijging van een certificaat van sanitaire controle van schepen of een certificaat tot vrijstelling van sanitaire controle van schepen, worden de inspecties uitgevoerd conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=1&z=2025-07-01&g=2025-07-01) bij deze regeling.
+1. Ter verkrijging van een certificaat van sanitaire controle van schepen of een certificaat tot vrijstelling van sanitaire controle van schepen, worden de inspecties uitgevoerd conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=1&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
 2. Indien vanwege buitengewone omstandigheden in de haven geen certificaat als bedoeld in het eerste lid kan worden afgegeven, en het schip is voorzien van een nog geldig certificaat van sanitaire controle van schepen of certificaat tot vrijstelling van sanitaire controle van schepen, kan de burgemeester dit certificaat met één maand verlengen.
 
@@ -138,7 +138,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - –. 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.
 
-3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01), bedraagt € 140,40.
+3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-04-01&g=2026-04-01), bedraagt € 140,40.
 
 4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 35,09 per kwartier.
 
@@ -162,7 +162,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 11
 
-De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
+De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2026-04-01&g=2026-04-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
 ##### Artikel 12
 
@@ -172,7 +172,7 @@ De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
-- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
+- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2026-04-01&g=2026-04-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
 
 - b. volledig te zijn ingevuld in de Engelse of Franse taal,
 
@@ -1338,9 +1338,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14b
 
-1. Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in [artikel 17a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&artikel=17a) aangewezen typen poliovirus gelden de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=2&z=2025-07-01&g=2025-07-01) bij deze regeling gestelde eisen die verband houden met de uitvoering van Resolutie WHA71.16 van de Wereld Gezondheidsorganisatie.
+1. Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in [artikel 17a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&artikel=17a) aangewezen typen poliovirus gelden de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=2&z=2026-04-01&g=2026-04-01) bij deze regeling gestelde eisen die verband houden met de uitvoering van Resolutie WHA71.16 van de Wereld Gezondheidsorganisatie.
 
-2. In afwijking van het eerste lid, zijn de eisen, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=3&z=2025-07-01&g=2025-07-01), niet van toepassing op de in die bijlage genoemde typen poliovirus.
+2. In afwijking van het eerste lid, zijn de eisen, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=3&z=2026-04-01&g=2026-04-01), niet van toepassing op de in die bijlage genoemde typen poliovirus.
 
 ##### Artikel 14c
 
@@ -1348,7 +1348,7 @@ Een melding als bedoeld in [artikel 17c, tweede lid, van het besluit](https://we
 
 ### Hoofdstuk III. Overige bepalingen
 
-## Bijlage 1. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01) van de Regeling publieke gezondheid
+## Bijlage 1. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-04-01&g=2026-04-01) van de Regeling publieke gezondheid
 
 In dit document staan de WHO-normen1WHO Interim technical advice for inspection and issuance of ship sanitation certificates, August 2007.http://www.who.int/csr/ihr/travel/TechnAdvSSC.pdf waaraan wordt getoetst opdat voor een schip een certificaat van sanitaire controle of een certificaat tot vrijstelling van sanitaire controle kan worden afgegeven.
 
@@ -1434,7 +1434,7 @@ Een vrachtschip is een schip dat uitsluitend bedoeld is voor het vervoer van goe
 
 De Wereldgezondheidsorganisatie (World Health Organization, WHO) is een gespecialiseerde organisatie van de Verenigde Naties gevestigd in Genève met als doel wereldwijde aspecten van de gezondheidszorg in kaart te brengen, activiteiten op het gebied van de gezondheidszorg te coördineren en de gezondheid van de wereldbevolking te bevorderen.
 
-## Bijlage 2. ex [artikel 14b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=IIA&artikel=14b&z=2025-07-01&g=2025-07-01), van de Regeling publieke gezondheid
+## Bijlage 2. ex [artikel 14b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=IIA&artikel=14b&z=2026-04-01&g=2026-04-01), van de Regeling publieke gezondheid
 
 De eisen die verband houden met de uitvoering van Resolutie WHA71.16 van de Wereld Gezondheidsorganisatie luiden als volgt:
 
@@ -1994,9 +1994,9 @@ De eisen die verband houden met de uitvoering van Resolutie WHA71.16 van de Were
 
 - 14.1.1. Documented procedures are established and maintained to define, record, report, analyse and learn from accidents and incidents involving poliovirus materials.
 
-## Bijlage 3. ex [artikel 14b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=IIA&artikel=14b&z=2025-07-01&g=2025-07-01), van de Regeling publieke gezondheid
+## Bijlage 3. ex [artikel 14b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=IIA&artikel=14b&z=2026-04-01&g=2026-04-01), van de Regeling publieke gezondheid
 
-- 1. In afwijking van [artikel 14b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=IIA&artikel=14b&z=2025-07-01&g=2025-07-01), van de Regeling publieke gezondheid zijn de onder punt 2 genoemde eisen niet van toepassing op de onder punt 3 genoemde typen poliovirus.
+- 1. In afwijking van [artikel 14b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=IIA&artikel=14b&z=2026-04-01&g=2026-04-01), van de Regeling publieke gezondheid zijn de onder punt 2 genoemde eisen niet van toepassing op de onder punt 3 genoemde typen poliovirus.
 
 - 2. De eisen die niet van toepassing zijn op de onder punt 3 genoemde typen poliovirus:
 
