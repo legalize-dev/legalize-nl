@@ -4,7 +4,7 @@ identifier: "BWBR0041001"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2024-10-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041001"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 1. Aan de secretaris-generaal wordt mandaat en machtiging verleend ten aanzien van:
 
-- a. stukken en besluiten met betrekking tot de kennisneming van door of ten behoeve van de MIVD verwerkte gegevens, bedoeld in de [artikelen 74 tot en met 85 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=74);
+- a. het beslissen op bezwaar met betrekking tot primaire besluiten de kennisneming van door of ten behoeve van de MIVD verwerkte gegevens, bedoeld in de [artikelen 74 tot en met 85 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=74);
 
 - b. het beslissen op bezwaar met betrekking tot primaire besluiten tot het weigeren of het intrekken van de verklaring van geen bezwaar, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=8) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10) juncto [artikel 2 van de Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=2) indien het advies van de Bezwarencommissie Veiligheidsonderzoeken Defensie wordt gevolgd.
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Ondermandaat door secretaris-generaal
 
-De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aan de plaatsvervangend secretaris-generaal ten aanzien van de bevoegdheid, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01).
+De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aan de plaatsvervangend secretaris-generaal ten aanzien van de bevoegdheid, bedoeld in [artikel 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01).
 
 #### Paragraaf 3. Mandaat [Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277)
 
@@ -122,35 +122,41 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 #### Paragraaf 4. Mandaat [Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
 
-##### Artikel 6. Mandaat directeur MIVD algemene en bijzondere bevoegdheden
+##### Artikel 6. Mandaat directeur MIVD algemene en bijzondere bevoegdheden, uitbrengen van verslag omtrent uitoefening enkele bijzondere bevoegdheden en nemen van primaire besluiten ten aanzien van aanvragen kennisneming persoonsgegevens en andere gegevens
 
-1. Mandaat en machtiging worden verleend aan de directeur van de MIVD ten aanzien van het verlenen van toestemming voor de uitoefening van algemene en bijzondere bevoegdheden zoals bedoeld in:
+1. Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien van het verlenen van toestemming voor de uitoefening van algemene en bijzondere bevoegdheden en het uitbrengen van verslag omtrent de uitoefening van enkele bijzondere bevoegdheden zoals bedoeld in:
 
-- a. [artikel 38, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=38);
+- a. de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=38), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=40), [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=41), [42, eerste lid, onder a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=42), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=47), [48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=48), [49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=49), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=50) en [55, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=55);
 
-- b. [artikel 40, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=40), tenzij de toestemming in het concrete geval voor de eerste keer wordt verleend;
+- b. [artikel 58, derde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=58), indien de minister toestemming heeft verleend voor inzet van bijzondere bevoegdheden binnen een woning en die toestemming rechtmatig is bevonden door de toetsingscommissie;
 
-- c. [artikel 41, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=41), tenzij:
+- c. de [artikelen 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=59), en [72, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=72).
 
-- 1°. de natuurlijke persoon belast wordt met het verrichten van handelingen die tot gevolg hebben dat medewerking wordt verleend aan het plegen van een strafbaar feit dan wel dat een strafbaar feit wordt gepleegd, of
+2. Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien van stukken en het nemen van primaire besluiten met betrekking tot de kennisneming van door of ten behoeve van de MIVD verwerkte gegevens, bedoeld in de [artikelen 74 tot en met 85 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=74).
 
-- 2°. de toestemming in het concrete geval voor de eerste keer wordt verleend;
-
-- d. [artikel 42, eerste lid, onder a en b, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=42), tenzij de toestemming in het concrete geval voor de eerste keer wordt verleend;
-
-- e. [artikel 42, eerste lid, onder c, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=42);
-
-- f. de [artikelen 47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=47), [48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=48), [49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=49), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=50) en [55, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=55);
-
-- g. [artikel 58, derde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=58), indien de Minister toestemming heeft verleend voor inzet van bijzondere bevoegdheden binnen een woning en die toestemming rechtmatig is bevonden door de toetsingscommissie;
-
-- h. [artikel 72, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=72).
-
-2. Het verlenen van toestemming voor de uitoefening van de in het eerste lid bedoelde bevoegdheden door de directeur MIVD is uitgesloten, indien de uitoefening van de bevoegdheden betrekking heeft op onderwerpen met een principieel beleidsmatig of politiek gevoelig karakter of wanneer de bevoegdheden worden uitgevoerd binnen woningen.
+3. Het verlenen van toestemming voor de uitoefening van de in het eerste en tweede lid bedoelde bevoegdheden door de directeur MIVD is uitgesloten, indien de uitoefening van de bevoegdheden betrekking heeft op onderwerpen met een principieel beleidsmatig of politiek gevoelig karakter of wanneer de bevoegdheden worden uitgevoerd binnen woningen.
 
 ##### Artikel 7. Ondermandaat algemene en bijzondere bevoegdheden
 
-De directeur van de MIVD wordt toegestaan ondermandaat te verlenen ten aanzien van de bevoegdheden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2024-10-01&g=2024-10-01), aan de onder hem ressorterende functionarissen ten aanzien van de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=38), [42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=42), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=50), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=72) en [86, tweede lid juncto vijfde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=86). Een afschrift van dit besluit wordt aan de Minister verzonden.
+1. De directeur van de MIVD wordt toegestaan schriftelijk ondermandaat en ondermachtiging te verlenen voor de bevoegdheden bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2026-04-01&g=2026-04-01), aan de onder hem ressorterende functionarissen ten aanzien van:
+
+- a. [artikel 38, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=38);
+
+- b. [artikel 40, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=40), tenzij de toestemming in het concrete geval voor de eerste keer wordt verleend;
+
+- c. [artikel 41, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=41), tenzij:
+
+- 1°. de natuurlijke persoon belast wordt met het verrichten van handelingen die tot gevolg hebben dat medewerking wordt verleend aan het plegen van een strafbaar feit dan wel dat een strafbaar feit wordt gepleegd, of
+
+- 2°. de toestemming in het concrete geval voor de eerste keer wordt verleend.
+
+- d. [artikel 42, eerste lid, onder a en b, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=42), tenzij de toestemming in het concrete geval voor de eerste keer wordt verleend;
+
+- e. [artikel 42, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=42), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=50), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=72) en [86, tweede en vijfde lid van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=86),
+
+2. De directeur van de MIVD wordt toegestaan schriftelijk ondermandaat en ondermachtiging te verlenen aan de plaatsvervangend directeur MIVD ten aanzien van de bevoegdheid bedoeld in artikel 59, eerste lid, en van stukken en het nemen van primaire besluiten met betrekking tot de kennisneming van door of ten behoeve van de MIVD verwerkte gegevens, bedoeld in de [artikelen 74 tot en met 85 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=74).
+
+3. Een afschrift van het besluit, bedoeld in het eerste en tweede lid, wordt aan de minister verzonden.
 
 ##### Artikel 8. Mandaat directeur MIVD samenwerking MIVD met andere instanties
 
@@ -160,9 +166,13 @@ De directeur van de MIVD wordt toegestaan ondermandaat te verlenen ten aanzien v
 
 - b. [Artikel 88, vierde lid juncto vijfde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88), voor zover het de voortzetting van een samenwerkingsrelatie betreft, tenzij een hernieuwde weging van de in [artikel 88, derde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88) genoemde criteria tot de conclusie leidt dat er sprake is van een risico bij de samenwerking;
 
-- c. [Artikel 89, vierde lid, juncto zesde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=89), tenzij de verzochte ondersteuning betrekking heeft op de uitoefening van bijzondere bevoegdheden zoals genoemd in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&sub-paragraaf=3.2.5), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&paragraaf=4.2) of [4.3 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&paragraaf=4.3) en met dien verstande dat er toestemming is ingevolge [artikel 88 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88) om met de desbetreffende dienst samen te werken.
+- c. [Artikel 89, vierde lid, juncto zesde lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=89), tenzij de verzochte ondersteuning betrekking heeft op de uitoefening van bijzondere bevoegdheden zoals genoemd in [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&sub-paragraaf=3.2.5), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&paragraaf=4.2) of [4.3 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&paragraaf=4.3) en met dien verstande dat er toestemming is ingevolge [artikel 88 van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=88) om met de desbetreffende dienst samen te werken;
 
-2. De directeur van de MIVD informeert de Minister onverwijld over de in het eerste lid, onderdelen b en c, verleende toestemming.
+- d. [artikel 95, eerste lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=95);
+
+- e. [artikel 95, tweede lid, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=95) voor zover het schriftelijk verzoek betrekking heeft op de uitoefening van bevoegdheden zoals bedoeld in de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=38), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=40), [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=41), [42, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=42) en [72, eerste lid van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=72) en het geen onderwerp betreft met een principieel beleidsmatig of politiek gevoelig karakter.
+
+2. De directeur van de MIVD informeert de minister zo spoedig mogelijk over de in het eerste lid, onderdelen b en c, verleende toestemming en het verzoek als bedoeld in onderdelen d en e.
 
 ##### Artikel 9. Mandaat directeur MIVD externe verstrekking van gegevens
 
@@ -184,7 +194,7 @@ Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien va
 
 ##### Artikel 11. Afwezigheid of verhindering
 
-Bij afwezigheid of verhindering van de directeur van de MIVD treedt diens plaatsvervanger in de in de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2024-10-01&g=2024-10-01) bedoelde gevallen voor de duur van de afwezigheid of verhindering in diens plaats.
+Bij afwezigheid of verhindering van de directeur van de MIVD treedt diens plaatsvervanger in de in de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2026-04-01&g=2026-04-01) bedoelde gevallen voor de duur van de afwezigheid of verhindering in diens plaats.
 
 #### Paragraaf 5. Overige bepalingen
 
@@ -200,7 +210,7 @@ De mandataris maakt geen gebruik van een aan hem verleend mandaat in de gevallen
 
 ##### Artikel 14. Ondertekening
 
-1. Ondertekening van besluiten en stukken door de secretaris-generaal met betrekking tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2024-10-01&g=2024-10-01) bedoelde mandaat vindt plaats op de volgende wijze:
+1. Ondertekening van besluiten en stukken door de secretaris-generaal met betrekking tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01) bedoelde mandaat vindt plaats op de volgende wijze:
 
 DE MINISTER VAN DEFENSIE
 
@@ -212,7 +222,7 @@ Handtekening
 
 Naam
 
-2. Ondertekening van besluiten en stukken door de Directeur van de MIVD met betrekking tot het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=4&z=2024-10-01&g=2024-10-01) en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2024-10-01&g=2024-10-01) bedoelde mandaat vindt plaats op de volgende wijze:
+2. Ondertekening van besluiten en stukken door de Directeur van de MIVD met betrekking tot het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01) en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2026-04-01&g=2026-04-01) bedoelde mandaat vindt plaats op de volgende wijze:
 
 DE MINISTER VAN DEFENSIE
 
@@ -224,7 +234,7 @@ Handtekening
 
 Naam en militaire rang
 
-3. Ondertekening van besluiten en stukken door de functionarissen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2024-10-01&g=2024-10-01) van deze regeling, met betrekking tot het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2024-10-01&g=2024-10-01) bedoelde mandaat vindt plaats op de volgende wijze:
+3. Ondertekening van besluiten en stukken door de functionarissen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2026-04-01&g=2026-04-01) van deze regeling, met betrekking tot het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=3&artikel=5&z=2026-04-01&g=2026-04-01) bedoelde mandaat vindt plaats op de volgende wijze:
 
 DE MINISTER VAN DEFENSIE
 
