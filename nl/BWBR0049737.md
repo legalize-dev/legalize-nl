@@ -4,7 +4,7 @@ identifier: "BWBR0049737"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2025-12-23"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049737"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Beoordelingskader:** het Beoordelingskader impactvolle zorgtransformaties en inzet transformatiemiddelen waaraan een transformatieplan wordt getoetst zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&bijlage=I&z=2025-12-23&g=2025-12-23);
+- **Beoordelingskader:** het Beoordelingskader impactvolle zorgtransformaties en inzet transformatiemiddelen waaraan een transformatieplan wordt getoetst zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&bijlage=I&z=2026-04-01&g=2026-04-01);
 
 - **bestuurlijke afspraken:** afspraken tussen het Rijk en gemeenten zoals vastgelegd in het GALA en het IZA;
 
@@ -96,7 +96,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 ##### Artikel 5. Uitkeringsplafond
 
-1. Het uitkeringsplafond voor aanvragen op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=3&z=2025-12-23&g=2025-12-23) bedraagt voor de gehele looptijd van de regeling € 185.742.677.
+1. Het uitkeringsplafond voor aanvragen op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=3&z=2026-04-01&g=2026-04-01) bedraagt voor de gehele looptijd van de regeling € 352.973.325.
 
 2. Het ingevolge het uitkeringsplafond beschikbare bedrag wordt verdeeld op volgorde van binnenkomst van volledige aanvragen.
 
@@ -122,7 +122,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 ##### Artikel 7. Verlening en bevoorschotting
 
-1. De Minister beslist binnen 10 weken na ontvangst van de aanvraag.
+1. De Minister beslist binnen 13 weken na ontvangst van de aanvraag.
 
 2. Het besluit tot verlening van een specifieke uitkering vermeldt in elk geval:
 
@@ -196,7 +196,7 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering transformatiemiddelen IZA & AZWA 2024–2028.
 
-## Bijlage I. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=1&z=2025-12-23&g=2025-12-23)
+## Bijlage I. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=1&z=2026-04-01&g=2026-04-01)
 
 ### Beoordelingskader impactvolle zorgtransformaties en inzet transformatiemiddelen
 
