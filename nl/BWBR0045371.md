@@ -4,7 +4,7 @@ identifier: "BWBR0045371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2026-02-06"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045371"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eer
 
 ##### Artikel 11
 
-1. Het opleidingsprogramma bevat een examenreglement als bedoeld in [artikel 15, tweede lid, onder e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=15) waarin in ieder geval is opgenomen:
+1. Het opleidingsprogramma bevat voor zover het geen opleiding betreft ten aanzien van taken die op grond van [EU-verordening 2015/1998](31998R2015) slechts mogen worden uitgevoerd door gecertificeerd personeel een examenreglement als bedoeld in [artikel 15, tweede lid, onder e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=15) waarin in ieder geval is opgenomen:
 
 - a. alle voor de opleiding relevante eindtermen;
 
@@ -140,7 +140,7 @@ De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eer
 
 - f. een beschrijving van de wijze waarop eenmaal een herexamen kan worden gedaan.
 
-2. De kandidaat die met goed gevolg examen heeft gedaan in alle modules van een opleiding ontvangt als bewijs daarvan een certificaat.
+2. De kandidaat die met goed gevolg examen heeft gedaan in alle modules van een opleiding ontvangt als bewijs daarvan een diploma.
 
 ##### Artikel 12
 
@@ -198,11 +198,15 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 ##### Artikel 16
 
-1. De organisatie waarvoor beveiligingstaken worden uitgeoefend, draagt zorg voor doorlopende bijscholing van zijn overeenkomstig [artikel 22 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=22) erkend beveiligingspersoneel.
+1. De procedure om de bekwaamheid van personen als bedoeld in [artikel 37rd van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rd) vast te stellen, omvat in ieder geval een door de Minister van Justitie en Veiligheid vastgestelde:
 
-2. De frequentie waarmee de bijscholing moet worden gedaan is afhankelijk van de aard van de vaardigheden die behoren bij de uitoefening van die beveiligingstaken.
+- a. theoretische test om te beoordelen of de persoon over de theoretische kennis beschikt die nodig is om de toegewezen taken uit te voeren,
 
-3. Beveiligingstaken mogen niet worden uitgeoefend door een personeelslid dat niet tijdig is bijgeschoold.
+- b. praktijktest om te beoordelen of de persoon over de vaardigheden beschikt die nodig zijn om de toegewezen taken uit te voeren, en
+
+- c. beeldinterpretatietest, voor personen die röntgen- of EDS-apparatuur bedienen.
+
+2. De kandidaat die met goed gevolg de in het eerste lid bedoelde procedure heeft doorlopen, ontvangt als bewijs daarvan een certificaat.
 
 ##### Artikel 17
 
@@ -212,7 +216,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 3. De aanvrager om erkenning van zijn beroepskwalificaties als bedoeld in het tweede lid legt bij zijn aanvraag de volgende voor de beoordeling van die aanvraag van belang zijnde gegevens en bescheiden over:
 
-- a. een door het bevoegde gezag in de staat waar de opleiding is gevolgd gewaarmerkt kopie van het certificaat waaruit blijkt dat de aanvrager een opleiding, vergelijkbaar met die als bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045371&paragraaf=5&sub-paragraaf=5.3&artikel=15&z=2026-02-06&g=2026-02-06), dan wel een bewijs waaruit blijkt dat met goed gevolg een examen is afgelegd met het oog op de uitoefening van een door de aanvrager gewenste beveiligingstaak bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=22);
+- a. een door het bevoegde gezag in de staat waar de opleiding is gevolgd gewaarmerkt kopie van het certificaat waaruit blijkt dat de aanvrager een opleiding, vergelijkbaar met die als bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045371&paragraaf=5&sub-paragraaf=5.3&artikel=15&z=2026-04-01&g=2026-04-01), dan wel een bewijs waaruit blijkt dat met goed gevolg een examen is afgelegd met het oog op de uitoefening van een door de aanvrager gewenste beveiligingstaak bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=22);
 
 - b. een overzicht van de vakken die onderdeel hebben uitgemaakt van de betreffende opleiding en een leerstofomschrijving van de vakken en daarbij behorende studietijd;
 
@@ -268,11 +272,9 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 - c. het erkennen van instructeurs, bedoeld in [artikel 37re, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37re);
 
-- d. het erkennen van personeel, bedoeld in [artikel 37rd, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rd);
+- d. het opleggen van een last onder bestuursdwang als bedoeld in [artikel 37u, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37u);
 
-- e. het opleggen van een last onder bestuursdwang als bedoeld in [artikel 37u, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37u);
-
-- f. het behandelen van een klacht als bedoeld in [artikel 37v, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37v).
+- e. het behandelen van een klacht als bedoeld in [artikel 37v, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37v).
 
 2. De commandant van de Koninklijke marechaussee kan voor de aangelegenheden bedoeld in het eerste lid ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
