@@ -4,7 +4,7 @@ identifier: "BWBR0045408"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2025-02-12"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045408"
 soort: "ministeriele-regeling"
@@ -112,7 +112,13 @@ De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verorden
 
 - –. voor mageremelkpoeder met toegevoegde plantaardige vetten, uiterlijk op de twintigste dag van elke maand voor de voorgaande maand;
 
-- –. met ingang van 1 maart 2026: voor tomaten uiterlijk op 31 mei voor het voorgaande jaar en voor appelen uiterlijk op 31 maart voor het voorgaande jaar.
+- –. met ingang van 1 maart 2026: voor tomaten uiterlijk op 31 mei voor het voorgaande jaar en voor appelen uiterlijk op 31 maart voor het voorgaande jaar;
+
+- –. het met hennep, als bedoeld in artikel 189, eerste lid, punt a, van [Verordening (EU) nr. 1308/2013](32013R1308), beplante areaal voor het voorgaande verkoopseizoen en een raming voor het lopende verkoopseizoen, jaarlijks uiterlijk op 15 oktober voor het beplante areaal;
+
+- –. de productie van hennepvezels voor het voorgaande verkoopseizoen en een raming voor het lopende verkoopseizoen, jaarlijks uiterlijk op 15 oktober;
+
+- –. de gewogen gemiddelde prijzen, af fabriek, van het voorgaande verkoopseizoen, zoals genoteerd op de voornaamste representatieve markten voor hennepvezel, jaarlijks uiterlijk op 15 oktober.
 
 4. Degene die ingevolge deze regeling gegevens moet melden doet dat op de daartoe bestemde wijze, volledig, juist en naar waarheid.
 
