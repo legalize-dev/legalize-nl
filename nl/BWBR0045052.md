@@ -4,7 +4,7 @@ identifier: "BWBR0045052"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2024-04-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045052"
 soort: "ministeriele-regeling"
@@ -96,25 +96,25 @@ De minister is bevoegd tot aanwijzing van nationale referentielaboratoria als be
 
 ##### Artikel 3. Erkend laboratorium nationaal en intracommunautair
 
-1. De onderzoeken, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), worden uitgevoerd met de in die bijlage opgenomen testmethodes voor het desbetreffende onderzoek, door een daartoe door de minister ingevolge artikel 37 van verordening (EU) nr. 2017/625 erkend laboratorium.
+1. De onderzoeken, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), worden uitgevoerd met de in die bijlage opgenomen testmethodes voor het desbetreffende onderzoek, door een daartoe door de minister ingevolge artikel 37 van verordening (EU) nr. 2017/625 erkend laboratorium.
 
-2. De minister verleent een erkenning aan een laboratorium voor een of meer in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01) opgenomen testmethodes, indien is voldaan aan artikel 37 van verordening (EU) nr. 2017/625 en artikel 7, derde lid.
+2. De minister verleent een erkenning aan een laboratorium voor een of meer in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01) opgenomen testmethodes, indien is voldaan aan artikel 37 van verordening (EU) nr. 2017/625 en artikel 7, derde lid.
 
-3. In aanvulling op de artikelen 37, vierde lid, en 38 van verordening (EU) nr. 2017/625 voldoet een erkend laboratorium als bedoeld in het eerste lid, aan de [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=14&z=2024-04-01&g=2024-04-01) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=18&z=2024-04-01&g=2024-04-01).
+3. In aanvulling op de artikelen 37, vierde lid, en 38 van verordening (EU) nr. 2017/625 voldoet een erkend laboratorium als bedoeld in het eerste lid, aan de [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=14&z=2026-04-01&g=2026-04-01) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=18&z=2026-04-01&g=2026-04-01).
 
 ##### Artikel 4. Erkend laboratorium derde landen voor onderzoeken specifieke dierziekten
 
-1. De onderzoeken, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), worden uitgevoerd met de in die bijlage opgenomen testmethodes voor het desbetreffende onderzoek door een daartoe door de minister ingevolge deze regeling erkend laboratorium wanneer het onderzoek onder toepassing van [artikel 1.59, tweede lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.59) of [artikel 1a.1, tweede lid, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=1a.1) plaatsvindt ten behoeve van uitvoer naar een land, niet zijnde een lidstaat of een andere staat die partij is bij het EER-Verdrag.
+1. De onderzoeken, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), worden uitgevoerd met de in die bijlage opgenomen testmethodes voor het desbetreffende onderzoek door een daartoe door de minister ingevolge deze regeling erkend laboratorium wanneer het onderzoek onder toepassing van [artikel 1.59, tweede lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.59) of [artikel 1a.1, tweede lid, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=1a.1) plaatsvindt ten behoeve van uitvoer naar een land, niet zijnde een lidstaat of een andere staat die partij is bij het EER-Verdrag.
 
-2. De minister verleent een erkenning aan een laboratorium voor een of meer in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01) opgenomen testmethodes, indien is voldaan aan [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2024-04-01&g=2024-04-01).
+2. De minister verleent een erkenning aan een laboratorium voor een of meer in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01) opgenomen testmethodes, indien is voldaan aan [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2026-04-01&g=2026-04-01).
 
-3. Een erkend laboratorium als bedoeld in het eerste lid voldoet aan [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2024-04-01&g=2024-04-01).
+3. Een erkend laboratorium als bedoeld in het eerste lid voldoet aan [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2026-04-01&g=2026-04-01).
 
 ##### Artikel 5. Gelijkstelling
 
-1. Voor het verrichten van één of meer in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01) opgenomen testmethoden kan de minister op aanvraag een laboratorium, gevestigd in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, gelijkstellen met een op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01) erkend laboratorium.
+1. Voor het verrichten van één of meer in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01) opgenomen testmethoden kan de minister op aanvraag een laboratorium, gevestigd in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, gelijkstellen met een op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2026-04-01&g=2026-04-01) erkend laboratorium.
 
-2. Een besluit tot gelijkstelling als bedoeld in het eerste lid wordt genomen indien het laboratorium door de bevoegde autoriteiten van de lidstaat of staat is erkend voor het verrichten van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01) opgenomen testmethode, op basis van criteria waardoor een gelijkwaardig kwaliteits- en betrouwbaarheidsniveau wordt bereikt als op basis van de eisen in onderhavige regeling.
+2. Een besluit tot gelijkstelling als bedoeld in het eerste lid wordt genomen indien het laboratorium door de bevoegde autoriteiten van de lidstaat of staat is erkend voor het verrichten van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01) opgenomen testmethode, op basis van criteria waardoor een gelijkwaardig kwaliteits- en betrouwbaarheidsniveau wordt bereikt als op basis van de eisen in onderhavige regeling.
 
 3. Bij een aanvraag tot gelijkstelling als bedoeld in het eerste lid worden documenten overgelegd waaruit blijkt dat het laboratorium voldoet aan het bepaalde in het tweede lid.
 
@@ -128,17 +128,17 @@ Het laboratorium is gelegen op Nederlands grondgebied.
 
 1. Het laboratorium is door de Raad voor Accreditatie geaccrediteerd, conform NEN-EN-ISO/IEC 17025, voor de testmethode waarvoor de erkenning wordt aangevraagd.
 
-2. Indien het laboratorium een erkenning aanvraagt voor een testmethode als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), uitgezonderd de testmethodes, genoemd in die bijlage, onder 3, 4, 6, 8 of 15, is mede uit een audit, uitgevoerd door het bevoegde NRL, gebleken dat de testmethode overeenkomstig de door het laboratorium in het kader van de accreditatie, bedoeld in het eerste lid, opgestelde documentatie en analysevoorschriften wordt uitgevoerd.
+2. Indien het laboratorium een erkenning aanvraagt voor een testmethode als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), uitgezonderd de testmethodes, genoemd in die bijlage, onder 3, 4, 6, 8 of 15, is mede uit een audit, uitgevoerd door het bevoegde NRL, gebleken dat de testmethode overeenkomstig de door het laboratorium in het kader van de accreditatie, bedoeld in het eerste lid, opgestelde documentatie en analysevoorschriften wordt uitgevoerd.
 
-3. Indien het laboratorium een erkenning aanvraagt voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), uitgezonderd de testmethodes, genoemd in die bijlage onder 4, 5, 7, 12, 14, 18, 19 of 20, is mede uit een audit, uitgevoerd door het bevoegde NRL, gebleken dat de testmethode overeenkomstig de door het laboratorium in het kader van de accreditatie, bedoeld in artikel 37, vierde lid, onderdeel e, van verordening (EU) nr. 2017/625, opgestelde documentatie en analysevoorschriften wordt uitgevoerd.
+3. Indien het laboratorium een erkenning aanvraagt voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), uitgezonderd de testmethodes, genoemd in die bijlage onder 4, 5, 7, 12, 14, 18, 19 of 20, is mede uit een audit, uitgevoerd door het bevoegde NRL, gebleken dat de testmethode overeenkomstig de door het laboratorium in het kader van de accreditatie, bedoeld in artikel 37, vierde lid, onderdeel e, van verordening (EU) nr. 2017/625, opgestelde documentatie en analysevoorschriften wordt uitgevoerd.
 
 ##### Artikel 8. Uitzondering accreditatie
 
-Indien het laboratorium niet beschikt over de accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2024-04-01&g=2024-04-01), wordt voldaan aan de volgende voorwaarden:
+Indien het laboratorium niet beschikt over de accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2026-04-01&g=2026-04-01), wordt voldaan aan de volgende voorwaarden:
 
 - a. de aanvraag voor de accreditatie is ingediend bij de Raad voor Accreditatie, en
 
-- b. mede uit een audit, uitgevoerd door het bevoegde NRL, is gebleken dat de testmethode, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), uitgezonderd de testmethodes, genoemd in de bijlage onder 3, 4, 6, 8 of 15, overeenkomstig de door het laboratorium in het kader van die accreditatie opgestelde documentatie en analysevoorschriften wordt uitgevoerd.
+- b. mede uit een audit, uitgevoerd door het bevoegde NRL, is gebleken dat de testmethode, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), uitgezonderd de testmethodes, genoemd in de bijlage onder 3, 4, 6, 8 of 15, overeenkomstig de door het laboratorium in het kader van die accreditatie opgestelde documentatie en analysevoorschriften wordt uitgevoerd.
 
 ##### Artikel 9. Ringtest
 
@@ -146,39 +146,39 @@ Het laboratorium heeft deelgenomen aan een ringtest, georganiseerd door het bevo
 
 ##### Artikel 10. Rabiës
 
-Een laboratorium dat een erkenning voor de testmethode, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 10, aanvraagt, is met gunstig resultaat beoordeeld door laboratorium Laboratoire d’études sur la rage et la pathologie des animaux sauvages, te Nancy van de Agence française de sécurité sanitaire des aliments Nancy (AFSSA Nancy).
+Een laboratorium dat een erkenning voor de testmethode, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 10, aanvraagt, is met gunstig resultaat beoordeeld door laboratorium Laboratoire d’études sur la rage et la pathologie des animaux sauvages, te Nancy van de Agence française de sécurité sanitaire des aliments Nancy (AFSSA Nancy).
 
 #### Paragraaf 3. Aanvraag voor erkenning
 
 ##### Artikel 11. Aanvraag
 
-1. De aanvraag voor een erkenning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=3&z=2024-04-01&g=2024-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01) of [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2024-04-01&g=2024-04-01), wordt gedaan met een door de minister ter beschikking gesteld middel.
+1. De aanvraag voor een erkenning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=3&z=2026-04-01&g=2026-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2026-04-01&g=2026-04-01) of [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2026-04-01&g=2026-04-01), wordt gedaan met een door de minister ter beschikking gesteld middel.
 
 2. Bij de aanvraag worden in ieder geval de volgende gegevens overgelegd:
 
-- a. bij een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=3&z=2024-04-01&g=2024-04-01): het bewijs van accreditatie, bedoeld in artikel 37, vierde lid, onderdeel e, van [verordening nr. 2017/625](32525R2017);
+- a. bij een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=3&z=2026-04-01&g=2026-04-01): het bewijs van accreditatie, bedoeld in artikel 37, vierde lid, onderdeel e, van [verordening nr. 2017/625](32525R2017);
 
-- b. bij een aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01):
+- b. bij een aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2026-04-01&g=2026-04-01):
 
-- 1°. het bewijs van accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2024-04-01&g=2024-04-01), of een kopie van de aanvraag voor een accreditatie, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=8&z=2024-04-01&g=2024-04-01), en
+- 1°. het bewijs van accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2026-04-01&g=2026-04-01), of een kopie van de aanvraag voor een accreditatie, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=8&z=2026-04-01&g=2026-04-01), en
 
-- 2°. indien [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=8&z=2024-04-01&g=2024-04-01) van toepassing is, de door het laboratorium in het kader van de accreditatie, opgestelde documentatie en analysevoorschriften;
+- 2°. indien [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=8&z=2026-04-01&g=2026-04-01) van toepassing is, de door het laboratorium in het kader van de accreditatie, opgestelde documentatie en analysevoorschriften;
 
-- c. bij een aanvraag voor een erkenning als bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2024-04-01&g=2024-04-01): het bewijs van accreditatie, bedoeld in artikel 4a, tweede lid, onderdeel c.
+- c. bij een aanvraag voor een erkenning als bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2026-04-01&g=2026-04-01): het bewijs van accreditatie, bedoeld in artikel 4a, tweede lid, onderdeel c.
 
-3. Bij een aanvraag voor een erkenning voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 1, wordt tevens een technische omschrijving van het elektronisch in- en uitslagregister, bedoeld in [artikel 18, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=18&z=2024-04-01&g=2024-04-01), overgelegd.
+3. Bij een aanvraag voor een erkenning voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 1, wordt tevens een technische omschrijving van het elektronisch in- en uitslagregister, bedoeld in [artikel 18, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=18&z=2026-04-01&g=2026-04-01), overgelegd.
 
-4. Bij een aanvraag voor een erkenning voor de testmethode, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 10, worden tevens documenten overgelegd waaruit blijkt dat het laboratorium voldoet aan het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=10&z=2024-04-01&g=2024-04-01).
+4. Bij een aanvraag voor een erkenning voor de testmethode, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 10, worden tevens documenten overgelegd waaruit blijkt dat het laboratorium voldoet aan het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=10&z=2026-04-01&g=2026-04-01).
 
 #### Paragraaf 4. Verplichtingen van een erkend laboratorium
 
 ##### Artikel 12. Accreditatie na erkenning
 
-Indien de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01) is verleend terwijl het laboratorium niet beschikt over de accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2024-04-01&g=2024-04-01), dient het laboratorium binnen zes maanden na de datum waarop de erkenning, bedoeld in artikel 4 is verleend, geaccrediteerd te zijn overeenkomstig artikel 7, eerste lid.
+Indien de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2026-04-01&g=2026-04-01) is verleend terwijl het laboratorium niet beschikt over de accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2026-04-01&g=2026-04-01), dient het laboratorium binnen zes maanden na de datum waarop de erkenning, bedoeld in artikel 4 is verleend, geaccrediteerd te zijn overeenkomstig artikel 7, eerste lid.
 
 ##### Artikel 13. Testmethode
 
-1. Het laboratorium verricht een onderzoek als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), met de testmethode waarvoor het laboratorium erkend is.
+1. Het laboratorium verricht een onderzoek als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), met de testmethode waarvoor het laboratorium erkend is.
 
 2. Het laboratorium voert de testmethodes uit met reagentia of testkits waarvan de uitgangswaarden voldoen aan de Europese regelgeving of goede laboratoriumpraktijken, zoals gecontroleerd door het bevoegde NRL.
 
@@ -186,7 +186,7 @@ Indien de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 1. Het laboratorium meldt niet-negatieve testresultaten, voor zover de testresultaten betrekking hebben op een aangewezen besmettelijke dierziekte als bedoeld in de [artikelen 2.1](onbekend) en [2.2](onbekend), voor zover het gaat om een infectie met Sars-Cov-2, van de [Regeling diergezondheid](onbekend), onmiddellijk telefonisch en elektronisch aan de minister en stuurt de monsters direct naar het bevoegde NRL voor bevestigingsonderzoek.
 
-2. In afwijking van het eerste lid, stuurt het laboratorium monsters die niet-negatieve testresultaten geven van het onderzoek, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 8, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), onder 7, enkel aan het bevoegde Nationaal Referentie Laboratorium, indien het testresultaat een uitslag van een test uitgevoerd volgens de gE-Elisa testmethode betreft. Het laboratorium meldt daarnaast niet-negatieve testresultaten van het onderzoek, bedoeld in bijlage 1, onder 8, en bijlage 2, onder 7, eveneens in afwijking van het eerste lid, enkel aan de minister, indien het testresultaat een uitslag van een test uitgevoerd volgens de gE-Elisa testmethode betreft.
+2. In afwijking van het eerste lid, stuurt het laboratorium monsters die niet-negatieve testresultaten geven van het onderzoek, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 8, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), onder 7, enkel aan het bevoegde Nationaal Referentie Laboratorium, indien het testresultaat een uitslag van een test uitgevoerd volgens de gE-Elisa testmethode betreft. Het laboratorium meldt daarnaast niet-negatieve testresultaten van het onderzoek, bedoeld in bijlage 1, onder 8, en bijlage 2, onder 7, eveneens in afwijking van het eerste lid, enkel aan de minister, indien het testresultaat een uitslag van een test uitgevoerd volgens de gE-Elisa testmethode betreft.
 
 3. Bij het melden van een niet-negatieve uitslag aan de minister, als bedoeld in het eerste lid, vermeldt het laboratorium telkens:
 
@@ -196,7 +196,7 @@ Indien de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 15. Rapportage
 
-Het laboratorium rapporteert elk kwartaal aan de minister elektronisch over de in dat kwartaal uitgevoerde onderzoeken, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), alsmede over de uitslagen van die onderzoeken, overeenkomstig een door de minister opgesteld format.
+Het laboratorium rapporteert elk kwartaal aan de minister elektronisch over de in dat kwartaal uitgevoerde onderzoeken, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), alsmede over de uitslagen van die onderzoeken, overeenkomstig een door de minister opgesteld format.
 
 ##### Artikel 16. Monitoring
 
@@ -210,65 +210,65 @@ Het laboratorium rapporteert elk kwartaal aan de minister elektronisch over de i
 
 3. In aanvulling op het tweede lid bestaat de in het eerste lid bedoelde monitoring uit:
 
-- a. ten minste één keer per jaar een audit voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 1 tot en met 3, 6, 8 tot en met 11, 13, 15 tot en met 17, 21 tot en met 27 en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), onder 1, 2, 5, 7, 9 tot en met 11, 17, 20, 21, 23 en 25;
+- a. ten minste één keer per jaar een audit voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 1 tot en met 3, 6, 8 tot en met 11, 13, 15 tot en met 17, 21 tot en met 27 en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), onder 1, 2, 5, 7, 9 tot en met 11, 17, 20, 21, 23 en 25;
 
-- b. het uitvoeren van controletesten op monsters met een negatieve testuitslag, die zijn onderzocht met een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 2, 3, 8, 13, 15 en 21 tot en met 27 en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), onder 1, 2, 7, 9 tot en met 11, 17, 20, 21, 23 en 25.
+- b. het uitvoeren van controletesten op monsters met een negatieve testuitslag, die zijn onderzocht met een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 2, 3, 8, 13, 15 en 21 tot en met 27 en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), onder 1, 2, 7, 9 tot en met 11, 17, 20, 21, 23 en 25.
 
 4. Indien een laboratorium beschikt over meer dan één erkenning, worden de audits, bedoeld in het derde lid, onder a, gecombineerd uitgevoerd.
 
-5. Het laboratorium dat is erkend voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 2, 3, 8, 13, 15 en 21 tot en met 27 en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2024-04-01&g=2024-04-01), onder 1, 2, 7, 9 tot en met 11, 17, 20, 21, 23 en 25 zendt jaarlijks 10% van de onderzochte monsters met een negatieve testuitslag, tot een maximum van 250 monsters per testmethode, aan het bevoegde NRL, tenzij het door het bevoegde NRL in kennis is gesteld van het feit dat in het betrokken kalenderjaar reeds 250 of meer monsters, onderzocht met de desbetreffende testmethode, zijn ontvangen.
+5. Het laboratorium dat is erkend voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 2, 3, 8, 13, 15 en 21 tot en met 27 en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=2&z=2026-04-01&g=2026-04-01), onder 1, 2, 7, 9 tot en met 11, 17, 20, 21, 23 en 25 zendt jaarlijks 10% van de onderzochte monsters met een negatieve testuitslag, tot een maximum van 250 monsters per testmethode, aan het bevoegde NRL, tenzij het door het bevoegde NRL in kennis is gesteld van het feit dat in het betrokken kalenderjaar reeds 250 of meer monsters, onderzocht met de desbetreffende testmethode, zijn ontvangen.
 
 ##### Artikel 17. Verstrekken resultaten
 
-Het NRL, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=16&z=2024-04-01&g=2024-04-01), verstrekt de resultaten van:
+Het NRL, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=16&z=2026-04-01&g=2026-04-01), verstrekt de resultaten van:
 
-- a. de audit, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2024-04-01&g=2024-04-01);
+- a. de audit, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2026-04-01&g=2026-04-01);
 
-- b. de ringtest, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=9&z=2024-04-01&g=2024-04-01); en
+- b. de ringtest, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=9&z=2026-04-01&g=2026-04-01); en
 
-- c. de monitoring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=16&z=2024-04-01&g=2024-04-01),
+- c. de monitoring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&artikel=16&z=2026-04-01&g=2026-04-01),
 
 uitsluitend aan de minister en het desbetreffende laboratorium.
 
 ##### Artikel 18. Erkend laboratorium BSE
 
-In aanvulling op de voorgaande artikelen, voldoet een laboratorium dat erkend is voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 1, aan de volgende vereisten:
+In aanvulling op de voorgaande artikelen, voldoet een laboratorium dat erkend is voor een testmethode als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 1, aan de volgende vereisten:
 
 - a. artikel 6, derde lid, van de TSE-verordening;
 
-- b. het verleent geen inzage in en doet geen mededelingen over resultaten van de onderzoeken, anders dan aan de ambtenaren, belast met het toezicht op de naleving van deze regeling, aan medewerkers van Wageningen Bioveterinary Research, te Lelystad, die werkzaamheden verrichten in het kader van de uitvoering van de taken, bedoeld in bijlage X, hoofdstukken A en C, van de TSE-verordening, alsmede aan medewerkers van de Raad voor Accreditatie, die werkzaamheden verrichten in het kader van het verlenen van de accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2024-04-01&g=2024-04-01);
+- b. het verleent geen inzage in en doet geen mededelingen over resultaten van de onderzoeken, anders dan aan de ambtenaren, belast met het toezicht op de naleving van deze regeling, aan medewerkers van Wageningen Bioveterinary Research, te Lelystad, die werkzaamheden verrichten in het kader van de uitvoering van de taken, bedoeld in bijlage X, hoofdstukken A en C, van de TSE-verordening, alsmede aan medewerkers van de Raad voor Accreditatie, die werkzaamheden verrichten in het kader van het verlenen van de accreditatie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&artikel=7&z=2026-04-01&g=2026-04-01);
 
 - c. het heeft een elektronisch in- en uitslagregister van de monsters operationeel dat is gekoppeld aan een elektronisch register van de minister of van een andere door de minister aangewezen organisatie op een zodanige wijze dat de minister op ieder gewenst moment een koppeling kan leggen tussen de monsters en het individuele rund, waarvan het monster afkomstig is;
 
-- d. het rapporteert maandelijks aan de minister over de in die maand uitgevoerde onderzoeken, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2024-04-01&g=2024-04-01), onder 1, de uitslagen van die onderzoeken en de leeftijd van de onderzochte dieren, overeenkomstig een door de minister opgesteld format.
+- d. het rapporteert maandelijks aan de minister over de in die maand uitgevoerde onderzoeken, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&bijlage=1&z=2026-04-01&g=2026-04-01), onder 1, de uitslagen van die onderzoeken en de leeftijd van de onderzochte dieren, overeenkomstig een door de minister opgesteld format.
 
 #### Paragraaf 5. Schorsing en intrekking van de erkenning
 
 ##### Artikel 19. Schorsing en intrekking erkenning
 
-1. De minister kan de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01), schorsen voor een door hem te bepalen termijn indien het laboratorium niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2024-04-01&g=2024-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2024-04-01&g=2024-04-01).
+1. De minister kan de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2026-04-01&g=2026-04-01), schorsen voor een door hem te bepalen termijn indien het laboratorium niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2026-04-01&g=2026-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2026-04-01&g=2026-04-01).
 
-2. In geval van een schorsing van de erkenning als bedoeld in het eerste lid, voert het laboratorium de desbetreffende testmethode niet uit. Indien de erkenning wordt geschorst omdat het laboratorium niet voldoet aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=3&artikel=11&z=2024-04-01&g=2024-04-01), kan de minister besluiten dat het laboratorium de testmethode mag blijven verrichten.
+2. In geval van een schorsing van de erkenning als bedoeld in het eerste lid, voert het laboratorium de desbetreffende testmethode niet uit. Indien de erkenning wordt geschorst omdat het laboratorium niet voldoet aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=3&artikel=11&z=2026-04-01&g=2026-04-01), kan de minister besluiten dat het laboratorium de testmethode mag blijven verrichten.
 
-3. De minister kan de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01), intrekken indien:
+3. De minister kan de erkenning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2026-04-01&g=2026-04-01), intrekken indien:
 
 - a. het laboratorium zich niet houdt aan het tweede lid;
 
-- b. na afloop van de schorsing, bedoeld in het eerste lid, blijkt dat het laboratorium nog steeds niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2024-04-01&g=2024-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2024-04-01&g=2024-04-01);
+- b. na afloop van de schorsing, bedoeld in het eerste lid, blijkt dat het laboratorium nog steeds niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2026-04-01&g=2026-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2026-04-01&g=2026-04-01);
 
-- c. blijkt dat binnen een periode van twaalf maanden na afloop van de schorsingstermijn, bedoeld in het eerste lid, het laboratorium opnieuw niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2024-04-01&g=2024-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2024-04-01&g=2024-04-01), of
+- c. blijkt dat binnen een periode van twaalf maanden na afloop van de schorsingstermijn, bedoeld in het eerste lid, het laboratorium opnieuw niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2026-04-01&g=2026-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2026-04-01&g=2026-04-01), of
 
-- d. het laboratorium niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2024-04-01&g=2024-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2024-04-01&g=2024-04-01), en naar het oordeel van de minister afbreuk is gedaan aan de correctheid en betrouwbaarheid van de resultaten van het onderzoek.
+- d. het laboratorium niet voldoet aan één of meer voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2026-04-01&g=2026-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2026-04-01&g=2026-04-01), en naar het oordeel van de minister afbreuk is gedaan aan de correctheid en betrouwbaarheid van de resultaten van het onderzoek.
 
-4. Voordat een besluit tot schorsing of intrekking wordt genomen, wordt het laboratorium in de gelegenheid gesteld binnen een bepaalde termijn alsnog aan de voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2024-04-01&g=2024-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2024-04-01&g=2024-04-01) te voldoen.
+4. Voordat een besluit tot schorsing of intrekking wordt genomen, wordt het laboratorium in de gelegenheid gesteld binnen een bepaalde termijn alsnog aan de voorwaarden en verplichtingen als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=2&z=2026-04-01&g=2026-04-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=4&z=2026-04-01&g=2026-04-01) te voldoen.
 
 5. De minister kan de erkenning met onmiddellijke ingang intrekken indien sprake is van een situatie als bedoeld in het derde lid, onderdeel d, en het belang van de dier- en volksgezondheid een intrekking met onmiddellijke ingang vereist.
 
 ##### Artikel 20. Schorsen en intrekking besluit tot gelijkstelling
 
-1. De minister kan een besluit tot gelijkstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=5&z=2024-04-01&g=2024-04-01) schorsen of intrekken indien het laboratorium niet voldoet aan de voorwaarden genoemd in artikel 5, tweede lid.
+1. De minister kan een besluit tot gelijkstelling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=5&z=2026-04-01&g=2026-04-01) schorsen of intrekken indien het laboratorium niet voldoet aan de voorwaarden genoemd in artikel 5, tweede lid.
 
-2. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=5&artikel=19&z=2024-04-01&g=2024-04-01) is van overeenkomstige toepassing.
+2. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=5&artikel=19&z=2026-04-01&g=2026-04-01) is van overeenkomstige toepassing.
 
 #### Paragraaf 6. Overgangs- en slotbepalingen
 
@@ -440,15 +440,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 4. Verplichtingen van een erkend laboratorium
 
-##### Artikel 18a. Verplichtingen laboratorium [artikel 4a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2024-04-01&g=2024-04-01)
+##### Artikel 18a. Verplichtingen laboratorium [artikel 4a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2026-04-01&g=2026-04-01)
 
-Een laboratorium waarop [artikel 4a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2024-04-01&g=2024-04-01), van toepassing is, verstrekt op verzoek van de minister het bewijs van accreditatie als bedoeld in het tweede lid, onderdeel c, van dat artikel.
+Een laboratorium waarop [artikel 4a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4a&z=2026-04-01&g=2026-04-01), van toepassing is, verstrekt op verzoek van de minister het bewijs van accreditatie als bedoeld in het tweede lid, onderdeel c, van dat artikel.
 
 #### Paragraaf 5. Schorsing en intrekking van de erkenning
 
 #### Paragraaf 6. Overgangs- en slotbepalingen
 
-## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=3&z=2024-04-01&g=2024-04-01)
+## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=3&z=2026-04-01&g=2026-04-01)
 
 Ingevolge artikel 6 van verordening (EU) nr. 2020/689 geldt voor de specifieke testmethoden die in onderstaande tabel opgenomen zijn, de volgende cascade:
 
@@ -498,7 +498,7 @@ Ingevolge artikel 6 van verordening (EU) nr. 2020/689 geldt voor de specifieke t
 | 19. Salmonella arizonae Salmonella Gallinarum, biovars gallinarum en pullorum | Monitoring De testen als bedoeld in bijlage II, deel 2 van verordening (EU) nr. 2019/2035. De testen als bedoeld in de [artikelen 7b.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.23) en [7b.27 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.27). | Salmonella Gallinarum, biovars gallinarum en pullorum: SPA Salmonella arizonae: Kweek (bacteriologisch onderzoek) | Salmonella Gallinarum, biovars gallinarum en pullorum: Pluimvee bloedserum Salmonella arizonae: Kalkoen mest | Nvt |
 | 19. Salmonella arizonae Salmonella Gallinarum, biovars gallinarum en pullorum | Monitoring op broederijen De testen als bedoeld in bijlage II deel 1 en 2 van verordening (EU) nr. 2019/2035. | Bacteriologisch onderzoek | – niet-uitgekomen kuikens (in de schaal gestorven embryo’s) – zwakke kuikens; – meconium van kuikens; – dons of stof uit broedmachines en van de muren van de broederij. | Nvt |
 | 20. Zoönotische **Salmonella**, waaronder: **Salmonella** Enteritidis **Salmonella** Typhimurium inclusief monofasische **Salmonella** Typhimurium met de antigene formule **1**,4,[5],12:i:- **Salmonella** Hadar **Salmonella** Infantis **Salmonella** Virchow **Salmonella** Paratyphi B var. Java | Voor alle testen: de testen als bedoeld in: [verordening (EG) nr. 2160/2003](32003R2160) verordening (EU) nr. 200/2010 verordening (EU) nr. 517/2011 verordening (EU) nr. 200/2012 verordening (EU) nr. 1190/2012 De testen als bedoeld in de [artikelen 7b.44 tot en met 7b.47 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.44). | Detectie van **Salmonella** (grensreactie / MSRV) in monsters van de primaire productie wordt uitgevoerd overeenkomstig de recentste versie van norm (NEN-)EN-ISO 6579-1 | Pluimvee producten als mest, dons, ei Omgevingsmonsters | RIVM |
-| 20. Zoönotische **Salmonella**, waaronder: **Salmonella** Enteritidis **Salmonella** Typhimurium inclusief monofasische **Salmonella** Typhimurium met de antigene formule **1**,4,[5],12:i:- **Salmonella** Hadar **Salmonella** Infantis **Salmonella** Virchow **Salmonella** Paratyphi B var. Java | Voor alle testen: de testen als bedoeld in: [verordening (EG) nr. 2160/2003](32003R2160) verordening (EU) nr. 200/2010 verordening (EU) nr. 517/2011 verordening (EU) nr. 200/2012 verordening (EU) nr. 1190/2012 De testen als bedoeld in de [artikelen 7b.44 tot en met 7b.47 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.44). | Serotypering wordt aan de hand van het White-Kauffmann-Le Minor schema uitgevoerd overeenkomstig de recentste versie van norm (NPR-)CEN-ISO/TR 6579-3 en kan, indien het de typering van monofasische **Salmonella** Typhimurium betreft, worden aangevuld met de recentste versie van norm ISO 6579-4 | Pluimvee Salmonella isolaten | RIVM |
+| 20. Zoönotische **Salmonella**, waaronder: **Salmonella** Enteritidis **Salmonella** Typhimurium inclusief monofasische **Salmonella** Typhimurium met de antigene formule **1**,4,[5],12:i:- **Salmonella** Hadar **Salmonella** Infantis **Salmonella** Virchow **Salmonella** Paratyphi B var. Java | Voor alle testen: de testen als bedoeld in: [verordening (EG) nr. 2160/2003](32003R2160) verordening (EU) nr. 200/2010 verordening (EU) nr. 517/2011 verordening (EU) nr. 200/2012 verordening (EU) nr. 1190/2012 De testen als bedoeld in de [artikelen 7b.44 tot en met 7b.47 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.44). | Serotypering wordt aan de hand van het White-Kauffmann-Le Minor schema uitgevoerd overeenkomstig de recentste versie van norm (NPR-)CEN-ISO/TR 6579-3 en wordt, indien het voor typering van monofasische **Salmonella** Typhimurium noodzakelijk is, aangevuld met de recentste versie van norm ISO 6579-4 | Pluimvee Salmonella isolaten | RIVM |
 | 20. Zoönotische **Salmonella**, waaronder: **Salmonella** Enteritidis **Salmonella** Typhimurium inclusief monofasische **Salmonella** Typhimurium met de antigene formule **1**,4,[5],12:i:- **Salmonella** Hadar **Salmonella** Infantis **Salmonella** Virchow **Salmonella** Paratyphi B var. Java | Voor alle testen: de testen als bedoeld in: [verordening (EG) nr. 2160/2003](32003R2160) verordening (EU) nr. 200/2010 verordening (EU) nr. 517/2011 verordening (EU) nr. 200/2012 verordening (EU) nr. 1190/2012 De testen als bedoeld in de [artikelen 7b.44 tot en met 7b.47 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7b.44). | Het gebruik van alternatieve testmethoden in de plaats van de referentiemethoden voor detectie of (sero)typering van **Salmonella’** is alleen toegestaan wanneer deze alternatieve testmethoden door het daarvoor aangewezen instituut zijn gevalideerd en gecertificeerd overeenkomstig de recentste versies van, respectievelijk, normen (NEN-)EN-ISO 16140-2 en (NEN-)EN-ISO 16140-6 | Het gebruik van alternatieve testmethoden in de plaats van de referentiemethoden voor detectie of (sero)typering van **Salmonella’** is alleen toegestaan wanneer deze alternatieve testmethoden door het daarvoor aangewezen instituut zijn gevalideerd en gecertificeerd overeenkomstig de recentste versies van, respectievelijk, normen (NEN-)EN-ISO 16140-2 en (NEN-)EN-ISO 16140-6 | RIVM |
 | 21. Blauwtong | Monitoring rund De testen zoals bedoeld in bijlage V, deel II van verordening (EU) nr. 2020/689. | ELISA | Rund: bloedserum | Wageningen Bioveterinary Research |
 | 21. Blauwtong | Inrichtingen waar gevoelige dieren gehouden worden voor het winnen van levende producten: -testen als bedoeld in bijlage II deel 1 bij verordening (EU) nr. 2020/686. – Nationaal handelsverkeer: De testen als bedoeld in [artikel 3A.10 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3a.10). | PCR | Gevoelige dieren: volbloed | Wageningen Bioveterinary Research |
@@ -516,7 +516,7 @@ Ingevolge artikel 6 van verordening (EU) nr. 2020/689 geldt voor de specifieke t
 | 26. Afrikaanse varkenspest | Door de overheid gecontracteerde serologische monitoring bij wilde zwijnen | ELISA | Wild zwijn: bloedserum | Wageningen Bioveterinary Research |
 | 27. PRRS (abortus blauw) | Inrichtingen waar varkens gehouden worden voor het winnen van levende producten: De testen als bedoeld in bijlage II deel 3 van verordening (EU) nr. 2020/686 | Serologische test: i) IPMA ii) Elisa Test op het virusgenoom: i) (omgekeerde transcriptase polymerase-kettingreactie (RT-PCR) ii) geneste RT-PCR, iii) realtime RT-PCR) | Varkens: – Bloedserum – Sperma | Wageningen Bioveterinary Research |
 
-## Bijlage 2. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01)
+## Bijlage 2. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&paragraaf=1&artikel=4&z=2026-04-01&g=2026-04-01)
 
 | Ziekte(verwekker) | Kader waarbinnen de test wordt uitgevoerd | Testmethode | matrix | NRL |
 | --- | --- | --- | --- | --- |
