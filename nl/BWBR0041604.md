@@ -4,7 +4,7 @@ identifier: "BWBR0041604"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2026-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041604"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ BESLUIT:
 
 ##### Artikel 1
 
-Vervallen
+In deze regeling wordt onder ‘groene boa’ verstaan: buitengewoon opsporingsambtenaar, werkzaam als boa Milieu, welzijn en infrastructuur als bedoeld in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend), Domein II. Milieu, welzijn en infrastructuur, die uitsluitend of in hoofdzaak is belast met de opsporing van strafbare feiten ter bescherming van natuur of milieu buiten de bebouwde kom, niet zijnde vergunning-gebonden strafbare feiten.
 
 #### § 2. Aanwijzing overheidsorganen
 
@@ -86,7 +86,9 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna genoe
 
 - 2°. ten behoeve van de plaatsing, de activering en het gebruik van het publieke identificatiemiddel, bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5), op het rijbewijs: de gegevens die noodzakelijk zijn voor het activeren, het blokkeren en deblokkeren van het publieke identificatiemiddel op het rijbewijs;
 
-- 3°. ten behoeve van de uitoefening van het inzagerecht door betrokkene: het burgerservicenummer in versleutelde vorm, de status van het rijbewijs, en de status van het publieke identificatiemiddel, alsmede wijzigingen in deze statussen.
+- 3°. ten behoeve van de uitoefening van het inzagerecht door betrokkene: het burgerservicenummer in versleutelde vorm, de status van het rijbewijs, en de status van het publieke identificatiemiddel, alsmede wijzigingen in deze statussen;
+
+- g. aan overheidsorganen waarvoor personen werkzaam zijn als boa Openbare ruimte als bedoeld in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend), Domein I. Openbare ruimte, of als groene boa, ten behoeve van de identificatie van een staande gehouden persoon in het kader van de opsporing van strafbare feiten behorend tot Domein I. Openbare ruimte respectievelijk Domein II. Milieu, welzijn en infrastructuur, zoals opgenomen in die bijlage en voor zover de buitengewoon opsporingsambtenaar aangeeft deze nodig te hebben voor de identificatie van een staande gehouden persoon waarvan de buitengewoon opsporingsambtenaar de identiteit niet op andere wijze zelfstandig kan vaststellen: na opgave van het burgerservicenummer en geboortedatum van de staande gehouden persoon: de pasfoto in het rijbewijzenregister van de persoon aan wie het opgegeven burgerservicenummer toebehoort.
 
 ##### Artikel 5
 
@@ -165,5 +167,23 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking uit het rijbewijzenregister.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a
+
+1. De door de Dienst Wegverkeer verstrekte pasfoto als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01),
+
+- a. wordt slechts kortstondig digitaal beschikbaar gemaakt voor de betrokken buitengewoon opsporingsambtenaar en
+
+- b. wordt op geen enkele wijze vastgelegd of opgeslagen.
+
+2. De Dienst Wegverkeer neemt de in het eerste lid genoemde eisen op in aansluit- en verstrekkingsvoorwaarden.
+
+3. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01), tonen aan dat een door hen gebruikt ICT-middel aan de in het eerste lid bedoelde eisen voldoet.
+
+4. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01), melden een wijziging in een door hen gebruikt ICT-middel die verband houdt met de in het eerste lid bedoelde eisen onverwijld aan de Dienst Wegverkeer en tonen daarbij aan dat het ICT-middel nog steeds aan deze eisen voldoet.
+
+#### § 4. Overige bepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
