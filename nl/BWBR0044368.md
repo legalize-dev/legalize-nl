@@ -4,7 +4,7 @@ identifier: "BWBR0044368"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2026-03-24"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044368"
 soort: "ministeriele-regeling"
@@ -46,11 +46,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als stoffen, groepen van stoffen, mengsels en voorwerpen als bedoeld in [artikel 2 van het Warenwetbesluit algemene chemische productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0006447&artikel=2) worden aangewezen:
-
-- a. de in kolom 1 van bijlage XVII van [verordening (EG) 1907/2006](32006R1907) onder de nummers 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18bis, punt 1 van de bijbehorende kolom 2, 20, punten 1, 2, 4, 5 en 6 van de bijbehorende kolom 2, 23, punten 1, 2 en 10 van de bijbehorende kolom 2, 27, 28, 29, 30, 32, 34, 35, 36, 37, 38, 40, 43, 45, punt 2 van de bijbehorende kolom 2, 46, eerste alinea en de punten 2, 7 en 8 van de bijbehorende kolom 2, 46bis, 47, punten 1, 5 en 6 van de bijbehorende kolom 2, 48, 50, punten 5, 6, 9, 10 en 11 van de bijbehorende kolom 2, 51, 52, 54, 55, 56, 57, 59, punt 1 van de bijbehorende kolom 2, 61, 62, 63, punten 1, 7 en 15 van de bijbehorende kolom 2, 64, 66, 68, punten 1, 2, en 3 van de bijbehorende kolom 2, 69, 70, 72, 73, 75, punten 1, 7 en 8 van de bijbehorende kolom 2, en 77 aangeduide stoffen, groepen van stoffen, mengsels of voorwerpen;
-
-- b. de in kolom 1 van bijlage XVII van [verordening (EG) 1907/2006](32006R1907) onder nummer 31 aangeduide stoffen, groepen van stoffen of mengsels, in samenhang met uitsluitend het behandelde hout, bedoeld in punt 3 van de bijbehorende in kolom 2 van die bijlage opgenomen beperkingsvoorwaarden.
+De stoffen, groepen van stoffen, mengsels of voorwerpen aangeduid in de bijlage worden aangewezen als stoffen, groepen van stoffen, mengsels of voorwerpen als bedoeld in [artikel 2 van het Warenwetbesluit algemene chemische productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0006447&artikel=2).
 
 ##### Artikel 2
 
@@ -70,7 +66,7 @@ Het Europees Agentschap voor chemische stoffen (ECHA) en het Nationaal Vergiftig
 
 Deze regeling berust mede op [artikel 9.3a.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.3a.1).
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044368&artikel=1&z=2026-03-24&g=2026-03-24) van de Warenwetregeling algemene chemische productveiligheid
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044368&artikel=1&z=2026-04-01&g=2026-04-01) van de Warenwetregeling algemene chemische productveiligheid
 
 **De in kolom 1 van bijlage XVII bij Verordening (EG) nr. 1907/2006 onder de volgende nummers aangeduide stoffen, groepen van stoffen, mengsels of voorwerpen:**
 
