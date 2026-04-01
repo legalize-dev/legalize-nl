@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2013-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -156,7 +156,17 @@ Besluit:
 
 - y. de Hollandsche IJssel: van km 3.425 tot km 19.800;
 
-- z. de Nieuwe Maas, met uitzondering van het gedeelte tussen km 989.000 en km 990.000;
+- z. de Nieuwe Maas, met uitzondering van de gedeelten:
+
+- 1. van km 989.000 tot km 990.000;
+
+- 2. van km 998.950 tot km 1000.575, met een maximumsnelheid van 50 km/u;
+
+- 3. van km 1000.575 tot km 1001.125;
+
+- 4. van km 1001.125 tot km 1002.700, met een maximumsnelheid van 50 km/u.
+
+- z1. het Scheur;
 
 - aa. de Nieuwe Waterweg;
 
@@ -246,7 +256,7 @@ Besluit:
 
 - 2. van km 3.750 tot km 4.750;
 
-2. 2. Het gestelde in het eerste lid is niet van toepassing:
+2. Het gestelde in het eerste lid is niet van toepassing:
 
 - a. binnen een afstand van 20 m uit de oever, tenzij anders is bepaald;
 
@@ -488,10 +498,24 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - a. de Oude Maas vanaf km 998.000;
 
-- b. de Nieuwe Maas vanaf km 989.000;
+- b. de Nieuwe Maas vanaf km 989.000, met uitzondering van de gedeelten:
+
+- 1. van km 998.950 tot km 1000.575, met een maximumsnelheid van 50 km/u;
+
+- 2. van km 1000.575 tot km 1001.125;
+
+- 3. van km 1001.125 tot km 1002.700, met een maximumsnelheid van 50 km/u;
 
 - c. de Nieuwe Waterweg;
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing op:
+
+- a. de Nieuwe Maas vanaf km 989.000;
+
+- b. de Oude Maas vanaf km 998.000;
+
+- c. het Scheur;
+
+- d. de Nieuwe Waterweg.
