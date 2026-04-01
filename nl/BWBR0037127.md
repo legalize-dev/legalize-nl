@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2026-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -128,7 +128,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   |   |   |   |   | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd, dan wel DigiD |
 |   | Idem | Aangifte OB, ingediend door een belastingplichtige, niet zijnde een natuurlijk persoon |   | X | SBR Digipoort | PKI Overheid services certificaat |
 |   |   |   |   |   | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
-|   | Idem | Aangifte dividendbelasting | X |   |   |   |
+|   | Idem | Aangifte dividendbelasting |   | X | SBR Digipoort | PKI Overheid services certificaat |
+|   |   |   |   |   | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
 |   | Artikel 8, eerste lid | Aangifte voor alle andere belastingmiddelen | X |   |   |   |
 |   | Artikel 9, tweede lid | Verzoek om uitstel aangifte (alle aanslagbelastingen) | X |   |   |   |
 |   | Idem | Verlening uitstel | X |   |   |   |
@@ -162,6 +163,7 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | Artikel 63 | Alle berichten in verband met de toepassing van de hardheidsclausule | X |   |   |   |
 |   | Hoofdstuk VIIIA, afdeling 2 jo. titel 5.4 Awb | Alle berichten in verband met het opleggen van bestuurlijke boeten (alle middelen) | X |   |   |   |
 |   | Artikel 76 | Alle berichten in verband met het opleggen van een strafbeschikking | X |   |   |   |
+| [Uitvoeringsregeling AWR 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736) | [Artikel 40, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=40), [42, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=42), [42a tot en met 42i](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=42a), [42j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=42j), en [42p](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=42p) | Militaire vrijstellingen voor buitenlandse strijdkrachten | X |   |   |   |
 | Invorderingswet 1990 |   | Alle berichten in verband met de verrekening, betaling en invordering van belastingen | X |   |   |   |
 | Wet inkomstenbelasting 2001 |   | Alle verzoeken voor zover niet gedaan bij de aangifte en de afgegeven voor bezwaar vatbare beschikking | X |   |   |   |
 |   |   | Alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag | X |   |   |   |
@@ -205,6 +207,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   |   |   |   |   | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd DigiD |
 |   | Idem | Opgaaf ICP, ingediend door een belastingplichtige, niet zijnde een natuurlijk persoon |   | X | SBR Digipoort | PKI Overheid services certificaat |
 |   |   |   |   |   | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
+|   |   | Aanvraag BTW verklaring pleziervaartuig | X |   |   |   |
+| [Uitvoeringsbeschikking omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002634) | [Artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=23a) | Verzoek export validatie btw-teruggaaf passagiers |   | X | App, NL Customs VAT | N.v.t. |
 | [Uitvoeringsverordening 282/2011](32011R0282) | Artikel 57 nonies, eerste lid | Opgave beëindiging of wijziging activiteiten of wijziging verstrekte identificatiegegevens, ingediend door een belastingplichtige, zijnde een natuurlijk persoon, voor zichzelf of als tussenpersoon voor een andere ondernemer |   | X | MijnBelastingdienst Zakelijk | DigiD |
 |   | Idem | Opgave beëindiging of wijziging activiteiten of wijziging verstrekte identificatiegegevens, ingediend door een belastingplichtige, niet zijnde een natuurlijk persoon, voor zichzelf of als tussenpersoon voor een andere ondernemer |   | X | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
 |   | Artikel 57 nonies, tweede lid | Inkennisstelling wijziging lidstaat van identificatie, ingediend door een belastingplichtige, zijnde een natuurlijk persoon, voor zichzelf of als tussenpersoon voor een andere ondernemer |   | X | MijnBelastingdienst Zakelijk | DigiD |
@@ -234,7 +238,10 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   |   | Alle overige berichten in verband met de heffing en invordering van de minimum CO2-prijs elektriciteitsopwekking | X |   |   |   |
 |   | Artikel 6, eerste lid, van de Algemene wet inzake rijksbelastingen jo. artikel 89, eerste lid, van de Wet belastingen op milieugrondslag | Uitnodiging tot het doen van aangifte CO2-heffing industrie en aangifte CO2-heffing industrie |   | X | CO2-heffingsregister | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
 |   |   | Alle overige berichten in verband met de heffing en invordering van de CO2-heffing industrie | X |   |   |   |
+|   | [Artikel 69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69) | Verzoek om teruggaaf energiebelasting en opslag duurzame energie- en klimaattransacties (voor instellingen), ingediend door bedrijven of intermediairs |   | X | Elektronisch formulier op [www.belastingdienst.nl](http://www.belastingdienst.nl) (onder Teruggaaf milieubelasting) | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
 |   | Artikel 89, eerste lid | Aangifte vliegbelasting |   | X | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
+| [Beleidsbesluit Belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0050576) | [Paragraaf 4.5](onbekend) | Teruggaaf energiebelasting bij meerdere onroerende zaken achter één aansluiting, ingediend door bedrijven of intermediairs |   | X | Elektronisch formulier op [www.belastingdienst.nl](http://www.belastingdienst.nl) (onder Teruggaaf milieubelasting) | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
+|   | [Idem](onbekend) | Teruggaaf energiebelasting bij meerdere onroerende zaken achter één aansluiting, ingediend door burgers | X |   |   |   |
 | Wet op de kansspelbelasting |   | Alle berichten in verband met de heffing van de kansspelbelasting | X |   |   |   |
 | Wet maatregelen woningmarkt 2014 II |   | Aangifte verhuurderheffing, ingediend door een persoon die geen toegang heeft tot MijnBelastingdienst Zakelijk | X |   |   |   |
 |   |   | Aangifte verhuurderheffing, ingediend door een natuurlijk persoon die toegang heeft tot MijnBelastingdienst Zakelijk |   | X | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd, dan wel DigiD |
