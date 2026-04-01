@@ -4,7 +4,7 @@ identifier: "BWBR0047596"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2026-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047596"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **aanvullende energiebesparende maatregelen:** maatregelen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01);
+- –. **aanvullende energiebesparende maatregelen:** maatregelen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01);
 
 - –. **Algemene groepsvrijstellingsverordening:** [Verordening (EU) nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PB L 187);
 
@@ -76,9 +76,9 @@ Besluit:
 
 - –. **DuMo-advies (niveau 2):** duurzaamheidsadvies dat is opgesteld conform de norm van het Nationaal Restauratiefonds en de stichting Erkende Restauratiekwaliteit Monumentenzorg, waarbij onderzoek wordt gedaan naar de huidige situatie en kansen voor energiebesparing en opwekking voor de monumentale waarden en gebouwgebruik en de uitvoering conform uitvoeringsrichtlijnen URL 2001, Bouwkundig advies monumenten plaatsvindt;
 
-- −. **duurzame warmteopties:** maatregelen, genoemd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01);
+- −. **duurzame warmteopties:** maatregelen, genoemd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01);
 
-- −. **energiebesparende isolatiemaatregelen:** maatregelen, genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01);
+- −. **energiebesparende isolatiemaatregelen:** maatregelen, genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01);
 
 - –. **EP-adviseur:** een persoon die de woning of het woongebouw opneemt, de energieprestatie berekent en het energierapport registreert en voldoet aan bijlage 2a dan wel 2b van BRL 9500-W;
 
@@ -144,6 +144,8 @@ Besluit:
 
 - –. **thermisch vermogen bij referentieontwerptemperatuur:** thermisch vermogen bij referentieontwerptemperatuur als bedoeld in tabel 10 van bijlage VII van [Verordening (EU) nr. 811/2013](32013R0811) of tabel 4 van bijlage III van [Verordening (EU) nr. 813/2013](32013R0813);
 
+- –. **UF-schuim:** ureumformaldehydeschuim, een tweecomponentenschuim op basis van ureumformaldehyde;
+
 - –. **vereniging:** vereniging van eigenaars, woonvereniging of wooncoöperatie, met uitzondering van beheerverenigingen van parkeerterreinen;
 
 - –. **vereniging van eigenaars:** vereniging van de eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=112);
@@ -172,7 +174,7 @@ Besluit:
 
 - –. **waterverwarmingstoestel:** waterverwarmingstoestel met warmtepomp als bedoeld in artikel 2, onderdeel zeventien, van [verordening (EU) nr. 812/2013](32013R0812);
 
-- –. **zeer energiezuinig pakket:** pakket van maatregelen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-01-01&g=2026-01-01).
+- –. **zeer energiezuinig pakket:** pakket van maatregelen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-04-01&g=2026-04-01).
 
 2. Onder **eigenaar-bewoner** wordt in deze regeling verstaan een natuurlijke persoon die:
 
@@ -210,15 +212,15 @@ Deze regeling heeft als doel verduurzaming te stimuleren in en bij gebouwen van 
 
 ##### Artikel 3. Staatssteun
 
-1. Bij de verstrekking van een subsidie op grond van deze regeling van in totaal € 25.000 of meer wordt wat betreft subsidie voor de kosten van energiebesparende isolatiemaatregelen, aanvullende energiebesparende maatregelen en het zeer energiezuinig pakket met uitzondering van bouwbegeleiding, bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01) en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-01-01&g=2026-01-01), toepassing gegeven aan artikel 38bis van de Algemene groepsvrijstellingverordening, voor de kosten van duurzame warmteopties wordt toepassing gegeven aan artikel 41 van de Algemene groepsvrijstellingsverordening en wat betreft subsidie voor de kosten van ondersteunend onderzoek en advies ten behoeve van verduurzaming, advies over oplaadpunten en voor bouwbegeleiding wordt toepassing gegeven aan de de-minimisverordening. Voor het installeren van basislaadinfrastructuur wordt toepassing gegeven aan artikel 36a van de Algemene groepsvrijstellingsverordening.
+1. Bij de verstrekking van een subsidie op grond van deze regeling van in totaal € 25.000 of meer wordt wat betreft subsidie voor de kosten van energiebesparende isolatiemaatregelen, aanvullende energiebesparende maatregelen en het zeer energiezuinig pakket met uitzondering van bouwbegeleiding, bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01) en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-04-01&g=2026-04-01), toepassing gegeven aan artikel 38bis van de Algemene groepsvrijstellingverordening, voor de kosten van duurzame warmteopties wordt toepassing gegeven aan artikel 41 van de Algemene groepsvrijstellingsverordening en wat betreft subsidie voor de kosten van ondersteunend onderzoek en advies ten behoeve van verduurzaming, advies over oplaadpunten en voor bouwbegeleiding wordt toepassing gegeven aan de de-minimisverordening. Voor het installeren van basislaadinfrastructuur wordt toepassing gegeven aan artikel 36a van de Algemene groepsvrijstellingsverordening.
 
-2. Bij de verstrekking van subsidie op grond van deze regeling van minder dan € 25.000 voor de kosten van verduurzamingsmaatregelen, aanvullende energiebesparende maatregelen, het zeer energiezuinig pakket, de ondersteunende onderzoeken, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01) en advies over oplaadpunten en het installeren van basislaadinfrastructuur, bedoeld in de artikelen 5, [7](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-01-01&g=2026-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01) wordt toepassing gegeven aan de de-minimisverordening.
+2. Bij de verstrekking van subsidie op grond van deze regeling van minder dan € 25.000 voor de kosten van verduurzamingsmaatregelen, aanvullende energiebesparende maatregelen, het zeer energiezuinig pakket, de ondersteunende onderzoeken, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01) en advies over oplaadpunten en het installeren van basislaadinfrastructuur, bedoeld in de artikelen 5, [7](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-04-01&g=2026-04-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01) wordt toepassing gegeven aan de de-minimisverordening.
 
 ##### Artikel 4. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&z=2026-01-01&g=2026-01-01)en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&z=2026-01-01&g=2026-01-01) geldt tot en met 31 december 2030 een subsidieplafond van € 179.020.000.
+1. Voor subsidieverstrekking op grond van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&z=2026-04-01&g=2026-04-01)en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&z=2026-04-01&g=2026-04-01) geldt tot en met 31 december 2030 een subsidieplafond van € 179.020.000.
 
-2. Voor subsidieverstrekking op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&z=2026-01-01&g=2026-01-01) geldt tot en met 31 december 2030 een subsidieplafond van € 10.000.000.
+2. Voor subsidieverstrekking op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&z=2026-04-01&g=2026-04-01) geldt tot en met 31 december 2030 een subsidieplafond van € 10.000.000.
 
 3. Het beschikbare bedrag per subsidieplafond wordt verdeeld op volgorde van ontvangst van de aanvragen.
 
@@ -268,7 +270,7 @@ Deze regeling heeft als doel verduurzaming te stimuleren in en bij gebouwen van 
 
 3. Het DMJOP heeft een doorlooptijd van dertig jaar en bevat behalve de onderhouds-, herstel- en vernieuwingswerkzaamheden die gedurende de looptijd van het plan nodig worden geacht, ook de uitvoering van ten minste twee maatregelen binnen tien jaar, genoemd in het eerste lid. Een DMJOP bevat tevens een kostenberekening van de geplande werkzaamheden en een gelijkmatige toerekening van de kosten aan de onderscheiden jaren.
 
-4. De maatregelen, bedoeld in het eerste lid, onderdeel a en b, en het tweede lid zijn: verduurzamingsmaatregelen en de maatregelen uit het zeer energiezuinig pakket met uitzondering van bouwbegeleiding, als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-01-01&g=2026-01-01).
+4. De maatregelen, bedoeld in het eerste lid, onderdeel a en b, en het tweede lid zijn: verduurzamingsmaatregelen en de maatregelen uit het zeer energiezuinig pakket met uitzondering van bouwbegeleiding, als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-04-01&g=2026-04-01).
 
 5. Subsidie op grond van het eerste lid wordt slechts eenmaal per gebouw of groep van gebouwen verstrekt.
 
@@ -284,7 +286,7 @@ Deze regeling heeft als doel verduurzaming te stimuleren in en bij gebouwen van 
 
 ##### Artikel 6. Aanvraag subsidie voor ondersteunend onderzoek en advies ten behoeve van verduurzaming
 
-1. Een aanvraag voor subsidie op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), wordt met gebruikmaking van een door de Minister elektronisch beschikbaar gesteld formulier ingediend in de periode van 1 januari 2024 tot en met 31 december 2030.
+1. Een aanvraag voor subsidie op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01), wordt met gebruikmaking van een door de Minister elektronisch beschikbaar gesteld formulier ingediend in de periode van 1 januari 2024 tot en met 31 december 2030.
 
 2. In afwijking van [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11) worden de volgende gegevens en bescheiden op verzoek van de Minister verstrekt:
 
@@ -296,15 +298,15 @@ Deze regeling heeft als doel verduurzaming te stimuleren in en bij gebouwen van 
 
 - d. het bankrekeningnummer waarop het subsidiebedrag dient te worden overgemaakt;
 
-- e. de naam, het adres en het inschrijfnummer bij de Kamer van Koophandel van de certificaathouder die het maatwerkadvies dan wel DuMo-advies (niveau 2) heeft opgesteld, het nummer van het certificaat, alsmede de naam, het adres en het inschrijfnummer bij de Kamer van Koophandel van de adviseurs van de overige ondersteunende onderzoeken als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01);
+- e. de naam, het adres en het inschrijfnummer bij de Kamer van Koophandel van de certificaathouder die het maatwerkadvies dan wel DuMo-advies (niveau 2) heeft opgesteld, het nummer van het certificaat, alsmede de naam, het adres en het inschrijfnummer bij de Kamer van Koophandel van de adviseurs van de overige ondersteunende onderzoeken als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01);
 
 - f. de naam en het adres van de EP-maatwerkadviseur dan wel ERM-adviseur en het examen- of certificaatnummer van de EP-maatwerkadviseur die het gebouw heeft opgenomen ten behoeve van het maatwerkadvies dan wel DuMo-advies (niveau 2) alsmede de naam, het adres, het inschrijfnummer bij de Kamer van Koophandel en het nummer van het certificaat van de certificaathouder waarvoor hij werkt, indien dit niet de certificaathouder is, bedoeld in onderdeel e;
 
-- g. een factuur en betalingsbewijs van het door de vereniging in opdracht gegeven en afgeronde ondersteunend onderzoek en advies ten behoeve van verduurzaming, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01);
+- g. een factuur en betalingsbewijs van het door de vereniging in opdracht gegeven en afgeronde ondersteunend onderzoek en advies ten behoeve van verduurzaming, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01);
 
-- h. een digitale rapportage van het door de vereniging in opdracht gegeven en afgeronde ondersteunend onderzoek en advies ten behoeve van verduurzaming, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01);
+- h. een digitale rapportage van het door de vereniging in opdracht gegeven en afgeronde ondersteunend onderzoek en advies ten behoeve van verduurzaming, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01);
 
-- i. een verklaring dat niet al subsidie voor de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), is aangevraagd bij of verstrekt door een bestuursorgaan van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening of een ander bestuursorgaan, niet zijnde bestuursorganen van een gemeente, provincie, waterschap of openbare lichamen als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), subsidie is verstrekt voor hetzelfde gebouw of dezelfde groep van gebouwen; en
+- i. een verklaring dat niet al subsidie voor de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01), is aangevraagd bij of verstrekt door een bestuursorgaan van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening of een ander bestuursorgaan, niet zijnde bestuursorganen van een gemeente, provincie, waterschap of openbare lichamen als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), subsidie is verstrekt voor hetzelfde gebouw of dezelfde groep van gebouwen; en
 
 - j. indien niet alle leden van de vereniging eigenaar-bewoners zijn: een verklaring waaruit blijkt dat die leden niet meer subsidie ontvangen dan is toegestaan op basis van de de-minimisverordening.
 
@@ -314,7 +316,7 @@ Deze regeling heeft als doel verduurzaming te stimuleren in en bij gebouwen van 
 
 1. De Minister verstrekt aan een vereniging ten behoeve van het gebouw of groep van gebouwen op aanvraag subsidie voor:
 
-- a. energiebesparende isolatiemaatregelen en aanvullende energiebesparende maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01);
+- a. energiebesparende isolatiemaatregelen en aanvullende energiebesparende maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01);
 
 - b. duurzame warmteopties; of
 
@@ -426,23 +428,23 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - e. voor alle kozijnen: ten hoogste Uf 1,5 [W/m2K] en voor deuren in de gevel: ten hoogste Ud 1,0 [W/m2K].
 
-3. Het zeer energiezuinig pakket kan mede bouwbegeleiding omvatten, mits deze wordt geboden door een bouwbegeleider als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01).
+3. Het zeer energiezuinig pakket kan mede bouwbegeleiding omvatten, mits deze wordt geboden door een bouwbegeleider als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01).
 
 ##### Artikel 10. Activiteiten en voorwaarden: verduurzamingsmaatregelen, aanvullende energiebesparende maatregelen en het zeer energiezuinig pakket
 
 1. De Minister kan aan een vereniging ten behoeve van een gebouw waarin zich ten minste één koopwoning bevindt subsidie verstrekken voor het na de datum van indiening van de subsidieaanvraag door een bouwbedrijf of bouwinstallatiebedrijf laten uitvoeren van:
 
-- a. één of meer energiebesparende isolatiemaatregelen over de gehele daarvoor in aanmerking komende oppervlakten van het gebouw of over gemiddeld minimaal de oppervlakten, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01);
+- a. één of meer energiebesparende isolatiemaatregelen over de gehele daarvoor in aanmerking komende oppervlakten van het gebouw of over gemiddeld minimaal de oppervlakten, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01);
 
-- b. een zeer energiezuinig pakket met uitzondering van bouwbegeleiding, als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-01-01&g=2026-01-01);
+- b. een zeer energiezuinig pakket met uitzondering van bouwbegeleiding, als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=9&z=2026-04-01&g=2026-04-01);
 
-- c. één of meer duurzame warmteopties als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01);
+- c. één of meer duurzame warmteopties als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01);
 
-- d. een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01); en
+- d. een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01); en
 
-- e. één of meer aanvullende energiebesparende maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01).
+- e. één of meer aanvullende energiebesparende maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01).
 
-2. De Minister kan aan een vereniging ten behoeve van een gebouw of groep van gebouwen, waarin zich ten minste één koopwoning bevindt, subsidie verstrekken voor door een bouwbegeleider te bieden bouwbegeleiding na de datum van indiening van de subsidieaanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), mits sprake is van het uitvoeren van minimaal twee verduurzamingsmaatregelen met een minimale investering van € 100.000.
+2. De Minister kan aan een vereniging ten behoeve van een gebouw of groep van gebouwen, waarin zich ten minste één koopwoning bevindt, subsidie verstrekken voor door een bouwbegeleider te bieden bouwbegeleiding na de datum van indiening van de subsidieaanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-04-01&g=2026-04-01), mits sprake is van het uitvoeren van minimaal twee verduurzamingsmaatregelen met een minimale investering van € 100.000.
 
 3. Subsidie op grond van het eerste lid, onderdeel e, wordt uitsluitend verstrekt in combinatie met subsidie op grond van het eerste lid, onderdeel a, b, c of d.
 
@@ -452,7 +454,7 @@ Aanvullende energiebesparende maatregelen zijn:
 
 6. Subsidie op grond van het eerste lid, onderdeel d, wordt uitsluitend verstrekt aan verenigingen met alleen eigenaar-bewoners.
 
-7. In afwijking van het vijfde lid wordt geen subsidie verstrekt ten behoeve van huurwoningen in het gebouw indien de aanvraag is gedaan op grond van [artikel 11, tweede lid, onderdeel b, onder 1°, 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-01-01&g=2026-01-01), als blijkt dat een begunstigde van staatssteun meer steun ontvangt dan is toegestaan op basis van de de-minimisverordening of algemene groepsvrijstellingsverordening.
+7. In afwijking van het vijfde lid wordt geen subsidie verstrekt ten behoeve van huurwoningen in het gebouw indien de aanvraag is gedaan op grond van [artikel 11, tweede lid, onderdeel b, onder 1°, 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-04-01&g=2026-04-01), als blijkt dat een begunstigde van staatssteun meer steun ontvangt dan is toegestaan op basis van de de-minimisverordening of algemene groepsvrijstellingsverordening.
 
 8. In afwijking van het vijfde lid wordt geen subsidie verstrekt indien de begunstigde van de subsidie reeds subsidie heeft ontvangen voor de activiteiten bedoeld in het eerste lid, op grond van:
 
@@ -476,19 +478,19 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - j. [Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0045187).
 
-9. Voor zover de subsidie die verstrekt wordt aan een vereniging toekomt aan eigenaren van huurwoningen en bij de aanvraag gebruik wordt gemaakt van [artikel 11, tweede lid, onderdeel b, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-01-01&g=2026-01-01), dienen de voor subsidie in aanmerking komende kosten voor energiebesparende isolatiemaatregelen en aanvullende energiebesparende maatregelen en zeer energiezuinig pakket rechtstreeks verband te houden met het behalen van een hoger niveau van energie-efficiëntie en de kosten dienen voor de investering in energie-efficiëntie binnen de totale investeringskosten als een afzonderlijke investering te kunnen worden vastgesteld als bedoeld in artikel 38bis van de algemene groepsvrijstellingsverordening.
+9. Voor zover de subsidie die verstrekt wordt aan een vereniging toekomt aan eigenaren van huurwoningen en bij de aanvraag gebruik wordt gemaakt van [artikel 11, tweede lid, onderdeel b, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-04-01&g=2026-04-01), dienen de voor subsidie in aanmerking komende kosten voor energiebesparende isolatiemaatregelen en aanvullende energiebesparende maatregelen en zeer energiezuinig pakket rechtstreeks verband te houden met het behalen van een hoger niveau van energie-efficiëntie en de kosten dienen voor de investering in energie-efficiëntie binnen de totale investeringskosten als een afzonderlijke investering te kunnen worden vastgesteld als bedoeld in artikel 38bis van de algemene groepsvrijstellingsverordening.
 
 10. De aanvrager toont de gelijkwaardigheid van een of meerdere andere maatregelen dan bedoeld in het eerste lid, onderdelen a en b, aan door middel van een verklaring van een certificaathouder als bedoeld in BRL 9500-MWA-W, die een gelijkwaardigheidsberekening en een oordeel van de certificaathouder over de gelijkwaardigheid bevat.
 
 ##### Artikel 11. Aanvraag subsidie voor verduurzamingsmaatregelen, aanvullende energiebesparende maatregelen en het zeer energiezuinig pakket
 
-1. Een aanvraag voor subsidie wordt op grond van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-01-01&g=2026-01-01), in de periode van 23 januari 2023 tot en met 31 december 2030 ingediend met gebruikmaking van een door de Minister elektronisch beschikbaar gesteld formulier.
+1. Een aanvraag voor subsidie wordt op grond van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-04-01&g=2026-04-01), in de periode van 23 januari 2023 tot en met 31 december 2030 ingediend met gebruikmaking van een door de Minister elektronisch beschikbaar gesteld formulier.
 
-2. Een vereniging kan ten behoeve van een gebouw of groep van gebouwen op grond van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-01-01&g=2026-01-01), een aanvraag doen voor een subsidie waarvoor:
+2. Een vereniging kan ten behoeve van een gebouw of groep van gebouwen op grond van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-04-01&g=2026-04-01), een aanvraag doen voor een subsidie waarvoor:
 
-- a. op grond van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01), enkel subsidie wordt verstrekt voor het aandeel koopwoningen binnen de vereniging; of
+- a. op grond van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-04-01&g=2026-04-01), enkel subsidie wordt verstrekt voor het aandeel koopwoningen binnen de vereniging; of
 
-- b. op grond van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01), subsidie wordt verstrekt voor het aandeel koopwoningen en het aandeel huurwoningen binnen de vereniging. De subsidie die wordt verstrekt ten behoeve van het aandeel huurwoningen binnen de vereniging, kan staatssteun bevatten en gerechtvaardigd worden door inachtneming van de voorwaarden van:
+- b. op grond van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-04-01&g=2026-04-01), subsidie wordt verstrekt voor het aandeel koopwoningen en het aandeel huurwoningen binnen de vereniging. De subsidie die wordt verstrekt ten behoeve van het aandeel huurwoningen binnen de vereniging, kan staatssteun bevatten en gerechtvaardigd worden door inachtneming van de voorwaarden van:
 
 - 1°. de de-minimisverordening;
 
@@ -518,15 +520,15 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - 2°. namens de vereniging met betrekking tot de uitvoering van die maatregelen of het zeer energiezuinig pakket en de eventuele bouwbegeleider, bedoeld in het zevende lid, een offerte is geaccepteerd van het bouwbedrijf;
 
-- i. indien het een aanvraag voor subsidie voor bouwbegeleiding als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), betreft dient ook de geaccepteerde offerte van de bouwbegeleider toegevoegd te worden, inclusief een door de minister beschikbaar gestelde referentieformulier;
+- i. indien het een aanvraag voor subsidie voor bouwbegeleiding als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-04-01&g=2026-04-01), betreft dient ook de geaccepteerde offerte van de bouwbegeleider toegevoegd te worden, inclusief een door de minister beschikbaar gestelde referentieformulier;
 
-- j. indien het een investering voor een ruimteverwarmingstoestel of een waterverwarmingstoestel als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), betreft, het thermische vermogen bij bivalente of referentieontwerptemperatuur van deze installatie;
+- j. indien het een investering voor een ruimteverwarmingstoestel of een waterverwarmingstoestel als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), betreft, het thermische vermogen bij bivalente of referentieontwerptemperatuur van deze installatie;
 
-- k. indien het een investering voor een zonneboiler als bedoeld in [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), betreft, de gegevens ten aanzien van de energetische opbrengst van deze installatie;
+- k. indien het een investering voor een zonneboiler als bedoeld in [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), betreft, de gegevens ten aanzien van de energetische opbrengst van deze installatie;
 
-- l. indien de subsidieaanvraag betrekking heeft op een investering voor dakisolatie dan wel zolder- of vlieringvloerisolatie in een appartementsgebouw via het isoleren van de bestaande zolder- of vlieringvloer bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), een verklaring van de vereniging dat de zolder of vliering onverwarmd is; of
+- l. indien de subsidieaanvraag betrekking heeft op een investering voor dakisolatie dan wel zolder- of vlieringvloerisolatie in een appartementsgebouw via het isoleren van de bestaande zolder- of vlieringvloer bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), een verklaring van de vereniging dat de zolder of vliering onverwarmd is; of
 
-- m. indien de subsidieaanvraag betrekking heeft op een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), voor zover van toepassing, een verklaring van de vereniging dat het bestaande gebouw of de groep van gebouwen, waarop de desbetreffende investering betrekking heeft, geen centrale aansluiting op een warmtenet had voordat deze investering plaatsvond.
+- m. indien de subsidieaanvraag betrekking heeft op een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), voor zover van toepassing, een verklaring van de vereniging dat het bestaande gebouw of de groep van gebouwen, waarop de desbetreffende investering betrekking heeft, geen centrale aansluiting op een warmtenet had voordat deze investering plaatsvond.
 
 4. De minister kan aanvullend bewijs opvragen waaruit blijkt dat het gebouw of de groep van gebouwen waarvoor subsidie wordt aangevraagd een monument is.
 
@@ -546,7 +548,7 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - b. De geaccepteerde offertes waarin de maatregelen en de kosten daarvan zijn opgenomen waarvoor subsidie wordt aangevraagd.
 
-8. Ingeval de aanvraag tevens betrekking heeft op een of meer andere gelijkwaardige energiebesparende isolatiemaatregelen dan als bedoeld in [artikel 10, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-01-01&g=2026-01-01), dan bevat de aanvraag een verklaring waarin aanvrager aangeeft dat hij beschikt over een verklaring als bedoeld in artikel 10, tiende lid.
+8. Ingeval de aanvraag tevens betrekking heeft op een of meer andere gelijkwaardige energiebesparende isolatiemaatregelen dan als bedoeld in [artikel 10, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-04-01&g=2026-04-01), dan bevat de aanvraag een verklaring waarin aanvrager aangeeft dat hij beschikt over een verklaring als bedoeld in artikel 10, tiende lid.
 
 ### Hoofdstuk IV. Oplaadpuntenadvies en basislaadinfrastructuur
 
@@ -560,11 +562,11 @@ Aanvullende energiebesparende maatregelen zijn:
 
 2. Subsidie op grond van het eerste lid wordt voor de subsidiabele activiteiten, bedoeld in het eerste lid, onderdelen a en b afzonderlijk slechts eenmaal per gebouw of groep van gebouwen aan een vereniging verstrekt.
 
-3. Een subsidie op grond van het eerste lid, onderdeel a, kan worden verstrekt voor advisering waarbij het schriftelijk advies bedoeld in [artikel 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01), niet ouder is dan twee jaar, gerekend vanaf het moment van indiening van de aanvraag.
+3. Een subsidie op grond van het eerste lid, onderdeel a, kan worden verstrekt voor advisering waarbij het schriftelijk advies bedoeld in [artikel 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-04-01&g=2026-04-01), niet ouder is dan twee jaar, gerekend vanaf het moment van indiening van de aanvraag.
 
 ##### Artikel 13. Activiteiten en voorwaarden: voorwaarden oplaadpuntenadvies en basislaadinfrastructuur
 
-1. De advisering, bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01),:
+1. De advisering, bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01),:
 
 - a. is mede gebaseerd op het ter plaatse beschouwen van de parkeergelegenheid waarop het oplaadpunt of de oplaadpunten gerealiseerd zouden worden; en
 
@@ -606,17 +608,17 @@ Aanvullende energiebesparende maatregelen zijn:
 
 ##### Artikel 14. Aanvraag: oplaadpuntenadvies en basislaadinfrastructuur
 
-1. Een aanvraag voor een subsidie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01) kan worden ingediend tot en met 31 december 2030.
+1. Een aanvraag voor een subsidie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01) kan worden ingediend tot en met 31 december 2030.
 
-2. Een vereniging kan ten behoeve van een gebouw of groep van gebouwen op grond van [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), een aanvraag doen voor een subsidie waarvoor op grond van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01), subsidie wordt verstrekt voor het aandeel koopwoningen en het aandeel huurwoningen binnen de vereniging. De subsidie die wordt verstrekt ten behoeve van het aandeel huurwoningen binnen de vereniging, kan staatssteun bevatten en gerechtvaardigd worden door inachtneming van de voorwaarden van:
+2. Een vereniging kan ten behoeve van een gebouw of groep van gebouwen op grond van [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01), een aanvraag doen voor een subsidie waarvoor op grond van [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-04-01&g=2026-04-01), subsidie wordt verstrekt voor het aandeel koopwoningen en het aandeel huurwoningen binnen de vereniging. De subsidie die wordt verstrekt ten behoeve van het aandeel huurwoningen binnen de vereniging, kan staatssteun bevatten en gerechtvaardigd worden door inachtneming van de voorwaarden van:
 
 - 1°. de de-minimisverordening;
 
 - 2°. artikel 36a van de Algemene groepsvrijstellingsverordening.
 
-3. De aanvraag bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), bevat:
+3. De aanvraag bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01), bevat:
 
-- a. het schriftelijke advies, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01);
+- a. het schriftelijke advies, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-04-01&g=2026-04-01);
 
 - b. een factuur van de adviseur en een betalingsbewijs van de vereniging;
 
@@ -624,15 +626,15 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - d. indien niet alle leden van de vereniging eigenaar-bewoners zijn: een verklaring waaruit blijkt dat die leden niet meer subsidie ontvangen dan is toegestaan op basis van de de-minimisverordening.
 
-4. De aanvraag bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), hoeft niet te bevatten de gegevens en bescheiden, genoemd in [artikel 11, derde lid, onder c, d, en e van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11).
+4. De aanvraag bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01), hoeft niet te bevatten de gegevens en bescheiden, genoemd in [artikel 11, derde lid, onder c, d, en e van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11).
 
-5. Een aanvraag bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), wordt ingediend na afronding van het schriftelijk advies, bedoeld in [artikel 13 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01).
+5. Een aanvraag bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01), wordt ingediend na afronding van het schriftelijk advies, bedoeld in [artikel 13 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-04-01&g=2026-04-01).
 
-6. De aanvraag, bedoeld in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), bevat:
+6. De aanvraag, bedoeld in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01), bevat:
 
 - a. een opgave van het aantal nieuw aan te sluiten parkeerplaatsen;
 
-- b. een offerte met een technische omschrijving die aantoont dat de basislaadinfrastructuur faciliteert dat bewoners van een appartement dat in eigendom is van een lid van de vereniging toegang kunnen krijgen tot een oplaadpunt en waaruit blijkt welke activiteiten als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01), onderdeel zijn van de installatie van de basislaadinfrastructuur;
+- b. een offerte met een technische omschrijving die aantoont dat de basislaadinfrastructuur faciliteert dat bewoners van een appartement dat in eigendom is van een lid van de vereniging toegang kunnen krijgen tot een oplaadpunt en waaruit blijkt welke activiteiten als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=13&z=2026-04-01&g=2026-04-01), onderdeel zijn van de installatie van de basislaadinfrastructuur;
 
 - c. een bewijsstuk dat aantoont dat de parkeerplaatsen in eigendom zijn van de leden van de vereniging;
 
@@ -646,7 +648,7 @@ Aanvullende energiebesparende maatregelen zijn:
 
 ##### Artikel 15. Hoogte subsidie voor ondersteunend onderzoek en advies ten behoeve van verduurzaming
 
-1. De subsidie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt per aanvraag 75% van de kosten inclusief btw van het ondersteunend onderzoek en advies ten behoeve van verduurzaming als bedoeld in artikel 5, eerste lid, met een maximum van:
+1. De subsidie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01), bedraagt per aanvraag 75% van de kosten inclusief btw van het ondersteunend onderzoek en advies ten behoeve van verduurzaming als bedoeld in artikel 5, eerste lid, met een maximum van:
 
 - a. € 20.000 indien het gebouw of de groep gebouwen bestaat uit maximaal tien woningen;
 
@@ -666,7 +668,7 @@ Aanvullende energiebesparende maatregelen zijn:
 
 1. De subsidie voor een investering voor duurzame warmteopties bedraagt voor:
 
-- a. een verwarmingstoestel dat wordt geïnstalleerd en wordt uitgerust met een lucht-waterwarmtepomp als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), bij een thermisch vermogen ten behoeve van ruimteverwarming bij bivalente temperatuur:
+- a. een verwarmingstoestel dat wordt geïnstalleerd en wordt uitgerust met een lucht-waterwarmtepomp als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), bij een thermisch vermogen ten behoeve van ruimteverwarming bij bivalente temperatuur:
 
 - 1°. tot 1 kW lucht-waterwarmtepomp ten behoeve van tapwaterverwarming: € 500;
 
@@ -674,7 +676,7 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - 3°. van 71 kW ontwerpvermogen of meer: € 1.650, vermeerderd met € 150 voor elke kW thermisch vermogen bij bivalente temperatuur hoger dan 1 kW;
 
-- b. een verwarmingstoestel dat wordt geïnstalleerd en wordt uitgerust met een grond-waterwarmtepomp of met een water-waterwarmtepomp als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), bij een thermisch vermogen bij referentieontwerptemperatuur:
+- b. een verwarmingstoestel dat wordt geïnstalleerd en wordt uitgerust met een grond-waterwarmtepomp of met een water-waterwarmtepomp als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), bij een thermisch vermogen bij referentieontwerptemperatuur:
 
 - 1°. tot 1 kW grond-waterwarmtepomp of water-waterwarmtepomp ten behoeve van tapwaterverwarming: € 500;
 
@@ -684,7 +686,7 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - 4°. van 71 kW of meer: € 3.750, vermeerderd met € 150 voor elke kW thermisch vermogen hoger dan 10 kW;
 
-- c. een zonneboiler als bedoeld in [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), die wordt geïnstalleerd op of na 1 januari 2024, € 1,02 per kWh jaarlijkse zonne-energiebijdrage van de zonneboiler bij een apertuuroppervlakte van ten hoogste 5 m2, € 0,55 per kWh jaarlijkse zonne-energiebijdrage van een zonneboiler bij een apertuuroppervlakte van meer dan 5 tot ten hoogste 10 m2 en € 0,28 per kWh jaarlijkse zonne-energiebijdrage van een zonneboiler met een apertuuroppervlakte van meer dan 10 m2.
+- c. een zonneboiler als bedoeld in [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), die wordt geïnstalleerd op of na 1 januari 2024, € 1,02 per kWh jaarlijkse zonne-energiebijdrage van de zonneboiler bij een apertuuroppervlakte van ten hoogste 5 m2, € 0,55 per kWh jaarlijkse zonne-energiebijdrage van een zonneboiler bij een apertuuroppervlakte van meer dan 5 tot ten hoogste 10 m2 en € 0,28 per kWh jaarlijkse zonne-energiebijdrage van een zonneboiler met een apertuuroppervlakte van meer dan 10 m2.
 
 2. De subsidie, bedoeld in het eerste lid, onderdelen a, onder 1°, en onderdeel b, onder 1°, wordt verhoogd met:
 
@@ -726,37 +728,37 @@ Aanvullende energiebesparende maatregelen zijn:
 
 - a. dakisolatie dan wel zolder- of vlieringvloerisolatie:
 
-- 1°. voor het isoleren van het dak in de bestaande thermische schil, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), € 32,50 per vierkante meter van de te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van het gehele dak; en
+- 1°. voor het isoleren van het dak in de bestaande thermische schil, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), € 32,50 per vierkante meter van de te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van het gehele dak; en
 
-- 2°. voor het isoleren van de bestaande zolder- of vlieringvloer in de bestaande thermische schil bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), € 8 per vierkante meter van de te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van de zolder- of vlieringvloer;
+- 2°. voor het isoleren van de bestaande zolder- of vlieringvloer in de bestaande thermische schil bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), € 8 per vierkante meter van de te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van de zolder- of vlieringvloer;
 
-- b. gevelisolatie als bedoeld in [artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), € 40,50 per vierkante meter van de te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op gemiddeld minimaal 10 m2per appartement van de oppervlakte van de binnen- of buitengevel van de bestaande thermische schil die wordt geïsoleerd;
+- b. gevelisolatie als bedoeld in [artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), € 40,50 per vierkante meter van de te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op gemiddeld minimaal 10 m2per appartement van de oppervlakte van de binnen- of buitengevel van de bestaande thermische schil die wordt geïsoleerd;
 
 - c. glas-, kozijnpaneel- of deurisolatie in de bestaande thermische schil, voor zover de totale subsidiabele kosten betrekking hebben op het vervangen van een te isoleren oppervlakte van gemiddeld minimaal:
 
-- 1°. 3 m2 per appartement van glas, kozijnpanelen of deuren door HR ++ glas of nieuwe isolerende deuren als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01): € 50 per vierkante meter van de te isoleren oppervlakte;
+- 1°. 3 m2 per appartement van glas, kozijnpanelen of deuren door HR ++ glas of nieuwe isolerende deuren als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01): € 50 per vierkante meter van de te isoleren oppervlakte;
 
 - 2°. 3 m2 per appartement van glas of kozijnpanelen door nieuwe isolerende kozijnpanelen: € 20 per vierkante meter, voor zover de subsidiabele kosten mede betrekking hebben op het vervangen van glas door HR ++ glas als bedoeld in subonderdeel 1°;
 
-- 3°. 3 m2 per appartement van glas, kozijnpanelen of deuren door triple-glas, in combinatie met een nieuw isolerend kozijn met een maximale Uf-waarde (W/m2K) van 1.5 of nieuwe isolerende deuren als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01): € 222 per vierkante meter van de te isoleren oppervlakte; of
+- 3°. 3 m2 per appartement van glas, kozijnpanelen of deuren door triple-glas, in combinatie met een nieuw isolerend kozijn met een maximale Uf-waarde (W/m2K) van 1.5 of nieuwe isolerende deuren als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01): € 222 per vierkante meter van de te isoleren oppervlakte; of
 
 - 4°. 3 m2 per appartement van glas of kozijnpanelen door nieuwe isolerende kozijnpanelen: € 90 per vierkante meter, voor zover de subsidiabele kosten mede betrekking hebben op het vervangen van glas door triple glas, bedoeld in subonderdeel 3°;
 
-- 5°. 3 m2 per monumentaal appartement van glas, kozijnpanelen of deuren door hoogrendementsglas of nieuwe isolerende deuren of het plaatsen van voor- of achterzetbeglazing als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01): € 50 per vierkante meter van de te isoleren oppervlakte;
+- 5°. 3 m2 per monumentaal appartement van glas, kozijnpanelen of deuren door hoogrendementsglas of nieuwe isolerende deuren of het plaatsen van voor- of achterzetbeglazing als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01): € 50 per vierkante meter van de te isoleren oppervlakte;
 
 - 6°. 3 m2 per monumentaal appartement van glas of kozijnpanelen door nieuwe isolerende kozijnpanelen: € 20 per vierkante meter, voor zover de subsidiabele kosten mede betrekking hebben op het vervangen van glas door hoogrendementsglas, bedoeld in subonderdeel 5°;
 
-- 7°. 3 m2 per monumentaal appartement van glas, kozijnpanelen of deuren door hoogrendementsglas of nieuwe isolerende deuren of het plaatsen van voor- of achterzetbeglazing als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01): € 92 per vierkante meter van de te isoleren oppervlakte; of
+- 7°. 3 m2 per monumentaal appartement van glas, kozijnpanelen of deuren door hoogrendementsglas of nieuwe isolerende deuren of het plaatsen van voor- of achterzetbeglazing als bedoeld in [artikel 7, tweede lid, onderdeel c, subonderdeel 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01): € 92 per vierkante meter van de te isoleren oppervlakte; of
 
 - 8°. 3 m2 per monumentaal appartement van glas of kozijnpanelen door nieuwe isolerende kozijnpanelen: € 40 per vierkante meter, voor zover de subsidiabele kosten mede betrekking hebben op het vervangen van glas door hoogrendementsglas, bedoeld in subonderdeel 7°;
 
-- d. spouwmuurisolatie van de bestaande thermische schil als bedoeld in [artikel 7, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), € 10,50 per vierkante meter te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op gemiddeld minimaal 10 vierkante meter per appartement van de oppervlakte van bestaande spouwmuren in de bestaande thermische schil;
+- d. spouwmuurisolatie van de bestaande thermische schil als bedoeld in [artikel 7, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), € 10,50 per vierkante meter te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op gemiddeld minimaal 10 vierkante meter per appartement van de oppervlakte van bestaande spouwmuren in de bestaande thermische schil;
 
 - e. vloer- dan wel bodemisolatie via:
 
-- 1°. het isoleren van de vloer in de bestaande thermische schil, bedoeld in [artikel 7, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), € 11 per vierkante meter te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van de gehele vloer; en
+- 1°. het isoleren van de vloer in de bestaande thermische schil, bedoeld in [artikel 7, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), € 11 per vierkante meter te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van de gehele vloer; en
 
-- 2°. het isoleren van de bodem in de bestaande thermische schil, bedoeld in [artikel 7, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), € 6 per vierkante meter te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van de gehele vloer.
+- 2°. het isoleren van de bodem in de bestaande thermische schil, bedoeld in [artikel 7, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), € 6 per vierkante meter te isoleren oppervlakte, voor zover de subsidiabele kosten betrekking hebben op minimaal 70% van de oppervlakte van de gehele vloer.
 
 2. In afwijking van het eerste lid, onderdeel a, onder 1°, is voor het isoleren van het dak niet vereist dat 70% van het gehele oppervlakte van het dak wordt geïsoleerd, maar volstaat het volledig isoleren van de hoofd- en nevendaken in de bestaande thermische schil van het gebouw, indien:
 
@@ -766,21 +768,21 @@ Aanvullende energiebesparende maatregelen zijn:
 
 3. Wanneer er maar één energiebesparende isolatiemaatregel in totaal wordt uitgevoerd, bedraagt het subsidiebedrag ten hoogste de helft van het subsidiebedrag, genoemd in het eerste en vierde lid. Dit wordt omgezet naar het volledige subsidiebedrag, indien binnen vierentwintig maanden vanaf het moment van de subsidiebeschikking voor één energiebesparende isolatiemaatregel een subsidieaanvraag voor een volgende energiebesparende isolatiemaatregel of een duurzame warmteoptie voor een gebouw of groep van gebouwen wordt toegekend.
 
-4. Indien een investering voor aanvullende energiebesparende maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01), is aangebracht bedraagt de subsidie voor:
+4. Indien een investering voor aanvullende energiebesparende maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01), is aangebracht bedraagt de subsidie voor:
 
-- a. het aanleggen van een ventilatiesysteem overeenkomstig [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01), per appartement 30% van de kosten van het ventilatiesysteem, inhoudende exclusief staartkosten en inclusief btw indien van toepassing, met een maximum van € 1.200;
+- a. het aanleggen van een ventilatiesysteem overeenkomstig [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01), per appartement 30% van de kosten van het ventilatiesysteem, inhoudende exclusief staartkosten en inclusief btw indien van toepassing, met een maximum van € 1.200;
 
 - b. het dynamisch waterzijdig inregelen van een verwarmingssysteem overeenkomstig artikel 8, onderdeel b, per appartement: € 150; en
 
-- c. het plaatsen van een energiedisplay of een thermostaat overeenkomstig [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01), per appartement: € 120.
+- c. het plaatsen van een energiedisplay of een thermostaat overeenkomstig [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01), per appartement: € 120.
 
-5. Indien het een aanvraag voor een subsidie als bedoeld in [artikel 11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-01-01&g=2026-01-01), betreft, wordt het bedrag dat berekend is op grond van het eerste lid vermenigvuldigd met een breuk waarvan de teller het percentage, bedoeld in artikel 11, derde lid, onderdeel e, is en de noemer 100.
+5. Indien het een aanvraag voor een subsidie als bedoeld in [artikel 11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-04-01&g=2026-04-01), betreft, wordt het bedrag dat berekend is op grond van het eerste lid vermenigvuldigd met een breuk waarvan de teller het percentage, bedoeld in artikel 11, derde lid, onderdeel e, is en de noemer 100.
 
-6. Indien het een aanvraag voor een subsidie als bedoeld in [artikel 11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-01-01&g=2026-01-01), subonderdeel 1° of 2°, betreft, dan wordt in aanvulling op het bedrag dat resulteert uit de berekening uit het vierde lid, daarbij het bedrag opgeteld dat resulteert uit de volgende berekening: het bedrag dat berekend is op grond van het eerste lid wordt vermenigvuldigd met een breuk waarvan de teller het aantal huurwoningen waarvoor een verklaring als bedoeld in artikel 11, vijfde of zesde lid, is aangeleverd en die aan de voor die verklaring op grond van de de-minimisverordening of algemene groepsvrijstelling geldende voorwaarden voldoet, uitgedrukt als percentage van het totaal aantal appartementen in het gebouw, is en de noemer 100.
+6. Indien het een aanvraag voor een subsidie als bedoeld in [artikel 11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-04-01&g=2026-04-01), subonderdeel 1° of 2°, betreft, dan wordt in aanvulling op het bedrag dat resulteert uit de berekening uit het vierde lid, daarbij het bedrag opgeteld dat resulteert uit de volgende berekening: het bedrag dat berekend is op grond van het eerste lid wordt vermenigvuldigd met een breuk waarvan de teller het aantal huurwoningen waarvoor een verklaring als bedoeld in artikel 11, vijfde of zesde lid, is aangeleverd en die aan de voor die verklaring op grond van de de-minimisverordening of algemene groepsvrijstelling geldende voorwaarden voldoet, uitgedrukt als percentage van het totaal aantal appartementen in het gebouw, is en de noemer 100.
 
 ##### Artikel 18. Hoogte subsidie investeringen voor een centrale aansluiting op een warmtenet
 
-De subsidie voor een investering voor een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), bedraagt bij een vermogen van:
+De subsidie voor een investering voor een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), bedraagt bij een vermogen van:
 
 - 1°. ten hoogste 100 kW: € 3.375;
 
@@ -790,15 +792,15 @@ De subsidie voor een investering voor een centrale aansluiting op een warmtenet 
 
 ##### Artikel 19. Hoogte subsidie zeer energiezuinig pakket
 
-1. Voor realisatie van een zeer energiezuinig pakket wordt de subsidie met overeenkomstige toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01) berekend en vervolgens verhoogd met € 4.000 per appartement.
+1. Voor realisatie van een zeer energiezuinig pakket wordt de subsidie met overeenkomstige toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-04-01&g=2026-04-01) berekend en vervolgens verhoogd met € 4.000 per appartement.
 
 2. Vervallen.
 
 ##### Artikel 20. Maximale totale subsidie per vereniging
 
-1. De subsidie voor een vereniging bedraagt per appartement gemiddeld ten hoogste € 15.000 op grond van [artikel 10, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-01-01&g=2026-01-01), en ten hoogste € 20.000 op grond van artikel 10, eerste lid, onderdelen a tot en met e.
+1. De subsidie voor een vereniging bedraagt per appartement gemiddeld ten hoogste € 15.000 op grond van [artikel 10, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-04-01&g=2026-04-01), en ten hoogste € 20.000 op grond van artikel 10, eerste lid, onderdelen a tot en met e.
 
-2. Indien het een aanvraag voor een subsidie als bedoeld in [artikel 11, tweede lid, onderdeel b, onderdeel 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-01-01&g=2026-01-01), betreft, bedraagt de totale subsidie voor een vereniging op grond van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-01-01&g=2026-01-01), ten hoogste 30% van de voor staatssteun in aanmerking komende kosten van de te treffen energiebesparende isolatiemaatregelen, duurzame warmteopties en aanvullende energiebesparende maatregelen of het zeer energiezuinig pakket.
+2. Indien het een aanvraag voor een subsidie als bedoeld in [artikel 11, tweede lid, onderdeel b, onderdeel 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=11&z=2026-04-01&g=2026-04-01), betreft, bedraagt de totale subsidie voor een vereniging op grond van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=10&z=2026-04-01&g=2026-04-01), ten hoogste 30% van de voor staatssteun in aanmerking komende kosten van de te treffen energiebesparende isolatiemaatregelen, duurzame warmteopties en aanvullende energiebesparende maatregelen of het zeer energiezuinig pakket.
 
 ### Hoofdstuk VI. Wijze van subsidieverstrekking
 
@@ -810,7 +812,7 @@ De subsidie voor een investering voor een centrale aansluiting op een warmtenet 
 
 ##### Artikel 22. Subsidieverstrekking onder opschortende voorwaarde
 
-Voor een investering voor duurzame warmteopties of een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, derde lid, respectievelijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), wordt de subsidie verleend onder de opschortende voorwaarde dat:
+Voor een investering voor duurzame warmteopties of een centrale aansluiting op een warmtenet als bedoeld in [artikel 7, derde lid, respectievelijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), wordt de subsidie verleend onder de opschortende voorwaarde dat:
 
 - a. een overeenkomst wordt gesloten met een bouwinstallatiebedrijf of warmteleverancier in verband met de aanschaf van de installatie of installaties dan wel de centrale aansluiting op een warmtenet; en
 
@@ -846,7 +848,9 @@ Voor een investering voor duurzame warmteopties of een centrale aansluiting op e
 
 2. De Minister beslist afwijzend op een aanvraag voor subsidie voor een investering voor energiebesparende isolatiemaatregelen indien:
 
-- a. de aanvraag voor subsidie betrekking heeft op een investering ten behoeve van het realiseren van een vergroting van het woonoppervlakte of wooninhoud in ieder geval door:
+- a. het een aanvraag voor subsidie betreft voor het aanbrengen van UF-schuim;
+
+- b. de aanvraag voor subsidie betrekking heeft op een investering ten behoeve van het realiseren van een vergroting van het woonoppervlakte of wooninhoud in ieder geval door:
 
 - 1°. het realiseren van een nieuwe aanbouw;
 
@@ -856,7 +860,7 @@ Voor een investering voor duurzame warmteopties of een centrale aansluiting op e
 
 - 4°. het vergroten van het bestaande dak, gevel, vloer of glasoppervlakte; of
 
-- b. het een aanvraag voor subsidie betreft voor een woning of gebouw met een bouwjaar of woonfunctie na 1 januari 2013, tenzij een omgevingsvergunning voor dit gebouw overlegd kan worden die voor 1 januari 2013 is afgegeven.
+- c. het een aanvraag voor subsidie betreft voor een woning of gebouw met een bouwjaar of woonfunctie na 1 januari 2013, tenzij een omgevingsvergunning voor dit gebouw overlegd kan worden die voor 1 januari 2013 is afgegeven.
 
 3. De Minister beslist afwijzend op een aanvraag voor subsidie voor een investering voor de duurzame warmteopties indien:
 
@@ -864,7 +868,7 @@ Voor een investering voor duurzame warmteopties of een centrale aansluiting op e
 
 - b. de aanvraag voor subsidie betrekking heeft op een gebruikte installatie; of
 
-- c. het een aanvraag voor subsidie betreft als bedoeld in [artikel 7, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), voor een woning met een bouwjaar of woonfunctie na 1 januari 2019, tenzij een omgevingsvergunning voor dit gebouw kan worden overlegd die voor 1 juli 2018 is aangevraagd.
+- c. het een aanvraag voor subsidie betreft als bedoeld in [artikel 7, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), voor een woning met een bouwjaar of woonfunctie na 1 januari 2019, tenzij een omgevingsvergunning voor dit gebouw kan worden overlegd die voor 1 juli 2018 is aangevraagd.
 
 ### Hoofdstuk VIII. Afwijzingsgronden
 
@@ -886,7 +890,7 @@ Voor een investering voor duurzame warmteopties of een centrale aansluiting op e
 
 2. Onverminderd [artikel 24, eerste, tweede en derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=24) gaat de aanvraag tot subsidievaststelling vergezeld van:
 
-- a. een factuur of facturen en betaalbewijs of betaalbewijzen van de aanschaf en installatie van de investering voor duurzame warmteopties en aanvullende energiebesparende maatregelen als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-01-01&g=2026-01-01), waaronder begrepen de door het bouwinstallatiebedrijf getekende factuur in geval van contante betaling van deze investeringen, waarop ten minste het betaalde bedrag, de begunstigde en betaaldatum vermeld wordt;
+- a. een factuur of facturen en betaalbewijs of betaalbewijzen van de aanschaf en installatie van de investering voor duurzame warmteopties en aanvullende energiebesparende maatregelen als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=8&z=2026-04-01&g=2026-04-01), waaronder begrepen de door het bouwinstallatiebedrijf getekende factuur in geval van contante betaling van deze investeringen, waarop ten minste het betaalde bedrag, de begunstigde en betaaldatum vermeld wordt;
 
 - b. indien het een investering voor energiebesparende isolatiemaatregelen of een zeer energiezuinig pakket betreft:
 
@@ -894,7 +898,7 @@ Voor een investering voor duurzame warmteopties of een centrale aansluiting op e
 
 - 2°. ten minste één foto per energiebesparende isolatiemaatregel of maatregel uit het zeer energiezuinig pakket, genomen tijdens de uitvoering van de werkzaamheden door het bouwbedrijf, met daarop zichtbaar de naam, merk, soort, en dikte van het isolatiemateriaal;
 
-- 3°. indien het een investering voor glas-, kozijnpaneel- of deurisolatie als bedoeld in [artikel 7 tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), betreft, voor zover van toepassing, een kozijnstaat met daarin een specificatie per kozijn, waarop het merk, type, warmteverlies van het kozijnprofiel (Uf-waarde), glasfabrikant, glassoort, glasopbouw, binnenwerkse breedte en hoogtemaat en totaal aantal m2 op staan vermeld;
+- 3°. indien het een investering voor glas-, kozijnpaneel- of deurisolatie als bedoeld in [artikel 7 tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), betreft, voor zover van toepassing, een kozijnstaat met daarin een specificatie per kozijn, waarop het merk, type, warmteverlies van het kozijnprofiel (Uf-waarde), glasfabrikant, glassoort, glasopbouw, binnenwerkse breedte en hoogtemaat en totaal aantal m2 op staan vermeld;
 
 - c. indien het een investering voor duurzame warmteopties betreft, een document waaruit blijkt dat een investering:
 
@@ -904,9 +908,9 @@ Voor een investering voor duurzame warmteopties of een centrale aansluiting op e
 
 - 3°. is geïnstalleerd of aangebracht door een bouwinstallatiebedrijf;
 
-- d. indien subsidie is aangevraagd voor bouwbegeleiding als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), de factuur en het betalingsbewijs van de bouwbegeleiding en een korte rapportage, waarin de uitgevoerde activiteiten beschreven staan; en
+- d. indien subsidie is aangevraagd voor bouwbegeleiding als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-04-01&g=2026-04-01), de factuur en het betalingsbewijs van de bouwbegeleiding en een korte rapportage, waarin de uitgevoerde activiteiten beschreven staan; en
 
-- e. indien het een investering voor de centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-01-01&g=2026-01-01), betreft, een overeenkomst met een warmteleverancier waaruit blijkt dat het appartementencomplex is aangesloten op een warmtenet.
+- e. indien het een investering voor de centrale aansluiting op een warmtenet als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=III&artikel=7&z=2026-04-01&g=2026-04-01), betreft, een overeenkomst met een warmteleverancier waaruit blijkt dat het appartementencomplex is aangesloten op een warmtenet.
 
 ### Hoofdstuk X. Slotbepalingen
 
@@ -914,7 +918,7 @@ Voor een investering voor duurzame warmteopties of een centrale aansluiting op e
 
 1. De [Subsidieregeling energiebesparing eigen huis](https://wetten.overheid.nl/jci1.3:c:BWBR0038472) wordt ingetrokken, met dien verstande dat deze van toepassing blijft op de subsidies die voor de datum van inwerkingtreding van deze regeling op grond van de Subsidieregeling energiebesparing eigen huis zijn verstrekt of aangevraagd.
 
-2. Het maatwerkadvies, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), komt ook voor subsidie in aanmerking als het in de periode tot en met 1 juli 2024 is opgesteld door een persoon die voldoet aan de eisen aan de vakbekwaamheid van ‘EPA-adviseur’ conform bijlage 2 van BRL 9500, deel 2.
+2. Het maatwerkadvies, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=II&artikel=5&z=2026-04-01&g=2026-04-01), komt ook voor subsidie in aanmerking als het in de periode tot en met 1 juli 2024 is opgesteld door een persoon die voldoet aan de eisen aan de vakbekwaamheid van ‘EPA-adviseur’ conform bijlage 2 van BRL 9500, deel 2.
 
 3. Op aanvragen om een subsidie die zijn ingediend voor het tijdstip van inwerkingtreding van een wijziging van deze regeling, op subsidies die voor dat tijdstip zijn verleend en op subsidies die voor dat tijdstip zijn vastgesteld, blijft deze regeling van toepassing zoals deze luidde voor dat tijdstip tenzij de wijziging met terugwerkende kracht in werking treedt.
 
@@ -930,7 +934,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17a. Biobased milieuvriendelijk isolatiemateriaal
 
-1. Indien is geïnvesteerd in biobased isolatiemateriaal wordt de op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01), berekende subsidie per vierkante meter vermeerderd met:
+1. Indien is geïnvesteerd in biobased isolatiemateriaal wordt de op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-04-01&g=2026-04-01), berekende subsidie per vierkante meter vermeerderd met:
 
 - a. in geval van dakisolatie: € 5 per m2;
 
@@ -942,13 +946,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - e. in geval van een investering in bodemisolatie: € 1 per m2.
 
-2. De bedragen, genoemd in het eerste lid, worden niet gehalveerd in het geval er sprake is van de situatie, bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01).
+2. De bedragen, genoemd in het eerste lid, worden niet gehalveerd in het geval er sprake is van de situatie, bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=V&artikel=17&z=2026-04-01&g=2026-04-01).
 
 ##### Artikel 20a. Maximale subsidie oplaadpuntenadvies en basislaadinfrastructuur
 
-1. De subsidie voor een vereniging voor het oplaadpuntenadvies bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), bedraagt ten hoogste 75 % van de kosten voor de advisering, met een maximum van € 1.500.
+1. De subsidie voor een vereniging voor het oplaadpuntenadvies bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01), bedraagt ten hoogste 75 % van de kosten voor de advisering, met een maximum van € 1.500.
 
-2. De subsidie bedoeld in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), voor het installeren van basislaadinfrastructuur bedraagt € 100 per nieuw aan te sluiten parkeerplaats.
+2. De subsidie bedoeld in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=IV&artikel=12&z=2026-04-01&g=2026-04-01), voor het installeren van basislaadinfrastructuur bedraagt € 100 per nieuw aan te sluiten parkeerplaats.
 
 ### Hoofdstuk VI. Wijze van subsidieverstrekking
 
@@ -962,7 +966,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 19a. Hoogte subsidie bouwbegeleiding
 
-De subsidie voor bouwbegeleiding, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), bedraagt 50% van de totale kosten van de activiteit met een maximum van € 20.000.
+De subsidie voor bouwbegeleiding, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047596&hoofdstuk=I&artikel=1&z=2026-04-01&g=2026-04-01), bedraagt 50% van de totale kosten van de activiteit met een maximum van € 20.000.
 
 ##### Artikel 20b. Gegevensuitwisseling
 
