@@ -4,7 +4,7 @@ identifier: "BWBR0031995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2020-01-01"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031995"
 soort: "ministeriele-regeling"
@@ -76,13 +76,21 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De plaatsvervangende leden van het college ontvangen van de minister zittingsgeld overeenkomstig de bepalingen die voor rechters-plaatsvervangers gelden met betrekking tot de vergoeding voor een zitting.
+- a. De plaatsvervangende leden van het college ontvangen zittingsgeld overeenkomstig de bepalingen voor rechters-plaatsvervangers als bedoeld in [artikel 6a, eerste lid, onderdeel c van het Besluit rechtspositie rechterlijk ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6a).
+
+- b. In afwijking van [artikel 6a, tweede lid van voormeld besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6a), geldt de in onderdeel a van dit artikel bedoelde vergoeding per zitting, ook indien meerdere zittingen op één dag zijn gepland.
+
+- c. Indien het plaatsvervangend lid optreedt als voorzitter van de raadkamer, ontvangt dit lid 150% van het in onderdeel a van dit artikel bedoelde zittingsgeld.
+
+- d. Bij complexe zaken ontvangen leden van de raadkamer 150% en de voorzitter 200% van het onder a bedoelde zittingsgeld.
+
+- e. Voor het in overleg bijwonen van vergaderingen geldt een vergoeding per vergadering die gelijk is aan 3% van het maximum van salarisschaal 15 zoals overeengekomen in de Collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. Voor de toepassing van het eerste lid wordt een schriftelijk advies met een zitting gelijkgesteld.
 
-3. In afwijking van het eerste lid, ontvangen de plaatsvervangende leden van het college die zijn benoemd om tijdelijk een volledige of gedeeltelijke taak te vervullen, over de periode waartoe zij zijn benoemd, een schadeloosstelling met overeenkomstige toepassing van het derde, onderscheidenlijk vierde lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031995&artikel=2&z=2020-01-01&g=2020-01-01).
+3. In afwijking van het eerste lid, ontvangen de plaatsvervangende leden van het college die zijn benoemd om tijdelijk een volledige of gedeeltelijke taak te vervullen, over de periode waartoe zij zijn benoemd, een schadeloosstelling met overeenkomstige toepassing van het derde, onderscheidenlijk vierde lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031995&artikel=2&z=2026-04-01&g=2026-04-01).
 
-4. De plaatsvervangende leden van het college genieten een vergoeding van reis- en verblijfkosten overeenkomstig de bepalingen die terzake gelden voor rijksambtenaren. [Artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031995&artikel=3&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
+4. De plaatsvervangende leden van het college genieten een vergoeding van reis- en verblijfkosten overeenkomstig de bepalingen die terzake gelden voor rijksambtenaren. [Artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031995&artikel=3&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -90,9 +98,9 @@ De bezoldiging van een lid van het college wordt niet langer uitbetaald dan tot 
 
 ##### Artikel 6
 
-1. De voorzitter van de raad van advies, genoemd in [artikel 15 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=15), ontvangt van de minister per vergadering een vergoeding van € 186,05.
+1. De voorzitter van de raad van advies, genoemd in [artikel 15 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=15), ontvangt van de minister per vergadering een vergoeding gelijk aan 130% van 3% van het maximum van schaal 15 van de Collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-2. De overige leden van de raad van advies ontvangen van de minister per vergadering een vergoeding van € 124,79.
+2. De overige leden van de raad van advies ontvangen van de minister per vergadering een vergoeding gelijk aan 3% van het maximum van schaal 15 van Collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 3. Geen vergoeding wordt toegekend aan de Nationale ombudsman, de voorzitter van het College bescherming persoonsgegevens en de voorzitter van de Raad voor de rechtspraak.
 
