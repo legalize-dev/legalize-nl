@@ -4,7 +4,7 @@ identifier: "BWBR0034835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2025-12-05"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034835"
 soort: "ministeriele-regeling"
@@ -56,9 +56,11 @@ Voor de overtreder als natuurlijk persoon wordt bij een overtreding van [artikel
 
 1. Een onderneming die in het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2), is ingeschreven onder één van de volgende SBI codes:
 
-78201 Uitzendbureaus, of
+78201 Uitzendbureaus,
 
 78202 Uitleenbureaus,
+
+84123 Beheer van werkgelegenheidsprojecten (banenpools),
 
 wordt geacht als onderneming die de activiteit van het ter beschikking stellen van arbeidskrachten uitoefent geregistreerd te staan.
 
@@ -119,7 +121,7 @@ Het boetenormbedrag voor overtreding van [artikel 7a, eerste lid of tweede lid, 
 
 - b. de overtreding is begaan door een rechtspersoon, of daarmee gelijkgestelde, waarvan een wettelijk vertegenwoordiger eerder wettelijk vertegenwoordiger was van een andere rechtspersoon, of daarmee gelijkgestelde, ten aanzien waarvan een overtreding van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) is geconstateerd, en waarvan de bedrijfsactiviteiten of de locatie waar of van waaruit de werkzaamheden worden verricht dezelfde zijn gebleven.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034835&artikel=1&z=2025-12-05&g=2025-12-05) van de Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034835&artikel=1&z=2026-04-02&g=2026-04-02) van de Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014
 
 | Artikel | Lid | Overtreding | Boetenormbedrag |
 | --- | --- | --- | --- |
