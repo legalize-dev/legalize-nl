@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2026-01-01"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Vervallen
 
 3. Indien het beeld van de uitvoering, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.
 
-4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister. Indien daarvoor naar het oordeel van de minister een noodzaak bestaat, kan, na ontvangst van het beeld van de uitvoering, de betaling van de uitkering op een eerdere datum worden hervat, waarbij kan worden afgeweken van het betaalmoment, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01).
+4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister. Indien daarvoor naar het oordeel van de minister een noodzaak bestaat, kan, na ontvangst van het beeld van de uitvoering, de betaling van de uitkering op een eerdere datum worden hervat, waarbij kan worden afgeweken van het betaalmoment, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=5&z=2026-04-02&g=2026-04-02).
 
 5. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711).
 
@@ -138,11 +138,11 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - p. betalingen door de Dienst Toeslagen inzake:
 
-- 1°. de compensatie of aanvullende compensatie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1) of [artikel 2.14h van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h);
+- 1°. de compensatie of aanvullende compensatie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1), [artikel 2.9a, eerste lid, onderdeel a, subonderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [tweede lid, artikel 2.9b, eerste lid, onderdeel a, subonderdeel 1, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b), of [artikel 2.14h van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h);
 
-- 2°. de O/GS-tegemoetkoming en aanvullende O/GS-tegemoetkoming, bedoeld in [artikel 2.6 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
+- 2°. de O/GS-tegemoetkoming en aanvullende O/GS-tegemoetkoming, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6), [artikel 2.9a, eerste lid, onderdeel a, subonderdeel 2, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [artikel 2.9b, eerste lid, onderdeel a, subonderdeel 2, of tweede lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b);
 
-- 3°. het forfaitair bedrag, bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7);
+- 3°. het forfaitair bedrag, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), [artikel 2.9a, eerste lid, onderdeel a, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [artikel 2.9 b, eerste lid, onderdeel a, subonderdeel 3, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b);
 
 - 4°. de incidentele noodvoorziening, bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.8) of [artikel 2.14i van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14i);
 
@@ -150,7 +150,7 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - 6°. de eenmalige tegemoetkoming, bedoeld in [artikel 49g van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49a), zoals dat luidde op 25 januari 2021;
 
-- 7°. de tegemoetkoming voor kind, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.10) of [artikel 2.11a van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.11a), of de tegemoetkoming voor pleegkind of voormalig pleegkind, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.11) of [artikel 2.11b van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.11b);
+- 7°. de tegemoetkoming aan een kind, pleegkind of voormalig pleegkind als bedoeld in [afdeling 2.2 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&afdeling=2.2), of de tegemoetkoming aan de nabestaanden van een overleden kind als bedoeld in [afdeling 2.2a van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&afdeling=2.2a);
 
 - 8°. de tegemoetkoming, bedoeld in [Afdeling 2.5 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&afdeling=2.5).
 
@@ -208,7 +208,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2026-01-01&g=2026-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2026-01-01&g=2026-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2026-04-02&g=2026-04-02), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2026-04-02&g=2026-04-02), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2026-04-02&g=2026-04-02) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2026-04-02&g=2026-04-02) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -402,7 +402,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 15b. Aantallen beschut werk
 
-Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2026 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2026-01-01&g=2026-01-01) bij deze regeling bepaalde aantal per gemeente.
+Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2026 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2026-04-02&g=2026-04-02) bij deze regeling bepaalde aantal per gemeente.
 
 #### § 8. Slotbepalingen
 
@@ -1540,7 +1540,7 @@ De tegemoetkoming voor een huishouden dat voldoet aan de voorwaarden, bedoeld in
 
 #### § 8. Slotbepalingen
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2026-04-02&g=2026-04-02) van de Regeling Participatiewet, IOAW en IOAZ
 
 | Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
 | --- | --- | --- | --- |
@@ -1738,7 +1738,7 @@ De tegemoetkoming voor een huishouden dat voldoet aan de voorwaarden, bedoeld in
 | Indicator LKS | – 2,4306064 | 5-1-2023 | 31-12-2024 |
 | Constante | 2,0263536 | n.v.t. | N.v.t. |
 
-## Bijlage II. behorende bij [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7b&artikel=15b&z=2026-01-01&g=2026-01-01) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage II. behorende bij [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7b&artikel=15b&z=2026-04-02&g=2026-04-02) van de Regeling Participatiewet, IOAW en IOAZ
 
 | CBS-code | Gemeente | ultimo 2026 |
 | --- | --- | --- |
