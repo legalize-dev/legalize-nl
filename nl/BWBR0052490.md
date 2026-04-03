@@ -4,7 +4,7 @@ identifier: "BWBR0052490"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2026-03-01"
+last_updated: "2026-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052490"
 soort: "ministeriele-regeling"
@@ -64,13 +64,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Machtiging
 
-Aan het afdelingshoofd en de medewerkers wordt machtiging verleend om een betaalopdracht te verstrekken op grond van een daartoe genomen besluit op een aanvraag tot uitkering van geconsigneerde gelden ingevolge [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=9) zoals vermeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052490&artikel=2&z=2026-04-03&g=2026-03-01), onderscheidenlijk artikel 2, tweede lid, van dit besluit.
+Aan het afdelingshoofd en de medewerkers wordt machtiging verleend om een betaalopdracht te verstrekken op grond van een daartoe genomen besluit op een aanvraag tot uitkering van geconsigneerde gelden ingevolge [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=9) zoals vermeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052490&artikel=2&z=2026-04-03&g=2026-04-03), onderscheidenlijk artikel 2, tweede lid, van dit besluit.
 
 ##### Artikel 4. Voorschriften en instructies
 
 1. De uitoefening van de gemandateerde bevoegdheden geschiedt binnen de grenzen en met inachtneming van het ter zake geldende recht.
 
-2. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052490&artikel=3&z=2026-04-03&g=2026-03-01) bedoelde betaalopdrachten worden verstrekt aan het Financieel Dienstencentrum dat de betalingen uitvoert. Het Financieel Dienstencentrum ontvangt daartoe van het Bureau Consignatie van de directie Financieel-Economische Zaken een overzicht van de handtekeningsbevoegdheid van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052490&artikel=2&z=2026-04-03&g=2026-03-01) bedoelde functionarissen.
+2. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052490&artikel=3&z=2026-04-03&g=2026-04-03) bedoelde betaalopdrachten worden verstrekt aan het Financieel Dienstencentrum dat de betalingen uitvoert. Het Financieel Dienstencentrum ontvangt daartoe van het Bureau Consignatie van de directie Financieel-Economische Zaken een overzicht van de handtekeningsbevoegdheid van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052490&artikel=2&z=2026-04-03&g=2026-04-03) bedoelde functionarissen.
 
 ##### Artikel 5. Ondertekening
 
