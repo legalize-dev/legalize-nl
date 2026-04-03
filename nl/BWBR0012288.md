@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2026-03-25"
+last_updated: "2026-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -1271,7 +1271,7 @@ De vreemdeling moet specifieke individuele kenmerken (‘special distinguishing 
 
 De minister kan bij zijn beoordeling gradaties van willekeurig geweld vaststellen:
 
-Uitzetting kan in verband met de medische situatie onder bijzondere omstandigheden leiden tot een schending van artikel 3 EVRM. De IND toetst de vraag of sprake is van schending van artikel 3 EVRM vanwege medische redenen in het kader van de ambtshalve toets of uitstel van vertrek verleend moet worden op grond van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64). Er zal in deze situatie geen verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) verleend worden, behoudens de situaties zoals omschreven in het in [A3/7.6](onbekend) neergelegde overgangsrecht. Voor de geldende beleidsregels en het overgangsrecht, zie [paragraaf A3/7 Vc](onbekend). Indien er geen ambtshalve toets plaatsvindt, maar het meeromvattend asielbesluit ook als terugkeerbesluit moet worden aangemerkt, toetst de IND – in het kader van dat terugkeerbesluit – eveneens of er sprake is van schending van artikel 3 EVRM vanwege medische redenen.
+Uitzetting kan in verband met de medische situatie onder bijzondere omstandigheden leiden tot een schending van artikel 3 EVRM. De IND toetst de vraag of sprake is van schending van artikel 3 EVRM vanwege medische redenen in het kader van de ambtshalve toets of uitstel van vertrek verleend moet worden op grond van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64). Er zal in deze situatie geen verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) verleend worden. Indien er geen ambtshalve toets plaatsvindt, maar het meeromvattend asielbesluit ook als terugkeerbesluit moet worden aangemerkt, toetst de IND – in het kader van dat terugkeerbesluit – eveneens of er sprake is van schending van artikel 3 EVRM vanwege medische redenen.
 
 Er is sprake van een uitzonderlijke mate van willekeurig geweld als de algehele geweldssituatie in het kader van een internationaal of binnenlands gewapend conflict in het land van herkomst of in een bepaald gebied in dit land zodanig is dat wordt aangenomen dat een vreemdeling enkel en alleen al door zijn aanwezigheid op dat grondgebied een reëel risico loopt op een ernstige en individuele bedreiging van zijn leven of persoon. Het individualiseringsvereiste van de vreemdeling beperkt zich in deze gevallen tot het afkomstig zijn uit het land of bepaald gebied, waar sprake is van deze uitzonderlijke mate van willekeurig geweld.
 
