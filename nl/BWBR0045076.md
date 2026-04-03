@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2025-06-21"
+last_updated: "2026-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -66,9 +66,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. **algemene leiding DGD:** de directeur-generaal Douane (de DGD) en/of diens plaatsvervanger;
 
-- j. **directeuren van de topstructuur DGBD:** algemeen directeuren van het DGBD, (hoofd)directeuren van concerndirecties, shared service organisaties (SSO) of corporate diensten van het DGBD; en
+- j. **pDGBD:** de plaatsvervangend directeur-generaal Belastingdienst van het cluster Dienstverlening & Operaties (D&O) en de plaatsvervangend directeur-generaal Belastingdienst van het cluster Fiscaliteit, Rechtsstatelijkheid en Strategie (FR&S);
 
-- k. **bedrijfsvoering:** onderwerpen op de terreinen van personeel en organisatie, informatievoorziening en ict, inkoop, huisvesting, facilitaire zaken en beveiliging.
+- k. **directeuren van de topstructuur DGBD:** algemeen directeuren van de doelgroepdirecties en van de clusters als bedoeld in [artikel 4, aanhef en onder b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&hoofdstuk=3&artikel=4&z=2026-04-03&g=2026-04-03);
+
+- l. **bedrijfsvoering:** onderwerpen op de terreinen van personeel en organisatie, informatievoorziening en ict, inkoop, huisvesting, facilitaire zaken en beveiliging.
 
 ### Hoofdstuk 2. De Belastingdienst
 
@@ -88,97 +90,105 @@ De volgende dienstonderdelen van het Ministerie van Financiën vormen samen de B
 
 Het Directoraat-Generaal Belastingdienst staat onder leiding van de directeur-generaal Belastingdienst.
 
-##### Artikel 4. Topstructuur DGBD
+##### Artikel 4. Inrichting DGBD
 
 Het DGBD bestaat uit de volgende organisatieonderdelen:
 
-- a. de volgende directies:
+- a. de directie Bestuurlijke en Politieke Zaken (BPZ), onder leiding van een directeur;
 
-- i. de directie Bestuurlijke en Politieke Zaken (BPZ);
+- b. de doelgroepdirecties, elk onder leiding van een algemeen directeur:
 
-- ii. de directie Organisatie en Personeel;
-
-- b. de volgende uitvoeringsdirecties:
-
-- i. de directie Fiscale Inlichtingen- en Opsporingsdienst (FIOD);
+- i. de directie Midden- en Kleinbedrijf;
 
 - ii. de directie Particulieren;
 
-- iii. de directie Midden- en Kleinbedrijf;
+- iii. de directie Grote Ondernemingen;
 
-- iv. de directie Grote Ondernemingen;
+- iv. de directie Fiscale Inlichtingen- en Opsporingsdienst;
 
-- v. de directie Centrale Administratieve Processen;
+- c. het cluster Dienstverlening & Operaties, onder leiding van de pDGBD D&O, bestaande uit de volgende organisatieonderdelen:
 
-- vi. de directie Klantinteractie en -services;
+- i. de directie Centrale Administratieve Processen, onder leiding van een algemeen directeur;
 
-- vii. de directie Informatievoorziening;
+- ii. de directie Informatievoorziening, onder leiding van een algemeen directeur;
 
-- c. de volgende concerndirecties:
+- iii. de directie Klantinteractie- en services, onder leiding van een algemeen directeur;
 
-- i. de concerndirectie Fiscale en Juridische Zaken;
+- iv. de concerndirectie Informatievoorziening en Databeheersing, onder leiding van een directeur;
 
-- ii. de concerndirectie Uitvoerings- en Handhavingsbeleid;
+- v. de directie corporate dienst Datafundamenten en Analytics, onder leiding van een directeur;
 
-- iii. de concerndirectie Informatievoorziening- en Databeheersing;
+- vi. de directie corporate dienst Communicatie onder leiding van een directeur;
 
-- iv. de concerndirectie Innovatie en Strategie;
+- vii. de directie Buitengewone Zaken Blauw, onder leiding van een directeur;
 
-- v. de concerndirectie Control en Financiën;
+- d. het cluster Fiscaliteit, Rechtsstatelijkheid en Strategie, onder leiding van de pDGBD FR&S, en bestaande uit de volgende organisatieonderdelen:
 
-- d. de volgende corporate diensten en shared service organisaties (SSO):
+- i. de concerndirectie Fiscale en Juridische Zaken, onder leiding van een hoofddirecteur;
 
-- i. de corporate dienst Vaktechniek;
+- ii. de concerndirectie Uitvoerings- en Handhavingsbeleid, onder leiding van een directeur;
 
-- ii. de corporate dienst Datafundamenten en Analyse;
+- iii. de concerndirectie Innovatie & Strategie, onder leiding van een directeur;
 
-- iii. de corporate dienst Communicatie;
+- iv. de directie corporate dienst Vaktechniek, onder leiding van een directeur;
 
-- iv. de SSO Financieel en Managementinformatie;
+- e. het cluster Financiën, Control & Inkoop, onder leiding van een algemeen directeur, en bestaande uit de volgende organisatieonderdelen:
 
-- v. de SSO Facilitaire Dienstverlening;
+- i. de concerndirectie Control & Financiën, onder leiding van een hoofddirecteur;
 
-- e. de tijdelijke programmadirectie Buitengewone Zaken Blauw.
+- ii. de directie SSO Financieel en Managementinformatie, onder leiding van een directeur;
+
+- iii. de directie Inkoop, onder leiding van een directeur;
+
+- iv. de directie Vernieuwing & Clusterondersteuning, onder leiding van een directeur;
+
+- f. het cluster Mens & Organisatie, onder leiding van een algemeen directeur, en bestaande uit de volgende organisatieonderdelen:
+
+- i. de directie Organisatie & Personeel, onder leiding van een directeur;
+
+- ii. de directie SSO Centrum Facilitaire Dienstverlening, onder leiding van een directeur;
+
+- iii. het Bureau Veiligheid & Integriteit, onder leiding van een manager.
 
 ##### Artikel 5. Overlegstructuur DGBD
 
-1. Er is een directieteam DGBD.
+1. Er is een Bestuursteam Belastingdienst.
 
-- a. Het directieteam overlegt regelmatig over:
+- a. Het Bestuursteam Belastingdienst overlegt regelmatig over strategische onderwerpen en langetermijndoelstellingen van het DGBD;
 
-- i. de hoofdlijnen van beleidsontwikkeling en -uitvoering van het DGBD en geeft richting en sturing aan het DGBD, waarbij de DGBD de eindverantwoordelijkheid draagt;
+- b. Deelnemers aan het Bestuursteam Belastingdienst zijn:
 
-- ii. de richting en aansturing van:
+- i. de DGBD (voorzitter);
 
-- 1. het primaire proces/de uitvoering;
+- ii. de pDGBD D&O;
 
-- 2. de controlfunctie; en
+- iii. de pDGBD FR&S;
 
-- 3. de bedrijfsvoering;
+- iv. de directeuren van de topstructuur DGBD;
 
-- iii. de beleidscyclus; en
+- v. de Chief Information Officer;
 
-- iv. besluitvorming over kaderstelling (vaststellen op welke wijze rijksbrede en departementale kaders voor het DGBD worden vertaald naar uitvoeringsbeleid en implementatie).
+- vi. de directeur BPZ (secretaris).
 
-- b. Deelnemers aan het directieteam zijn:
+2. Er is een Ketenvoorzittersoverleg (KVO).
 
-- i. de DGBD (voorzitter), de pDGBD, alle algemeen directeuren primair proces van het DGBD, hoofddirecteur Control & Financiën, hoofddirecteur Fiscale en Juridische Zaken, directeur Uitvoerings- en Handhavingsbeleid en de directeur Organisatie en Personeel;
+- a. Ketens zijn de wijze waarop er, aanvullend op de primaire hiërarchische lijnsturing, binnen de matrix wordt samengewerkt om tot goede resultaten richting burgers en bedrijven te komen.
 
-- ii. Agendalid en standing invitation: overige directeuren van de concerndirecties;
+- b. Het KVO overlegt over strategische, ketenoverstijgende vraagstukken.
 
-- iii. Agendalid: directeuren ressorterend onder de pDGBD.
+- c. Het KVO is besluitvormend.
 
-2. Er is een concernstaf.
+- d. De voorzitter van het KVO is de pDGBD D&O.
 
-- a. De concernstaf overlegt regelmatig over de richting en aansturing van de concerndirecties en het bevorderen van synergie.
+3. Er zijn Functioneel overleggen.
 
-- b. Deelnemers aan de concernstaf zijn de DGBD (voorzitter), de pDGBD, directeur Control & Financiën, (hoofd)directeuren concerndirecties.
+- a. In een Functioneel overleg vindt functionele sturing plaats op tactisch en operationeel niveau op het vakgebied waarvoor het overlegorgaan is opgericht.
 
-3. Er is een pDG-staf.
+- b. Functionele sturing vindt plaats op vakgebieden waar specialistische kennis op een centrale plek in de organisatie is geborgd. Vanuit dat centrale punt wordt wetgeving vertaald in kaders, wordt gemonitord of de Belastingdienst voldoet aan de wetgeving en wordt expertise en kennis aangeboden om de dienstonderdelen te helpen dat vakgebied zo goed mogelijk in te vullen.
 
-- a. De pDG-staf overlegt regelmatig over de richting en aansturing van de Corporate Diensten/SSO’s.
+- c. Een Functioneel overleg is besluitvormend.
 
-- b. Deelnemers aan de pDG-staf zijn de pDGBD (voorzitter), alle directeuren Corporate Diensten/SSO’s, directeur investeringsagenda, controller.
+- d. De voorzitter van een Functioneel overleg is een lid van het Bestuursteam Belastingdienst.
 
 ### Hoofdstuk 4. Directoraat-Generaal Toeslagen (DGTSL)
 
@@ -220,9 +230,11 @@ Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Do
 
 - i. Strategie, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- ii. Beleid, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+- ii. Fiscaal Beleid, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
 
-- iii. Internationaal, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
+- iii. Internationaal, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+- iv. Toezicht en Bescherming, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
 
 - b. De directie Operaties, die onder leiding staat van een directeur. De directie bestaat uit:
 
