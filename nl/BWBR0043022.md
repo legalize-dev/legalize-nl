@@ -4,7 +4,7 @@ identifier: "BWBR0043022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2025-06-21"
+last_updated: "2026-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043022"
 soort: "ministeriele-regeling"
@@ -70,29 +70,35 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. **cao Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren werkzaam binnen de sector Rijk;
 
-- m. de organisatieonderdelen van het DGBD, het DGTSL en het DGD: de organisatieonderdelen genoemd in [artikel 3, eerste, tweede en derde lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3);
+- m. **de organisatieonderdelen van het DGBD, het DGTSL en het DGD**: de organisatieonderdelen genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=4), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7) en [9 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9);
 
-- n. de (algemeen) directeuren: de (algemeen) directeuren van de organisatieonderdelen van het DGBD, het DGTSL en het DGD genoemd in [artikel 3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3), en bedoeld in [artikel 4, vierde lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4);
+- n. de (algemeen) directeuren: de (algemeen) directeuren van de organisatieonderdelen van het DGBD, het DGTSL en het DGD genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=4), [7, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7), en [9 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9);
 
-- o. Woo-verzoek: een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
+- o. **de directie directeuren DGBD:** de algemeen en (hoofd)directeuren die leidinggeven aan een directie als bedoeld in [artikel 4 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=4);
 
-- p. inspecteur: functionaris die als zodanig is aangewezen in [artikel 5 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5) en [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4);
+- p. **de overige directeuren DGBD:** de directeuren die rechtstreeks ressorteren onder een directie directeur DGBD of bij het ontbreken daarvan onder een (algemeen) directeur topstructuur DGBD;
 
-- q. ontvanger: functionaris die als zodanig is aangewezen in [artikel 5 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5) en [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4);
+- q. **de overige directeuren DGD en DGTSL:** de directeuren die rechtstreeks ressorteren onder een (algemeen) directeur topstructuur DGD respectievelijk DGTSL;
 
-- r. IG: inspecteur-generaal inspectie belastingen, toeslagen en douane;
+- r. Woo-verzoek: een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
-- s. **topstructuur van het Ministerie van Financiën:** de algemene leiding en de directeuren van het kernministerie, de IG en de topstructuren van DGBD, DGD en DGTSL;
+- s. inspecteur: functionaris die als zodanig is aangewezen in [artikel 5 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5) en [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4);
 
-- t. **topstructuur DGBD:** de algemene leiding DGBD en de directeuren als bedoeld in [artikel 1, aanhef en onder g en j, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=1);
+- t. ontvanger: functionaris die als zodanig is aangewezen in [artikel 5 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5) en [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4);
 
-- u. **topstructuur DGD:** de algemene leiding DGD als bedoeld in [artikel 1, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=1), en de directeuren als bedoeld in [artikel 9, eerste lid, aanhef en onder a tot en met e, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9);
+- u. IG: inspecteur-generaal inspectie belastingen, toeslagen en douane;
 
-- v. **topstructuur DGTSL:** de algemene leiding DGTSL als bedoeld in [artikel 1, aanhef en onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=1), de algemeen directeur als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7), de directeuren als bedoeld in het eerste lid van de [artikelen 7b tot en met 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b) en het afdelingshoofd als bedoeld in [artikel 7h, eerste lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7h);
+- v. **topstructuur van het Ministerie van Financiën:** de algemene leiding en de directeuren van het kernministerie, de IG en de topstructuren van DGBD, DGD en DGTSL;
 
-- w. **pDGBD:** de plaatsvervangend directeuren-generaal Belastingdienst;
+- w. **topstructuur DGBD:** de algemene leiding DGBD en de algemeen directeuren als bedoeld in artikel 4, aanhef en onder b, e en f, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021;
 
-- x. **taakverdelingsbesluit:** het laatstelijk vastgestelde besluit van de Minister houdende bekendmaking van de taken waarmee de Staatssecretaris van Financiën of Staatssecretarissen van Financiën in het bijzonder is respectievelijk zijn belast.
+- x. **topstructuur DGD:** de algemene leiding DGD als bedoeld in [artikel 1, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=1), en de directeuren als bedoeld in [artikel 9, eerste lid, aanhef en onder a tot en met e, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9);
+
+- y. **topstructuur DGTSL:** de algemene leiding DGTSL als bedoeld in [artikel 1, aanhef en onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=1), de algemeen directeur als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7), de directeuren als bedoeld in het eerste lid van de [artikelen 7b tot en met 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b) en het afdelingshoofd als bedoeld in [artikel 7h, eerste lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7h);
+
+- z. **pDGBD:** de plaatsvervangend directeuren-generaal Belastingdienst;
+
+- aa. **taakverdelingsbesluit:** het laatstelijk vastgestelde besluit van de Minister houdende bekendmaking van de taken waarmee de Staatssecretaris van Financiën of Staatssecretarissen van Financiën in het bijzonder is respectievelijk zijn belast.
 
 ### Hoofdstuk 2. Mandaten en volmachten
 
@@ -112,7 +118,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 4. Mandaat aan SG en DG’s
 
-1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2025-06-21&g=2025-06-21).
+1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2026-04-03&g=2026-04-03).
 
 2. De SG en DG’s hebben binnen het kader van de jaarplannen en binnen eventueel door de minister of namens de minister door de SG gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
@@ -152,7 +158,7 @@ gevolgd door de naam en functie van de (onder)gemandateerde.
 
 1. Het mandaat van de DG met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de DG ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is.
 
-2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2025-06-21&g=2025-06-21) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
+2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2026-04-03&g=2026-04-03) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
 
 ##### Artikel 9. Instemming van de directeur FEZ
 
@@ -214,7 +220,7 @@ Onverminderd de overige bepalingen van dit besluit waarin aan de SG mandaat word
 
 ##### Artikel 13. Voorbehouden aan de pSG
 
-Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2025-06-21&g=2025-06-21) is aan de pSG voorbehouden:
+Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2026-04-03&g=2026-04-03) is aan de pSG voorbehouden:
 
 - a. het, na overleg met de bestuursraad, doen van voorstellen omtrent de vaststelling van de organisatie van het kernministerie vanaf het niveau van afdelingen (of daarmee vergelijkbare organisatieonderdelen) en lager, en hiermee samenhangend het besluiten tot reorganisaties;
 
@@ -234,7 +240,7 @@ Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR004302
 
 - i. het opleggen van ordemaatregelen en straffen aan functionarissen behorende tot de topstructuur van het Ministerie van Financiën;
 
-- j. het (beslissen tot het) beëindigen van de arbeidsovereenkomst van medewerkers werkzaam bij het kernministerie, tenzij de bevoegdheid is voorbehouden aan de algemene leiding van een DG zoals bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=14&z=2025-06-21&g=2025-06-21);
+- j. het (beslissen tot het) beëindigen van de arbeidsovereenkomst van medewerkers werkzaam bij het kernministerie, tenzij de bevoegdheid is voorbehouden aan de algemene leiding van een DG zoals bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=14&z=2026-04-03&g=2026-04-03);
 
 - k. het (beslissen tot het) beëindigen van de arbeidsovereenkomst van medewerkers werkzaam bij het DGBD, het DGTSL, het DGD of de IBTD om de redenen als bedoeld in Bijlage 1;
 
@@ -300,7 +306,7 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - r. handelingen en beslissingen verband houdende met een adviesaanvraag bij het College voor de Rechten van de Mens;
 
-- s. met inachtneming van de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2025-06-21&g=2025-06-21) worden de bevoegdheden opgenomen in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=10) en [11 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=11) uitgeoefend door de algemene leiding voor zover het rechtspositionele handelingen en beslissingen betreft aangaande directeuren van de topstructuren DGBD, DGTSL en DGD.
+- s. met inachtneming van de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2026-04-03&g=2026-04-03) worden de bevoegdheden opgenomen in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=10) en [11 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=11) uitgeoefend door de algemene leiding voor zover het rechtspositionele handelingen en beslissingen betreft aangaande directeuren van de topstructuren DGBD, DGTSL en DGD.
 
 ##### Artikel 16. Voorbehouden aan de directeuren en hun plaatsvervangers van het kernministerie
 
@@ -526,9 +532,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - i. het maken van afspraken tot uitbreiding van een arbeidsduur van meer dan 36 uur per week.
 
-4. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=4&z=2025-06-21&g=2025-06-21), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=5&z=2025-06-21&g=2025-06-21), [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2025-06-21&g=2025-06-21) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=19&z=2025-06-21&g=2025-06-21) worden op de IG van overeenkomstige toepassing verklaard.
+4. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=4&z=2026-04-03&g=2026-04-03), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=5&z=2026-04-03&g=2026-04-03), [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2026-04-03&g=2026-04-03) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=19&z=2026-04-03&g=2026-04-03) worden op de IG van overeenkomstige toepassing verklaard.
 
-5. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2025-06-21&g=2025-06-21) en de in dat artikel bedoelde bijlage is van overeenkomstige toepassing. De IG hoeft echter geen voorafgaand advies aan de directeur CDMO te vragen als het gaat om de personeelsaangelegenheid **wijziging van de salarisschaal zonder wijziging van de functie**.
+5. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2026-04-03&g=2026-04-03) en de in dat artikel bedoelde bijlage is van overeenkomstige toepassing. De IG hoeft echter geen voorafgaand advies aan de directeur CDMO te vragen als het gaat om de personeelsaangelegenheid **wijziging van de salarisschaal zonder wijziging van de functie**.
 
 ### Hoofdstuk 4a. Woo-verzoeken
 
@@ -656,7 +662,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 19c. Overige Woo-verzoeken DGBD, DGTSL en DGD
 
-1. Aan de directeur-generaal van het DGBD en aan de (algemeen) directeuren van de organisatieonderdelen van het DGTSL en het DGD wordt mandaat verleend om te beslissen op andere Woo-verzoeken betreffende informatie die berust bij het betreffende organisatieonderdeel dan bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4a&artikel=19a&z=2025-06-21&g=2025-06-21). De directeur-generaal van het DGBD en de (algemeen) directeuren van de organisatieonderdelen van het DGTSL en het DGD kunnen aan onder hen ressorterende medewerkers ter zake ondermandaat verlenen.
+1. Aan de directeur-generaal van het DGBD en aan de (algemeen) directeuren van de organisatieonderdelen van het DGTSL en het DGD wordt mandaat verleend om te beslissen op andere Woo-verzoeken betreffende informatie die berust bij het betreffende organisatieonderdeel dan bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4a&artikel=19a&z=2026-04-03&g=2026-04-03). De directeur-generaal van het DGBD en de (algemeen) directeuren van de organisatieonderdelen van het DGTSL en het DGD kunnen aan onder hen ressorterende medewerkers ter zake ondermandaat verlenen.
 
 2. Aan de directeuren-generaal van respectievelijk DGBD, DGTSL en DGD wordt mandaat verleend om de tegen de in het eerste lid bedoelde besluiten gerichte bezwaren te behandelen en daarop te beslissen. De directeuren-generaal kunnen aan onder hen ressorterende medewerkers ter zake ondermandaat verlenen.
 
@@ -776,29 +782,25 @@ Met inachtneming van hetgeen is bepaald in voorgaande artikelen is de pDGBD bevo
 
 - b. het vaststellen van de organisatie op afdelings- en teamniveau en hiermee samenhangend het beslissen tot reorganisaties van deze onderdelen. Het vaststellen van de organisatie en hiermee samenhangende beslissingen tot reorganisatie op het niveau van afdelingen vindt plaats na instemming van de DG.
 
-##### Artikel 15b. Voorbehouden aan de algemeen directeuren van de topstructuur DGBD, DGTSL en DGD
+##### Artikel 15b. Voorbehouden aan de pDGBD en algemeen directeuren DGBD
+
+Met inachtneming van hetgeen is bepaald in voorgaande artikelen zijn de pDGBD’s en de algemeen directeuren DGBD bevoegd om ten aanzien van hun eigen directie of de directies binnen het eigen cluster als bedoeld in [artikel 4 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=4) en voor zover die bevoegdheid niet toekomt aan de algemeen directeur in dat cluster, de navolgende handelingen te verrichten en beslissingen te nemen:
+
+- a. het beslissen tot groepsgewijze werving en selectie voor (groeps)functies;
+
+- b. het vaststellen van de organisatie op afdelings- en teamniveau en hiermee samenhangend het beslissen tot reorganisaties van deze onderdelen. Het vaststellen van de organisatie en hiermee samenhangende beslissingen tot reorganisatie op het niveau van afdelingen vindt plaats na instemming van de DGBD;
+
+- c. tot het aangaan (waaronder mede wordt verstaan het maken van afspraken over beloning), wijzigen en beëindigen van de arbeidsovereenkomst van medewerkers in de functie van directie directeur DGBD, respectievelijk overige directeur of daarmee gelijk te stellen leidinggevende functies, na afstemming met de DGBD.
+
+##### Artikel 15c. Voorbehouden aan de algemeen directeuren van de topstructuur DGTSL en DGD
 
 Met inachtneming van hetgeen is bepaald in voorgaande artikelen zijn de algemeen directeuren bevoegd de navolgende handelingen te verrichten en beslissingen te nemen:
 
-- a. het vaststellen van de organisatie op afdelings- en teamniveau en hiermee samenhangend het beslissen tot reorganisaties van deze onderdelen binnen de eigen directie. Het vaststellen van de organisatie en hiermee samenhangende beslissingen tot reorganisatie op het niveau van afdelingen vindt plaats na instemming van de DGBD, respectievelijk de DGTSL, respectievelijk de DGD;
+- a. het vaststellen van de organisatie op afdelings- en teamniveau en hiermee samenhangend het beslissen tot reorganisaties van deze onderdelen binnen de eigen directie. Het vaststellen van de organisatie en hiermee samenhangende beslissingen tot reorganisatie op het niveau van afdelingen vindt plaats na instemming van de DGTSL, respectievelijk de DGD;
 
 - b. het beslissen tot groepsgewijze werving en selectie voor (groeps)functies;
 
-- c. tot het aangaan (waaronder mede wordt verstaan het maken van afspraken over beloning), wijzigen en beëindigen van de arbeidsovereenkomst van medewerkers in de functie van overige directeur of daarmee gelijk te stellen leidinggevende functies, na afstemming met de DGBD, respectievelijk de DGTSL, respectievelijk de DGD.
-
-##### Artikel 15c. Voorbehouden aan de directeuren van de topstructuur DGBD, DGTSL en DGD
-
-Met inachtneming van hetgeen is bepaald in voorgaande artikelen zijn de directeuren van de topstructuur DGBD, DGTSL en DGD bevoegd om ten aanzien van het tot het eigen organisatieonderdeel behorende personeel de navolgende handelingen te verrichten en beslissingen te nemen:
-
-- a. het geven van een opdracht tot het verrichten van onderzoek naar de integriteit van medewerkers en het beslissen tot opleggen van straffen (conform cao Rijk), met uitzondering van de wettelijke mogelijkheden het dienstverband te beëindigen, aan functionarissen tot en met schaal 14 voor zover het geen leidinggevende functionarissen betreft;
-
-- b. tot het aangaan van een arbeidsovereenkomst met medewerkers met een bezoldiging van schaal 15;
-
-- c. het niet instellen van een vordering of het niet opleggen van een terugbetalingsverplichting, dan wel het (gedeeltelijk) kwijtschelden van een vordering op medewerkers;
-
-- d. (het beslissen tot) het beëindigen van de arbeidsovereenkomst van medewerkers, inclusief het sluiten van een vaststellingsovereenkomst om de redenen als bedoeld in Bijlage 1;
-
-- e. bij het ontbreken van een algemeen directeur en in afwijking van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=5a&z=2025-06-21&g=2025-06-21) het aangaan (waaronder mede wordt verstaan het maken van afspraken over beloning), wijzigen en beëindigen van de arbeidsovereenkomst van medewerkers in de functie van overige directeur of daarmee gelijk te stellen leidinggevende functies, na afstemming met de DGBD, respectievelijk de DGTSL, respectievelijk de DGD.
+- c. tot het aangaan (waaronder mede wordt verstaan het maken van afspraken over beloning), wijzigen en beëindigen van de arbeidsovereenkomst van medewerkers in de functie van overige directeur of daarmee gelijk te stellen leidinggevende functies, na afstemming met de DGTSL, respectievelijk de DGD.
 
 ##### Artikel 15d. Voorbehouden aan de directeuren van de topstructuur DGBD, DGTSL en DGD en directie directeuren DGBD
 
@@ -812,7 +814,7 @@ Met inachtneming van hetgeen is bepaald in voorgaande artikelen zijn de directeu
 
 - d. (het beslissen tot) het beëindigen van de arbeidsovereenkomst van medewerkers, inclusief het sluiten van een vaststellingsovereenkomst om de redenen als bedoeld in Bijlage 1;
 
-- e. bij het ontbreken van een algemeen directeur en in afwijking van artikel 5a het aangaan (waaronder mede wordt verstaan het maken van afspraken over beloning), wijzigen en beëindigen van de arbeidsovereenkomst van medewerkers in de functie van overige directeur of daarmee gelijk te stellen leidinggevende functies, na afstemming met de DGBD, respectievelijk de DGTSL, respectievelijk de DGD.
+- e. bij het ontbreken van een algemeen directeur en in afwijking van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=5a&z=2026-04-03&g=2026-04-03) het aangaan (waaronder mede wordt verstaan het maken van afspraken over beloning), wijzigen en beëindigen van de arbeidsovereenkomst van medewerkers in de functie van overige directeur of daarmee gelijk te stellen leidinggevende functies, na afstemming met de DGBD, respectievelijk de DGTSL, respectievelijk de DGD.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -864,55 +866,53 @@ De aan de directeuren van de topstructuur DGBD, DGTSL en DGD voorbehouden redene
 
 - iii. wegens afzien van VWNW-begeleiding en VWNW-voorzieningen onder toekenning van een stimuleringspremie zoals bedoeld in de cao Rijk.
 
-## Bijlage 2
+## Bijlage 1
 
-De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2025-06-21&g=2025-06-21) zijn:
+De aan de pSG voorbehouden redenen als bedoeld in [artikel 13, aanhef en onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2026-04-03&g=2026-04-03), zijn:
 
-- •. verplichtingen en sancties bij ziekte en re-integratie;
+- i. bedrijfseconomische redenen;
 
-- •. rechten en verplichtingen bij reorganisatie;
+- ii. langdurige arbeidsongeschiktheid vanwege ziekte voor zover bij de beëindiging aan de medewerker meer wordt toegekend dan de wettelijke transitievergoeding, de geldende opzegtermijn én een reguliere eindafrekening;
 
-- •. toekennen VWNW-voorzieningen en stimuleringspremie;
+- iii. gewetensbezwaren/werkweigering;
 
-- •. beroep op de hardheidsclausule;
+- iv. verstoorde arbeidsverhouding voor zover bij de beëindiging aan de medewerker meer wordt toegekend dan de wettelijke transitievergoeding, de geldende opzegtermijn én een reguliere eindafrekening;
 
-- •. verhaal van schade, schadevergoeding en schadeloosstelling;
+- v. verwijtbaar handelen, een dringende reden of wegens wanprestatie;
 
-- •. wijziging van de salarisschaal zonder wijziging van de functie op grond van paragraaf 6.1 cao Rijk;
+- vi. andere omstandigheden die zodanig zijn dat in redelijkheid niet kan worden verwacht dat de arbeidsovereenkomst wordt voortgezet;
 
-- •. integriteit, ordemaatregelen en straffen;
+- vii. een combinatie van ontbindingsgronden, voor zover één van de ontbindingsgronden is voorbehouden aan de pSG.
 
-- •. tot het sluiten van een tijdelijke arbeidsovereenkomst waarbij wordt afgeweken van de cao Rijk;
+De aan de algemene leiding DG van het kernministerie voorbehouden redenen als bedoeld in [artikel 14, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=14&z=2026-04-03&g=2026-04-03), zijn:
 
-- •. (voorstel tot) beëindiging van de arbeidsovereenkomst, inclusief het vragen van toestemming aan het UWV;
+- i. langdurige arbeidsongeschiktheid vanwege ziekte voor zover bij de beëindiging aan de medewerker niet meer wordt toegekend dan de wettelijke transitievergoeding, de geldende opzegtermijn én een reguliere eindafrekening;
 
-- •. vaststellingsovereenkomst waarin het einde van de arbeidsovereenkomst wordt geregeld, tewerkstelling bij het ministerie en wijzigen van een reeds bestaande vaststellingsovereenkomst;
+- ii. verstoorde arbeidsverhouding voor zover bij de beëindiging aan de medewerker niet meer wordt toegekend dan de wettelijke transitievergoeding, de geldende opzegtermijn én een reguliere eindafrekening en eerst na afstemming met de pSG;
 
-- •. hoogte en uitbetaling transitievergoeding;
+- iii. een combinatie van ontbindingsgronden, tenzij één van de ontbindingsgronden is voorbehouden aan de pSG.
 
-- •. vermissing;
+- iv. het gebruik maken van de regeling vervroegd uittreden zoals bedoeld in de cao Rijk.
 
-- •. aangelegenheden met betrekking tot (de aansprakelijkheidsstelling al dan niet als gevolg van) dienstongevallen, beroepsziekten en beroepsincidenten;
+De aan de algemene leiding DGBD, DGTSL en DGD voorbehouden redenen als bedoeld in [artikel 15, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=15&z=2026-04-03&g=2026-04-03), zijn:
 
-- •. de vaststelling van de formatie zoals gebaseerd op artikel 3 van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst;
+- i. langdurige arbeidsongeschiktheid vanwege ziekte voor zover bij de beëindiging aan de medewerker niet meer wordt toegekend dan de wettelijke transitievergoeding, de geldende opzegtermijn én een reguliere eindafrekening, inclusief het sluiten van een vaststellingsovereenkomst;
 
-- •. uit een vertrouwensfunctie om speciale redenen;
+- ii. verstoorde arbeidsverhouding voor zover bij de beëindiging aan de medewerker niet meer wordt toegekend dan de wettelijke transitievergoeding, de geldende opzegtermijn én een reguliere eindafrekening en eerst na afstemming met de pSG, inclusief het sluiten van een vaststellingsovereenkomst;
 
-- •. bijzonder belonen waarbij wordt afgeweken van reguliere beloningsregels;
+- iii. het bij regelmaat niet kunnen verrichten van de bedongen arbeid als gevolg van ziekte of gebreken van de medewerker met voor de bedrijfsvoering onaanvaardbare gevolgen;
 
-- •. kwijtschelden dan wel niet opleggen terugvordering;
+- iv. de ongeschiktheid van de medewerker tot het verrichten van de bedongen arbeid, anders dan ten gevolge van ziekte of gebreken van de medewerker;
 
-- •. loopbaanafspraken met garantie op vervolgstap;
+- v. een combinatie van ontbindingsgronden, tenzij één van de ontbindingsgronden is voorbehouden aan de pSG.
 
-- •. verlengen termijn vervallen wettelijke vakantie-uren in verband met langdurige arbeidsongeschiktheid dan wel bijzondere gevallen;
+De aan de directeuren van de topstructuur DGBD, DGTSL en DGD en de directie directeuren DGBD voorbehouden redenen als bedoeld in [artikel 15d, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=15d&z=2026-04-03&g=2026-04-03), zijn:
 
-- •. tijdelijke ontheffing in verband met benoeming publiekrechtelijk college;
+- i. langdurige arbeidsongeschiktheid vanwege ziekte voor zover bij de beëindiging aan de medewerker niet meer wordt toegekend dan de wettelijke transitievergoeding, de geldende opzegtermijn én een reguliere eindafrekening, inclusief het sluiten van een vaststellingsovereenkomst;
 
-- •. privéverlenging buitenlandse dienstreis;
+- ii. wegens het gebruik maken van de regeling vervroegd uittreden zoals bedoeld in de cao Rijk;
 
-- •. verplaatsing, herplaatsing, tijdelijke andere werkzaamheden eenzijdig opgedragen vanuit de werkgever; en
-
-- •. werken vanuit het buitenland.
+- iii. wegens afzien van VWNW-begeleiding en VWNW-voorzieningen onder toekenning van een stimuleringspremie zoals bedoeld in de cao Rijk.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -936,7 +936,7 @@ Met inachtneming van hetgeen is bepaald in voorgaande artikelen is de pDGBD bevo
 
 ## Bijlage 2
 
-De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2026-04-03&g=2025-06-21) zijn:
+De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2026-04-03&g=2026-04-03) zijn:
 
 - •. verplichtingen en sancties bij ziekte en re-integratie;
 
