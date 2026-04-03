@@ -4,7 +4,7 @@ identifier: "BWBR0052272"
 country: "nl"
 rank: "wet"
 publication_date: "2026-04-03"
-last_updated: "2026-02-04"
+last_updated: "2026-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052272"
 soort: "wet"
@@ -144,7 +144,7 @@ Wijzigt de Participatiewet in balans.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid, treedt [artikel XXIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0052272&artikel=XXIIIa&z=2026-02-04&g=2026-02-04) in werking met ingang van 1 januari 2026. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2025, treedt artikel XXIIIA in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. In afwijking van het eerste lid, treedt [artikel XXIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0052272&artikel=XXIIIa&z=2026-04-03&g=2026-04-03) in werking met ingang van 1 januari 2026. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2025, treedt artikel XXIIIA in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel XXV. Citeertitel
 
