@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2026-04-03"
+last_updated: "2026-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -3053,7 +3053,7 @@ De IND beschouwt de volgende groepen als groepen die systematisch worden blootge
 
 ### 13.3.1. Groepsvervolging in de zin van paragraaf C2/3.2.3 Vc
 
-Geen bijzonderheden.
+De IND beschouwt de volgende groep als groep die systematisch wordt blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag:
 
 De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan de Eritrese vreemdeling die:
 
@@ -3061,7 +3061,7 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van ar
 
 Geen bijzonderheden.
 
-### 13.4.1. Ernstige schade in de zin van artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw als bedoeld in paragraaf C2/3.3.2 Vc
+### 13.4.1. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.2 Vc
 
 Geen bijzonderheden.
 
@@ -3069,7 +3069,7 @@ Geen bijzonderheden.
 
 De IND neemt aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen, tenzij sprake is van evidente, concrete en individualiseerbare aanknopingspunten op basis waarvan kan worden aangenomen dat het verkrijgen van bescherming wel mogelijk is.
 
-De IND merkt voor Eritrea de volgende categorieën vreemdelingen aan als risicoprofiel:
+Geen bijzonderheden.
 
 ### 13.4.1.3. Illegale uitreis
 
@@ -3937,9 +3937,9 @@ Geen bijzonderheden.
 
 De IND neemt aan dat in Eritrea geen binnenlands beschermingsalternatief aanwezig is, tenzij sprake is van evidente, concrete en individualiseerbare aanknopingspunten op basis waarvan kan worden aangenomen dat een binnenlands beschermingsalternatief wel voorhanden is.
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan de Eritrese vreemdeling die:
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de Eritrese vreemdeling die:
 
-### 13.4.2. Ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw als bedoeld in paragraaf C2/3.3.3 Vc
+### 13.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
 ### 13.5.2. Binnenlands beschermingsalternatief
 
@@ -4831,7 +4831,7 @@ Geen bijzonderheden.
 
 ### 13.4.1.1. Systematische blootstelling in de zin van paragraaf C2/3.3.2.1 Vc
 
-De IND beschouwt de volgende groepen als groepen die systematisch worden blootgesteld aan een reëel risico op ernstige schade in de zin van artikel 29, eerste lid, onder b:
+De IND beschouwt de volgende groepen als groepen die systematisch worden blootgesteld aan een reëel risico op ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29):
 
 ### 13.4.1.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
@@ -7947,11 +7947,11 @@ Bij de beoordeling of een vrouw in Somalië als alleenstaand wordt gezien en op 
 
 ### 30.4.1.1. Systematische blootstelling in de zin van paragraaf C2/3.3.2.1 Vc
 
-De IND merkt gebieden in Somalië die onder controle staan van Al-Shabaab de volgende groepen aan als risicoprofiel:
+De IND merkt gebieden in Somalië die (deels) onder controle staan van Al-Shabaab de volgende groepen aan als risicoprofiel:
 
 ### 30.3.2.1. Toelichting personen die werken bij, of door Al-Shabaab geassocieerd worden met, de overheid, ATMIS/AUSSOM of andere internationale actoren
 
-Een vreemdeling die afkomstig is uit een gebied dat niet onder controle staat van Al-Shabaab (inclusief Mogadishu) en die zich erop beroept dat hij door Al-Shabaab geassocieerd wordt met de overheid, ATMIS/AUSSOM of andere internationale actoren moet dit aannemelijk maken. Daarnaast moet hij aannemelijk maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.
+Een vreemdeling die afkomstig is uit een gebied dat niet (deels) onder controle staat van Al-Shabaab (inclusief Mogadishu) en die zich erop beroept dat hij door Al-Shabaab geassocieerd wordt met de overheid, ATMIS/AUSSOM of andere internationale actoren moet dit aannemelijk maken. Daarnaast moet hij aannemelijk maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.
 
 ## Bijlage
 
@@ -8163,7 +8163,7 @@ De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van [
 
 ### 30.4.1.1. Systematische blootstelling in de zin van paragraaf C2/3.3.2.1 Vc
 
-Voor een vreemdeling die afkomstig is uit gebied waar Al-Shabaab aan de macht is of het gebied controleert geldt dat hij aannemelijk moet maken dat hij door Al-Shabaab geassocieerd wordt met de overheid, ATMIS/AUSSOM of andere internationale actoren. De enkele terugkeer uit het Westen is daartoe onvoldoende.
+Voor een vreemdeling die afkomstig is uit gebied waar Al-Shabaab aan de macht is of het gebied (deels) controleert geldt dat hij aannemelijk moet maken dat hij door Al-Shabaab geassocieerd wordt met de overheid, ATMIS/AUSSOM of andere internationale actoren. De enkele terugkeer uit het Westen is daartoe onvoldoende.
 
 ### 30.3.2.2. Toelichting alleenstaande vrouwen
 
@@ -8281,7 +8281,7 @@ Onder voorwaarden kan een binnenlands beschermingsalternatief worden tegengeworp
 
 ### 30.4.1.2. Risicoprofielen in de zin van paragraaf C2/2.4 Vc
 
-De IND merkt voor gebieden in Somalië die onder controle staan van Al-Shabaab de volgende groep aan als risicoprofiel:
+De IND merkt voor gebieden in Somalië die (deels) onder controle staan van Al-Shabaab de volgende groep aan als risicoprofiel:
 
 ### 30.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
