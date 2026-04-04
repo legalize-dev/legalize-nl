@@ -4,7 +4,7 @@ identifier: "BWBR0049755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2025-02-28"
+last_updated: "2026-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049755"
 soort: "ministeriele-regeling"
@@ -196,11 +196,11 @@ De regiegroep heeft tot taak:
 
 ##### Artikel 8. Programmaplan
 
-1. De regiegroep is verantwoordelijk voor het tijdig opstellen van een vierjarig programmaplan, passend bij de taken zoals benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=3&z=2025-02-28&g=2025-02-28), waarin de regiegroep haar aanpak voor de periode van 2024 tot en met 2027 beschrijft.
+1. De regiegroep is verantwoordelijk voor het tijdig opstellen van een vierjarig programmaplan, passend bij de taken zoals benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=3&z=2026-04-04&g=2026-04-04), waarin de regiegroep haar aanpak voor de periode van 2024 tot en met 2027 beschrijft.
 
 2. Het programmaplan is een plan van de regiegroep ter bevordering van sociale veiligheid in het hoger onderwijs en de wetenschap voor de kalenderjaren 2024 tot en met 2027.
 
-3. Het programmaplan beschrijft de doelen en te behalen resultaten en beschrijft hoe de doelen en resultaten bijdragen aan het realiseren van de beleidsdoelen uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=7&z=2025-02-28&g=2025-02-28) aangehaalde ‘Aanpak monitoring en evaluatie van de voortgang op doelen van het onderzoeks- en wetenschapsbeleid’ en beschrijft hoe de voortgang op het behalen van de doelen uit het programmaplan gemonitord gaat worden.
+3. Het programmaplan beschrijft de doelen en te behalen resultaten en beschrijft hoe de doelen en resultaten bijdragen aan het realiseren van de beleidsdoelen uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=7&z=2026-04-04&g=2026-04-04) aangehaalde ‘Aanpak monitoring en evaluatie van de voortgang op doelen van het onderzoeks- en wetenschapsbeleid’ en beschrijft hoe de voortgang op het behalen van de doelen uit het programmaplan gemonitord gaat worden.
 
 4. In het totaal van de doelen en resultaten uit het programmaplan worden de volgende aspecten meegenomen:
 
@@ -240,7 +240,7 @@ De regiegroep heeft tot taak:
 
 ##### Artikel 11. Vergoeding
 
-1. De voorzitter en de onafhankelijke experts ontvangen vanaf het moment van hun benoeming een vaste vergoeding per maand conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&bijlage=1&z=2025-02-28&g=2025-02-28). De toepasselijke salarisschaal is de hoogste trede van salarisschaal 18 conform de vigerende cao Rijk.
+1. De voorzitter en de onafhankelijke experts ontvangen vanaf het moment van hun benoeming een vaste vergoeding per maand conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&bijlage=1&z=2026-04-04&g=2026-04-04). De toepasselijke salarisschaal is de hoogste trede van salarisschaal 18 conform de vigerende cao Rijk.
 
 2. De door de convenantpartners voorgedragen leden ontvangen geen vaste vergoeding.
 
@@ -257,6 +257,34 @@ De regiegroep heeft tot taak:
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap.
+
+## Bijlage 1. Vergoeding
+
+Onderstaande tabel geeft het aantal uren per week weer, verdeeld naar jaartal.
+
+|   | 2024 | 2024 | 2025 | 2025 | 2026 | 2026 | 2027 | 2027 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Voorzitter | Experts | Voorzitter | Experts | Voorzitter | Experts | Voorzitter | Experts |
+| Week 01 – week 13 | – | – | 3 | 2 | 3 | 2 | 3 | 2 |
+| Week 14 – week 22 | 6 | – | 3 | 2 | 3 | 2 | 3 | 2 |
+| Week 23 – week 35 | 6 | 4 | 3 | 2 | 3 | 2 | 3 | 2 |
+| Week 36 – week 52 | 3 | 2 | 3 | 2 | 3 | 2 | 3 | 2 |
+
+Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+
+##### Artikel 5a. Tijdelijke vervanging lid regiegroep
+
+1. Een lid als bedoeld in [artikel 5, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=5&z=2026-04-04&g=2026-04-04), kan bij tijdelijke afwezigheid worden vervangen.
+
+2. Gedurende het tijdvak waarvoor de tijdelijke afwezigheid geldt, neemt het vervangen lid geen deel aan vergaderingen van de regiegroep en ontvangt hij geen vergoeding als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=11&z=2026-04-04&g=2026-04-04).
+
+3. De Minister benoemt de vervanger als tijdelijk lid van de regiegroep. De benoeming van dit lid vervalt van rechtswege op het tijdstip waarop het vervangen lid zijn werkzaamheden hervat.
+
+4. De programmasecretaris als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=6&z=2026-04-04&g=2026-04-04), registreert het in het vorige lid bedoelde tijdstip, draagt zorg voor het hervatten van de bezoldiging van het vervangen lid en doet hiervan verslag aan de Minister.
+
+5. De [artikelen 5, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=5&z=2026-04-04&g=2026-04-04), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=11&z=2026-04-04&g=2026-04-04) zijn van overeenkomstige toepassing.
+
+6. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=5&z=2026-04-04&g=2026-04-04), kan de regiegroep gedurende de periode van vervanging van een lid van de regiegroep uit meer dan het in dat lid genoemde aantal leden bestaan.
 
 ## Bijlage 1. Vergoeding
 
