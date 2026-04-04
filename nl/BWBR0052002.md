@@ -4,7 +4,7 @@ identifier: "BWBR0052002"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2026-04-01"
+last_updated: "2026-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052002"
 soort: "ministeriele-regeling"
@@ -87,6 +87,8 @@ Besluiten:
 |   | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   | 05-05-2026 t/m 02-07-2026 | € 100.000 |
 | [Titel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.26): Regeneratief geneeskundige onderzoeksprojecten | [3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.26.2) |   |   | 24-11-2025 t/m 17-02-2026 | € 10.000.000 |
 |   | [3.28.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.28.2) |   |   | 02-02-2026 t/m 13-02-2026 | € 8.182.100 |
+| [Titel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.30) Circular Plastics NL | [3.30.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.30.2) | Circular Plastics NL-onderzoeksprojecten |   | 21 april 2026 t/m 6 oktober 2026 | € 3.000.000 |
+|   |   | Circular Plastics NL-showcase projecten |   | 21 april t/m 6 oktober 2026 | € 37.000.000 |
 | [Titel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.32): BioBased Circular | [Artikel 3.32.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.32.2) |   |   | 26 februari 2026 t/m 22 oktober 2026 | € 4.000.000 |
 | [Titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.2): Topsector energieprojecten | [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.9) | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | 22-04-2026 t/m 28-05-2026 | € 7.000.000 |
 |   |   |   | Onderdeel C: Industrie | 01-04-2026 t/m 13-05-2026 | € 7.000.000 |
