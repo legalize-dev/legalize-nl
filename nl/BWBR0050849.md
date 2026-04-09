@@ -4,7 +4,7 @@ identifier: "BWBR0050849"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-09"
-last_updated: "2025-03-20"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050849"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050849&artikel=2&z=2025-03-20&g=2025-03-20).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050849&artikel=2&z=2026-04-09&g=2026-04-09).
 
 ##### Artikel 2
 
@@ -72,6 +72,8 @@ De personen, werkzaam in de functie van gemeentelijke handhaver in dienst van ge
 
 Op grond van dit besluit kunnen maximaal 10 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, lid 1 van de politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), artikel 7, lid 3 van de politiewet 2012, artikel 7, lid 4 van de politiewet 2012 (vervoersfouillering) omschreven bevoegdheden uitoefenen met gebruikmaking van het vrijheidsbeperkend middel handboeien.
+
 ##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Noord-Nederland.
@@ -82,13 +84,13 @@ Op grond van dit besluit kunnen maximaal 10 personen als buitengewoon opsporings
 
 1. De gemeente Terschelling brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050849&artikel=2&z=2025-03-20&g=2025-03-20) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050849&artikel=2&z=2026-04-09&g=2026-04-09) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister van Justitie en Veiligheid goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050849&artikel=5&z=2025-03-20&g=2025-03-20) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050849&artikel=5&z=2026-04-09&g=2026-04-09) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
