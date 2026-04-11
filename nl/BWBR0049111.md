@@ -3,8 +3,8 @@ title: "Wet van 20 december 2023 tot invoering van een minimumbelasting en wijzi
 identifier: "BWBR0049111"
 country: "nl"
 rank: "wet"
-publication_date: "2025-12-31"
-last_updated: "2025-12-31"
+publication_date: "2026-04-11"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049111"
 soort: "wet"
@@ -14,7 +14,7 @@ internal_id: "C42772551"
 label_id: "16885504"
 dtd_version: "2.0"
 original_entry_into_force: "2023-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049111/2025-12-31/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049111/2026-04-11/0"
 intitule_bron: "Stb.2023-510"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2023-12-20"
@@ -29,8 +29,8 @@ original_dossier: "36369"
 original_url_id: "stb-2023-510"
 entry_into_force_date: "2023-12-31"
 entry_into_force_dossier: "36369"
-jci_1_3: "jci1.3:c:BWBR0049111&z=2025-12-31&g=2025-12-31"
-jci_1_0: "1.0:c:BWBR0049111&g=2025-12-31"
+jci_1_3: "jci1.3:c:BWBR0049111&z=2026-04-11&g=2026-04-11"
+jci_1_0: "1.0:c:BWBR0049111&g=2026-04-11"
 citeertitel_status: "officieel"
 short_title: "Wet minimumbelasting 2024"
 signed_date: "2023-12-20"
@@ -50,25 +50,25 @@ Vindt voor het eerst toepassing m.b.t. verslagjaren die aanvangen op of na 31 de
 
 ##### Artikel 1.1. Minimumbelasting
 
-Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteiten als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), de volgende belastingen geheven:
+Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteiten als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), de volgende belastingen geheven:
 
-- a. binnenlandse bijheffing, volgens de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2025-12-31&g=2025-12-31);
+- a. binnenlandse bijheffing, volgens de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2026-04-11&g=2026-04-11);
 
-- b. inkomen-inclusiebijheffing, volgens de regels van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2025-12-31&g=2025-12-31);
+- b. inkomen-inclusiebijheffing, volgens de regels van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2026-04-11&g=2026-04-11);
 
-- c. onderbelastewinstbijheffing, volgens de regels van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2025-12-31&g=2025-12-31).
+- c. onderbelastewinstbijheffing, volgens de regels van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 1.2. Definities
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aangewezen informatieaangifte-indienende groepsentiteit:** de groepsentiteit die geen uiteindelijkemoederentiteit is en die door de multinationale groep of binnenlandse groep is aangewezen om namens die groep te voldoen aan de informatieverplichting, bedoeld in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31);
+- **aangewezen informatieaangifte-indienende groepsentiteit:** de groepsentiteit die geen uiteindelijkemoederentiteit is en die door de multinationale groep of binnenlandse groep is aangewezen om namens die groep te voldoen aan de informatieverplichting, bedoeld in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11);
 
 - **aftrekbaar dividend:**
 
-- a. een uitdeling van winst aan een belanghouder van een groepsentiteit, waarbij die groepsentiteit is onderworpen aan een aftrekbaardividendstelsel op grond waarvan een uitdeling van winst aftrekbaar is van het belastbare inkomen van die entiteit krachtens de regelgeving van de staat waarin zij is gevestigd; of
+  - a. een uitdeling van winst aan een belanghouder van een groepsentiteit, waarbij die groepsentiteit is onderworpen aan een aftrekbaardividendstelsel op grond waarvan een uitdeling van winst aftrekbaar is van het belastbare inkomen van die entiteit krachtens de regelgeving van de staat waarin zij is gevestigd; of
 
-- b. een ledendividend uitgedeeld aan een lid van een coöperatie, waarbij die coöperatie is onderworpen aan een aftrekbaardividendstelsel;
+  - b. een ledendividend uitgedeeld aan een lid van een coöperatie, waarbij die coöperatie is onderworpen aan een aftrekbaardividendstelsel;
 
 - **aftrekbaardividendstelsel:** een belastingstelsel waarbij het inkomen van de belanghouders van een entiteit op één niveau wordt belast door de winst die wordt uitgedeeld aan de belanghouders in mindering te brengen op of uit te sluiten van het inkomen van de entiteit, of door een coöperatie vrij te stellen van belastingheffing;
 
@@ -80,31 +80,31 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **beleggingsentiteit:**
 
-- a. een beleggingsfonds of een vastgoedbeleggingsvehikel;
+  - a. een beleggingsfonds of een vastgoedbeleggingsvehikel;
 
-- b. een entiteit die onmiddellijk of via een of meer entiteiten als bedoeld in onderdeel a, voor ten minste 95% wordt gehouden door een entiteit als bedoeld in onderdeel a, en die uitsluitend of nagenoeg uitsluitend activa houdt of investeert ten behoeve van die entiteit, onderscheidenlijk die entiteiten; of
+  - b. een entiteit die onmiddellijk of via een of meer entiteiten als bedoeld in onderdeel a, voor ten minste 95% wordt gehouden door een entiteit als bedoeld in onderdeel a, en die uitsluitend of nagenoeg uitsluitend activa houdt of investeert ten behoeve van die entiteit, onderscheidenlijk die entiteiten; of
 
-- c. een entiteit waarvan ten minste 85% van de waarde wordt gehouden door een entiteit als bedoeld in onderdeel a, indien nagenoeg al haar inkomen wordt verkregen uit dividenden of vervreemdingswinsten of -verliezen die uitgesloten zijn van de berekening van het kwalificerende inkomen of verlies;
+  - c. een entiteit waarvan ten minste 85% van de waarde wordt gehouden door een entiteit als bedoeld in onderdeel a, indien nagenoeg al haar inkomen wordt verkregen uit dividenden of vervreemdingswinsten of -verliezen die uitgesloten zijn van de berekening van het kwalificerende inkomen of verlies;
 
 - **beleggingsfonds:** een entiteit of rechtsfiguur die:
 
-- a. is opgezet om financiële of niet-financiële activa van verschillende investeerders, waarvan sommigen niet-verbonden zijn in de zin van artikel 5, achtste lid, van het OESO-modelverdrag, onder hetzelfde beheer te brengen;
+  - a. is opgezet om financiële of niet-financiële activa van verschillende investeerders, waarvan sommigen niet-verbonden zijn in de zin van artikel 5, achtste lid, van het OESO-modelverdrag, onder hetzelfde beheer te brengen;
 
-- b. investeert volgens een vooraf vastgesteld investeringsbeleid;
+  - b. investeert volgens een vooraf vastgesteld investeringsbeleid;
 
-- c. het voor investeerders mogelijk maakt om transactie-, onderzoeks- en analytische kosten te verminderen of zorgt voor het collectief spreiden van risico’s;
+  - c. het voor investeerders mogelijk maakt om transactie-, onderzoeks- en analytische kosten te verminderen of zorgt voor het collectief spreiden van risico’s;
 
-- d. als hoofddoel heeft het genereren van beleggingsinkomen of -winsten, dan wel de bescherming tegen een specifieke of algemene gebeurtenis of uitkomst;
+  - d. als hoofddoel heeft het genereren van beleggingsinkomen of -winsten, dan wel de bescherming tegen een specifieke of algemene gebeurtenis of uitkomst;
 
-- e. investeerders het recht geeft op de opbrengsten uit de activa van het fonds of het inkomen dat wordt gegenereerd met die activa, naar evenredigheid van hun bijdrage;
+  - e. investeerders het recht geeft op de opbrengsten uit de activa van het fonds of het inkomen dat wordt gegenereerd met die activa, naar evenredigheid van hun bijdrage;
 
-- f. is onderworpen of waarvan de fondsbeheerder is onderworpen aan de toezichtregelgeving, inclusief afdoende anti-witwas- en investeringsbeschermingsregelgeving, voor beleggingsfondsen in de staat naar het recht waarvan het fonds is opgericht of wordt beheerd; en
+  - f. is onderworpen of waarvan de fondsbeheerder is onderworpen aan de toezichtregelgeving, inclusief afdoende anti-witwas- en investeringsbeschermingsregelgeving, voor beleggingsfondsen in de staat naar het recht waarvan het fonds is opgericht of wordt beheerd; en
 
-- g. namens de investeerders wordt beheerd door beleggingsfondsmanagementprofessionals;
+  - g. namens de investeerders wordt beheerd door beleggingsfondsmanagementprofessionals;
 
-- **betrokken belastingen:** belastingen als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.1&z=2025-12-31&g=2025-12-31);
+- **betrokken belastingen:** belastingen als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.1&z=2026-04-11&g=2026-04-11);
 
-- **bijheffing:** de belasting die op grond van [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31) is berekend voor een staat of een groepsentiteit;
+- **bijheffing:** de belasting die op grond van [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11) is berekend voor een staat of een groepsentiteit;
 
 - **binnenlandse groep:** een groep waarvan alle groepsentiteiten in Nederland zijn gevestigd;
 
@@ -116,9 +116,9 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **doorkijkentiteit:** een entiteit voor zover die fiscaal transparant is met betrekking tot haar inkomsten, uitgaven, winsten of verliezen in de staat naar het recht waarvan zij is opgericht, tenzij zij volgens de fiscale regelgeving van een andere staat aldaar als inwoner is onderworpen aan een betrokken belasting, waarbij die entiteit wordt aangemerkt als een:
 
-- a. fiscaal transparante entiteit met betrekking tot haar inkomsten, uitgaven, winsten of verliezen voor zover zij of, indien zij middellijk wordt gehouden, zij en de entiteit of entiteiten door middel waarvan de belanghouders het belang in haar houden, fiscaal transparant is, onderscheidenlijk zijn, in de staat waarin de belanghouders wonen of zijn gevestigd;
+  - a. fiscaal transparante entiteit met betrekking tot haar inkomsten, uitgaven, winsten of verliezen voor zover zij of, indien zij middellijk wordt gehouden, zij en de entiteit of entiteiten door middel waarvan de belanghouders het belang in haar houden, fiscaal transparant is, onderscheidenlijk zijn, in de staat waarin de belanghouders wonen of zijn gevestigd;
 
-- b. omgekeerde hybride entiteit met betrekking tot haar inkomsten, uitgaven, winsten of verliezen voor zover zij of, indien zij middellijk wordt gehouden, zij en de entiteit of entiteiten door middel waarvan de belanghouders het belang in haar houden, niet fiscaal transparant is, onderscheidenlijk zijn, in de staat waarin de belanghouders wonen of zijn gevestigd;
+  - b. omgekeerde hybride entiteit met betrekking tot haar inkomsten, uitgaven, winsten of verliezen voor zover zij of, indien zij middellijk wordt gehouden, zij en de entiteit of entiteiten door middel waarvan de belanghouders het belang in haar houden, niet fiscaal transparant is, onderscheidenlijk zijn, in de staat waarin de belanghouders wonen of zijn gevestigd;
 
 - **entiteit:** een rechtsfiguur die een afzonderlijke financiële verslaggeving opstelt of een rechtspersoon, niet zijnde een overheid, daaronder mede begrepen een staatkundig onderdeel of lokale autoriteit van een overheid;
 
@@ -132,33 +132,33 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **geconsolideerde jaarrekening:**
 
-- a. voor een groep als bedoeld in onderdeel a van de definitie van groep: de jaarrekening die is opgesteld door een entiteit in overeenstemming met de geaccepteerde financiële verslaggevingsstandaard, waarin de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit en alle entiteiten waarin zij een controlerend belang heeft, zijn weergegeven als die van een enkele economische eenheid;
+  - a. voor een groep als bedoeld in onderdeel a van de definitie van groep: de jaarrekening die is opgesteld door een entiteit in overeenstemming met de geaccepteerde financiële verslaggevingsstandaard, waarin de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit en alle entiteiten waarin zij een controlerend belang heeft, zijn weergegeven als die van een enkele economische eenheid;
 
-- b. voor een groep als bedoeld in onderdeel b van de definitie van groep: de jaarrekening opgesteld door de desbetreffende entiteit in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard;
+  - b. voor een groep als bedoeld in onderdeel b van de definitie van groep: de jaarrekening opgesteld door de desbetreffende entiteit in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard;
 
-- c. voor een groep als bedoeld in de onderdelen a en b van de definitie van groep, indien de jaarrekening die is opgesteld door een uiteindelijkemoederentiteit niet in overeenstemming is met een geaccepteerde financiële verslaggevingsstandaard: de jaarrekening die is opgesteld in overeenstemming met een geautoriseerde financiële verslaggevingsstandaard waarin de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit en alle entiteiten waarin zij een controlerend belang heeft, zijn weergegeven als die van een enkele economische eenheid en waarbij de gegevens in de financiële verslaggeving zijn gecorrigeerd om elke vorm van materiële concurrentieverstoring te voorkomen; of
+  - c. voor een groep als bedoeld in de onderdelen a en b van de definitie van groep, indien de jaarrekening die is opgesteld door een uiteindelijkemoederentiteit niet in overeenstemming is met een geaccepteerde financiële verslaggevingsstandaard: de jaarrekening die is opgesteld in overeenstemming met een geautoriseerde financiële verslaggevingsstandaard waarin de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit en alle entiteiten waarin zij een controlerend belang heeft, zijn weergegeven als die van een enkele economische eenheid en waarbij de gegevens in de financiële verslaggeving zijn gecorrigeerd om elke vorm van materiële concurrentieverstoring te voorkomen; of
 
-- d. voor een groep als bedoeld in de onderdelen a en b van de definitie van groep, indien de uiteindelijkemoederentiteit geen jaarrekening opstelt in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard of een geautoriseerde financiële verslaggevingsstandaard als bedoeld in de onderdelen a, b of c: de jaarrekening waarin de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit en alle entiteiten waarin zij een controlerend belang heeft, zijn weergegeven als die van een enkele economische eenheid en die, indien de uiteindelijkemoederentiteit daartoe verplicht zou zijn geweest, zou zijn opgesteld in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard of een geautoriseerde financiële verslaggevingsstandaard, mits voor wat betreft een geautoriseerde financiële verslaggevingsstandaard de gegevens in de financiële verslaggeving zijn gecorrigeerd om elke vorm van materiële concurrentieverstoring te voorkomen;
+  - d. voor een groep als bedoeld in de onderdelen a en b van de definitie van groep, indien de uiteindelijkemoederentiteit geen jaarrekening opstelt in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard of een geautoriseerde financiële verslaggevingsstandaard als bedoeld in de onderdelen a, b of c: de jaarrekening waarin de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit en alle entiteiten waarin zij een controlerend belang heeft, zijn weergegeven als die van een enkele economische eenheid en die, indien de uiteindelijkemoederentiteit daartoe verplicht zou zijn geweest, zou zijn opgesteld in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard of een geautoriseerde financiële verslaggevingsstandaard, mits voor wat betreft een geautoriseerde financiële verslaggevingsstandaard de gegevens in de financiële verslaggeving zijn gecorrigeerd om elke vorm van materiële concurrentieverstoring te voorkomen;
 
 - **gereduceerd kwalificerend belang:** het bedrag dat door de houder van een kwalificerend belang is geïnvesteerd in dit belang, verminderd met het gezamenlijke bedrag in een verslagjaar en de aan dat jaar voorafgaande verslagjaren aan:
 
-- a. kwalificerende doorgeleide belastingvoordelen die bij de houder van het kwalificerende belang als een vermeerdering van de betrokken belastingen in aanmerking zijn genomen;
+  - a. kwalificerende doorgeleide belastingvoordelen die bij de houder van het kwalificerende belang als een vermeerdering van de betrokken belastingen in aanmerking zijn genomen;
 
-- b. uitdelingen door de doorkijkentiteit waarin het kwalificerende belang wordt gehouden aan de houder van het kwalificerende belang; of
+  - b. uitdelingen door de doorkijkentiteit waarin het kwalificerende belang wordt gehouden aan de houder van het kwalificerende belang; of
 
-- c. opbrengsten behaald met de vervreemding van het kwalificerende belang of een deel daarvan;
+  - c. opbrengsten behaald met de vervreemding van het kwalificerende belang of een deel daarvan;
 
 - **groep:**
 
-- a. een geheel van entiteiten die met elkaar verbonden zijn door eigendom of zeggenschap zoals omschreven in de geaccepteerde of geautoriseerde financiële verslaggevingsstandaard voor de opstelling van een geconsolideerde jaarrekening door de uiteindelijkemoederentiteit, inclusief iedere entiteit die enkel op grond van haar beperkte omvang, op grond van materialiteit, of op grond van het feit dat zij ter verkoop wordt gehouden, niet is opgenomen in die geconsolideerde jaarrekening; of
+  - a. een geheel van entiteiten die met elkaar verbonden zijn door eigendom of zeggenschap zoals omschreven in de geaccepteerde of geautoriseerde financiële verslaggevingsstandaard voor de opstelling van een geconsolideerde jaarrekening door de uiteindelijkemoederentiteit, inclusief iedere entiteit die enkel op grond van haar beperkte omvang, op grond van materialiteit, of op grond van het feit dat zij ter verkoop wordt gehouden, niet is opgenomen in die geconsolideerde jaarrekening; of
 
-- b. een entiteit die een of meer vaste inrichtingen heeft, mits die entiteit geen onderdeel vormt van een groep als bedoeld in onderdeel a;
+  - b. een entiteit die een of meer vaste inrichtingen heeft, mits die entiteit geen onderdeel vormt van een groep als bedoeld in onderdeel a;
 
 - **groepsentiteit:**
 
-- a. een entiteit die onderdeel is van een multinationale groep of binnenlandse groep;
+  - a. een entiteit die onderdeel is van een multinationale groep of binnenlandse groep;
 
-- b. een vaste inrichting van een hoofdentiteit die onderdeel is van een multinationale groep;
+  - b. een vaste inrichting van een hoofdentiteit die onderdeel is van een multinationale groep;
 
 - **groepsentiteit-belanghouder:** een groepsentiteit die onmiddellijk of middellijk een belang heeft in een andere groepsentiteit die tot dezelfde multinationale groep of binnenlandse groep behoort;
 
@@ -166,107 +166,107 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **hybride entiteit:** een entiteit die wordt behandeld als fiscaal transparant in de staat waar haar belanghouders wonen of zijn gevestigd en die:
 
-- a. belastingplichtig is in de staat waarin zij is gevestigd; of
+  - a. belastingplichtig is in de staat waarin zij is gevestigd; of
 
-- b. niet wordt aangemerkt als een fiscaal transparante entiteit op grond van [artikel 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), en op grond van [artikel 1.3, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.3&z=2025-12-31&g=2025-12-31), wordt geacht te zijn gevestigd in de staat naar het recht waarvan zij is opgericht;
+  - b. niet wordt aangemerkt als een fiscaal transparante entiteit op grond van [artikel 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), en op grond van [artikel 1.3, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.3&z=2026-04-11&g=2026-04-11), wordt geacht te zijn gevestigd in de staat naar het recht waarvan zij is opgericht;
 
 - **in aanmerking komend uitdelingsbelastingstelsel:** een winstbelastingstelsel:
 
-- a. op grond waarvan alleen belasting naar het inkomen wordt geheven over winsten indien deze worden uitgedeeld of worden geacht te zijn uitgedeeld aan aandeelhouders of wanneer een lichaam bepaalde niet-zakelijke uitgaven doet;
+  - a. op grond waarvan alleen belasting naar het inkomen wordt geheven over winsten indien deze worden uitgedeeld of worden geacht te zijn uitgedeeld aan aandeelhouders of wanneer een lichaam bepaalde niet-zakelijke uitgaven doet;
 
-- b. op grond waarvan belasting wordt geheven tegen een tarief dat ten minste gelijk is aan het minimumbelastingtarief; en
+  - b. op grond waarvan belasting wordt geheven tegen een tarief dat ten minste gelijk is aan het minimumbelastingtarief; en
 
-- c. dat van kracht was op of vóór 1 juli 2021;
+  - c. dat van kracht was op of vóór 1 juli 2021;
 
-- **informatieaangifte-indienende groepsentiteit:** een entiteit die in overeenstemming met [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31) een bijheffing-informatieaangifte indient;
+- **informatieaangifte-indienende groepsentiteit:** een entiteit die in overeenstemming met [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11) een bijheffing-informatieaangifte indient;
 
 - **internationale organisatie:** een intergouvernementele organisatie, een supranationale organisatie, of een agentschap of instantie waarvan het gehele belang wordt gehouden door een intergouvernementele of supranationale organisatie, en die organisatie, dat agentschap of die instantie:
 
-- a. voornamelijk bestaat uit overheden, daaronder mede begrepen staatkundige onderdelen of lokale autoriteiten van overheden;
+  - a. voornamelijk bestaat uit overheden, daaronder mede begrepen staatkundige onderdelen of lokale autoriteiten van overheden;
 
-- b. met de staat waarin zij of het is gevestigd een van kracht zijnde hoofdkantoorovereenkomst heeft of een in wezen soortgelijke overeenkomst, waaronder in ieder geval wordt verstaan een regeling die de kantoren of vestigingen van een organisatie in de staat waarin zij is gevestigd voorrechten en immuniteiten verleend; en
+  - b. met de staat waarin zij of het is gevestigd een van kracht zijnde hoofdkantoorovereenkomst heeft of een in wezen soortgelijke overeenkomst, waaronder in ieder geval wordt verstaan een regeling die de kantoren of vestigingen van een organisatie in de staat waarin zij is gevestigd voorrechten en immuniteiten verleend; en
 
-- c. statuten heeft waaruit blijkt, of onderworpen is aan regelgeving waaruit volgt, dat het inkomen van de organisatie, het agentschap of de instantie niet toekomt aan private personen;
+  - c. statuten heeft waaruit blijkt, of onderworpen is aan regelgeving waaruit volgt, dat het inkomen van de organisatie, het agentschap of de instantie niet toekomt aan private personen;
 
 - **joint venture:** een entiteit waarvan de financiële resultaten worden verantwoord op basis van de nettovermogenswaardemethode in de geconsolideerde jaarrekening van een uiteindelijkemoederentiteit, mits die uiteindelijkemoederentiteit onmiddellijk of middellijk een belang van ten minste 50% in die entiteit heeft, tenzij die entiteit:
 
-- a. een uiteindelijkemoederentiteit is van een multinationale groep of binnenlandse groep die een kwalificerende inkomen-inclusiemaatregel moet toepassen;
+  - a. een uiteindelijkemoederentiteit is van een multinationale groep of binnenlandse groep die een kwalificerende inkomen-inclusiemaatregel moet toepassen;
 
-- b. een uitgesloten entiteit is;
+  - b. een uitgesloten entiteit is;
 
-- c. een entiteit waarvan het belang onmiddellijk wordt gehouden door een uitgesloten entiteit en:
+  - c. een entiteit waarvan het belang onmiddellijk wordt gehouden door een uitgesloten entiteit en:
 
-- 1°. die entiteit uitsluitend of nagenoeg uitsluitend activa aanhoudt of middelen belegt ten behoeve van haar investeerders;
+    - 1°. die entiteit uitsluitend of nagenoeg uitsluitend activa aanhoudt of middelen belegt ten behoeve van haar investeerders;
 
-- 2°. die entiteit activiteiten uitoefent die ondergeschikt zijn aan de activiteiten die de uitgesloten entiteit uitoefent; of
+    - 2°. die entiteit activiteiten uitoefent die ondergeschikt zijn aan de activiteiten die de uitgesloten entiteit uitoefent; of
 
-- 3°. nagenoeg al het inkomen van die entiteit niet in aanmerking wordt genomen bij de berekening van het kwalificerende inkomen of verlies op de voet van [artikel 6.2, eerste lid, onderdeel b, onderscheidenlijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2025-12-31&g=2025-12-31);
+    - 3°. nagenoeg al het inkomen van die entiteit niet in aanmerking wordt genomen bij de berekening van het kwalificerende inkomen of verlies op de voet van [artikel 6.2, eerste lid, onderdeel b, onderscheidenlijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2026-04-11&g=2026-04-11);
 
-- d. een entiteit is die wordt gehouden door een multinationale groep of binnenlandse groep die uitsluitend bestaat uit uitgesloten entiteiten; of
+  - d. een entiteit is die wordt gehouden door een multinationale groep of binnenlandse groep die uitsluitend bestaat uit uitgesloten entiteiten; of
 
-- e. een met een joint venture verbonden partij is;
+  - e. een met een joint venture verbonden partij is;
 
 - **joint venture-groep:** een joint venture en een of meer met een joint venture verbonden partijen gezamenlijk;
 
 - **kwalificerend belang:** een investering in een doorkijkentiteit die:
 
-- a. voor fiscale doeleinden als een belang in het eigen vermogen van die entiteit wordt aangemerkt;
+  - a. voor fiscale doeleinden als een belang in het eigen vermogen van die entiteit wordt aangemerkt;
 
-- b. in overeenstemming met een geautoriseerde financiële verslaggevingsstandaard in de staat waar die entiteit opereert als eigen vermogen wordt aangemerkt;
+  - b. in overeenstemming met een geautoriseerde financiële verslaggevingsstandaard in de staat waar die entiteit opereert als eigen vermogen wordt aangemerkt;
 
-- c. is opgenomen in de financiële verslaglegging met toepassing van een andere methode dan die waarbij de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit integraal worden geconsolideerd in de geconsolideerde jaarrekening; en
+  - c. is opgenomen in de financiële verslaglegging met toepassing van een andere methode dan die waarbij de activa, passiva, inkomsten, uitgaven en kasstromen van die entiteit integraal worden geconsolideerd in de geconsolideerde jaarrekening; en
 
-- d. ten aanzien waarvan het totale rendement zonder doorgeleid belastingvoordeel naar verwachting minder bedraagt dan het totale bedrag dat door de investeerder is ingebracht;
+  - d. ten aanzien waarvan het totale rendement zonder doorgeleid belastingvoordeel naar verwachting minder bedraagt dan het totale bedrag dat door de investeerder is ingebracht;
 
 - **kwalificerend doorgeleid belastingvoordeel:** een bedrag dat bestaat uit:
 
-- a. een belastingtegoed dat tot uitdrukking komt bij de houder van een kwalificerend belang; of
+  - a. een belastingtegoed dat tot uitdrukking komt bij de houder van een kwalificerend belang; of
 
-- b. verrekenbare verliezen die tot uitdrukking komen bij de houder van een kwalificerend belang vermenigvuldigd met het toepasselijke nominale belastingtarief;
+  - b. verrekenbare verliezen die tot uitdrukking komen bij de houder van een kwalificerend belang vermenigvuldigd met het toepasselijke nominale belastingtarief;
 
-- **kwalificerend inkomen of verlies:** de nettowinst of het nettoverlies uit de financiële verslaggeving van een groepsentiteit, aangepast in overeenstemming met de regels in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&z=2025-12-31&g=2025-12-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&z=2025-12-31&g=2025-12-31);
+- **kwalificerend inkomen of verlies:** de nettowinst of het nettoverlies uit de financiële verslaggeving van een groepsentiteit, aangepast in overeenstemming met de regels in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&z=2026-04-11&g=2026-04-11) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&z=2026-04-11&g=2026-04-11);
 
 - **kwalificerend verhandelbaar belastingtegoed:** een belastingtegoed dat door de gerechtigde tot dat tegoed in de staat van toekenning in mindering kan worden gebracht op een betrokken belasting en dat:
 
-- a. overdraagbaar is binnen een markt aan een niet-gelieerde partij in het verslagjaar waarin aan de voorwaarden voor toepassing van dat tegoed is voldaan (oorsprongsjaar) of binnen vijftien maanden na het einde van het oorsprongsjaar of, indien het tegoed is aangeschaft, overdraagbaar is in het verslagjaar waarin het tegoed is aangeschaft; en
+  - a. overdraagbaar is binnen een markt aan een niet-gelieerde partij in het verslagjaar waarin aan de voorwaarden voor toepassing van dat tegoed is voldaan (oorsprongsjaar) of binnen vijftien maanden na het einde van het oorsprongsjaar of, indien het tegoed is aangeschaft, overdraagbaar is in het verslagjaar waarin het tegoed is aangeschaft; en
 
-- b. verhandelbaar is voor een prijs die ten minste gelijk is aan 80% van de netto contante waarde van het belastingtegoed, waarbij de netto contante waarde wordt bepaald op basis van het rendement tot de vervaldag op een schuldinstrument dat is uitgegeven door de overheid die het belastingtegoed heeft uitgegeven met een gelijke of vergelijkbare looptijd van maximaal vijf jaar, in het oorsprongsjaar of, indien het tegoed is aangeschaft, in het jaar van aanschaf;
+  - b. verhandelbaar is voor een prijs die ten minste gelijk is aan 80% van de netto contante waarde van het belastingtegoed, waarbij de netto contante waarde wordt bepaald op basis van het rendement tot de vervaldag op een schuldinstrument dat is uitgegeven door de overheid die het belastingtegoed heeft uitgegeven met een gelijke of vergelijkbare looptijd van maximaal vijf jaar, in het oorsprongsjaar of, indien het tegoed is aangeschaft, in het jaar van aanschaf;
 
 - **kwalificerende binnenlandse bijheffing:** een belasting die is geïmplementeerd in het nationale recht van een staat, mits die staat geen voordelen toekent die gerelateerd zijn aan die belasting, die:
 
-- a. voorziet in de vaststelling van de overwinst van de groepsentiteiten in die staat en de toepassing van het bijheffingspercentage op die overwinst in overeenstemming met de maatregelen uit [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, de OESO-modelregels, met dien verstande dat het bijheffingspercentage dient te worden vastgesteld op basis van het in overeenstemming met [artikel 7.5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.5&z=2025-12-31&g=2025-12-31), berekende effectieve tarief voor Nederland of een daarmee vergelijkbare bepaling voor andere staten; en
+  - a. voorziet in de vaststelling van de overwinst van de groepsentiteiten in die staat en de toepassing van het bijheffingspercentage op die overwinst in overeenstemming met de maatregelen uit [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, de OESO-modelregels, met dien verstande dat het bijheffingspercentage dient te worden vastgesteld op basis van het in overeenstemming met [artikel 7.5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.5&z=2026-04-11&g=2026-04-11), berekende effectieve tarief voor Nederland of een daarmee vergelijkbare bepaling voor andere staten; en
 
-- b. wordt toegepast op een manier die consistent is met de maatregelen uit [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, de OESO-modelregels;
+  - b. wordt toegepast op een manier die consistent is met de maatregelen uit [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, de OESO-modelregels;
 
 - **kwalificerende inkomen-inclusiemaatregel:** een set maatregelen die geïmplementeerd is in het nationale recht van een staat, mits die staat geen voordelen toekent die gerelateerd zijn aan die set maatregelen, die:
 
-- a. gelijkwaardig is aan de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels, en op grond waarvan de moederentiteit van een multinationale groep of binnenlandse groep het aan haar toerekenbare bedrag van de bijheffing met betrekking tot de laagbelaste groepsentiteiten berekent en betaalt; en
+  - a. gelijkwaardig is aan de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels, en op grond waarvan de moederentiteit van een multinationale groep of binnenlandse groep het aan haar toerekenbare bedrag van de bijheffing met betrekking tot de laagbelaste groepsentiteiten berekent en betaalt; en
 
-- b. wordt toegepast op een wijze die consistent is met de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels;
+  - b. wordt toegepast op een wijze die consistent is met de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels;
 
 - **kwalificerende onderbelastewinstmaatregel:** een set maatregelen die in het nationale recht van een staat is geïmplementeerd, mits die staat geen voordelen toekent die gerelateerd zijn aan die set maatregelen, die:
 
-- a. gelijkwaardig is aan de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels, op grond waarvan die staat het aan hem toerekenbare bedrag aan bijheffing van een multinationale groep int dat niet is geheven op grond van een kwalificerende inkomen-inclusiemaatregel met betrekking tot de laagbelaste groepsentiteiten van die multinationale groep;
+  - a. gelijkwaardig is aan de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels, op grond waarvan die staat het aan hem toerekenbare bedrag aan bijheffing van een multinationale groep int dat niet is geheven op grond van een kwalificerende inkomen-inclusiemaatregel met betrekking tot de laagbelaste groepsentiteiten van die multinationale groep;
 
-- b. wordt toegepast op een wijze die consistent is met de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels;
+  - b. wordt toegepast op een wijze die consistent is met de maatregelen die zijn opgenomen in [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, in de OESO-modelregels;
 
 - **kwalificerend restitueerbaar belastingtegoed:** een restitueerbaar belastingtegoed, daaronder niet begrepen bedragen aan belasting die restitueerbaar of verrekenbaar zijn op grond van een kwalificerende imputatiebelasting of een niet-kwalificerende restitueerbare imputatiebelasting, dat binnen vier jaar na de datum waarop het recht van een groepsentiteit op dat tegoed op grond van de regelgeving van de staat die het tegoed verleent is ontstaan, betaald moet worden aan die groepsentiteit in de vorm van geld of een kasequivalent of, indien het tegoed gedeeltelijk restitueerbaar is, het deel van het tegoed dat binnen die vier jaar betaalbaar is in de vorm van geld of een kasequivalent;
 
 - **laagbelaste groepsentiteit:**
 
-- a. een groepsentiteit van een multinationale groep of binnenlandse groep die gevestigd is in een laagbelastende staat; of
+  - a. een groepsentiteit van een multinationale groep of binnenlandse groep die gevestigd is in een laagbelastende staat; of
 
-- b. een staatloze groepsentiteit die, met betrekking tot een verslagjaar, kwalificerend inkomen heeft en ten aanzien waarvan het overeenkomstig [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31) bepaalde effectieve belastingtarief lager is dan het minimumbelastingtarief;
+  - b. een staatloze groepsentiteit die, met betrekking tot een verslagjaar, kwalificerend inkomen heeft en ten aanzien waarvan het overeenkomstig [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11) bepaalde effectieve belastingtarief lager is dan het minimumbelastingtarief;
 
-- **laagbelastende staat:** een staat waarin een multinationale groep of binnenlandse groep in een verslagjaar een netto kwalificerend inkomen heeft ten aanzien waarvan het overeenkomstig [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31) bepaalde effectieve belastingtarief lager is dan het minimumbelastingtarief;
+- **laagbelastende staat:** een staat waarin een multinationale groep of binnenlandse groep in een verslagjaar een netto kwalificerend inkomen heeft ten aanzien waarvan het overeenkomstig [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11) bepaalde effectieve belastingtarief lager is dan het minimumbelastingtarief;
 
 - **materiële concurrentieverstoring:** de toepassing van een set aan algemeen aanvaarde verslaggevingsbeginselen die resulteert in een totale afwijking van de inkomsten of de kosten van meer dan € 75.000.000 in een verslagjaar voor een multinationale groep of binnenlandse groep in vergelijking met het bedrag dat vastgesteld zou zijn onder toepassing van een vergelijkbaar beginsel of een vergelijkbare procedure volgens IFRS of IFRS zoals goedgekeurd door de EU overeenkomstig [Verordening (EG) nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG 2002, L 243);
 
 - **met een joint venture verbonden partij:**
 
-- a. een entiteit waarvan de activa, passiva, inkomsten, uitgaven en kasstromen worden geconsolideerd door een joint venture op basis van een geaccepteerde financiële verslaggevingsstandaard of zouden worden geconsolideerd indien een geaccepteerde financiële verslaggevingsstandaard zou worden toegepast; of
+  - a. een entiteit waarvan de activa, passiva, inkomsten, uitgaven en kasstromen worden geconsolideerd door een joint venture op basis van een geaccepteerde financiële verslaggevingsstandaard of zouden worden geconsolideerd indien een geaccepteerde financiële verslaggevingsstandaard zou worden toegepast; of
 
-- b. een vaste inrichting waarvan de hoofdentiteit een joint venture of een met een joint venture verbonden partij is, in welk geval de vaste inrichting als een afzonderlijke met een joint venture verbonden partij wordt beschouwd;
+  - b. een vaste inrichting waarvan de hoofdentiteit een joint venture of een met een joint venture verbonden partij is, in welk geval de vaste inrichting als een afzonderlijke met een joint venture verbonden partij wordt beschouwd;
 
 - **minimumbelastingtarief:** 15%;
 
@@ -282,23 +282,23 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **niet-kwalificerende restitueerbare imputatiebelasting:** iedere belasting over winst, niet zijnde een kwalificerende imputatiebelasting als bedoeld in het derde lid, die is toegerekend aan of betaald door een groepsentiteit en die bij uitdeling van die winst in de vorm van dividend door die groepsentiteit:
 
-- a. restitueerbaar is aan de uiteindelijk gerechtigde van het dividend;
+  - a. restitueerbaar is aan de uiteindelijk gerechtigde van het dividend;
 
-- b. door de uiteindelijk gerechtigde van het dividend verrekenbaar is met verschuldigde belasting die niet verschuldigd is ter zake van dat dividend; of
+  - b. door de uiteindelijk gerechtigde van het dividend verrekenbaar is met verschuldigde belasting die niet verschuldigd is ter zake van dat dividend; of
 
-- c. aan een aandeelhouder, restitueerbaar is aan de uitdelende groepsentiteit;
+  - c. aan een aandeelhouder, restitueerbaar is aan de uitdelende groepsentiteit;
 
 - **non-profitorganisatie:** een entiteit die geen handels- of bedrijfsmatige activiteit verricht die niet direct samenhangt met het doel waarvoor zij is opgericht, en:
 
-- a. die is opgericht en in de staat waarin zij is gevestigd wordt gedreven voor uitsluitend religieuze, charitatieve, wetenschappelijke, artistieke, culturele, sportieve, educatieve of andere soortgelijke doeleinden, dan wel is opgericht en in de staat waarin zij is gevestigd wordt gedreven als een professionele organisatie, bedrijfsvereniging, kamer van koophandel, arbeidsorganisatie, land- of tuinbouworganisatie, burgerorganisatie of als een organisatie uitsluitend ter bevordering van het sociale welzijn;
+  - a. die is opgericht en in de staat waarin zij is gevestigd wordt gedreven voor uitsluitend religieuze, charitatieve, wetenschappelijke, artistieke, culturele, sportieve, educatieve of andere soortgelijke doeleinden, dan wel is opgericht en in de staat waarin zij is gevestigd wordt gedreven als een professionele organisatie, bedrijfsvereniging, kamer van koophandel, arbeidsorganisatie, land- of tuinbouworganisatie, burgerorganisatie of als een organisatie uitsluitend ter bevordering van het sociale welzijn;
 
-- b. waarvan nagenoeg al het inkomen uit de activiteiten, bedoeld onder a, is vrijgesteld van belasting naar het inkomen in de staat waarin zij is gevestigd;
+  - b. waarvan nagenoeg al het inkomen uit de activiteiten, bedoeld onder a, is vrijgesteld van belasting naar het inkomen in de staat waarin zij is gevestigd;
 
-- c. die geen aandeelhouders of leden heeft die een eigendomsrecht of een recht van vruchtgebruik hebben op haar inkomsten of activa;
+  - c. die geen aandeelhouders of leden heeft die een eigendomsrecht of een recht van vruchtgebruik hebben op haar inkomsten of activa;
 
-- d. waarvan de inkomsten of de activa niet mogen worden uitgedeeld aan of worden aangewend ten voordele van een private persoon of een niet-charitatieve entiteit, behalve voor de uitvoering van charitatieve activiteiten van de entiteit, als betaling van een redelijke vergoeding voor verleende diensten of voor het gebruik van een bezitting of kapitaal, of als betaling die de marktwaarde van een bezitting vertegenwoordigt die de entiteit heeft gekocht; en
+  - d. waarvan de inkomsten of de activa niet mogen worden uitgedeeld aan of worden aangewend ten voordele van een private persoon of een niet-charitatieve entiteit, behalve voor de uitvoering van charitatieve activiteiten van de entiteit, als betaling van een redelijke vergoeding voor verleende diensten of voor het gebruik van een bezitting of kapitaal, of als betaling die de marktwaarde van een bezitting vertegenwoordigt die de entiteit heeft gekocht; en
 
-- e. die bij beëindiging van haar activiteiten of bij liquidatie of ontbinding al haar activa dient uit te delen of toe te laten komen aan een non-profitorganisatie, aan de overheid van de staat waarin zij is gevestigd, daaronder mede begrepen een staatkundig onderdeel of lokale autoriteit van die overheid, of aan een overheidsentiteit;
+  - e. die bij beëindiging van haar activiteiten of bij liquidatie of ontbinding al haar activa dient uit te delen of toe te laten komen aan een non-profitorganisatie, aan de overheid van de staat waarin zij is gevestigd, daaronder mede begrepen een staatkundig onderdeel of lokale autoriteit van die overheid, of aan een overheidsentiteit;
 
 - **OESO-commentaar:** het commentaar bij de OESO-modelregels zoals goedgekeurd op 11 maart 2022 met als citeertitel: «OECD (2022), Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), First Edition: Inclusive Framework on BEPS, OECD Publishing, Paris»;
 
@@ -308,11 +308,11 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **overheidsentiteit:** een entiteit die deel uitmaakt van of volledig wordt gehouden door een overheid, daaronder mede begrepen een staatkundig onderdeel of lokale autoriteit van een overheid, en:
 
-- a. die geen handels- of bedrijfsmatige activiteiten verricht en als voornaamste doel heeft het vervullen van een overheidsfunctie of het beheren of beleggen van activa van die overheid of de staat door het plaatsen en aanhouden van beleggingen, vermogensbeheer en het verrichten van daarmee verband houdende beleggingsactiviteiten met betrekking tot die activa;
+  - a. die geen handels- of bedrijfsmatige activiteiten verricht en als voornaamste doel heeft het vervullen van een overheidsfunctie of het beheren of beleggen van activa van die overheid of de staat door het plaatsen en aanhouden van beleggingen, vermogensbeheer en het verrichten van daarmee verband houdende beleggingsactiviteiten met betrekking tot die activa;
 
-- b. die verantwoording moet afleggen aan die overheid met betrekking tot haar algehele prestaties en jaarlijks informatieverslagen verstrekt aan die overheid; en
+  - b. die verantwoording moet afleggen aan die overheid met betrekking tot haar algehele prestaties en jaarlijks informatieverslagen verstrekt aan die overheid; en
 
-- c. waarvan de activa bij ontbinding toekomen aan die overheid en, voor zover die entiteit netto-inkomen uitdeelt, dat netto-inkomen toekomt aan die overheid;
+  - c. waarvan de activa bij ontbinding toekomen aan die overheid en, voor zover die entiteit netto-inkomen uitdeelt, dat netto-inkomen toekomt aan die overheid;
 
 - **partieel gehouden moederentiteit:** een groepsentiteit, die geen uiteindelijkemoederentiteit, vaste inrichting, beleggingsentiteit of verzekeringsbeleggingsentiteit is, die onmiddellijk of middellijk een belang heeft in een andere groepsentiteit van dezelfde multinationale groep of binnenlandse groep en waarvan het belang in de winsten voor meer dan 20%, onmiddellijk of middellijk, wordt gehouden door een of meer natuurlijk personen of entiteiten die geen groepsentiteiten van de multinationale groep of binnenlandse groep zijn;
 
@@ -320,9 +320,9 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **pensioenfonds:**
 
-- a. een entiteit die in een staat is opgericht en wordt gedreven uitsluitend of nagenoeg uitsluitend ten behoeve van het beheer of het verstrekken van pensioenvoorzieningen en aanvullende of incidentele voorzieningen aan natuurlijk personen en die gereglementeerd is door die staat of door een van zijn staatkundige onderdelen of lokale autoriteiten, dan wel waarvan de voorzieningen zijn verzekerd of op ander wijze zijn beschermd door nationale regelgeving en gefinancierd zijn door activa die worden gehouden via een fiduciaire overeenkomst of een beheerder om te verzekeren dat de pensioenverplichtingen worden nagekomen in het geval van insolventie van de multinationale groep of binnenlandse groep;
+  - a. een entiteit die in een staat is opgericht en wordt gedreven uitsluitend of nagenoeg uitsluitend ten behoeve van het beheer of het verstrekken van pensioenvoorzieningen en aanvullende of incidentele voorzieningen aan natuurlijk personen en die gereglementeerd is door die staat of door een van zijn staatkundige onderdelen of lokale autoriteiten, dan wel waarvan de voorzieningen zijn verzekerd of op ander wijze zijn beschermd door nationale regelgeving en gefinancierd zijn door activa die worden gehouden via een fiduciaire overeenkomst of een beheerder om te verzekeren dat de pensioenverplichtingen worden nagekomen in het geval van insolventie van de multinationale groep of binnenlandse groep;
 
-- b. een pensioendienstverleningsentiteit;
+  - b. een pensioendienstverleningsentiteit;
 
 - **Richtlijn (EU) 2022/2523:** [Richtlijn (EU) 2022/2523](32022L2523) van de Raad van 14 december 2022 tot waarborging van een mondiaal minimumniveau van belastingheffing voor groepen van multinationale ondernemingen en omvangrijke binnenlandse groepen in de Unie (PbEU 2022, L 328/1);
 
@@ -330,19 +330,19 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - **uiteindelijkemoederentiteit:**
 
-- a. een entiteit die onmiddellijk of middellijk een controlerend belang heeft in een andere entiteit en waarin geen andere entiteit onmiddellijk of middellijk een controlerend belang heeft;
+  - a. een entiteit die onmiddellijk of middellijk een controlerend belang heeft in een andere entiteit en waarin geen andere entiteit onmiddellijk of middellijk een controlerend belang heeft;
 
-- b. de hoofdentiteit van een groep als bedoeld in onderdeel b van de definitie van groep;
+  - b. de hoofdentiteit van een groep als bedoeld in onderdeel b van de definitie van groep;
 
 - **vaste inrichting:**
 
-- a. een bedrijfsinrichting of een daarmee gelijkgestelde inrichting die is gelegen in een staat waar die bedrijfsinrichting, onderscheidenlijk een daarmee gelijkgestelde inrichting, wordt behandeld als een vaste inrichting in overeenstemming met een van toepassing zijnd belastingverdrag, mits die staat het inkomen dat toerekenbaar is aan die inrichting in aanmerking neemt op grond van een bepaling die vergelijkbaar is met artikel 7 van het OESO-modelverdrag;
+  - a. een bedrijfsinrichting of een daarmee gelijkgestelde inrichting die is gelegen in een staat waar die bedrijfsinrichting, onderscheidenlijk een daarmee gelijkgestelde inrichting, wordt behandeld als een vaste inrichting in overeenstemming met een van toepassing zijnd belastingverdrag, mits die staat het inkomen dat toerekenbaar is aan die inrichting in aanmerking neemt op grond van een bepaling die vergelijkbaar is met artikel 7 van het OESO-modelverdrag;
 
-- b. indien geen belastingverdrag van toepassing is: een bedrijfsinrichting of een daarmee gelijkgestelde inrichting die is gelegen in een staat die het inkomen dat toerekenbaar is aan die inrichting belast op een nettobasis op een manier die vergelijkbaar is met de belastingheffing van entiteiten die hun fiscale vestigingsplaats in die staat hebben;
+  - b. indien geen belastingverdrag van toepassing is: een bedrijfsinrichting of een daarmee gelijkgestelde inrichting die is gelegen in een staat die het inkomen dat toerekenbaar is aan die inrichting belast op een nettobasis op een manier die vergelijkbaar is met de belastingheffing van entiteiten die hun fiscale vestigingsplaats in die staat hebben;
 
-- c. indien een staat geen vennootschapsbelastingsysteem heeft: een in die staat gelegen bedrijfsinrichting of een daarmee gelijkgestelde inrichting die overeenkomstig het OESO-modelverdrag als een vaste inrichting zou zijn aangemerkt, mits die staat het recht zou hebben gehad om het overeenkomstig artikel 7 van dat modelverdrag aan die bedrijfsinrichting toerekenbare inkomen in de belastingheffing te betrekken; of
+  - c. indien een staat geen vennootschapsbelastingsysteem heeft: een in die staat gelegen bedrijfsinrichting of een daarmee gelijkgestelde inrichting die overeenkomstig het OESO-modelverdrag als een vaste inrichting zou zijn aangemerkt, mits die staat het recht zou hebben gehad om het overeenkomstig artikel 7 van dat modelverdrag aan die bedrijfsinrichting toerekenbare inkomen in de belastingheffing te betrekken; of
 
-- d. een bedrijfsinrichting of een daarmee gelijkgestelde inrichting, anders dan die bedoeld in de onderdelen a tot en met c, waarmee activiteiten worden verricht buiten de staat waarin de entiteit die de nettowinst of het nettoverlies van die inrichting opneemt in haar jaarrekening is gevestigd, mits die staat het inkomen dat toerekenbaar is aan die activiteiten vrijstelt;
+  - d. een bedrijfsinrichting of een daarmee gelijkgestelde inrichting, anders dan die bedoeld in de onderdelen a tot en met c, waarmee activiteiten worden verricht buiten de staat waarin de entiteit die de nettowinst of het nettoverlies van die inrichting opneemt in haar jaarrekening is gevestigd, mits die staat het inkomen dat toerekenbaar is aan die activiteiten vrijstelt;
 
 - **vastgoedbeleggingsvehikel:** een wijdverbreid gehouden entiteit die overwegend vastgoed houdt en waarvan het inkomen op één niveau, van de entiteit of van haar belanghouders, wordt belast met hooguit één jaar uitgestelde belastingheffing;
 
@@ -402,13 +402,13 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - b. de doorkijkentiteit dient een kwalificerende inkomen-inclusiemaatregel toe te passen.
 
-3. Een vaste inrichting als bedoeld in onderdeel a van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), is gelegen in de staat waarin zij wordt aangemerkt als een vaste inrichting en waaraan het heffingsrecht is toegewezen op grond van het van toepassing zijnde belastingverdrag.
+3. Een vaste inrichting als bedoeld in onderdeel a van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), is gelegen in de staat waarin zij wordt aangemerkt als een vaste inrichting en waaraan het heffingsrecht is toegewezen op grond van het van toepassing zijnde belastingverdrag.
 
-4. Een vaste inrichting als bedoeld in onderdeel b van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), is gelegen in de staat waarin zij is onderworpen aan een belasting op nettobasis op grond van haar aanwezigheid.
+4. Een vaste inrichting als bedoeld in onderdeel b van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), is gelegen in de staat waarin zij is onderworpen aan een belasting op nettobasis op grond van haar aanwezigheid.
 
-5. Een vaste inrichting als bedoeld in onderdeel c van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), is gelegen in de staat waarin zij zich bevindt.
+5. Een vaste inrichting als bedoeld in onderdeel c van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), is gelegen in de staat waarin zij zich bevindt.
 
-6. Een vaste inrichting als bedoeld in onderdeel d van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), wordt als staatloos aangemerkt.
+6. Een vaste inrichting als bedoeld in onderdeel d van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), wordt als staatloos aangemerkt.
 
 7. Een entiteit die op grond van het eerste lid in twee staten is gevestigd, wordt behoudens in de gevallen, bedoeld in het achtste lid, geacht te zijn gevestigd in de staat waarin zij op grond van het tussen die staten van toepassing zijnde belastingverdrag als fiscaal inwoner wordt aangemerkt.
 
@@ -420,11 +420,11 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - c. geen belastingverdrag tussen die staten van toepassing is.
 
-9. Indien voor een entiteit waarop het achtste lid van toepassing is geen vestigingsplaats kan worden bepaald omdat het verschuldigde bedrag aan betrokken belastingen over het verslagjaar in beide staten waarin zij is gevestigd gelijk of nihil is, wordt de entiteit geacht te zijn gevestigd in de staat waarin de som van de bedragen van de uitzondering voor werknemerslasten, bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31), en de uitzondering voor materiële activa, bedoeld in artikel 8.3, derde lid, van die entiteit in dat verslagjaar het hoogst is. Indien de som van die bedragen in beide staten gelijk of nihil is, wordt de entiteit geacht staatloos te zijn, tenzij zij een uiteindelijkemoederentiteit is, in welk geval zij geacht wordt te zijn gevestigd in de staat naar het recht waarvan zij is opgericht.
+9. Indien voor een entiteit waarop het achtste lid van toepassing is geen vestigingsplaats kan worden bepaald omdat het verschuldigde bedrag aan betrokken belastingen over het verslagjaar in beide staten waarin zij is gevestigd gelijk of nihil is, wordt de entiteit geacht te zijn gevestigd in de staat waarin de som van de bedragen van de uitzondering voor werknemerslasten, bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11), en de uitzondering voor materiële activa, bedoeld in artikel 8.3, derde lid, van die entiteit in dat verslagjaar het hoogst is. Indien de som van die bedragen in beide staten gelijk of nihil is, wordt de entiteit geacht staatloos te zijn, tenzij zij een uiteindelijkemoederentiteit is, in welk geval zij geacht wordt te zijn gevestigd in de staat naar het recht waarvan zij is opgericht.
 
 10. Bij de bepaling van het hoogste bedrag aan betrokken belastingen, bedoeld in het achtste lid, blijft het bedrag aan belastingen dat overeenkomstig een belastingregeling voor buitenlandse gecontroleerde lichamen is geheven buiten beschouwing.
 
-11. Een moederentiteit die op grond van het eerste lid zowel is gevestigd in Nederland als in een andere staat waarin zij niet is onderworpen aan een kwalificerende inkomen-inclusiemaatregel en die als gevolg van de toepassing van het zevende, achtste, of negende lid, wordt geacht te zijn gevestigd in die andere staat wordt, in afwijking in zoverre van die leden, voor de toepassing van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2025-12-31&g=2025-12-31) geacht te zijn gevestigd in Nederland, tenzij het van toepassing zijnde belastingverdrag de toepassing van een kwalificerende inkomen-inclusiemaatregel verbiedt.
+11. Een moederentiteit die op grond van het eerste lid zowel is gevestigd in Nederland als in een andere staat waarin zij niet is onderworpen aan een kwalificerende inkomen-inclusiemaatregel en die als gevolg van de toepassing van het zevende, achtste, of negende lid, wordt geacht te zijn gevestigd in die andere staat wordt, in afwijking in zoverre van die leden, voor de toepassing van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2026-04-11&g=2026-04-11) geacht te zijn gevestigd in Nederland, tenzij het van toepassing zijnde belastingverdrag de toepassing van een kwalificerende inkomen-inclusiemaatregel verbiedt.
 
 12. Een entiteit waarvan de vestigingsplaats in de loop van het verslagjaar wijzigt, wordt in dat verslagjaar geacht te zijn gevestigd in de staat waarin zij op grond van dit artikel bij de aanvang van dat verslagjaar is gevestigd.
 
@@ -434,9 +434,9 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 ##### Artikel 2.1. Reikwijdte
 
-1. Deze wet heeft in een verslagjaar betrekking op groepsentiteiten, niet zijnde uitgesloten entiteiten als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.2&z=2025-12-31&g=2025-12-31), die deel uitmaken van een multinationale groep of binnenlandse groep, indien die groep in ten minste twee van de vier onmiddellijk aan het verslagjaar voorafgaande verslagjaren of, indien minder dan vier verslagjaren vooraf zijn gegaan aan het verslagjaar, in ten minste twee van de onmiddellijk aan het verslagjaar voorafgaande verslagjaren, volgens de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit van de groep een omzet heeft van ten minste € 750.000.000 per verslagjaar.
+1. Deze wet heeft in een verslagjaar betrekking op groepsentiteiten, niet zijnde uitgesloten entiteiten als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.2&z=2026-04-11&g=2026-04-11), die deel uitmaken van een multinationale groep of binnenlandse groep, indien die groep in ten minste twee van de vier onmiddellijk aan het verslagjaar voorafgaande verslagjaren of, indien minder dan vier verslagjaren vooraf zijn gegaan aan het verslagjaar, in ten minste twee van de onmiddellijk aan het verslagjaar voorafgaande verslagjaren, volgens de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit van de groep een omzet heeft van ten minste € 750.000.000 per verslagjaar.
 
-2. Het bedrag van € 750.000.000 wordt opgevat en berekend met inbegrip van de in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit van de groep opgenomen omzet van uitgesloten entiteiten als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.2&z=2025-12-31&g=2025-12-31) en wordt voor een verslagjaar dat langer of korter is dan een periode van twaalf maanden verhoogd, onderscheidenlijk verlaagd, naar evenredigheid van het aantal maanden in dat verslagjaar.
+2. Het bedrag van € 750.000.000 wordt opgevat en berekend met inbegrip van de in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit van de groep opgenomen omzet van uitgesloten entiteiten als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.2&z=2026-04-11&g=2026-04-11) en wordt voor een verslagjaar dat langer of korter is dan een periode van twaalf maanden verhoogd, onderscheidenlijk verlaagd, naar evenredigheid van het aantal maanden in dat verslagjaar.
 
 ##### Artikel 2.2. Uitgesloten entiteiten
 
@@ -446,17 +446,17 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - b. een entiteit waarvan ten minste 95% van de waarde zowel onmiddellijk als via een of meer uitgesloten entiteiten wordt gehouden door een of meer entiteiten als bedoeld in onderdeel a, niet zijnde pensioendienstverleningsentiteiten, en die:
 
-- 1°. uitsluitend of nagenoeg uitsluitend activa aanhoudt of middelen belegt ten behoeve van de entiteit of entiteiten, bedoeld in onderdeel a, niet zijnde pensioendienstverleningsentiteiten; of
+  - 1°. uitsluitend of nagenoeg uitsluitend activa aanhoudt of middelen belegt ten behoeve van de entiteit of entiteiten, bedoeld in onderdeel a, niet zijnde pensioendienstverleningsentiteiten; of
 
-- 2°. uitsluitend activiteiten verricht die ondergeschikt zijn aan de activiteiten van de entiteit of entiteiten, bedoeld in onderdeel a, niet zijnde pensioendienstverleningsentiteiten;
+  - 2°. uitsluitend activiteiten verricht die ondergeschikt zijn aan de activiteiten van de entiteit of entiteiten, bedoeld in onderdeel a, niet zijnde pensioendienstverleningsentiteiten;
 
 - c. een entiteit waarvan ten minste 85% van de waarde zowel onmiddellijk als via een of meer uitgesloten entiteiten wordt gehouden door een of meer entiteiten als bedoeld in onderdeel a, niet zijnde pensioendienstverleningsentiteiten, mits die entiteit voldoet aan de voorwaarden, bedoeld in het tweede lid.
 
-2. Het eerste lid, onderdeel c, is slechts van toepassing op een entiteit indien nagenoeg al het inkomen van die entiteit bestaat uit dividenden of vermogenswinsten of -verliezen die op basis van [artikel 6.2, eerste lid, onderdeel b, onderscheidenlijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2025-12-31&g=2025-12-31), of een soortgelijke regeling in een andere staat, zijn uitgesloten van het kwalificerende inkomen of verlies.
+2. Het eerste lid, onderdeel c, is slechts van toepassing op een entiteit indien nagenoeg al het inkomen van die entiteit bestaat uit dividenden of vermogenswinsten of -verliezen die op basis van [artikel 6.2, eerste lid, onderdeel b, onderscheidenlijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2026-04-11&g=2026-04-11), of een soortgelijke regeling in een andere staat, zijn uitgesloten van het kwalificerende inkomen of verlies.
 
 3. Voor de toepassing van het eerste lid, onderdeel b, onder 2°, wordt een entiteit waarvan de gehele waarde onmiddellijk of middellijk wordt gehouden door een of meer non-profitorganisaties geacht uitsluitend activiteiten te verrichten die ondergeschikt zijn aan de activiteiten van die non-profitorganisaties, indien de omzet van de multinationale groep of binnenlandse groep zonder de omzet van die non-profitorganisaties en de entiteiten die op de voet van het eerste lid, onderdelen b of c, uitgesloten entiteiten zijn voor een verslagjaar lager is dan:
 
-- a. de omzet, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31); of
+- a. de omzet, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11); of
 
 - b. 25% van de omzet van de multinationale groep of binnenlandse groep zoals gerapporteerd in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit van de groep.
 
@@ -466,9 +466,9 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 ##### Artikel 3.1. Belastingplicht binnenlandse bijheffing
 
-1. Belastingplichtig voor de binnenlandse bijheffing is een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), die een laagbelaste groepsentiteit is.
+1. Belastingplichtig voor de binnenlandse bijheffing is een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), die een laagbelaste groepsentiteit is.
 
-2. Indien meerdere groepsentiteiten als bedoeld in het eerste lid behoren tot dezelfde multinationale groep of binnenlandse groep, wordt de binnenlandse bijheffing van hen geheven alsof er één belastingplichtige is, in die zin dat het kwalificerende inkomen van die entiteiten voor de toepassing van [artikel 8.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), kwalificerend inkomen is van de entiteit bij wie de binnenlandse bijheffing wordt geheven. De binnenlandse bijheffing, bedoeld in de eerste zin, wordt geheven bij:
+2. Indien meerdere groepsentiteiten als bedoeld in het eerste lid behoren tot dezelfde multinationale groep of binnenlandse groep, wordt de binnenlandse bijheffing van hen geheven alsof er één belastingplichtige is, in die zin dat het kwalificerende inkomen van die entiteiten voor de toepassing van [artikel 8.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), kwalificerend inkomen is van de entiteit bij wie de binnenlandse bijheffing wordt geheven. De binnenlandse bijheffing, bedoeld in de eerste zin, wordt geheven bij:
 
 - a. de in Nederland gevestigde moederentiteit waarvan het belang niet onmiddellijk of middellijk wordt gehouden door een andere in Nederland gevestigde moederentiteit;
 
@@ -486,13 +486,13 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 1. De over een verslagjaar verschuldigde binnenlandse bijheffing is gelijk aan de over het verslagjaar berekende bijheffing van de groep voor Nederland, met dien verstande dat bij die berekening niet in aanmerking wordt genomen:
 
-- a. het bedrag van de kwalificerende binnenlandse bijheffing over het verslagjaar, bedoeld in [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31); en
+- a. het bedrag van de kwalificerende binnenlandse bijheffing over het verslagjaar, bedoeld in [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11); en
 
-- b. het bedrag dat op grond van [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), wordt aangemerkt als additionele bijheffing.
+- b. het bedrag dat op grond van [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), wordt aangemerkt als additionele bijheffing.
 
-2. Voor de toepassing van het eerste lid vinden de [artikelen 8.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), en [8.4, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), geen toepassing.
+2. Voor de toepassing van het eerste lid vinden de [artikelen 8.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), en [8.4, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), geen toepassing.
 
-3. Voor de toepassing van het eerste lid wordt de overwinst, bedoeld in [artikel 8.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), berekend in overeenstemming met de lokale financiële verslaggevingsstandaard, bedoeld in [artikel 8.13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31), mits wordt voldaan aan de vereisten van artikel 8.13, derde lid, en onder toepassing van artikel 8.13, vierde en vijfde lid. Ingeval de financiële verslaggeving van alle in Nederland gevestigde groepsentiteiten is opgesteld op basis van verschillende lokale financiële verslaggevingsstandaarden, wordt de overwinst berekend op basis van de financiële verslaggeving die niet is opgesteld volgens IFRS of IFRS zoals goedgekeurd door de EU overeenkomstig [Verordening (EG) nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG 2002, L 243).
+3. Voor de toepassing van het eerste lid wordt de overwinst, bedoeld in [artikel 8.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), berekend in overeenstemming met de lokale financiële verslaggevingsstandaard, bedoeld in [artikel 8.13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11), mits wordt voldaan aan de vereisten van artikel 8.13, derde lid, en onder toepassing van artikel 8.13, vierde en vijfde lid. Ingeval de financiële verslaggeving van alle in Nederland gevestigde groepsentiteiten is opgesteld op basis van verschillende lokale financiële verslaggevingsstandaarden, wordt de overwinst berekend op basis van de financiële verslaggeving die niet is opgesteld volgens IFRS of IFRS zoals goedgekeurd door de EU overeenkomstig [Verordening (EG) nr. 1606/2002](32002R1606) van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG 2002, L 243).
 
 4. Indien de overwinst ingevolge het derde lid wordt berekend in overeenstemming met de lokale verslaggevingsstandaard, wordt de over een verslagjaar verschuldigde binnenlandse bijheffing berekend in euro’s. Indien een of meer in Nederland gevestigde groepsentiteiten een andere munteenheid hanteren bij het opstellen van de jaarrekening, wordt in afwijking van de vorige zin naar keuze van de informatieaangifte-indienende groepsentiteit voor een periode van vijf verslagjaren de verschuldigde binnenlandse bijheffing berekend in euro’s dan wel in de munteenheid die wordt gehanteerd bij het opstellen van de geconsolideerde jaarrekening van de groep.
 
@@ -500,7 +500,7 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 ##### Artikel 4.1. Belastingplicht inkomen-inclusiebijheffing
 
-1. Belastingplichtig voor de inkomen-inclusiebijheffing is een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), zijnde een uiteindelijkemoederentiteit, een tussenliggende moederentiteit die wordt gehouden door een in een derde staat gevestigde uiteindelijkemoederentiteit of door een in een lidstaat gevestigde uiteindelijkemoederentiteit die een uitgesloten entiteit is, of een partieel gehouden moederentiteit, die:
+1. Belastingplichtig voor de inkomen-inclusiebijheffing is een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), zijnde een uiteindelijkemoederentiteit, een tussenliggende moederentiteit die wordt gehouden door een in een derde staat gevestigde uiteindelijkemoederentiteit of door een in een lidstaat gevestigde uiteindelijkemoederentiteit die een uitgesloten entiteit is, of een partieel gehouden moederentiteit, die:
 
 - a. een onmiddellijk of middellijk belang heeft in een of meer in een andere staat gevestigde of staatloze laagbelaste groepsentiteiten;
 
@@ -518,7 +518,7 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 ##### Artikel 4.2. Bedrag aan inkomen-inclusiebijheffing
 
-1. De over een verslagjaar verschuldigde inkomen-inclusiebijheffing die wordt geheven van een moederentiteit als bedoeld in [artikel 4.1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31), is gelijk aan de som van de berekende bedragen aan bijheffing over het verslagjaar voor iedere laagbelaste groepsentiteit waarin zij een onmiddellijk of middellijk belang heeft, nadat die bijheffing per groepsentiteit is vermenigvuldigd met het aan de moederentiteit toerekenbare deel van die bijheffing over het verslagjaar.
+1. De over een verslagjaar verschuldigde inkomen-inclusiebijheffing die wordt geheven van een moederentiteit als bedoeld in [artikel 4.1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11), is gelijk aan de som van de berekende bedragen aan bijheffing over het verslagjaar voor iedere laagbelaste groepsentiteit waarin zij een onmiddellijk of middellijk belang heeft, nadat die bijheffing per groepsentiteit is vermenigvuldigd met het aan de moederentiteit toerekenbare deel van die bijheffing over het verslagjaar.
 
 2. Het aan een moederentiteit toerekenbare deel van de bijheffing voor een laagbelaste groepsentiteit over het verslagjaar is gelijk aan het kwalificerende inkomen van die laagbelaste groepsentiteit over het verslagjaar verminderd met het bedrag van dat kwalificerende inkomen dat toerekenbaar is aan andere belanghouders in die entiteit en gedeeld door het kwalificerende inkomen van die groepsentiteit over het verslagjaar.
 
@@ -532,33 +532,33 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 - d. alle belangen die niet middellijk of onmiddellijk door de moederentiteit worden gehouden, gehouden zouden worden door natuurlijk personen of entiteiten die geen onderdeel vormen van de groep.
 
-4. De over een verslagjaar verschuldigde inkomen-inclusiebijheffing die, al dan niet in aanvulling op het eerste lid, wordt geheven van een moederentiteit als bedoeld in [artikel 4.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31), is gelijk aan de berekende bijheffing voor die moederentiteit over het verslagjaar.
+4. De over een verslagjaar verschuldigde inkomen-inclusiebijheffing die, al dan niet in aanvulling op het eerste lid, wordt geheven van een moederentiteit als bedoeld in [artikel 4.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11), is gelijk aan de berekende bijheffing voor die moederentiteit over het verslagjaar.
 
 5. Voor de toepassing van dit artikel wordt verstaan onder andere belanghouders: belanghouders die niet tot dezelfde groep behoren als de moederentiteit en de laagbelaste groepsentiteiten.
 
 ##### Artikel 4.3. Verrekeningsmechanisme
 
-1. Indien een moederentiteit als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31), een belang heeft in een laagbelaste groepsentiteit door middel van een tussenliggende moederentiteit of partieel gehouden moederentiteit die over het verslagjaar bijheffing op grond van een kwalificerende inkomen-inclusiemaatregel is verschuldigd, wordt het over het verslagjaar door de moederentiteit, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31), verschuldigde bedrag aan inkomen-inclusiebijheffing verminderd met het aan haar toerekenbare bedrag van die bijheffing dat door die tussenliggende moederentiteit of partieel gehouden moederentiteit is verschuldigd.
+1. Indien een moederentiteit als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11), een belang heeft in een laagbelaste groepsentiteit door middel van een tussenliggende moederentiteit of partieel gehouden moederentiteit die over het verslagjaar bijheffing op grond van een kwalificerende inkomen-inclusiemaatregel is verschuldigd, wordt het over het verslagjaar door de moederentiteit, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11), verschuldigde bedrag aan inkomen-inclusiebijheffing verminderd met het aan haar toerekenbare bedrag van die bijheffing dat door die tussenliggende moederentiteit of partieel gehouden moederentiteit is verschuldigd.
 
-2. Indien [artikel 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31) niet van toepassing is en een moederentiteit als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31), onmiddellijk of middellijk een belang heeft in een of meer laagbelaste groepsentiteiten ter zake waarvan in hun staat van vestiging over het verslagjaar een kwalificerende binnenlandse bijheffing is verschuldigd, wordt het over het verslagjaar door de moederentiteit, bedoeld in artikel 4.1, eerste lid, ter zake van die laagbelaste groepsentiteiten verschuldigde bedrag aan inkomen-inclusiebijheffing verminderd met die kwalificerende binnenlandse bijheffing, maar niet verder dan tot nihil.
+2. Indien [artikel 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11) niet van toepassing is en een moederentiteit als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11), onmiddellijk of middellijk een belang heeft in een of meer laagbelaste groepsentiteiten ter zake waarvan in hun staat van vestiging over het verslagjaar een kwalificerende binnenlandse bijheffing is verschuldigd, wordt het over het verslagjaar door de moederentiteit, bedoeld in artikel 4.1, eerste lid, ter zake van die laagbelaste groepsentiteiten verschuldigde bedrag aan inkomen-inclusiebijheffing verminderd met die kwalificerende binnenlandse bijheffing, maar niet verder dan tot nihil.
 
 ### Hoofdstuk 5. Onderbelastewinstbijheffing
 
 ##### Artikel 5.1. Onderbelastewinstbijheffing
 
-1. Belastingplichtig voor de onderbelastewinstbijheffing is een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), niet zijnde een beleggingsentiteit, die behoort tot een multinationale groep waarvan een of meer laagbelaste groepsentiteiten deel uitmaken en waarvan de uiteindelijkemoederentiteit:
+1. Belastingplichtig voor de onderbelastewinstbijheffing is een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), niet zijnde een beleggingsentiteit, die behoort tot een multinationale groep waarvan een of meer laagbelaste groepsentiteiten deel uitmaken en waarvan de uiteindelijkemoederentiteit:
 
 - a. een uitgesloten entiteit is;
 
 - b. is gevestigd in een derde staat die:
 
-- 1°. geen kwalificerende inkomen-inclusiemaatregel toepast ter zake van laagbelaste groepsentiteiten die zijn gevestigd in een andere staat;
+  - 1°. geen kwalificerende inkomen-inclusiemaatregel toepast ter zake van laagbelaste groepsentiteiten die zijn gevestigd in een andere staat;
 
-- 2°. geen kwalificerende inkomen-inclusiemaatregel toepast ter zake van die uiteindelijkemoederentiteit of haar in dezelfde staat gevestigde groepsentiteiten indien die staat een laagbelastende staat is; of
+  - 2°. geen kwalificerende inkomen-inclusiemaatregel toepast ter zake van die uiteindelijkemoederentiteit of haar in dezelfde staat gevestigde groepsentiteiten indien die staat een laagbelastende staat is; of
 
 - c. is gevestigd in een lidstaat van de Europese Unie die op grond van artikel 50, eerste lid, van [Richtlijn (EU) 2022/2523](32022L2523) ervoor heeft gekozen om de inkomen-inclusiemaatregel en de onderbelastewinstmaatregel niet toe te passen met betrekking tot verslagjaren die aanvangen voor 31 december 2029.
 
-2. Indien meerdere in Nederland gevestigde groepsentiteiten als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), niet zijnde beleggingsentiteiten, behoren tot een multinationale groep als bedoeld in het eerste lid, is belastingplichtig voor de onderbelastewinstbijheffing:
+2. Indien meerdere in Nederland gevestigde groepsentiteiten als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), niet zijnde beleggingsentiteiten, behoren tot een multinationale groep als bedoeld in het eerste lid, is belastingplichtig voor de onderbelastewinstbijheffing:
 
 - a. de in Nederland gevestigde moederentiteit waarvan het belang niet onmiddellijk of middellijk wordt gehouden door een andere in Nederland gevestigde moederentiteit; of
 
@@ -574,7 +574,7 @@ Onder de naam minimumbelasting worden van in Nederland gevestigde groepsentiteit
 
 1. De over een verslagjaar verschuldigde onderbelastewinstbijheffing is gelijk aan het bedrag van de totale onderbelastewinstbijheffing over het verslagjaar, bedoeld in het tweede lid, vermenigvuldigd met het onderbelastewinstbijheffingspercentage voor het verslagjaar, bedoeld in het vijfde lid.
 
-2. Het bedrag van de totale onderbelastewinstbijheffing over een verslagjaar is gelijk aan de som van de op basis van [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31) berekende bedragen aan bijheffing over het verslagjaar voor iedere laagbelaste groepsentiteit van de multinationale groep waartoe de belastingplichtige behoort, na toepassing van de correcties, bedoeld in het derde en vierde lid.
+2. Het bedrag van de totale onderbelastewinstbijheffing over een verslagjaar is gelijk aan de som van de op basis van [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11) berekende bedragen aan bijheffing over het verslagjaar voor iedere laagbelaste groepsentiteit van de multinationale groep waartoe de belastingplichtige behoort, na toepassing van de correcties, bedoeld in het derde en vierde lid.
 
 3. Indien het volledige belang van de uiteindelijkemoederentiteit in een laagbelaste groepsentiteit, onmiddellijk of middellijk, wordt gehouden via een of meer moederentiteiten die verplicht zijn om in het verslagjaar een kwalificerende inkomen-inclusiemaatregel toe te passen ter zake van die laagbelaste groepsentiteit, wordt voor de berekening van de totale onderbelastewinstbijheffing de bijheffing voor die laagbelaste groepsentiteit gesteld op nihil.
 
@@ -594,7 +594,7 @@ B: de som van de nettoboekwaarde van de materiële activa van alle groepsentitei
 
 7. De materiële activa, bedoeld in het vijfde lid, omvatten de materiële activa van alle in de betreffende staat gevestigde groepsentiteiten.
 
-8. Voor de toepassing van het vijfde lid worden werknemers en materiële activa toegerekend aan een vaste inrichting voor zover de loonkosten van de werknemers en voor zover de materiële activa zijn opgenomen in de afzonderlijke financiële gegevens van die vaste inrichting als bedoeld in [artikel 6.13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2025-12-31&g=2025-12-31). De werknemers en materiële activa die zijn toegerekend aan de vaste inrichting worden niet in aanmerking genomen bij de hoofdentiteit van de vaste inrichting.
+8. Voor de toepassing van het vijfde lid worden werknemers en materiële activa toegerekend aan een vaste inrichting voor zover de loonkosten van de werknemers en voor zover de materiële activa zijn opgenomen in de afzonderlijke financiële gegevens van die vaste inrichting als bedoeld in [artikel 6.13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2026-04-11&g=2026-04-11). De werknemers en materiële activa die zijn toegerekend aan de vaste inrichting worden niet in aanmerking genomen bij de hoofdentiteit van de vaste inrichting.
 
 9. Voor de toepassing van het vijfde lid worden de werknemers en de materiële activa van een doorkijkentiteit slechts in aanmerking genomen voor zover deze zijn toegerekend aan een vaste inrichting of, bij afwezigheid van een vaste inrichting, aan de groepsentiteiten die zijn gevestigd in de staat waarin de doorkijkentiteit is opgericht.
 
@@ -604,7 +604,7 @@ B: de som van de nettoboekwaarde van de materiële activa van alle groepsentitei
 
 ##### Artikel 6.1. Het kwalificerende inkomen of verlies van een groepsentiteit
 
-1. Het kwalificerende inkomen of verlies van een groepsentiteit over een verslagjaar wordt bepaald door de correcties, bedoeld in de [artikelen 6.2 tot en met 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2025-12-31&g=2025-12-31), toe te passen op de nettowinst of het nettoverlies van de groepsentiteit over het verslagjaar vóór de consolidatiecorrecties ter eliminatie van intra-groepstransacties, zoals deze nettowinst of dit nettoverlies is vastgesteld volgens de financiële verslaggevingsstandaard die is gebruikt bij de totstandkoming van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
+1. Het kwalificerende inkomen of verlies van een groepsentiteit over een verslagjaar wordt bepaald door de correcties, bedoeld in de [artikelen 6.2 tot en met 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2026-04-11&g=2026-04-11), toe te passen op de nettowinst of het nettoverlies van de groepsentiteit over het verslagjaar vóór de consolidatiecorrecties ter eliminatie van intra-groepstransacties, zoals deze nettowinst of dit nettoverlies is vastgesteld volgens de financiële verslaggevingsstandaard die is gebruikt bij de totstandkoming van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
 
 2. Indien het redelijkerwijs niet mogelijk is om de nettowinst of het nettoverlies van een groepsentiteit over een verslagjaar te bepalen volgens de financiële verslaggevingsstandaard die wordt gebruikt bij de totstandkoming van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit, mag voor de toepassing van het eerste lid de nettowinst of het nettoverlies van de groepsentiteit over dat verslagjaar ook worden vastgesteld aan de hand van een andere geaccepteerde of geautoriseerde financiële verslaggevingsstandaard, mits:
 
@@ -632,7 +632,7 @@ B: de som van de nettoboekwaarde van de materiële activa van alle groepsentitei
 
 - d. inbegrepen herwaarderingswinst of -verlies;
 
-- e. een op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&artikel=9.3&z=2025-12-31&g=2025-12-31) uitgesloten winst of verlies als gevolg van de vervreemding van activa en passiva;
+- e. een op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&artikel=9.3&z=2026-04-11&g=2026-04-11) uitgesloten winst of verlies als gevolg van de vervreemding van activa en passiva;
 
 - f. asymmetrisch valutaresultaat;
 
@@ -648,89 +648,89 @@ B: de som van de nettoboekwaarde van de materiële activa van alle groepsentitei
 
 - a. **nettobelastinglast:** het nettobedrag van de volgende bestanddelen:
 
-- 1°. de belastinglast ter zake van betrokken belastingen, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.1&z=2025-12-31&g=2025-12-31), en de belastinglast ter zake van betrokken belastingen die als kosten in aanmerking zijn genomen bij de bepaling van de winst vóór belastingen in de financiële verslaggeving met inbegrip van belastinglasten ter zake van betrokken belastingen op inkomen dat is uitgesloten van de berekening van het kwalificerende inkomen of verlies;
+  - 1°. de belastinglast ter zake van betrokken belastingen, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.1&z=2026-04-11&g=2026-04-11), en de belastinglast ter zake van betrokken belastingen die als kosten in aanmerking zijn genomen bij de bepaling van de winst vóór belastingen in de financiële verslaggeving met inbegrip van belastinglasten ter zake van betrokken belastingen op inkomen dat is uitgesloten van de berekening van het kwalificerende inkomen of verlies;
 
-- 2°. actieve belastinglatenties toerekenbaar aan een verlies in een verslagjaar;
+  - 2°. actieve belastinglatenties toerekenbaar aan een verlies in een verslagjaar;
 
-- 3°. belastinglasten als gevolg van kwalificerende binnenlandse bijheffingen;
+  - 3°. belastinglasten als gevolg van kwalificerende binnenlandse bijheffingen;
 
-- 4°. belastinglasten als gevolg van de toepassing van [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, als gevolg van de toepassing van de OESO-modelregels;
+  - 4°. belastinglasten als gevolg van de toepassing van [Richtlijn (EU) 2022/2523](32022L2523) of, met betrekking tot derde staten, als gevolg van de toepassing van de OESO-modelregels;
 
-- 5°. belastinglasten ter zake van niet-kwalificerende restitueerbare imputatiebelastingen;
+  - 5°. belastinglasten ter zake van niet-kwalificerende restitueerbare imputatiebelastingen;
 
 - b. **uitgesloten dividend:** een dividenduitkering of een andere uitkering uit hoofde van een belang in een entiteit, ontvangen in of toegerekend aan het verslagjaar, tenzij dat belang op het moment van ontvangst of toerekening kwalificeert als:
 
-- 1°. een portfoliobelang, dat op het moment van de uitkering gedurende minder dan een aaneengesloten periode van een jaar economisch eigendom is van de groepsentiteit die de dividenduitkering of de andere uitkering ontvangt of krijgt toegerekend;
+  - 1°. een portfoliobelang, dat op het moment van de uitkering gedurende minder dan een aaneengesloten periode van een jaar economisch eigendom is van de groepsentiteit die de dividenduitkering of de andere uitkering ontvangt of krijgt toegerekend;
 
-- 2°. een belang in een beleggingsentiteit ter zake waarvan is gekozen voor toepassing van [artikel 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2025-12-31&g=2025-12-31);
+  - 2°. een belang in een beleggingsentiteit ter zake waarvan is gekozen voor toepassing van [artikel 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2026-04-11&g=2026-04-11);
 
 - c. **uitgesloten vermogenswinst of -verlies:** een nettovermogenswinst of nettovermogensverlies begrepen in de nettowinst of het nettoverlies van een groepsentiteit als gevolg van:
 
-- 1°. winsten of verliezen die voortvloeien uit wijzigingen in de reële waarde van een belang, niet zijnde een portfoliobelang, tenzij de informatieaangifte-indienende groepsentiteit ervoor kiest om ten aanzien van de groepsentiteiten in een staat de nettowinst of het nettoverlies niet te corrigeren met die winsten of verliezen;
+  - 1°. winsten of verliezen die voortvloeien uit wijzigingen in de reële waarde van een belang, niet zijnde een portfoliobelang, tenzij de informatieaangifte-indienende groepsentiteit ervoor kiest om ten aanzien van de groepsentiteiten in een staat de nettowinst of het nettoverlies niet te corrigeren met die winsten of verliezen;
 
-- 2°. winsten of verliezen die voortvloeien uit een belang dat is opgenomen in de financiële verslaggeving met toepassing van de nettovermogenswaardemethode, tenzij de informatieaangifte-indienende groepsentiteit ervoor kiest om ten aanzien van de groepsentiteiten in een staat de nettowinst of het nettoverlies niet te corrigeren met die winsten of verliezen;
+  - 2°. winsten of verliezen die voortvloeien uit een belang dat is opgenomen in de financiële verslaggeving met toepassing van de nettovermogenswaardemethode, tenzij de informatieaangifte-indienende groepsentiteit ervoor kiest om ten aanzien van de groepsentiteiten in een staat de nettowinst of het nettoverlies niet te corrigeren met die winsten of verliezen;
 
-- 3°. winsten of verliezen die voortvloeien uit de vervreemding van een belang, niet zijnde een portfoliobelang, tenzij de informatieaangifte-indienende groepsentiteit ervoor kiest om ten aanzien van de groepsentiteiten in een staat de nettowinst of het nettoverlies niet te corrigeren met die winsten of verliezen;
+  - 3°. winsten of verliezen die voortvloeien uit de vervreemding van een belang, niet zijnde een portfoliobelang, tenzij de informatieaangifte-indienende groepsentiteit ervoor kiest om ten aanzien van de groepsentiteiten in een staat de nettowinst of het nettoverlies niet te corrigeren met die winsten of verliezen;
 
-- 4°. valutaresultaten die voortvloeien uit financiële instrumenten ter afdekking van een valutarisico dat met een belang wordt gelopen, mits de informatieaangifte-indienende groepsentiteit ervoor kiest om de nettowinst of het nettoverlies van die groepsentiteit te corrigeren met die valutaresultaten;
+  - 4°. valutaresultaten die voortvloeien uit financiële instrumenten ter afdekking van een valutarisico dat met een belang wordt gelopen, mits de informatieaangifte-indienende groepsentiteit ervoor kiest om de nettowinst of het nettoverlies van die groepsentiteit te corrigeren met die valutaresultaten;
 
 - d. **inbegrepen herwaarderingswinst of -verlies:** een winst of een verlies verminderd, onderscheidenlijk vermeerderd, met de met deze winst of dit verlies samenhangende betrokken belastingen over het verslagjaar, als gevolg van de toepassing van een verslaggevingsmethode of verslaggevingspraktijk ter zake van alle materiële vaste activa, op grond waarvan:
 
-- 1°. de boekwaarde periodiek wordt aangepast aan de reële waarde;
+  - 1°. de boekwaarde periodiek wordt aangepast aan de reële waarde;
 
-- 2°. de winst of het verlies rechtstreeks in het eigen vermogen wordt verwerkt; en
+  - 2°. de winst of het verlies rechtstreeks in het eigen vermogen wordt verwerkt; en
 
-- 3°. die winst of dat verlies in een volgend verslagjaar niet in de winst- en verliesrekening wordt verwerkt;
+  - 3°. die winst of dat verlies in een volgend verslagjaar niet in de winst- en verliesrekening wordt verwerkt;
 
 - e. **asymmetrisch valutaresultaat:** een valutawinst of valutaverlies van een entiteit waarvan de financiële verslaggevingsvaluta en fiscale valuta verschillen en welke winst of welk verlies:
 
-- 1°. in aanmerking is genomen bij de berekening van de belastbare winst van een groepsentiteit en toerekenbaar is aan wisselkoersfluctuaties tussen de financiële verslaggevingsvaluta en de fiscale valuta van die groepsentiteit;
+  - 1°. in aanmerking is genomen bij de berekening van de belastbare winst van een groepsentiteit en toerekenbaar is aan wisselkoersfluctuaties tussen de financiële verslaggevingsvaluta en de fiscale valuta van die groepsentiteit;
 
-- 2°. in aanmerking is genomen bij de berekening van de nettowinst of het nettoverlies van een groepsentiteit en toerekenbaar is aan wisselkoersfluctuaties tussen de financiële verslaggevingsvaluta en de fiscale valuta van die groepsentiteit;
+  - 2°. in aanmerking is genomen bij de berekening van de nettowinst of het nettoverlies van een groepsentiteit en toerekenbaar is aan wisselkoersfluctuaties tussen de financiële verslaggevingsvaluta en de fiscale valuta van die groepsentiteit;
 
-- 3°. in aanmerking is genomen bij de berekening van de nettowinst of het nettoverlies van een groepsentiteit en toerekenbaar is aan wisselkoersfluctuaties tussen een buitenlandse valuta en de financiële verslaggevingsvaluta van die groepsentiteit; of
+  - 3°. in aanmerking is genomen bij de berekening van de nettowinst of het nettoverlies van een groepsentiteit en toerekenbaar is aan wisselkoersfluctuaties tussen een buitenlandse valuta en de financiële verslaggevingsvaluta van die groepsentiteit; of
 
-- 4°. toerekenbaar is aan wisselkoersfluctuaties tussen een buitenlandse valuta en de fiscale valuta van die groepsentiteit, ongeacht of dergelijke valutawinsten of -verliezen deel uitmaken van de belastbare winst;
+  - 4°. toerekenbaar is aan wisselkoersfluctuaties tussen een buitenlandse valuta en de fiscale valuta van die groepsentiteit, ongeacht of dergelijke valutawinsten of -verliezen deel uitmaken van de belastbare winst;
 
 - f. **beleidsmatig niet-aftrekbare kosten:** kosten opgekomen bij een groepsentiteit voor:
 
-- 1°. illegale betalingen, waaronder steekpenningen en smeergeld;
+  - 1°. illegale betalingen, waaronder steekpenningen en smeergeld;
 
-- 2°. boetes en sancties van € 50.000 of meer, of een daaraan gelijk bedrag in de functionele valuta waarin de nettowinst of het nettoverlies is berekend;
+  - 2°. boetes en sancties van € 50.000 of meer, of een daaraan gelijk bedrag in de functionele valuta waarin de nettowinst of het nettoverlies is berekend;
 
 - g. **foutherstel of stelselwijziging ten opzichte van voorgaande periode:** een wijziging in het beginvermogen van een groepsentiteit bij de aanvang van een verslagjaar als gevolg van:
 
-- 1°. herstel van een fout bij het bepalen van de nettowinst of het nettoverlies in een voorgaand verslagjaar, welke fout de inkomsten of uitgaven die in aanmerking kunnen worden genomen bij de berekening van het kwalificerende inkomen of verlies in dat voorgaande verslagjaar heeft beïnvloed, behoudens voor zover een dergelijke wijziging leidt tot een materiële vermindering van een verplichting voor betrokken belastingen op grond van [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2025-12-31&g=2025-12-31);
+  - 1°. herstel van een fout bij het bepalen van de nettowinst of het nettoverlies in een voorgaand verslagjaar, welke fout de inkomsten of uitgaven die in aanmerking kunnen worden genomen bij de berekening van het kwalificerende inkomen of verlies in dat voorgaande verslagjaar heeft beïnvloed, behoudens voor zover een dergelijke wijziging leidt tot een materiële vermindering van een verplichting voor betrokken belastingen op grond van [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2026-04-11&g=2026-04-11);
 
-- 2°. een wijziging in de verslaggevingsstandaarden of het verslaggevingsbeleid die de inkomsten of uitgaven begrepen in de berekening van het kwalificerende inkomen of verlies in een voorgaand verslagjaar heeft beïnvloed;
+  - 2°. een wijziging in de verslaggevingsstandaarden of het verslaggevingsbeleid die de inkomsten of uitgaven begrepen in de berekening van het kwalificerende inkomen of verlies in een voorgaand verslagjaar heeft beïnvloed;
 
 - h. **aangegroeide pensioenlasten:** het verschil tussen het bedrag aan pensioenlasten dat in een verslagjaar is betrokken in de bepaling van de nettowinst of het nettoverlies en het bedrag dat in dat verslagjaar aan een pensioenfonds is afgedragen;
 
 - i. **voordelen uit het prijsgeven door schuldeisers:** een voordeel uit het prijsgeven van een schuldvordering, mits de informatieaangifte-indienende groepsentiteit ervoor kiest om de nettowinst of het nettoverlies van een groepsentiteit te corrigeren met dat voordeel, welk voordeel:
 
-- 1°. voortvloeit uit een bij wet voorziene insolventie- of faillissementsprocedure die onder toezicht staat van een rechterlijke instantie, een curator of een daarmee vergelijkbare persoon;
+  - 1°. voortvloeit uit een bij wet voorziene insolventie- of faillissementsprocedure die onder toezicht staat van een rechterlijke instantie, een curator of een daarmee vergelijkbare persoon;
 
-- 2°. voortvloeit uit een overeenkomst waarbij ten minste één van de schuldeisers niet gelieerd is aan de schuldenaar mits aannemelijk is dat de schuldenaar binnen een periode van twaalf maanden na het sluiten van die overeenkomst niet meer in staat zou zijn om aan zijn verplichtingen te voldoen indien die overeenkomst niet zou zijn gesloten; of
+  - 2°. voortvloeit uit een overeenkomst waarbij ten minste één van de schuldeisers niet gelieerd is aan de schuldenaar mits aannemelijk is dat de schuldenaar binnen een periode van twaalf maanden na het sluiten van die overeenkomst niet meer in staat zou zijn om aan zijn verplichtingen te voldoen indien die overeenkomst niet zou zijn gesloten; of
 
-- 3°. wordt toegekend indien de totale schulden de waarde in het economische verkeer van de activa op het moment onmiddellijk voorafgaand aan het prijsgeven van die schuld overtreffen en voor zover de schulden niet zijn aangegaan bij een met de schuldenaar verbonden persoon, waarbij het voordeel niet meer bedraagt dan het verschil tussen die schulden en de waarde in het economische verkeer van de activa dan wel, indien dat lager is, het bedrag van de als gevolg van het prijsgeven ontstane afname van de verrekenbare verliezen of andere belastingverminderende elementen.
+  - 3°. wordt toegekend indien de totale schulden de waarde in het economische verkeer van de activa op het moment onmiddellijk voorafgaand aan het prijsgeven van die schuld overtreffen en voor zover de schulden niet zijn aangegaan bij een met de schuldenaar verbonden persoon, waarbij het voordeel niet meer bedraagt dan het verschil tussen die schulden en de waarde in het economische verkeer van de activa dan wel, indien dat lager is, het bedrag van de als gevolg van het prijsgeven ontstane afname van de verrekenbare verliezen of andere belastingverminderende elementen.
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de voorwaarden waaronder de informatieaangifte-indienende groepsentiteit ervoor kan kiezen om de nettowinst of het nettoverlies niet te corrigeren met de winsten of verliezen, bedoeld in het tweede lid, onderdeel c, onder 1° tot en met 3°.
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de voorwaarden waaronder de informatieaangifte-indienende groepsentiteit ervoor kan kiezen om valutaresultaten als bedoeld in het tweede lid, onderdeel c, onder 4°, aan te merken als een uitgesloten vermogenswinst of -verlies.
 
-5. Indien de informatieaangifte-indienende groepsentiteit daarvoor in overeenstemming met [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), kiest, worden in afwijking van het tweede lid, onderdeel b, dividenden die een groepsentiteit ontvangt uit hoofde van al haar portfoliobelangen niet aangemerkt als uitgesloten dividend.
+5. Indien de informatieaangifte-indienende groepsentiteit daarvoor in overeenstemming met [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), kiest, worden in afwijking van het tweede lid, onderdeel b, dividenden die een groepsentiteit ontvangt uit hoofde van al haar portfoliobelangen niet aangemerkt als uitgesloten dividend.
 
 6. Voor de toepassing van het tweede lid, onderdelen b en c, en het vijfde lid, wordt verstaan onder portfoliobelang: een door de multinationale groep of binnenlandse groep gehouden belang in een entiteit dat recht geeft op minder dan 10% van de winsten, het kapitaal of de reserves van, of de stemrechten in, die entiteit.
 
 ##### Artikel 6.3. Op aandelen gebaseerde betalingen
 
-1. Voor het bepalen van het kwalificerende inkomen of verlies kan de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), voor alle groepsentiteiten gevestigd in dezelfde staat voor kiezen om het bedrag dat in de financiële verslaggeving van die groepsentiteiten als kosten voor een op aandelen gebaseerde betaling in mindering is gebracht op de nettowinst of het nettoverlies voor die groepsentiteiten te vervangen door het bedrag dat voor die betaling als kosten in mindering mag worden gebracht bij de berekening van de belastbare winst.
+1. Voor het bepalen van het kwalificerende inkomen of verlies kan de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), voor alle groepsentiteiten gevestigd in dezelfde staat voor kiezen om het bedrag dat in de financiële verslaggeving van die groepsentiteiten als kosten voor een op aandelen gebaseerde betaling in mindering is gebracht op de nettowinst of het nettoverlies voor die groepsentiteiten te vervangen door het bedrag dat voor die betaling als kosten in mindering mag worden gebracht bij de berekening van de belastbare winst.
 
 2. Indien een optie om aandelen te verkrijgen niet wordt uitgeoefend, wordt voor het bepalen van het kwalificerende inkomen of verlies van een groepsentiteit het bedrag aan kosten voor een op aandelen gebaseerde betaling dat in een voorgaand verslagjaar ter zake van die optie in mindering is gebracht op de nettowinst of het nettoverlies van die groepsentiteit, in het verslagjaar waarin deze optie vervalt, opgeteld bij het kwalificerende inkomen of verlies van die groepsentiteit.
 
 3. Indien een deel van het bedrag aan aftrekbare kosten voor op aandelen gebaseerde betalingen is opgenomen in de financiële verslaggeving van een groepsentiteit in verslagjaren voorafgaand aan het verslagjaar waarin voor de toepassing van het eerste lid is gekozen, wordt een bedrag gelijk aan het verschil tussen het volledige bedrag aan aftrekbare kosten voor op aandelen gebaseerde betalingen dat in mindering is gebracht bij het bepalen van het kwalificerende inkomen of verlies in die voorafgaande verslagjaren en het volledige bedrag dat in mindering zou zijn gebracht bij het bepalen van het kwalificerende inkomen of verlies in die voorafgaande verslagjaren indien in die jaren voor de toepassing van het eerste lid zou zijn gekozen, in aanmerking genomen bij het bepalen van het kwalificerende inkomen of verlies van die groepsentiteit in het verslagjaar waarin de keuze is gemaakt.
 
-4. In het verslagjaar waarin de keuze overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), wordt herroepen, wordt het bedrag aan onbetaalde kosten voor op aandelen gebaseerde betalingen dat op grond van het eerste lid in mindering is gebracht op de nettowinst of het nettoverlies van een groepsentiteit, voor zover dat bedrag de kosten die voor die betalingen zijn opgenomen in de financiële verslaggeving te boven gaat, opgeteld bij het bepalen van het kwalificerende inkomen of verlies van die groepsentiteit.
+4. In het verslagjaar waarin de keuze overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), wordt herroepen, wordt het bedrag aan onbetaalde kosten voor op aandelen gebaseerde betalingen dat op grond van het eerste lid in mindering is gebracht op de nettowinst of het nettoverlies van een groepsentiteit, voor zover dat bedrag de kosten die voor die betalingen zijn opgenomen in de financiële verslaggeving te boven gaat, opgeteld bij het bepalen van het kwalificerende inkomen of verlies van die groepsentiteit.
 
 ##### Artikel 6.4. Transacties tussen groepsentiteiten
 
@@ -746,7 +746,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 ##### Artikel 6.6. Waardering op reële waarde
 
-1. Indien de informatieaangifte-indienende groepsentiteit daarvoor in overeenstemming met [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), kiest, worden winsten en verliezen op activa en passiva die in de geconsolideerde jaarrekening voor een verslagjaar worden gewaardeerd op reële waarde bij het bepalen van het kwalificerende inkomen of verlies van een groepsentiteit in aanmerking genomen op basis van het realisatiebeginsel.
+1. Indien de informatieaangifte-indienende groepsentiteit daarvoor in overeenstemming met [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), kiest, worden winsten en verliezen op activa en passiva die in de geconsolideerde jaarrekening voor een verslagjaar worden gewaardeerd op reële waarde bij het bepalen van het kwalificerende inkomen of verlies van een groepsentiteit in aanmerking genomen op basis van het realisatiebeginsel.
 
 2. Voor de toepassing van het eerste lid wordt voor het bepalen van de winst of het verlies bij realisatie de boekwaarde van een activum of passivum gesteld op de boekwaarde op het laatste van de volgende tijdstippen:
 
@@ -756,11 +756,11 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 3. De keuze, bedoeld in het eerste lid, is van toepassing op de activa en passiva van alle in een staat gevestigde groepsentiteiten, tenzij de informatieaangifte-indienende groepsentiteit ervoor kiest om de keuze te beperken tot de materiële activa van alle in een staat gevestigde groepsentiteiten, dan wel tot de activa en passiva van alle in een staat gevestigde beleggingsentiteiten.
 
-4. Indien voor enig verslagjaar de keuze overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), wordt herroepen, wordt voor het bepalen van het kwalificerende inkomen of verlies van de groepsentiteiten waarvoor de keuze in het voorafgaande verslagjaar gold een bedrag gelijk aan het verschil tussen de reële waarde en de boekwaarde van de activa of passiva, welk verschil wordt bepaald op de eerste dag van het verslagjaar waarvoor de keuze wordt herroepen, in aanmerking genomen bij de bepaling van het kwalificerende inkomen of verlies van die groepsentiteiten.
+4. Indien voor enig verslagjaar de keuze overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), wordt herroepen, wordt voor het bepalen van het kwalificerende inkomen of verlies van de groepsentiteiten waarvoor de keuze in het voorafgaande verslagjaar gold een bedrag gelijk aan het verschil tussen de reële waarde en de boekwaarde van de activa of passiva, welk verschil wordt bepaald op de eerste dag van het verslagjaar waarvoor de keuze wordt herroepen, in aanmerking genomen bij de bepaling van het kwalificerende inkomen of verlies van die groepsentiteiten.
 
 ##### Artikel 6.7. Vervreemding van lokale vaste activa
 
-1. Indien de informatieaangifte-indienende groepsentiteit daarvoor in overeenstemming met [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), kiest, wordt de winst of het verlies van die groepsentiteiten welke in een verslagjaar is behaald met de vervreemding van lokale vaste activa door die groepsentiteiten aan personen of entiteiten die geen groepsentiteiten zijn, verrekend volgens de regels van het tweede tot en met vijfde lid.
+1. Indien de informatieaangifte-indienende groepsentiteit daarvoor in overeenstemming met [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), kiest, wordt de winst of het verlies van die groepsentiteiten welke in een verslagjaar is behaald met de vervreemding van lokale vaste activa door die groepsentiteiten aan personen of entiteiten die geen groepsentiteiten zijn, verrekend volgens de regels van het tweede tot en met vijfde lid.
 
 2. De nettovervreemdingswinst uit de vervreemding van lokale vaste activa door alle groepsentiteiten die zijn gevestigd in dezelfde staat in het verslagjaar waarvoor de keuze geldt, wordt verrekend met het nettovervreemdingsverlies uit de vervreemding van lokale vaste activa door die groepsentiteiten in de vijfjaarsperiode, bestaande uit dat verslagjaar en de vier daaraan voorafgaande verslagjaren, in de volgorde waarin die verliezen zijn ontstaan.
 
@@ -768,7 +768,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 4. Indien het derde lid niet kan worden toegepast omdat de met de vervreemding van lokale vaste activa behaalde nettovervreemdingswinst in een staat in het verslagjaar waarvoor de keuze geldt is behaald door één groepsentiteit, wordt het na de toepassing van het tweede lid resterende bedrag aan nettovervreemdingswinst voor de berekening van het kwalificerende inkomen of verlies van iedere in de staat gevestigde groepsentiteit toegerekend aan alle groepsentiteiten in die staat in dat verslagjaar en gelijkelijk verdeeld over de vijfjaarsperiode.
 
-5. Op elke aanpassing van het kwalificerende inkomen of verlies op grond van dit artikel voor de verslagjaren voorafgaand aan het verslagjaar waarvoor de keuze geldt, is [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), van toepassing.
+5. Op elke aanpassing van het kwalificerende inkomen of verlies op grond van dit artikel voor de verslagjaren voorafgaand aan het verslagjaar waarvoor de keuze geldt, is [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), van toepassing.
 
 6. Voor de toepassing van dit artikel wordt onder lokale vaste activa verstaan: onroerende zaken die zijn gelegen in de staat waarin de groepsentiteit die de onroerende zaken vervreemdt is gevestigd.
 
@@ -784,9 +784,9 @@ Kosten die betrekking hebben op een intra-groepsfinancieringsregeling waarbij ee
 
 ##### Artikel 6.9. Geconsolideerde grondslag bij fiscale groepsregelingen
 
-1. Voor het bepalen van het kwalificerende inkomen of verlies van groepsentiteiten die gevestigd zijn in dezelfde staat en betrokken zijn in een fiscale groepsregeling kan de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), voor kiezen om een geconsolideerde grondslag toe te passen ten aanzien van inkomsten, uitgaven, winsten en verliezen die voortvloeien uit transacties tussen deze groepsentiteiten.
+1. Voor het bepalen van het kwalificerende inkomen of verlies van groepsentiteiten die gevestigd zijn in dezelfde staat en betrokken zijn in een fiscale groepsregeling kan de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), voor kiezen om een geconsolideerde grondslag toe te passen ten aanzien van inkomsten, uitgaven, winsten en verliezen die voortvloeien uit transacties tussen deze groepsentiteiten.
 
-2. In het verslagjaar waarin de keuze wordt gemaakt of overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), wordt herroepen, worden passende correcties aangebracht om te voorkomen dat bestanddelen van het kwalificerende inkomen of verlies niet, of meer dan een keer, in aanmerking worden genomen als gevolg van die keuze of herroeping.
+2. In het verslagjaar waarin de keuze wordt gemaakt of overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), wordt herroepen, worden passende correcties aangebracht om te voorkomen dat bestanddelen van het kwalificerende inkomen of verlies niet, of meer dan een keer, in aanmerking worden genomen als gevolg van die keuze of herroeping.
 
 ##### Artikel 6.10. Verzekeringsmaatschappijen
 
@@ -820,39 +820,39 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - a. **inkomen uit internationale scheepvaart:** het door een groepsentiteit behaalde netto-inkomen uit de volgende activiteiten, waarbij het vervoer niet plaatsvindt via binnenwateren in dezelfde staat:
 
-- 1°. vervoer van passagiers of vracht per schip in het internationale verkeer, ongeacht of het schip eigendom is van, geleased wordt door of anderszins ter beschikking staat van de groepsentiteit;
+  - 1°. vervoer van passagiers of vracht per schip in het internationale verkeer, ongeacht of het schip eigendom is van, geleased wordt door of anderszins ter beschikking staat van de groepsentiteit;
 
-- 2°. vervoer van passagiers of vracht per schip in het internationale verkeer op basis van een slotcharterovereenkomst;
+  - 2°. vervoer van passagiers of vracht per schip in het internationale verkeer op basis van een slotcharterovereenkomst;
 
-- 3°. leasing van een schip dat wordt gebruikt voor vervoer van passagiers of vracht in het internationale verkeer op basis van charter met volledige uitrusting, bemanning en bevoorrading;
+  - 3°. leasing van een schip dat wordt gebruikt voor vervoer van passagiers of vracht in het internationale verkeer op basis van charter met volledige uitrusting, bemanning en bevoorrading;
 
-- 4°. leasing van een schip aan een andere groepsentiteit, indien dat schip wordt gebruikt voor het vervoer van passagiers of vracht in het internationale verkeer, op basis van rompbevrachting;
+  - 4°. leasing van een schip aan een andere groepsentiteit, indien dat schip wordt gebruikt voor het vervoer van passagiers of vracht in het internationale verkeer, op basis van rompbevrachting;
 
-- 5°. participatie in een poolovereenkomst, een gemeenschappelijke onderneming of een internationaal opererend agentschap voor het vervoer van passagiers of vracht per schip in het internationale verkeer; en
+  - 5°. participatie in een poolovereenkomst, een gemeenschappelijke onderneming of een internationaal opererend agentschap voor het vervoer van passagiers of vracht per schip in het internationale verkeer; en
 
-- 6°. verkoop van een schip dat wordt gebruikt voor het vervoer van passagiers of vracht in het internationale verkeer, mits het schip gedurende ten minste één jaar voor gebruik is aangehouden door de groepsentiteit;
+  - 6°. verkoop van een schip dat wordt gebruikt voor het vervoer van passagiers of vracht in het internationale verkeer, mits het schip gedurende ten minste één jaar voor gebruik is aangehouden door de groepsentiteit;
 
 - b. **inkomen uit gekwalificeerde nevenactiviteiten in de internationale scheepvaart:** het door een groepsentiteit behaalde netto-inkomen uit de volgende activiteiten, mits die activiteiten hoofdzakelijk worden verricht in verband met het vervoer van passagiers of vracht per schip in het internationale verkeer:
 
-- 1°. leasing van een schip, op basis van rompbevrachting aan een andere scheepvaartonderneming die geen groepsentiteit is, mits de charterovereenkomst niet langer dan drie jaar duurt;
+  - 1°. leasing van een schip, op basis van rompbevrachting aan een andere scheepvaartonderneming die geen groepsentiteit is, mits de charterovereenkomst niet langer dan drie jaar duurt;
 
-- 2°. verkoop van door andere scheepvaartondernemingen uitgegeven vervoersbewijzen voor het binnenlandse deel van een internationale reis;
+  - 2°. verkoop van door andere scheepvaartondernemingen uitgegeven vervoersbewijzen voor het binnenlandse deel van een internationale reis;
 
-- 3°. leasing en kortdurende opslag van containers of overligkosten voor vertraagde retour van containers;
+  - 3°. leasing en kortdurende opslag van containers of overligkosten voor vertraagde retour van containers;
 
-- 4°. dienstverlening aan andere scheepvaartondernemingen door technici, onderhoudspersoneel, vrachtbehandelaars, cateringpersoneel en personeel voor klantenservice; en
+  - 4°. dienstverlening aan andere scheepvaartondernemingen door technici, onderhoudspersoneel, vrachtbehandelaars, cateringpersoneel en personeel voor klantenservice; en
 
-- 5°. investeringen die integraal zijn verricht voor het drijven van een onderneming bestaande uit de exploitatie van schepen in het internationale verkeer.
+  - 5°. investeringen die integraal zijn verricht voor het drijven van een onderneming bestaande uit de exploitatie van schepen in het internationale verkeer.
 
 ##### Artikel 6.13. Toerekening van nettowinst of nettoverlies aan hoofdentiteit en vaste inrichting
 
-1. Indien een groepsentiteit een vaste inrichting is als bedoeld in de onderdelen a, b of c van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), is de nettowinst of het nettoverlies van die vaste inrichting de nettowinst of het nettoverlies volgens de afzonderlijke financiële verslaggeving van die vaste inrichting. Indien die vaste inrichting geen afzonderlijke financiële verslaggeving bijhoudt, is de nettowinst of het nettoverlies van die vaste inrichting de nettowinst of het nettoverlies zoals die winst of dat verlies uit de afzonderlijke financiële verslaggeving van die vaste inrichting zou blijken indien die vaste inrichting een dergelijke verslaggeving zou bijhouden in overeenstemming met de financiële verslaggevingsstandaarden die als uitgangspunt dienen bij het opstellen van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
+1. Indien een groepsentiteit een vaste inrichting is als bedoeld in de onderdelen a, b of c van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), is de nettowinst of het nettoverlies van die vaste inrichting de nettowinst of het nettoverlies volgens de afzonderlijke financiële verslaggeving van die vaste inrichting. Indien die vaste inrichting geen afzonderlijke financiële verslaggeving bijhoudt, is de nettowinst of het nettoverlies van die vaste inrichting de nettowinst of het nettoverlies zoals die winst of dat verlies uit de afzonderlijke financiële verslaggeving van die vaste inrichting zou blijken indien die vaste inrichting een dergelijke verslaggeving zou bijhouden in overeenstemming met de financiële verslaggevingsstandaarden die als uitgangspunt dienen bij het opstellen van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
 
-2. Indien een groepsentiteit een vaste inrichting is als bedoeld in de onderdelen a of b van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), komen in de nettowinst of het nettoverlies van die vaste inrichting enkel het inkomen en de kosten tot uitdrukking die in overeenstemming met het van toepassing zijnde belastingverdrag of de nationale fiscale wetgeving van de staat waarin die vaste inrichting is gelegen aan die vaste inrichting kunnen worden toegerekend, ongeacht het bedrag aan inkomen dat is onderworpen aan belastingheffing en het bedrag aan aftrekbare kosten in die staat.
+2. Indien een groepsentiteit een vaste inrichting is als bedoeld in de onderdelen a of b van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), komen in de nettowinst of het nettoverlies van die vaste inrichting enkel het inkomen en de kosten tot uitdrukking die in overeenstemming met het van toepassing zijnde belastingverdrag of de nationale fiscale wetgeving van de staat waarin die vaste inrichting is gelegen aan die vaste inrichting kunnen worden toegerekend, ongeacht het bedrag aan inkomen dat is onderworpen aan belastingheffing en het bedrag aan aftrekbare kosten in die staat.
 
-3. Indien een groepsentiteit een vaste inrichting is als bedoeld in onderdeel c van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), komen in de nettowinst of het nettoverlies van die vaste inrichting enkel het inkomen en de kosten tot uitdrukking die in overeenstemming met artikel 7 van het OESO-modelverdrag aan die vaste inrichting toerekenbaar zouden zijn.
+3. Indien een groepsentiteit een vaste inrichting is als bedoeld in onderdeel c van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), komen in de nettowinst of het nettoverlies van die vaste inrichting enkel het inkomen en de kosten tot uitdrukking die in overeenstemming met artikel 7 van het OESO-modelverdrag aan die vaste inrichting toerekenbaar zouden zijn.
 
-4. Indien een groepsentiteit een vaste inrichting is als bedoeld in onderdeel d van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), wordt de nettowinst of het nettoverlies van die vaste inrichting bepaald aan de hand van het inkomen dat van belastingheffing is vrijgesteld in de staat waarin de hoofdentiteit is gevestigd en toerekenbaar is aan buiten die staat verrichte activiteiten, en de kosten die voor belastingdoeleinden niet in aftrek komen in de staat waarin de hoofdentiteit is gevestigd en toerekenbaar zijn aan buiten die staat verrichte activiteiten.
+4. Indien een groepsentiteit een vaste inrichting is als bedoeld in onderdeel d van de definitie van vaste inrichting in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), wordt de nettowinst of het nettoverlies van die vaste inrichting bepaald aan de hand van het inkomen dat van belastingheffing is vrijgesteld in de staat waarin de hoofdentiteit is gevestigd en toerekenbaar is aan buiten die staat verrichte activiteiten, en de kosten die voor belastingdoeleinden niet in aftrek komen in de staat waarin de hoofdentiteit is gevestigd en toerekenbaar zijn aan buiten die staat verrichte activiteiten.
 
 5. De nettowinst of het nettoverlies van een vaste inrichting wordt niet in aanmerking genomen bij het bepalen van het kwalificerende inkomen of verlies van de hoofdentiteit, behalve voor de toepassing van het zesde lid.
 
@@ -866,7 +866,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - b. voor zover de doorkijkentiteit onmiddellijk of door middel van een fiscaal transparante structuur wordt gehouden door een uiteindelijkemoederentiteit als bedoeld in onderdeel a.
 
-2. Het na de toepassing van het eerste lid resterende bedrag aan nettowinst of nettoverlies van een doorkijkentiteit die haar onderneming geheel of gedeeltelijk uitoefent door middel van een vaste inrichting, wordt in overeenstemming met [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2025-12-31&g=2025-12-31) toegerekend aan die vaste inrichting.
+2. Het na de toepassing van het eerste lid resterende bedrag aan nettowinst of nettoverlies van een doorkijkentiteit die haar onderneming geheel of gedeeltelijk uitoefent door middel van een vaste inrichting, wordt in overeenstemming met [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2026-04-11&g=2026-04-11) toegerekend aan die vaste inrichting.
 
 3. Het na de toepassing van het eerste en tweede lid resterende bedrag aan nettowinst of nettoverlies van een doorkijkentiteit die een fiscaal transparante entiteit is en die niet de uiteindelijkemoederentiteit is, wordt toegerekend aan de groepsentiteit-belanghouders, niet zijnde doorkijkentiteiten die geen uiteindelijkemoederentiteit zijn, in overeenstemming met hun belang in de doorkijkentiteit.
 
@@ -902,7 +902,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - e. door een verzekeringsmaatschappij betaalde belastingen met betrekking tot teruggaven aan polishouders.
 
-3. In het verslagjaar waarin de keuze, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.7&z=2025-12-31&g=2025-12-31), toepassing vindt, worden betrokken belastingen met betrekking tot een nettovervreemdingswinst of nettovervreemdingsverlies als gevolg van de vervreemding van lokale vaste activa als bedoeld in artikel 6.7, zesde lid niet in aanmerking genomen bij de berekening van de betrokken belastingen.
+3. In het verslagjaar waarin de keuze, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.7&z=2026-04-11&g=2026-04-11), toepassing vindt, worden betrokken belastingen met betrekking tot een nettovervreemdingswinst of nettovervreemdingsverlies als gevolg van de vervreemding van lokale vaste activa als bedoeld in artikel 6.7, zesde lid niet in aanmerking genomen bij de berekening van de betrokken belastingen.
 
 4. Indien de activa, passiva, inkomsten, uitgaven en kasstromen van een groepsentiteit niet zijn opgenomen in de geconsolideerde jaarrekening en het verslagjaar van die groepsentiteit afwijkt van het verslagjaar van de uiteindelijkemoederentiteit, worden de betrokken belastingen van die groepsentiteit bepaald aan de hand van de financiële verslaggeving van die groepsentiteit over de financiële verslaggevingsperiode die eindigt in het verslagjaar van de uiteindelijkemoederentiteit.
 
@@ -912,7 +912,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - a. het saldobedrag van de vermeerderingen en verminderingen van de betrokken belastingen voor het verslagjaar, bedoeld in het tweede en derde lid;
 
-- b. het totale bedrag van de gecorrigeerde mutaties in belastinglatenties, bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31); en
+- b. het totale bedrag van de gecorrigeerde mutaties in belastinglatenties, bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11); en
 
 - c. elke toename of afname van betrokken belastingen die rechtstreeks in het eigen vermogen is verwerkt en betrekking heeft op bedragen die in aanmerking zijn genomen bij de bepaling van het kwalificerende inkomen of verlies dat is onderworpen aan belastingheffing op grond van belastingwetgeving van een staat.
 
@@ -920,7 +920,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - a. het bedrag aan betrokken belastingen dat als kosten is toegerekend aan het verslagjaar bij de bepaling van de winst vóór belastingen in de financiële verslaggeving;
 
-- b. het bedrag aan fictieve actieve belastinglatentie dat in het verslagjaar is verrekend op de voet van [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2025-12-31&g=2025-12-31);
+- b. het bedrag aan fictieve actieve belastinglatentie dat in het verslagjaar is verrekend op de voet van [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2026-04-11&g=2026-04-11);
 
 - c. het bedrag aan betrokken belastingen dat in een eerder verslagjaar is uitgesloten op de voet van het derde lid, onderdeel d, en in het verslagjaar is betaald;
 
@@ -930,7 +930,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 3. De verminderingen van de betrokken belastingen van een groepsentiteit voor een verslagjaar zijn:
 
-- a. het bedrag aan belastinglast dat betrekking heeft op inkomen dat niet in aanmerking wordt genomen bij de berekening van het kwalificerende inkomen of verlies op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31);
+- a. het bedrag aan belastinglast dat betrekking heeft op inkomen dat niet in aanmerking wordt genomen bij de berekening van het kwalificerende inkomen of verlies op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11);
 
 - b. het bedrag aan verrekening of teruggave van een belastingtegoed, niet zijnde een kwalificerend restitueerbaar belastingtegoed of kwalificerend verhandelbaar belastingtegoed, dat niet in aanmerking is genomen als een vermindering van de belastinglast;
 
@@ -944,27 +944,27 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 4. Bij de berekening van de gecorrigeerde betrokken belastingen van een groepsentiteit voor een verslagjaar wordt een bedrag dat is omschreven in meer dan een onderdeel van de voorgaande leden, slechts eenmaal in aanmerking genomen.
 
-5. Indien er in een verslagjaar in een staat geen netto kwalificerend inkomen is en het bedrag aan gecorrigeerde betrokken belastingen voor die staat negatief is en minder dan het bedrag dat gelijk is aan het netto kwalificerende verlies vermenigvuldigd met het minimumbelastingtarief (verwachte gecorrigeerde betrokken belastingen), wordt het bedrag gelijk aan het verschil tussen het bedrag aan gecorrigeerde betrokken belastingen en het bedrag aan verwachte gecorrigeerde betrokken belastingen aangemerkt als additionele bijheffing voor dat verslagjaar. Het bedrag aan additionele bijheffing ingevolge de eerste zin wordt toegerekend aan iedere groepsentiteit in de staat ingevolge [artikel 8.4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31).
+5. Indien er in een verslagjaar in een staat geen netto kwalificerend inkomen is en het bedrag aan gecorrigeerde betrokken belastingen voor die staat negatief is en minder dan het bedrag dat gelijk is aan het netto kwalificerende verlies vermenigvuldigd met het minimumbelastingtarief (verwachte gecorrigeerde betrokken belastingen), wordt het bedrag gelijk aan het verschil tussen het bedrag aan gecorrigeerde betrokken belastingen en het bedrag aan verwachte gecorrigeerde betrokken belastingen aangemerkt als additionele bijheffing voor dat verslagjaar. Het bedrag aan additionele bijheffing ingevolge de eerste zin wordt toegerekend aan iedere groepsentiteit in de staat ingevolge [artikel 8.4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11).
 
 6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld op grond waarvan in afwijking van het vijfde lid het bedrag gelijk aan het verschil tussen de gecorrigeerde betrokken belastingen en de verwachte gecorrigeerde betrokken belastingen in aanmerking kan worden genomen als een vermindering van de betrokken belastingen in een volgend verslagjaar waarin sprake is van kwalificerend inkomen.
 
 ##### Artikel 7.3. Het totale bedrag van de gecorrigeerde mutaties in belastinglatenties
 
-1. Indien het belastingtarief dat wordt toegepast voor de berekening van een belastinglatentie gelijk is aan of lager is dan het minimumbelastingtarief, is het totale bedrag van de gecorrigeerde mutaties in belastinglatenties dat ingevolge [artikel 7.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31), wordt toegevoegd aan de gecorrigeerde betrokken belastingen van een groepsentiteit voor een verslagjaar gelijk aan de mutaties in belastinglatenties die in de financiële verslaggeving worden toegerekend aan het betreffende verslagjaar met betrekking tot de betrokken belastingen, gecorrigeerd overeenkomstig de bepalingen in het derde tot en met zesde lid. Indien de boekwaarde van een activum of passivum ingevolge een bepaling in deze wet afwijkt van de boekwaarde in de financiële verslaggeving wordt voor de berekening van de belastinglatentie die betrekking heeft op dat activum of passivum uitgegaan van de eerstgenoemde boekwaarde.
+1. Indien het belastingtarief dat wordt toegepast voor de berekening van een belastinglatentie gelijk is aan of lager is dan het minimumbelastingtarief, is het totale bedrag van de gecorrigeerde mutaties in belastinglatenties dat ingevolge [artikel 7.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11), wordt toegevoegd aan de gecorrigeerde betrokken belastingen van een groepsentiteit voor een verslagjaar gelijk aan de mutaties in belastinglatenties die in de financiële verslaggeving worden toegerekend aan het betreffende verslagjaar met betrekking tot de betrokken belastingen, gecorrigeerd overeenkomstig de bepalingen in het derde tot en met zesde lid. Indien de boekwaarde van een activum of passivum ingevolge een bepaling in deze wet afwijkt van de boekwaarde in de financiële verslaggeving wordt voor de berekening van de belastinglatentie die betrekking heeft op dat activum of passivum uitgegaan van de eerstgenoemde boekwaarde.
 
-2. Indien het belastingtarief dat wordt toegepast voor de berekening van een belastinglatentie hoger is dan het minimumbelastingtarief, is het totale bedrag van de gecorrigeerde mutaties in belastinglatenties dat ingevolge [artikel 7.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31), wordt toegevoegd aan de gecorrigeerde betrokken belastingen van een groepsentiteit voor een verslagjaar, gelijk aan de mutaties in belastinglatenties die in de financiële verslaggeving worden toegerekend aan het betreffende verslagjaar met betrekking tot de betrokken belastingen, herrekend tegen het minimumbelastingtarief, en gecorrigeerd overeenkomstig de bepalingen in het derde tot en met zesde lid. Indien de boekwaarde van een activum of passivum ingevolge een bepaling in deze wet afwijkt van de boekwaarde in de financiële verslaggeving wordt voor de berekening van de belastinglatentie die betrekking heeft op dat activum of passivum uitgegaan van de eerstgenoemde boekwaarde.
+2. Indien het belastingtarief dat wordt toegepast voor de berekening van een belastinglatentie hoger is dan het minimumbelastingtarief, is het totale bedrag van de gecorrigeerde mutaties in belastinglatenties dat ingevolge [artikel 7.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11), wordt toegevoegd aan de gecorrigeerde betrokken belastingen van een groepsentiteit voor een verslagjaar, gelijk aan de mutaties in belastinglatenties die in de financiële verslaggeving worden toegerekend aan het betreffende verslagjaar met betrekking tot de betrokken belastingen, herrekend tegen het minimumbelastingtarief, en gecorrigeerd overeenkomstig de bepalingen in het derde tot en met zesde lid. Indien de boekwaarde van een activum of passivum ingevolge een bepaling in deze wet afwijkt van de boekwaarde in de financiële verslaggeving wordt voor de berekening van de belastinglatentie die betrekking heeft op dat activum of passivum uitgegaan van de eerstgenoemde boekwaarde.
 
 3. Bij de bepaling van het totale bedrag van de gecorrigeerde mutaties in belastinglatenties worden de mutaties in belastinglatenties die in de financiële verslaggeving worden toegerekend aan het betreffende verslagjaar verhoogd met een in het verslagjaar betaald bedrag aan:
 
 - a. niet-toegestane toerekening en niet-gebruikte toerekening; en
 
-- b. passieve belastinglatentie dat in een voorgaand jaar is teruggenomen door toepassing van [artikel 7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31).
+- b. passieve belastinglatentie dat in een voorgaand jaar is teruggenomen door toepassing van [artikel 7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11).
 
 4. Indien in een verslagjaar in de financiële verslaggeving geen actieve belastinglatentie wordt opgenomen voor een verlies omdat niet wordt voldaan aan de voorwaarden voor de verantwoording in de jaarrekening, wordt het totale bedrag van de gecorrigeerde mutaties in belastinglatenties voor dat verslagjaar verminderd met het bedrag waarmee dat totale bedrag zou zijn verminderd indien de actieve belastinglatentie voor het betreffende verslagjaar wel zou zijn opgenomen in de jaarrekening.
 
 5. Onder het totale bedrag van de gecorrigeerde mutaties in belastinglatenties wordt niet begrepen:
 
-- a. het bedrag aan mutaties in belastinglatenties met betrekking tot bestanddelen die zijn uitgesloten van de berekening van het kwalificerende inkomen of verlies ingevolge [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31);
+- a. het bedrag aan mutaties in belastinglatenties met betrekking tot bestanddelen die zijn uitgesloten van de berekening van het kwalificerende inkomen of verlies ingevolge [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11);
 
 - b. het bedrag aan belastinglatenties met betrekking tot niet-toegestane toerekening en niet-gebruikte toerekening;
 
@@ -976,7 +976,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 6. Indien een actieve belastinglatentie die voortkomt uit een kwalificerend verlies van een groepsentiteit wordt toegerekend aan een verslagjaar tegen een tarief dat lager is dan het minimumbelastingtarief, mag die belastinglatentie in dat verslagjaar worden herrekend tegen het minimumbelastingtarief indien de belastingplichtige aannemelijk maakt dat die actieve belastinglatentie voortkomt uit een kwalificerend verlies. Indien een actieve belastinglatentie ingevolge de eerste zin wordt verhoogd, wordt het totale bedrag van de gecorrigeerde mutaties in belastinglatenties dienovereenkomstig verminderd.
 
-7. Een bedrag aan passieve belastinglatentie dat niet is herzien en niet is betaald binnen vijf verslagjaren volgend op het verslagjaar waarin dat bedrag is opgekomen, wordt teruggenomen in het vijfde verslagjaar volgend op het verslagjaar waarin dat bedrag is opgekomen, voor zover dat bedrag eerder in aanmerking is genomen in het totale bedrag van de gecorrigeerde mutaties in belastinglatenties van de groepsentiteit. Het bedrag van de teruggenomen passieve belastinglatentie vermindert de betrokken belastingen van het vijfde verslagjaar voorafgaand aan het verslagjaar waarin dat bedrag is teruggenomen. Het effectieve belastingtarief en de bijheffing van het vijfde verslagjaar voorafgaand aan verslagjaar waarin dat bedrag is teruggenomen worden herrekend ingevolge [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31).
+7. Een bedrag aan passieve belastinglatentie dat niet is herzien en niet is betaald binnen vijf verslagjaren volgend op het verslagjaar waarin dat bedrag is opgekomen, wordt teruggenomen in het vijfde verslagjaar volgend op het verslagjaar waarin dat bedrag is opgekomen, voor zover dat bedrag eerder in aanmerking is genomen in het totale bedrag van de gecorrigeerde mutaties in belastinglatenties van de groepsentiteit. Het bedrag van de teruggenomen passieve belastinglatentie vermindert de betrokken belastingen van het vijfde verslagjaar voorafgaand aan het verslagjaar waarin dat bedrag is teruggenomen. Het effectieve belastingtarief en de bijheffing van het vijfde verslagjaar voorafgaand aan verslagjaar waarin dat bedrag is teruggenomen worden herrekend ingevolge [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11).
 
 8. In afwijking van het zevende lid wordt een bedrag aan passieve belastinglatentie niet teruggenomen indien dat bedrag verband houdt met:
 
@@ -1002,7 +1002,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - a. **niet-toegestane toerekening:** een mutatie in een belastinglatentie in de financiële verslaggeving van een groepsentiteit inzake een verslagjaar en die betrekking heeft op een onzekere belastingpositie of op een uitdeling door een groepsentiteit;
 
-- b. **niet-gebruikte toerekening:** een toename van een passieve belastinglatentie in de financiële verslaggeving van een groepsentiteit inzake een verslagjaar die naar verwachting niet binnen de periode, bedoeld in het zevende lid, wordt betaald, en ten aanzien waarvan de informatieaangifte-indienende groepsentiteit er, overeenkomstig [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), voor kiest om deze toename niet op te nemen in het totale bedrag van de gecorrigeerde mutaties in belastinglatenties voor dat verslagjaar.
+- b. **niet-gebruikte toerekening:** een toename van een passieve belastinglatentie in de financiële verslaggeving van een groepsentiteit inzake een verslagjaar die naar verwachting niet binnen de periode, bedoeld in het zevende lid, wordt betaald, en ten aanzien waarvan de informatieaangifte-indienende groepsentiteit er, overeenkomstig [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), voor kiest om deze toename niet op te nemen in het totale bedrag van de gecorrigeerde mutaties in belastinglatenties voor dat verslagjaar.
 
 10. Bij of krachtens algemene maatregel van bestuur worden regels gesteld op grond waarvan een belastinglatentie wordt aangemerkt als een alternatieve verliesverrekeningslatentie.
 
@@ -1010,7 +1010,7 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 ##### Artikel 7.4. Keuzeregime voor kwalificerende verliezen
 
-1. In afwijking van [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31) kan een informatieaangifte-indienende groepsentiteit ervoor kiezen om ten aanzien van een staat een fictieve actieve belastinglatentie te bepalen die betrekking heeft op een kwalificerend verlies voor ieder verslagjaar waarin sprake is van een netto kwalificerend verlies in de betreffende staat. De fictieve actieve belastinglatentie die betrekking heeft op het kwalificerende verlies is gelijk aan het netto kwalificerende verlies voor het verslagjaar voor de staat vermenigvuldigd met het minimumbelastingtarief. Van dit keuzerecht kan geen gebruik worden gemaakt ten aanzien van een staat met een in aanmerking komend uitdelingsbelastingstelsel als bedoeld in [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2025-12-31&g=2025-12-31).
+1. In afwijking van [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11) kan een informatieaangifte-indienende groepsentiteit ervoor kiezen om ten aanzien van een staat een fictieve actieve belastinglatentie te bepalen die betrekking heeft op een kwalificerend verlies voor ieder verslagjaar waarin sprake is van een netto kwalificerend verlies in de betreffende staat. De fictieve actieve belastinglatentie die betrekking heeft op het kwalificerende verlies is gelijk aan het netto kwalificerende verlies voor het verslagjaar voor de staat vermenigvuldigd met het minimumbelastingtarief. Van dit keuzerecht kan geen gebruik worden gemaakt ten aanzien van een staat met een in aanmerking komend uitdelingsbelastingstelsel als bedoeld in [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2026-04-11&g=2026-04-11).
 
 2. De fictieve actieve belastinglatentie wordt in enig volgend verslagjaar waarin sprake is van netto kwalificerend inkomen voor de betreffende staat verrekend met het bedrag van het netto kwalificerende inkomen vermenigvuldigd met het minimumbelastingtarief, tot ten hoogste het bedrag van de fictieve actieve belastinglatentie dat nog niet is verrekend.
 
@@ -1020,15 +1020,15 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 5. De keuze, bedoeld in het eerste lid, wordt gemaakt bij de indiening van de eerste bijheffing-informatieaangifte van de multinationale groep of binnenlandse groep, waarin de staat waarvoor de keuze geldt is opgenomen.
 
-6. Indien een doorkijkentiteit die de uiteindelijkemoederentiteit van een multinationale groep of een binnenlandse groep is een keuze maakt als bedoeld in het eerste lid, wordt de fictieve actieve belastinglatentie die betrekking heeft op het kwalificerende verlies berekend op basis van het kwalificerende verlies van de doorkijkentiteit na vermindering op grond van [artikel 10.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2025-12-31&g=2025-12-31).
+6. Indien een doorkijkentiteit die de uiteindelijkemoederentiteit van een multinationale groep of een binnenlandse groep is een keuze maakt als bedoeld in het eerste lid, wordt de fictieve actieve belastinglatentie die betrekking heeft op het kwalificerende verlies berekend op basis van het kwalificerende verlies van de doorkijkentiteit na vermindering op grond van [artikel 10.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 7.5. Toerekening van betrokken belastingen aan bepaalde soorten groepsentiteiten
 
 1. Aan een vaste inrichting wordt het bedrag aan betrokken belastingen toegerekend dat is opgenomen in de financiële verslaggeving van een groepsentiteit en verband houdt met het kwalificerende inkomen of verlies van die vaste inrichting.
 
-2. Aan een groepsentiteit-belanghouder wordt het bedrag aan betrokken belastingen toegerekend dat is opgenomen in de financiële verslaggeving van een fiscaal transparante entiteit en verband houdt met het kwalificerende inkomen of verlies dat is toegerekend aan die groepsentiteit-belanghouder ingevolge [artikel 6.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2025-12-31&g=2025-12-31).
+2. Aan een groepsentiteit-belanghouder wordt het bedrag aan betrokken belastingen toegerekend dat is opgenomen in de financiële verslaggeving van een fiscaal transparante entiteit en verband houdt met het kwalificerende inkomen of verlies dat is toegerekend aan die groepsentiteit-belanghouder ingevolge [artikel 6.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2026-04-11&g=2026-04-11).
 
-3. Aan een groepsentiteit wordt het bedrag aan betrokken belastingen toegerekend dat is opgenomen in de financiële verslaggeving van haar onmiddellijke of middellijke groepsentiteit-belanghouders door toepassing van een belastingregeling voor buitenlandse gecontroleerde lichamen, voor zover die belastingen verband houden met het kwalificerende inkomen of verlies van die groepsentiteit. Indien de groepsentiteit een doorkijkentiteit is die een fiscaal transparante entiteit is, wordt het bedrag aan betrokken belastingen, bedoeld in de eerste zin, toegerekend aan haar groepsentiteit-belanghouders naar verhouding van het bedrag aan nettowinst of nettoverlies dat op grond van [artikel 6.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2025-12-31&g=2025-12-31), is toegerekend aan haar groepsentiteit-belanghouders.
+3. Aan een groepsentiteit wordt het bedrag aan betrokken belastingen toegerekend dat is opgenomen in de financiële verslaggeving van haar onmiddellijke of middellijke groepsentiteit-belanghouders door toepassing van een belastingregeling voor buitenlandse gecontroleerde lichamen, voor zover die belastingen verband houden met het kwalificerende inkomen of verlies van die groepsentiteit. Indien de groepsentiteit een doorkijkentiteit is die een fiscaal transparante entiteit is, wordt het bedrag aan betrokken belastingen, bedoeld in de eerste zin, toegerekend aan haar groepsentiteit-belanghouders naar verhouding van het bedrag aan nettowinst of nettoverlies dat op grond van [artikel 6.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2026-04-11&g=2026-04-11), is toegerekend aan haar groepsentiteit-belanghouders.
 
 4. Aan een hybride entiteit of een omgekeerde hybride entiteit wordt het bedrag aan betrokken belastingen toegerekend dat is opgenomen in de financiële verslaggeving van haar groepsentiteit-belanghouder en dat verband houdt met het kwalificerende inkomen van die hybride entiteit of die omgekeerde hybride entiteit.
 
@@ -1050,9 +1050,9 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - f. netto-opbrengsten ten aanzien van een goed waaruit inkomen als bedoeld in de onderdelen a tot en met e voortkomt.
 
-8. Indien het kwalificerende inkomen van een vaste inrichting op grond van [artikel 6.13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2025-12-31&g=2025-12-31), wordt aangemerkt als het kwalificerende inkomen van de hoofdentiteit, wordt de betrokken belasting met betrekking tot dat inkomen die wordt geheven in de staat waarin die vaste inrichting is gelegen aangemerkt als betrokken belasting van de hoofdentiteit voor een bedrag dat niet hoger is dan dat inkomen vermenigvuldigd met het hoogste belastingtarief voor inkomen in de staat waarin die hoofdentiteit is gevestigd.
+8. Indien het kwalificerende inkomen van een vaste inrichting op grond van [artikel 6.13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2026-04-11&g=2026-04-11), wordt aangemerkt als het kwalificerende inkomen van de hoofdentiteit, wordt de betrokken belasting met betrekking tot dat inkomen die wordt geheven in de staat waarin die vaste inrichting is gelegen aangemerkt als betrokken belasting van de hoofdentiteit voor een bedrag dat niet hoger is dan dat inkomen vermenigvuldigd met het hoogste belastingtarief voor inkomen in de staat waarin die hoofdentiteit is gevestigd.
 
-9. Voor de berekening van het effectieve belastingtarief op de voet van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31) voor de binnenlandse bijheffing blijft de toerekening van de betrokken belastingen van een in een andere staat gevestigde groepsentiteit aan een in Nederland gevestigde groepsentiteit op de voet van het eerste lid, derde lid in samenhang met het zesde lid, vierde lid en vijfde lid, voor zover de belasting over de uitdeling door een andere staat is geheven, achterwege.
+9. Voor de berekening van het effectieve belastingtarief op de voet van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11) voor de binnenlandse bijheffing blijft de toerekening van de betrokken belastingen van een in een andere staat gevestigde groepsentiteit aan een in Nederland gevestigde groepsentiteit op de voet van het eerste lid, derde lid in samenhang met het zesde lid, vierde lid en vijfde lid, voor zover de belasting over de uitdeling door een andere staat is geheven, achterwege.
 
 10. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld voor de toerekening van betrokken belastingen:
 
@@ -1060,25 +1060,25 @@ Voor het bepalen van het kwalificerende inkomen of verlies van een groepsentitei
 
 - b. ingevolge het eerste, derde, vierde en vijfde lid ten aanzien van belastingen die kunnen worden verrekend met belastingen over het inkomen van verschillende vaste inrichtingen of entiteiten op het niveau van de hoofdentiteit of groepsentiteit-belanghouder; en
 
-- c. ingevolge het eerste, derde, vierde en vijfde lid ten aanzien van gecorrigeerde mutaties in belastinglatenties ingevolge [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31).
+- c. ingevolge het eerste, derde, vierde en vijfde lid ten aanzien van gecorrigeerde mutaties in belastinglatenties ingevolge [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 7.6. Aanpassingen na indiening van de bijheffing-informatieaangifte
 
 1. Indien een groepsentiteit haar betrokken belastingen voor een voorgaand verslagjaar aanpast in de financiële verslaggeving, wordt die aanpassing aangemerkt als een aanpassing van de betrokken belastingen in het verslagjaar waarin de aanpassing is gemaakt, tenzij de aanpassing verband houdt met een afname van de betrokken belastingen in een staat in een voorgaand verslagjaar.
 
-2. Indien sprake is van een afname van de betrokken belastingen die in een voorgaand verslagjaar zijn opgenomen in de gecorrigeerde betrokken belastingen, worden het effectieve belastingtarief en de bijheffing voor dat verslagjaar herrekend in overeenstemming met [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), door de gecorrigeerde betrokken belastingen te verminderen met het bedrag van de afname van de betrokken belastingen. Het kwalificerende inkomen voor dat verslagjaar en andere voorgaande verslagjaren wordt dienovereenkomstig aangepast.
+2. Indien sprake is van een afname van de betrokken belastingen die in een voorgaand verslagjaar zijn opgenomen in de gecorrigeerde betrokken belastingen, worden het effectieve belastingtarief en de bijheffing voor dat verslagjaar herrekend in overeenstemming met [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), door de gecorrigeerde betrokken belastingen te verminderen met het bedrag van de afname van de betrokken belastingen. Het kwalificerende inkomen voor dat verslagjaar en andere voorgaande verslagjaren wordt dienovereenkomstig aangepast.
 
-3. De informatieaangifte-indienende groepsentiteit kan er jaarlijks, in afwijking van het eerste lid en in overeenstemming met [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), voor kiezen om een afname van de betrokken belastingen in een voorgaand verslagjaar die niet van materieel belang is aan te merken als een aanpassing van de betrokken belastingen in het verslagjaar waarin de aanpassing is gemaakt. Een afname van de betrokken belastingen is niet van materieel belang indien deze leidt tot een vermindering van de gecorrigeerde betrokken belastingen van minder dan € 1.000.000 vastgesteld voor een staat voor het verslagjaar.
+3. De informatieaangifte-indienende groepsentiteit kan er jaarlijks, in afwijking van het eerste lid en in overeenstemming met [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), voor kiezen om een afname van de betrokken belastingen in een voorgaand verslagjaar die niet van materieel belang is aan te merken als een aanpassing van de betrokken belastingen in het verslagjaar waarin de aanpassing is gemaakt. Een afname van de betrokken belastingen is niet van materieel belang indien deze leidt tot een vermindering van de gecorrigeerde betrokken belastingen van minder dan € 1.000.000 vastgesteld voor een staat voor het verslagjaar.
 
 ##### Artikel 7.7. Belastingtariefwijzigingen
 
-1. Indien het van toepassing zijnde belastingtarief in een staat wordt verlaagd tot een tarief dat lager is dan het minimumbelastingtarief en die verlaging resulteert in een afname van een passieve belastinglatentie, wordt de afname van die belastinglatentie aangemerkt als een aanpassing van de betrokken belastingen van een groepsentiteit in het voorgaande verslagjaar waarin de passieve latentie overeenkomstig [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31) is gevormd.
+1. Indien het van toepassing zijnde belastingtarief in een staat wordt verlaagd tot een tarief dat lager is dan het minimumbelastingtarief en die verlaging resulteert in een afname van een passieve belastinglatentie, wordt de afname van die belastinglatentie aangemerkt als een aanpassing van de betrokken belastingen van een groepsentiteit in het voorgaande verslagjaar waarin de passieve latentie overeenkomstig [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11) is gevormd.
 
 2. Indien in een verslagjaar een passieve belastinglatentie in aanmerking is genomen tegen een lager tarief dan het minimumbelastingtarief en het van toepassing zijnde belastingtarief in een staat in een volgend verslagjaar wordt verhoogd tot een tarief dat hoger is dan het minimumbelastingtarief, wordt de toename van de passieve belastinglatentie als gevolg van deze verhoging bij betaling ervan aangemerkt als een aanpassing van de betrokken belastingen in het verslagjaar waarin de passieve belastinglatentie in aanmerking is genomen. De aanpassing op grond van de eerste zin bedraagt ten hoogste de passieve belastinglatentie herrekend tegen het minimumbelastingtarief.
 
 ##### Artikel 7.8. Herrekening
 
-Indien meer dan € 1.000.000 van het bedrag dat door een groepsentiteit in een verslagjaar in aanmerking is genomen als gecorrigeerde betrokken belasting niet is betaald binnen drie jaar na afloop van dat verslagjaar, worden het effectieve belastingtarief en de bijheffing voor het verslagjaar waarin het onbetaalde bedrag als een gecorrigeerde betrokken belasting in aanmerking is genomen, herrekend in overeenstemming met [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), waarbij het onbetaalde bedrag aan betrokken belasting niet in aanmerking wordt genomen als een betrokken belasting.
+Indien meer dan € 1.000.000 van het bedrag dat door een groepsentiteit in een verslagjaar in aanmerking is genomen als gecorrigeerde betrokken belasting niet is betaald binnen drie jaar na afloop van dat verslagjaar, worden het effectieve belastingtarief en de bijheffing voor het verslagjaar waarin het onbetaalde bedrag als een gecorrigeerde betrokken belasting in aanmerking is genomen, herrekend in overeenstemming met [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), waarbij het onbetaalde bedrag aan betrokken belasting niet in aanmerking wordt genomen als een betrokken belasting.
 
 ### Hoofdstuk 8. Berekening van het effectieve belastingtarief en de bijheffing
 
@@ -1092,7 +1092,7 @@ waarbij wordt verstaan onder:
 
 E: het effectieve belastingtarief voor een verslagjaar voor een staat, uitgedrukt in een percentage dat rekenkundig wordt afgerond op vier decimalen;
 
-B: de som van de gecorrigeerde betrokken belastingen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&z=2025-12-31&g=2025-12-31);
+B: de som van de gecorrigeerde betrokken belastingen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&z=2026-04-11&g=2026-04-11);
 
 I: het netto kwalificerende inkomen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van het tweede lid.
 
@@ -1104,9 +1104,9 @@ waarbij wordt verstaan onder:
 
 I: het netto kwalificerende inkomen of verlies over een verslagjaar van alle in een staat gevestigde groepsentiteiten;
 
-W: de som van het kwalificerende inkomen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31);
+W: de som van het kwalificerende inkomen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11);
 
-V: de som van de kwalificerende verliezen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31).
+V: de som van de kwalificerende verliezen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11).
 
 3. Bij de toepassing van het eerste en tweede lid worden niet in aanmerking genomen de gecorrigeerde betrokken belastingen en het kwalificerende inkomen of verlies van groepsentiteiten die een beleggingsentiteit zijn.
 
@@ -1116,7 +1116,7 @@ V: de som van de kwalificerende verliezen over het verslagjaar van alle in die s
 
 ##### Artikel 8.2. Berekening van de bijheffing
 
-1. Indien in een verslagjaar het effectieve belastingtarief van een multinationale groep in een staat waarin groepsentiteiten van die groep zijn gevestigd lager is dan het minimumbelastingtarief, of indien in een verslagjaar een additionele bijheffing is verschuldigd op de voet van [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), berekent de multinationale groep de bijheffing:
+1. Indien in een verslagjaar het effectieve belastingtarief van een multinationale groep in een staat waarin groepsentiteiten van die groep zijn gevestigd lager is dan het minimumbelastingtarief, of indien in een verslagjaar een additionele bijheffing is verschuldigd op de voet van [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), berekent de multinationale groep de bijheffing:
 
 - a. voor die staat, overeenkomstig het tweede tot en met vierde lid; en
 
@@ -1134,7 +1134,7 @@ P: het bijheffingspercentage voor het verslagjaar voor die staat, berekend op de
 
 O: het bedrag van de overwinst over het verslagjaar in die staat, berekend op de voet van het vierde lid;
 
-A: het bedrag van de additionele bijheffing over het verslagjaar voor die staat, berekend op de voet van [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31);
+A: het bedrag van de additionele bijheffing over het verslagjaar voor die staat, berekend op de voet van [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11);
 
 N: het bedrag van de kwalificerende binnenlandse bijheffing over het verslagjaar voor die staat.
 
@@ -1148,7 +1148,7 @@ P: het bijheffingspercentage voor een verslagjaar voor een staat;
 
 M: het minimumbelastingtarief;
 
-E: het effectieve belastingtarief voor het verslagjaar voor die staat, berekend op de voet van [artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31).
+E: het effectieve belastingtarief voor het verslagjaar voor die staat, berekend op de voet van [artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11).
 
 4. De overwinst over een verslagjaar in een staat is het positieve bedrag berekend volgens de formule:
 
@@ -1158,11 +1158,11 @@ waarbij wordt verstaan onder:
 
 O: het bedrag van de overwinst over een verslagjaar in een staat;
 
-I: het netto kwalificerende inkomen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31);
+I: het netto kwalificerende inkomen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11);
 
-R: het uitgesloten inkomen op basis van reële aanwezigheid over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31).
+R: het uitgesloten inkomen op basis van reële aanwezigheid over het verslagjaar van alle in die staat gevestigde groepsentiteiten, berekend op de voet van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11).
 
-De informatieaangifte-indienende groepsentiteit kan er overeenkomstig [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), voor kiezen de vermindering met het uitgesloten inkomen op basis van reële aanwezigheid niet toe te passen.
+De informatieaangifte-indienende groepsentiteit kan er overeenkomstig [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), voor kiezen de vermindering met het uitgesloten inkomen op basis van reële aanwezigheid niet toe te passen.
 
 5. De bijheffing voor een groepsentiteit over een verslagjaar is het bedrag berekend volgens de formule:
 
@@ -1174,11 +1174,11 @@ H: de bijheffing over een verslagjaar voor een groepsentiteit;
 
 S: de bijheffing over het verslagjaar voor de staat waarin die groepsentiteit is gevestigd, berekend op de voet van het tweede lid;
 
-G: het kwalificerende inkomen van die groepsentiteit over het verslagjaar, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31);
+G: het kwalificerende inkomen van die groepsentiteit over het verslagjaar, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11);
 
-W: de som van het kwalificerende inkomen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, bedoeld in [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31).
+W: de som van het kwalificerende inkomen over het verslagjaar van alle in die staat gevestigde groepsentiteiten, bedoeld in [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11).
 
-6. Indien de bijheffing voor een staat voortvloeit uit een herrekening op de voet van [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), en er geen netto kwalificerend inkomen in die staat over het verslagjaar is, wordt de bijheffing toegerekend aan iedere groepsentiteit in die staat op de voet van de formule in het vijfde lid op basis van het kwalificerende inkomen van de groepsentiteiten over de verslagjaren waarvoor de herrekeningen op de voet van artikel 8.4, eerste lid, zijn verricht.
+6. Indien de bijheffing voor een staat voortvloeit uit een herrekening op de voet van [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), en er geen netto kwalificerend inkomen in die staat over het verslagjaar is, wordt de bijheffing toegerekend aan iedere groepsentiteit in die staat op de voet van de formule in het vijfde lid op basis van het kwalificerende inkomen van de groepsentiteiten over de verslagjaren waarvoor de herrekeningen op de voet van artikel 8.4, eerste lid, zijn verricht.
 
 7. De berekening van de bijheffing voor een in een staat gevestigde groepsentiteit ingevolge het eerste lid, onderdeel b, blijft achterwege indien de uiteindelijkemoederentiteit onmiddellijk of middellijk het volledige belang heeft in iedere in die staat gevestigde groepsentiteit en de inkomen-inclusiemaatregel van toepassing is op het belang van die uiteindelijkemoederentiteit in die groepsentiteiten.
 
@@ -1194,13 +1194,13 @@ W: de som van het kwalificerende inkomen over het verslagjaar van alle in die st
 
 - a. gekapitaliseerd en opgenomen zijn in de boekwaarde van de in aanmerking komende materiële activa;
 
-- b. toerekenbaar zijn aan inkomen dat overeenkomstig [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.12&z=2025-12-31&g=2025-12-31) is uitgesloten.
+- b. toerekenbaar zijn aan inkomen dat overeenkomstig [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.12&z=2026-04-11&g=2026-04-11) is uitgesloten.
 
 3. De uitzondering voor materiële activa van een in een staat gevestigde groepsentiteit in een verslagjaar bedraagt 7,4% van de boekwaarde van de in het verslagjaar in aanmerking komende materiële activa die in de staat zijn gelegen, met uitzondering van:
 
 - a. de boekwaarde van onroerende zaken, inclusief grond en gebouwen, die worden gehouden voor de verkoop, om te leasen of als belegging;
 
-- b. de boekwaarde van materiële activa die worden gebruikt om inkomen te genereren dat op de voet van [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.12&z=2025-12-31&g=2025-12-31) is uitgesloten.
+- b. de boekwaarde van materiële activa die worden gebruikt om inkomen te genereren dat op de voet van [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.12&z=2026-04-11&g=2026-04-11) is uitgesloten.
 
 4. De boekwaarde van de in een verslagjaar in aanmerking komende materiële activa is het gemiddelde van de boekwaarde – verminderd met de geaccumuleerde afwaardering, afschrijvingen en waardeverminderingen en vermeerderd met het bedrag dat toerekenbaar is aan de gekapitaliseerde werknemerslasten – van de in aanmerking komende materiële activa aan het begin en het einde van het verslagjaar, zoals opgenomen in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
 
@@ -1208,19 +1208,19 @@ W: de som van het kwalificerende inkomen over het verslagjaar van alle in die st
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over het bepalen van de waarde van gebruiksrechten van de lessee, bedoeld in het vijfde lid.
 
-7. Voor de toepassing van het tweede en derde lid zijn de in aanmerking komende loonkosten en de in aanmerking komende materiële activa van een groepsentiteit die een vaste inrichting is, de in aanmerking komende loonkosten en de in aanmerking komende materiële activa die op de voet van [artikel 6.13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2025-12-31&g=2025-12-31), zijn opgenomen in de afzonderlijke financiële verslaggeving van die vaste inrichting, voor zover deze kosten en activa worden gealloceerd aan de staat waarin de vaste inrichting is gelegen. De in aanmerking komende loonkosten en de in aanmerking komende materiële activa van een vaste inrichting worden niet in aanmerking genomen door de hoofdentiteit van de vaste inrichting.
+7. Voor de toepassing van het tweede en derde lid zijn de in aanmerking komende loonkosten en de in aanmerking komende materiële activa van een groepsentiteit die een vaste inrichting is, de in aanmerking komende loonkosten en de in aanmerking komende materiële activa die op de voet van [artikel 6.13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.13&z=2026-04-11&g=2026-04-11), zijn opgenomen in de afzonderlijke financiële verslaggeving van die vaste inrichting, voor zover deze kosten en activa worden gealloceerd aan de staat waarin de vaste inrichting is gelegen. De in aanmerking komende loonkosten en de in aanmerking komende materiële activa van een vaste inrichting worden niet in aanmerking genomen door de hoofdentiteit van de vaste inrichting.
 
-8. Indien het inkomen van een vaste inrichting op de voet van [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2025-12-31&g=2025-12-31), of [artikel 10.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2025-12-31&g=2025-12-31), is verminderd, worden de in aanmerking komende loonkosten en de in aanmerking komende materiële activa van die vaste inrichting in dezelfde mate uitgesloten voor de berekening van het uitgesloten inkomen op basis van reële aanwezigheid voor de multinationale groep of binnenlandse groep op de voet van dit artikel.
+8. Indien het inkomen van een vaste inrichting op de voet van [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2026-04-11&g=2026-04-11), of [artikel 10.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2026-04-11&g=2026-04-11), is verminderd, worden de in aanmerking komende loonkosten en de in aanmerking komende materiële activa van die vaste inrichting in dezelfde mate uitgesloten voor de berekening van het uitgesloten inkomen op basis van reële aanwezigheid voor de multinationale groep of binnenlandse groep op de voet van dit artikel.
 
 9. In aanmerking komende loonkosten ter zake van in aanmerking komende werknemers en in aanmerking komende materiële activa die zijn betaald door, onderscheidenlijk die eigendom zijn van, een doorkijkentiteit worden, mits ze niet zijn toegerekend op grond van het zevende en achtste lid, toegerekend aan:
 
-- a. de groepsentiteit-belanghouder van de doorkijkentiteit, naar evenredigheid van het bedrag dat op de voet van [artikel 6.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2025-12-31&g=2025-12-31), aan hem wordt toegerekend, indien de in aanmerking komende werknemers en de in aanmerking komende materiële activa zich bevinden in dezelfde staat als de groepsentiteit-belanghouder; en
+- a. de groepsentiteit-belanghouder van de doorkijkentiteit, naar evenredigheid van het bedrag dat op de voet van [artikel 6.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.14&z=2026-04-11&g=2026-04-11), aan hem wordt toegerekend, indien de in aanmerking komende werknemers en de in aanmerking komende materiële activa zich bevinden in dezelfde staat als de groepsentiteit-belanghouder; en
 
-- b. de doorkijkentiteit, indien zij de uiteindelijkemoederentiteit is, verminderd naar evenredigheid van het inkomen dat niet is meegenomen in de berekening van het kwalificerende inkomen van de doorkijkentiteit op de voet van [artikel 10.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2025-12-31&g=2025-12-31), indien de in aanmerking komende werknemers en de in aanmerking komende materiële activa zich bevinden in dezelfde staat als de doorkijkentiteit.
+- b. de doorkijkentiteit, indien zij de uiteindelijkemoederentiteit is, verminderd naar evenredigheid van het inkomen dat niet is meegenomen in de berekening van het kwalificerende inkomen van de doorkijkentiteit op de voet van [artikel 10.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2026-04-11&g=2026-04-11), indien de in aanmerking komende werknemers en de in aanmerking komende materiële activa zich bevinden in dezelfde staat als de doorkijkentiteit.
 
 10. De na de toepassing van het negende lid, onderdelen a en b, resterende in aanmerking komende loonkosten en de resterende in aanmerking komende materiële activa van de doorkijkentiteit worden niet meegenomen in de berekening van het uitgesloten inkomen op basis van reële aanwezigheid van een multinationale groep of binnenlandse groep.
 
-11. In aanmerking komende werknemers en in aanmerking komende materiële activa die zijn betaald door, onderscheidenlijk die eigendom zijn van of het recht tot gebruik hebben liggen bij, een uiteindelijkemoederentiteit die onderworpen is aan een aftrekbaardividendstelsel op de voet van [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.2&z=2025-12-31&g=2025-12-31) worden naar evenredigheid van het inkomen dat niet is meegenomen in de berekening van het kwalificerende inkomen van de uiteindelijkemoederentiteit, niet in aanmerking genomen bij het uitgesloten inkomen op basis van reële aanwezigheid van de uiteindelijkemoederentiteit.
+11. In aanmerking komende werknemers en in aanmerking komende materiële activa die zijn betaald door, onderscheidenlijk die eigendom zijn van of het recht tot gebruik hebben liggen bij, een uiteindelijkemoederentiteit die onderworpen is aan een aftrekbaardividendstelsel op de voet van [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.2&z=2026-04-11&g=2026-04-11) worden naar evenredigheid van het inkomen dat niet is meegenomen in de berekening van het kwalificerende inkomen van de uiteindelijkemoederentiteit, niet in aanmerking genomen bij het uitgesloten inkomen op basis van reële aanwezigheid van de uiteindelijkemoederentiteit.
 
 12. Het uitgesloten inkomen op basis van reële aanwezigheid van een staatloze groepsentiteit wordt over een verslagjaar afzonderlijk van het uitgesloten inkomen op basis van reële aanwezigheid van alle andere groepsentiteiten berekend. Deze berekening geschiedt overeenkomstig dit artikel.
 
@@ -1234,13 +1234,13 @@ W: de som van het kwalificerende inkomen over het verslagjaar van alle in die st
 
 - c. **in aanmerking komende materiële activa:**
 
-- 1°. in een staat gelegen materiële vaste activa;
+  - 1°. in een staat gelegen materiële vaste activa;
 
-- 2°. in een staat gelegen natuurlijke rijkdommen;
+  - 2°. in een staat gelegen natuurlijke rijkdommen;
 
-- 3°. het gebruiksrecht van een lessee op in een staat gelegen materiële vaste activa;
+  - 3°. het gebruiksrecht van een lessee op in een staat gelegen materiële vaste activa;
 
-- 4°. een licentie of een daarmee vergelijkbare regeling van een overheid, daaronder mede begrepen een staatkundig onderdeel of lokale autoriteit van een overheid, voor het gebruik van een in een staat gelegen onroerende zaak of voor de exploitatie van in een staat gelegen natuurlijke rijkdommen die een aanzienlijke investering in materiële activa met zich brengt.
+  - 4°. een licentie of een daarmee vergelijkbare regeling van een overheid, daaronder mede begrepen een staatkundig onderdeel of lokale autoriteit van een overheid, voor het gebruik van een in een staat gelegen onroerende zaak of voor de exploitatie van in een staat gelegen natuurlijke rijkdommen die een aanzienlijke investering in materiële activa met zich brengt.
 
 15. Voor toepassing van het tweede en veertiende lid en na toepassing van het zevende lid wordt onder in aanmerking komende loonkosten van een groepsentiteit mede begrepen: de volledige loonkosten van een werknemer indien die werknemer gedurende het verslagjaar meer dan 50% van de activiteiten voor de multinationale groep of binnenlandse groep heeft verricht in de staat waarin de groepsentiteit die de werkgever is, is gevestigd. Wanneer de werknemer gedurende het verslagjaar 50% of minder van zijn activiteiten heeft verricht in de staat waar de groepsentiteit die de werkgever is, is gevestigd, kan aan die groepsentiteit ten hoogste het deel van de loonkosten worden toegerekend dat betrekking heeft op de activiteiten die de werknemer in de staat van die groepsentiteit heeft verricht.
 
@@ -1248,45 +1248,45 @@ W: de som van het kwalificerende inkomen over het verslagjaar van alle in die st
 
 ##### Artikel 8.4. Additionele bijheffing door herrekening
 
-1. Indien de betrokken belastingen of het kwalificerende inkomen of verlies in een staat op de voet van het zevende lid of de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.7&z=2025-12-31&g=2025-12-31), [7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2025-12-31&g=2025-12-31), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.8&z=2025-12-31&g=2025-12-31) of [10.3, zesde of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2025-12-31&g=2025-12-31), worden aangepast en dit leidt tot een wijziging van het effectieve belastingtarief en de bijheffing van een multinationale groep of binnenlandse groep voor die staat over een voorgaand verslagjaar, worden het effectieve belastingtarief en de bijheffing over dat verslagjaar voor die staat herrekend op de voet van de [artikelen 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31).
+1. Indien de betrokken belastingen of het kwalificerende inkomen of verlies in een staat op de voet van het zevende lid of de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.7&z=2026-04-11&g=2026-04-11), [7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2026-04-11&g=2026-04-11), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.8&z=2026-04-11&g=2026-04-11) of [10.3, zesde of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2026-04-11&g=2026-04-11), worden aangepast en dit leidt tot een wijziging van het effectieve belastingtarief en de bijheffing van een multinationale groep of binnenlandse groep voor die staat over een voorgaand verslagjaar, worden het effectieve belastingtarief en de bijheffing over dat verslagjaar voor die staat herrekend op de voet van de [artikelen 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11).
 
-2. Indien de herrekening, bedoeld in het eerste lid, leidt tot een hoger bedrag aan bijheffing over een voorgaand verslagjaar, wordt het meerdere aangemerkt als een additionele bijheffing voor de toepassing van [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), over het verslagjaar waarin de herrekening is gemaakt.
+2. Indien de herrekening, bedoeld in het eerste lid, leidt tot een hoger bedrag aan bijheffing over een voorgaand verslagjaar, wordt het meerdere aangemerkt als een additionele bijheffing voor de toepassing van [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), over het verslagjaar waarin de herrekening is gemaakt.
 
-3. Indien voor een staat een additionele bijheffing op grond van het tweede lid is verschuldigd en er in die staat geen netto kwalificerend inkomen over het verslagjaar is, is het kwalificerende inkomen van een in die staat gevestigde groepsentiteit voor de toepassing van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), gelijk aan de aan die groepsentiteit overeenkomstig [artikel 8.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), toegerekende bijheffing gedeeld door het minimumbelastingtarief.
+3. Indien voor een staat een additionele bijheffing op grond van het tweede lid is verschuldigd en er in die staat geen netto kwalificerend inkomen over het verslagjaar is, is het kwalificerende inkomen van een in die staat gevestigde groepsentiteit voor de toepassing van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), gelijk aan de aan die groepsentiteit overeenkomstig [artikel 8.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), toegerekende bijheffing gedeeld door het minimumbelastingtarief.
 
-4. Indien voor een staat een additionele bijheffing op grond van [artikel 7.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31), is verschuldigd, is het kwalificerende inkomen van iedere in die staat gevestigde groepsentiteit voor de toepassing van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), gelijk aan de aan die groepsentiteit toegerekende additionele bijheffing gedeeld door het minimumbelastingtarief. De additionele bijheffing wordt toegerekend aan iedere in die staat gevestigde groepsentiteit volgens de formule:
+4. Indien voor een staat een additionele bijheffing op grond van [artikel 7.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11), is verschuldigd, is het kwalificerende inkomen van iedere in die staat gevestigde groepsentiteit voor de toepassing van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), gelijk aan de aan die groepsentiteit toegerekende additionele bijheffing gedeeld door het minimumbelastingtarief. De additionele bijheffing wordt toegerekend aan iedere in die staat gevestigde groepsentiteit volgens de formule:
 
 A = B – (G x M)
 
 waarbij wordt verstaan onder:
 
-A: het bedrag aan additionele bijheffing, bedoeld in [artikel 7.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31), dat wordt toegerekend aan een in de staat gevestigde groepsentiteit;
+A: het bedrag aan additionele bijheffing, bedoeld in [artikel 7.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11), dat wordt toegerekend aan een in de staat gevestigde groepsentiteit;
 
-B: de gecorrigeerde betrokken belastingen van die groepsentiteit, berekend op de voet van[hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&z=2025-12-31&g=2025-12-31);
+B: de gecorrigeerde betrokken belastingen van die groepsentiteit, berekend op de voet van[hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&z=2026-04-11&g=2026-04-11);
 
-G: het kwalificerende inkomen of verlies van die groepsentiteit over het verslagjaar, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31);
+G: het kwalificerende inkomen of verlies van die groepsentiteit over het verslagjaar, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11);
 
 M: het minimumbelastingtarief.
 
 5. Voor de toepassing van het vierde lid wordt de additionele bijheffing uitsluitend toegerekend aan groepsentiteiten waarvan het bedrag aan gecorrigeerde betrokken belastingen lager is dan nul en tevens lager is dan het kwalificerende inkomen of verlies van de desbetreffende groepsentiteit vermenigvuldigd met het minimumbelastingtarief.
 
-6. Indien aan een groepsentiteit in een verslagjaar een additionele bijheffing wordt toegerekend overeenkomstig dit artikel of [artikel 8.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), wordt die entiteit voor de toepassing van de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2025-12-31&g=2025-12-31) in dat verslagjaar aangemerkt als een laagbelaste groepsentiteit.
+6. Indien aan een groepsentiteit in een verslagjaar een additionele bijheffing wordt toegerekend overeenkomstig dit artikel of [artikel 8.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), wordt die entiteit voor de toepassing van de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2026-04-11&g=2026-04-11) in dat verslagjaar aangemerkt als een laagbelaste groepsentiteit.
 
-7. Voor zover een bedrag aan kwalificerende binnenlandse bijheffing dat over een verslagjaar is verschuldigd niet is betaald binnen vier verslagjaren na het verslagjaar waarover die bijheffing was verschuldigd, wordt het niet-betaalde bedrag aan kwalificerende binnenlandse bijheffing aangemerkt als een additionele bijheffing als bedoeld in [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), over het vijfde verslagjaar na het verslagjaar waarover die kwalificerende binnenlandse bijheffing was verschuldigd.
+7. Voor zover een bedrag aan kwalificerende binnenlandse bijheffing dat over een verslagjaar is verschuldigd niet is betaald binnen vier verslagjaren na het verslagjaar waarover die bijheffing was verschuldigd, wordt het niet-betaalde bedrag aan kwalificerende binnenlandse bijheffing aangemerkt als een additionele bijheffing als bedoeld in [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), over het vijfde verslagjaar na het verslagjaar waarover die kwalificerende binnenlandse bijheffing was verschuldigd.
 
 ##### Artikel 8.5. Berekening van de additionele bijheffing in bijzondere gevallen
 
-1. Niettegenstaande [artikel 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31) wordt op basis van [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31) additionele bijheffing berekend ten aanzien van groepsentiteiten van een multinationale groep die zijn gevestigd in een staat die voor de toepassing van een kwalificerende binnenlandse bijheffing niet voorziet in een herrekening op basis van een met artikel 8.4 vergelijkbare regeling.
+1. Niettegenstaande [artikel 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11) wordt op basis van [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11) additionele bijheffing berekend ten aanzien van groepsentiteiten van een multinationale groep die zijn gevestigd in een staat die voor de toepassing van een kwalificerende binnenlandse bijheffing niet voorziet in een herrekening op basis van een met artikel 8.4 vergelijkbare regeling.
 
-2. Ten aanzien van een verslagjaar waarin [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) of [artikel 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2025-12-31&g=2025-12-31) voor een staat wordt toegepast, vindt voor die staat geen herrekening als bedoeld in [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), plaats.
+2. Ten aanzien van een verslagjaar waarin [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) of [artikel 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2026-04-11&g=2026-04-11) voor een staat wordt toegepast, vindt voor die staat geen herrekening als bedoeld in [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), plaats.
 
-3. Groepsentiteiten waarop het eerste lid van toepassing is, worden voor de toepassing van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2025-12-31&g=2025-12-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2025-12-31&g=2025-12-31) aangemerkt als laagbelaste groepsentiteiten.
+3. Groepsentiteiten waarop het eerste lid van toepassing is, worden voor de toepassing van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2026-04-11&g=2026-04-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2026-04-11&g=2026-04-11) aangemerkt als laagbelaste groepsentiteiten.
 
 ##### Artikel 8.6. In minderheidsbelang gehouden groepsentiteit
 
-1. De berekening van het effectieve belastingtarief en de bijheffing voor een staat op de voet van de [hoofdstukken 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31) voor een in minderheidsbelang gehouden subgroep van een multinationale groep of binnenlandse groep wordt verricht alsof elke in minderheidsbelang gehouden subgroep een afzonderlijke multinationale groep of binnenlandse groep is. De gecorrigeerde betrokken belastingen en het kwalificerende inkomen of verlies van de entiteiten die behoren tot de in minderheidsbelang gehouden subgroep worden niet in aanmerking genomen bij het bepalen van het effectieve belastingtarief en het netto kwalificerende inkomen van de multinationale groep of binnenlandse groep op de voet van [artikel 8.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31).
+1. De berekening van het effectieve belastingtarief en de bijheffing voor een staat op de voet van de [hoofdstukken 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11) voor een in minderheidsbelang gehouden subgroep van een multinationale groep of binnenlandse groep wordt verricht alsof elke in minderheidsbelang gehouden subgroep een afzonderlijke multinationale groep of binnenlandse groep is. De gecorrigeerde betrokken belastingen en het kwalificerende inkomen of verlies van de entiteiten die behoren tot de in minderheidsbelang gehouden subgroep worden niet in aanmerking genomen bij het bepalen van het effectieve belastingtarief en het netto kwalificerende inkomen van de multinationale groep of binnenlandse groep op de voet van [artikel 8.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11).
 
-2. Het effectieve belastingtarief en de bijheffing van een in minderheidsbelang gehouden groepsentiteit van een multinationale groep of binnenlandse groep die geen onderdeel is van een in minderheidsbelang gehouden subgroep, wordt berekend op entiteitsbasis op de voet van de [hoofdstukken 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31). De gecorrigeerde betrokken belastingen en het kwalificerende inkomen of verlies van de in minderheidsbelang gehouden groepsentiteit worden niet in aanmerking genomen bij het bepalen van het effectieve belastingtarief en het netto kwalificerende inkomen van de multinationale groep of binnenlandse groep op de voet van [artikel 8.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31).
+2. Het effectieve belastingtarief en de bijheffing van een in minderheidsbelang gehouden groepsentiteit van een multinationale groep of binnenlandse groep die geen onderdeel is van een in minderheidsbelang gehouden subgroep, wordt berekend op entiteitsbasis op de voet van de [hoofdstukken 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11). De gecorrigeerde betrokken belastingen en het kwalificerende inkomen of verlies van de in minderheidsbelang gehouden groepsentiteit worden niet in aanmerking genomen bij het bepalen van het effectieve belastingtarief en het netto kwalificerende inkomen van de multinationale groep of binnenlandse groep op de voet van [artikel 8.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11).
 
 3. Dit artikel is niet van toepassing op een in minderheidsbelang gehouden groepsentiteit die een beleggingsentiteit is.
 
@@ -1300,11 +1300,11 @@ M: het minimumbelastingtarief.
 
 - d. **in minderheidsbelang gehouden dochterentiteit:** een in minderheidsbelang gehouden groepsentiteit waarin het controlerende belang onmiddellijk of middellijk wordt gehouden door een in minderheidsbelang gehouden moederentiteit.
 
-5. Voor de toepassing van de [artikelen 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2025-12-31&g=2025-12-31) en [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) worden in minderheidsbelang gehouden groepsentiteiten niet als een afzonderlijke groep aangemerkt.
+5. Voor de toepassing van de [artikelen 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2026-04-11&g=2026-04-11) en [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) worden in minderheidsbelang gehouden groepsentiteiten niet als een afzonderlijke groep aangemerkt.
 
 ##### Artikel 8.7. De minimis-uitzondering
 
-1. Indien de informatieaangifte-indienende groepsentiteit daarvoor kiest, bedraagt de bijheffing over een verslagjaar voor de in een staat gevestigde groepsentiteiten enkel de additionele bijheffing, bedoeld in [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), (de minimis-uitzondering) mits in dat verslagjaar:
+1. Indien de informatieaangifte-indienende groepsentiteit daarvoor kiest, bedraagt de bijheffing over een verslagjaar voor de in een staat gevestigde groepsentiteiten enkel de additionele bijheffing, bedoeld in [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), (de minimis-uitzondering) mits in dat verslagjaar:
 
 - a. de gemiddelde kwalificerende omzet van alle in die staat gevestigde groepsentiteiten minder bedraagt dan € 10.000.000; en
 
@@ -1312,9 +1312,9 @@ M: het minimumbelastingtarief.
 
 2. De gemiddelde kwalificerende omzet of het gemiddelde netto kwalificerende inkomen of verlies van alle in een staat gevestigde groepsentiteiten over een verslagjaar is het gemiddelde van de kwalificerende omzet, onderscheidenlijk het gemiddelde van het netto kwalificerende inkomen of verlies, van de in die staat gevestigde groepsentiteiten over het verslagjaar en de twee daaraan voorafgaande verslagjaren. Bij het bepalen van de gemiddelde kwalificerende omzet of het gemiddelde netto kwalificerende inkomen of verlies van de in een staat gevestigde groepsentiteiten wordt het eerste of tweede aan het verslagjaar voorafgaande verslagjaar niet in aanmerking genomen indien in dat verslagjaar of die verslagjaren geen groepsentiteiten in die staat waren gevestigd of de in die staat gevestigde groepsentiteiten geen kwalificerende omzet of netto kwalificerende inkomen of verlies hadden.
 
-3. De kwalificerende omzet van de in een staat gevestigde groepsentiteiten over een verslagjaar is de som van de omzet van de in die staat gevestigde groepsentiteiten verminderd of vermeerderd met de op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31) aangebrachte correcties voor zover die correcties van invloed zijn op de omzet van die groepsentiteiten.
+3. De kwalificerende omzet van de in een staat gevestigde groepsentiteiten over een verslagjaar is de som van de omzet van de in die staat gevestigde groepsentiteiten verminderd of vermeerderd met de op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11) aangebrachte correcties voor zover die correcties van invloed zijn op de omzet van die groepsentiteiten.
 
-4. Het netto kwalificerende inkomen of verlies van de in een staat gevestigde groepsentiteiten over een verslagjaar wordt bepaald op de voet van [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31).
+4. Het netto kwalificerende inkomen of verlies van de in een staat gevestigde groepsentiteiten over een verslagjaar wordt bepaald op de voet van [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11).
 
 5. Voor de toepassing van het eerste tot en met vierde lid worden, indien een verslagjaar langer of korter is dan een periode van twaalf maanden, het bedrag aan kwalificerende omzet en het bedrag aan netto kwalificerend inkomen of verlies van alle in een staat gevestigde groepsentiteiten over dat verslagjaar verlaagd, onderscheidenlijk verhoogd, naar evenredigheid van een verslagjaar van twaalf maanden.
 
@@ -1328,7 +1328,7 @@ M: het minimumbelastingtarief.
 
 - b. op basis van een vereenvoudigde berekening een effectief belastingtarief heeft dat ten minste gelijk is aan het voor dat verslagjaar geldende overgangstarief; of
 
-- c. in een kwalificerend landenrapport een winst vóór winstbelasting rapporteert die niet meer bedraagt dan het uitgesloten inkomen op basis van reële aanwezigheid berekend op de voet van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31), met dien verstande dat bij die berekening uitsluitend de werknemerslasten en de materiële activa in aanmerking worden genomen van groepsentiteiten die ook groepsentiteiten zijn op basis van [artikel 29b, onderdeel c, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), of daarmee vergelijkbare regelgeving in een andere staat, en die groepsentiteiten op grond van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.3&z=2025-12-31&g=2025-12-31) in dezelfde staat zijn gevestigd als de staat waarin die entiteiten voor de toepassing van [hoofdstuk VIIa van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa), of daarmee vergelijkbare regelgeving in een andere staat, zijn gevestigd.
+- c. in een kwalificerend landenrapport een winst vóór winstbelasting rapporteert die niet meer bedraagt dan het uitgesloten inkomen op basis van reële aanwezigheid berekend op de voet van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11), met dien verstande dat bij die berekening uitsluitend de werknemerslasten en de materiële activa in aanmerking worden genomen van groepsentiteiten die ook groepsentiteiten zijn op basis van [artikel 29b, onderdeel c, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), of daarmee vergelijkbare regelgeving in een andere staat, en die groepsentiteiten op grond van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.3&z=2026-04-11&g=2026-04-11) in dezelfde staat zijn gevestigd als de staat waarin die entiteiten voor de toepassing van [hoofdstuk VIIa van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa), of daarmee vergelijkbare regelgeving in een andere staat, zijn gevestigd.
 
 2. Indien de multinationale groep in een staat groepsentiteiten ter verkoop houdt, dient voor de toepassing van het eerste lid, onderdeel a, de som van de totale inkomsten zoals gerapporteerd in het kwalificerende landenrapport voor die staat en de omzet van de in die staat ter verkoop gehouden groepsentiteiten minder te bedragen dan € 10.000.000.
 
@@ -1344,19 +1344,19 @@ VB: de vereenvoudigde betrokken belastingen, zijnde de belastingen naar het inko
 
 W: de winst vóór winstbelasting in die staat zoals door de multinationale groep is gerapporteerd in een kwalificerend landenrapport.
 
-4. Voor de berekening van de vereenvoudigde betrokken belastingen, bedoeld in het derde lid, worden de in de financiële verslaggeving gerapporteerde onzekere belastingposities alsmede de aanwending van belastinglatenties als bedoeld in [artikel 14.1, tweede lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2025-12-31&g=2025-12-31), in de staat waarvoor het effectieve belastingtarief vereenvoudigd wordt berekend niet in aanmerking genomen. In afwijking van de vorige zin mag de aanwending van actieve belastinglatenties als bedoeld in artikel 14.1, tweede lid, onderdelen b tot en met d, in aanmerking worden genomen voor zover deze aanwending zou zijn toegestaan op grond van artikel 14.1, zesde lid.
+4. Voor de berekening van de vereenvoudigde betrokken belastingen, bedoeld in het derde lid, worden de in de financiële verslaggeving gerapporteerde onzekere belastingposities alsmede de aanwending van belastinglatenties als bedoeld in [artikel 14.1, tweede lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2026-04-11&g=2026-04-11), in de staat waarvoor het effectieve belastingtarief vereenvoudigd wordt berekend niet in aanmerking genomen. In afwijking van de vorige zin mag de aanwending van actieve belastinglatenties als bedoeld in artikel 14.1, tweede lid, onderdelen b tot en met d, in aanmerking worden genomen voor zover deze aanwending zou zijn toegestaan op grond van artikel 14.1, zesde lid.
 
 5. Voor het bepalen van de winst vóór winstbelasting, bedoeld in het eerste lid, onderdelen a en c, en het derde lid, wordt een nettovermogensverlies voor zover dat voortvloeit uit wijzigingen in de reële waarde van een belang, niet zijnde een portfoliobelang, niet in aanmerking genomen indien dat verlies meer dan € 50.000.000 bedraagt.
 
 6. Voor het bepalen van de totale inkomsten, bedoeld in het eerste lid, onderdeel a, en het tweede lid, en voor het bepalen van de winst vóór winstbelasting, bedoeld in het eerste lid, onderdelen a en c, en het derde lid, worden ten aanzien van een geldverstrekking binnen een multinationale groep of binnenlandse groep die als eigen vermogen in aanmerking wordt genomen volgens de fiscale regelgeving van de staat van de groepsentiteit die de geldverstrekking doet, de betalingen die voortvloeien uit deze geldverstrekking zowel bij de ontvanger als bij de verstrekker als rente in aanmerking genomen mits dit in overeenstemming is met de kwalificerende financiële verslaggeving.
 
-7. Indien een uiteindelijkemoederentiteit van een multinationale groep in de staat waarin zij is gevestigd is onderworpen aan een aftrekbaardividendstelsel wordt voor de toepassing van het eerste lid, onderdelen a en c, en het derde lid de winst vóór winstbelasting in die staat verminderd met het bedrag dat is uitgedeeld als aftrekbaar dividend aan een belanghouder die voldoet aan de voorwaarden van [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.2&z=2025-12-31&g=2025-12-31), onderdelen a tot en met e. De vereenvoudigde betrokken belastingen, bedoeld in het derde lid, niet zijnde de belastingen waarvoor de dividendaftrek wordt toegestaan, worden evenredig aan de vermindering van de winst vóór winstbelasting verminderd. Artikel 10.2, derde tot en met vierde lid, is van overeenkomstige toepassing, met dien verstande dat daarbij voor eerste en tweede lid wordt gelezen: eerste en tweede zin.
+7. Indien een uiteindelijkemoederentiteit van een multinationale groep in de staat waarin zij is gevestigd is onderworpen aan een aftrekbaardividendstelsel wordt voor de toepassing van het eerste lid, onderdelen a en c, en het derde lid de winst vóór winstbelasting in die staat verminderd met het bedrag dat is uitgedeeld als aftrekbaar dividend aan een belanghouder die voldoet aan de voorwaarden van [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.2&z=2026-04-11&g=2026-04-11), onderdelen a tot en met e. De vereenvoudigde betrokken belastingen, bedoeld in het derde lid, niet zijnde de belastingen waarvoor de dividendaftrek wordt toegestaan, worden evenredig aan de vermindering van de winst vóór winstbelasting verminderd. Artikel 10.2, derde tot en met vierde lid, is van overeenkomstige toepassing, met dien verstande dat daarbij voor eerste en tweede lid wordt gelezen: eerste en tweede zin.
 
 8. Voor de toepassing van het eerste lid, onderdelen a en c, en het derde lid worden de winst vóór winstbelasting, de vereenvoudigde betrokken belastingen en de totale inkomsten van een beleggingsentiteit of een verzekeringsbeleggingsentiteit in aanmerking genomen in de staten waarin de groepsentiteit-belanghouders zijn gevestigd naar rato van het belang dat zij hebben in de beleggingsentiteit of de verzekeringsbeleggingsentiteit.
 
 9. Voor de toepassing van het eerste lid, onderdelen a en c, en het derde lid worden de winst vóór winstbelasting, de vereenvoudigde betrokken belastingen en de totale inkomsten van een beleggingsentiteit of een verzekeringsbeleggingsentiteit niet in aanmerking genomen naar rato van het belang dat een belanghouder die geen groepsentiteit-belanghouder is heeft in die entiteit.
 
-10. In afwijking van [artikel 7.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2025-12-31&g=2025-12-31), wordt de keuze, bedoeld in artikel 7.4, eerste lid, ten aanzien van een staat waarvoor dit artikel in een verslagjaar wordt toegepast, gemaakt bij de indiening van de bijheffing-informatieaangifte over het eerste verslagjaar waarin dit artikel ten aanzien van die staat niet wordt toegepast.
+10. In afwijking van [artikel 7.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2026-04-11&g=2026-04-11), wordt de keuze, bedoeld in artikel 7.4, eerste lid, ten aanzien van een staat waarvoor dit artikel in een verslagjaar wordt toegepast, gemaakt bij de indiening van de bijheffing-informatieaangifte over het eerste verslagjaar waarin dit artikel ten aanzien van die staat niet wordt toegepast.
 
 11. Dit artikel is van overeenkomstige toepassing op een multinationale groep of een binnenlandse groep die geen kwalificerend landenrapport opstelt, met dien verstande dat daarbij voor de in een kwalificerend landenrapport gerapporteerde totale inkomsten en winst vóór winstbelasting wordt gelezen: de gegevens in de kwalificerende financiële verslaggeving die de multinationale groep of binnenlandse groep zou moeten rapporteren in een kwalificerend landenrapport als totale inkomsten en winst vóór winstbelasting indien zij verplicht zou zijn geweest om een kwalificerend landenrapport op te stellen.
 
@@ -1366,69 +1366,69 @@ W: de winst vóór winstbelasting in die staat zoals door de multinationale groe
 
 - b. **kwalificerende financiële verslaggeving:**
 
-- 1°. de financiële verslaggeving van de uiteindelijkemoederentiteit, dan wel de enkelvoudige jaarrekening van iedere groepsentiteit mits die is opgesteld in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard of een geautoriseerde financiële verslaggevingsstandaard, de financiële verslaggeving van de groepsentiteit is opgesteld aan de hand van die financiële verslaggevingsstandaard en de gegevens in de financiële verslaggeving betrouwbaar zijn;
+  - 1°. de financiële verslaggeving van de uiteindelijkemoederentiteit, dan wel de enkelvoudige jaarrekening van iedere groepsentiteit mits die is opgesteld in overeenstemming met een geaccepteerde financiële verslaggevingsstandaard of een geautoriseerde financiële verslaggevingsstandaard, de financiële verslaggeving van de groepsentiteit is opgesteld aan de hand van die financiële verslaggevingsstandaard en de gegevens in de financiële verslaggeving betrouwbaar zijn;
 
-- 2°. in geval van een groepsentiteit die enkel op grond van haar beperkte omvang of op grond van materialiteit niet is opgenomen in de geconsolideerde jaarrekening: de verslaggeving van die groepsentiteit die is gebruikt voor het opstellen van het kwalificerende landenrapport van de multinationale groep; of
+  - 2°. in geval van een groepsentiteit die enkel op grond van haar beperkte omvang of op grond van materialiteit niet is opgenomen in de geconsolideerde jaarrekening: de verslaggeving van die groepsentiteit die is gebruikt voor het opstellen van het kwalificerende landenrapport van de multinationale groep; of
 
-- 3°. in geval van een vaste inrichting waarvoor geen verslaggeving als bedoeld in subonderdeel 1° of 2° beschikbaar is: de afzonderlijke financiële verslaggeving die door een hoofdentiteit wordt opgesteld voor een vaste inrichting;
+  - 3°. in geval van een vaste inrichting waarvoor geen verslaggeving als bedoeld in subonderdeel 1° of 2° beschikbaar is: de afzonderlijke financiële verslaggeving die door een hoofdentiteit wordt opgesteld voor een vaste inrichting;
 
 - c. **het voor het verslagjaar geldende overgangstarief:** voor verslagjaren die aanvangen in:
 
-- 1°. 2023 of 2024: 15%;
+  - 1°. 2023 of 2024: 15%;
 
-- 2°. 2025: 16%;
+  - 2°. 2025: 16%;
 
-- 3°. 2026: 17%.
+  - 3°. 2026: 17%.
 
 13. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over aankoopprijsaanpassingen in de kwalificerende financiële verslaggeving.
 
 ##### Artikel 8.9. Uitsluiting van de tijdelijke veilige haven
 
-[Artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) is niet van toepassing ten aanzien van groepsentiteiten:
+[Artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) is niet van toepassing ten aanzien van groepsentiteiten:
 
 - a. die staatloze groepsentiteiten zijn;
 
 - b. die beleggingsentiteiten of verzekeringsbeleggingsentiteiten zijn, tenzij:
 
-- 1°. de informatieaangifte-indienende groepsentiteit ten aanzien van die beleggingsentiteiten of verzekeringsbeleggingsentiteiten ervoor kiest om [artikel 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2025-12-31&g=2025-12-31) niet toe te passen of ten aanzien van de groepsentiteit-belanghouders in die beleggingsentiteiten of verzekeringsbeleggingsentiteiten ervoor kiest om [artikel 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2025-12-31&g=2025-12-31) niet toe te passen; en
+  - 1°. de informatieaangifte-indienende groepsentiteit ten aanzien van die beleggingsentiteiten of verzekeringsbeleggingsentiteiten ervoor kiest om [artikel 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2026-04-11&g=2026-04-11) niet toe te passen of ten aanzien van de groepsentiteit-belanghouders in die beleggingsentiteiten of verzekeringsbeleggingsentiteiten ervoor kiest om [artikel 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2026-04-11&g=2026-04-11) niet toe te passen; en
 
-- 2°. die beleggingsentiteiten of verzekeringsbeleggingsentiteiten voor de toepassing van [hoofdstuk VIIa van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa), of daarmee vergelijkbare regelgeving in een andere staat, in dezelfde staat zijn gevestigd als haar groepsentiteit-belanghouders;
+  - 2°. die beleggingsentiteiten of verzekeringsbeleggingsentiteiten voor de toepassing van [hoofdstuk VIIa van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa), of daarmee vergelijkbare regelgeving in een andere staat, in dezelfde staat zijn gevestigd als haar groepsentiteit-belanghouders;
 
-- c. die behoren tot een multinationale groep met meerdere uiteindelijkemoederentiteiten waarvan een kwalificerend landenrapport als bedoeld in [artikel 8.8, twaalfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), niet de informatie van de gecombineerde groepen bevat;
+- c. die behoren tot een multinationale groep met meerdere uiteindelijkemoederentiteiten waarvan een kwalificerend landenrapport als bedoeld in [artikel 8.8, twaalfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), niet de informatie van de gecombineerde groepen bevat;
 
-- d. die zijn gevestigd in een staat waarin een doorkijkentiteit is gevestigd die een uiteindelijkemoederentiteit is, tenzij het volledige belang in die doorkijkentiteit wordt gehouden door een of meer belanghouders die voldoen aan de voorwaarden van [artikel 10.1, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2025-12-31&g=2025-12-31);
+- d. die zijn gevestigd in een staat waarin een doorkijkentiteit is gevestigd die een uiteindelijkemoederentiteit is, tenzij het volledige belang in die doorkijkentiteit wordt gehouden door een of meer belanghouders die voldoen aan de voorwaarden van [artikel 10.1, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.1&z=2026-04-11&g=2026-04-11);
 
-- e. die zijn gevestigd in een staat ten aanzien waarvan de informatieaangifte-indienende groepsentiteit ervoor kiest of over eerdere verslagjaren ervoor heeft gekozen om [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2025-12-31&g=2025-12-31), of daarmee vergelijkbare regelgeving in een andere staat, op de in die staat gevestigde groepsentiteiten toe te passen;
+- e. die zijn gevestigd in een staat ten aanzien waarvan de informatieaangifte-indienende groepsentiteit ervoor kiest of over eerdere verslagjaren ervoor heeft gekozen om [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2026-04-11&g=2026-04-11), of daarmee vergelijkbare regelgeving in een andere staat, op de in die staat gevestigde groepsentiteiten toe te passen;
 
-- f. die zijn gevestigd in een staat waarop [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), of daarmee vergelijkbare regelgeving in een andere staat, in een eerder verslagjaar niet is toegepast tenzij geen van de groepsentiteiten van de multinationale groep in dat verslagjaar in die staat waren gevestigd.
+- f. die zijn gevestigd in een staat waarop [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), of daarmee vergelijkbare regelgeving in een andere staat, in een eerder verslagjaar niet is toegepast tenzij geen van de groepsentiteiten van de multinationale groep in dat verslagjaar in die staat waren gevestigd.
 
 ##### Artikel 8.10. Joint ventures
 
-1. Voor een joint venture en de met die joint venture verbonden partijen worden de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.9&z=2025-12-31&g=2025-12-31) toegepast alsof zij groepsentiteiten vormen van een afzonderlijke multinationale groep waarvan de joint venture de uiteindelijkemoederentiteit is en alsof deze groepsentiteiten ook groepsentiteiten zijn op basis van [artikel 29b, onderdeel c, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), of daarmee vergelijkbare regelgeving in een andere staat, en ze voor de toepassing van [hoofdstuk VIIa van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa), of daarmee vergelijkbare regelgeving in een andere staat, fiscaal zijn gevestigd in dezelfde staat als waarin zij op grond van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.3&z=2025-12-31&g=2025-12-31) zijn gevestigd.
+1. Voor een joint venture en de met die joint venture verbonden partijen worden de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.9&z=2026-04-11&g=2026-04-11) toegepast alsof zij groepsentiteiten vormen van een afzonderlijke multinationale groep waarvan de joint venture de uiteindelijkemoederentiteit is en alsof deze groepsentiteiten ook groepsentiteiten zijn op basis van [artikel 29b, onderdeel c, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), of daarmee vergelijkbare regelgeving in een andere staat, en ze voor de toepassing van [hoofdstuk VIIa van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa), of daarmee vergelijkbare regelgeving in een andere staat, fiscaal zijn gevestigd in dezelfde staat als waarin zij op grond van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.3&z=2026-04-11&g=2026-04-11) zijn gevestigd.
 
-2. Voor de toepassing van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) op een joint venture en de met die joint venture verbonden partijen wordt voor de in een kwalificerend landenrapport gerapporteerde totale inkomsten en winst vóór winstbelasting gelezen: de in de kwalificerende financiële verslaggeving gerapporteerde totale omzet per staat, onderscheidenlijk het bedrag aan winst per staat, voordat daarop de belasting naar het inkomen in mindering is gebracht.
+2. Voor de toepassing van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) op een joint venture en de met die joint venture verbonden partijen wordt voor de in een kwalificerend landenrapport gerapporteerde totale inkomsten en winst vóór winstbelasting gelezen: de in de kwalificerende financiële verslaggeving gerapporteerde totale omzet per staat, onderscheidenlijk het bedrag aan winst per staat, voordat daarop de belasting naar het inkomen in mindering is gebracht.
 
 ##### Artikel 8.11. Permanente veilige haven: vereenvoudigde berekening
 
-1. Indien [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) niet is toegepast en de informatieaangifte-indienende groepsentiteit daarvoor kiest, bedraagt de bijheffing voor de in een staat gevestigde groepsentiteiten over een verslagjaar enkel de additionele bijheffing, bedoeld in [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31) en [artikel 8.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.5&z=2025-12-31&g=2025-12-31), over dat verslagjaar voor die staat, mits:
+1. Indien [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) niet is toegepast en de informatieaangifte-indienende groepsentiteit daarvoor kiest, bedraagt de bijheffing voor de in een staat gevestigde groepsentiteiten over een verslagjaar enkel de additionele bijheffing, bedoeld in [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11) en [artikel 8.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.5&z=2026-04-11&g=2026-04-11), over dat verslagjaar voor die staat, mits:
 
-- a. er in die staat op basis van een vereenvoudigde inkomensberekening een netto kwalificerend verlies is of een netto kwalificerend inkomen dat niet meer bedraagt dan het uitgesloten inkomen op basis van reële aanwezigheid voor de in die staat gevestigde groepsentiteiten berekend op de voet van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31);
+- a. er in die staat op basis van een vereenvoudigde inkomensberekening een netto kwalificerend verlies is of een netto kwalificerend inkomen dat niet meer bedraagt dan het uitgesloten inkomen op basis van reële aanwezigheid voor de in die staat gevestigde groepsentiteiten berekend op de voet van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11);
 
-- b. op basis van een vereenvoudigde omzet- en inkomensberekening de in die staat gevestigde groepsentiteiten voldoen aan de voorwaarden, bedoeld in [artikel 8.7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2025-12-31&g=2025-12-31), waarbij artikel 8.7, tweede, vijfde en zesde lid, van overeenkomstige toepassing is; of
+- b. op basis van een vereenvoudigde omzet- en inkomensberekening de in die staat gevestigde groepsentiteiten voldoen aan de voorwaarden, bedoeld in [artikel 8.7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2026-04-11&g=2026-04-11), waarbij artikel 8.7, tweede, vijfde en zesde lid, van overeenkomstige toepassing is; of
 
-- c. op basis van een vereenvoudigde inkomens- en belastingberekening het effectieve belastingtarief, berekend volgens de in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31) opgenomen formule, voor een verslagjaar voor die staat ten minste gelijk is aan het minimumbelastingtarief.
+- c. op basis van een vereenvoudigde inkomens- en belastingberekening het effectieve belastingtarief, berekend volgens de in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11) opgenomen formule, voor een verslagjaar voor die staat ten minste gelijk is aan het minimumbelastingtarief.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de wijze waarop de vereenvoudigde omzet-, inkomens- en belastingberekeningen plaatsvinden voor een staat en de in die staat gevestigde groepsentiteiten, waaronder groepsentiteiten die enkel op grond van hun beperkte omvang of op grond van materialiteit niet zijn opgenomen in de geconsolideerde jaarrekening van de groep.
 
 ##### Artikel 8.12. Uitsluiting van de tijdelijke en permanente veilige haven
 
-De inspecteur geeft slechts dan geen gevolg aan de keuze van een informatieaangifte-indienende groepsentiteit voor de toepassing van de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2025-12-31&g=2025-12-31), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31), of [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2025-12-31&g=2025-12-31) ten aanzien van een staat voor een verslagjaar indien:
+De inspecteur geeft slechts dan geen gevolg aan de keuze van een informatieaangifte-indienende groepsentiteit voor de toepassing van de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2026-04-11&g=2026-04-11), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11), of [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2026-04-11&g=2026-04-11) ten aanzien van een staat voor een verslagjaar indien:
 
-- a. op grond van de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2025-12-31&g=2025-12-31) ten aanzien van een in die staat gevestigde groepsentiteit bijgeheven zou kunnen worden indien de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2025-12-31&g=2025-12-31), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31), onderscheidenlijk [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2025-12-31&g=2025-12-31), niet van toepassing zouden zijn en het effectieve belastingtarief in die staat, berekend op de voet van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31), lager is dan het minimumbelastingtarief;
+- a. op grond van de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2026-04-11&g=2026-04-11) ten aanzien van een in die staat gevestigde groepsentiteit bijgeheven zou kunnen worden indien de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2026-04-11&g=2026-04-11), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11), onderscheidenlijk [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2026-04-11&g=2026-04-11), niet van toepassing zouden zijn en het effectieve belastingtarief in die staat, berekend op de voet van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11), lager is dan het minimumbelastingtarief;
 
-- b. hij de informatieaangifte-indienende groepsentiteit binnen 36 maanden nadat de bijheffing-informatieaangifte voor dat verslagjaar is ingediend op de hoogte stelt van specifieke feiten en omstandigheden die mogelijk een materieel effect hebben op de toepassing van de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2025-12-31&g=2025-12-31), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31), onderscheidenlijk [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2025-12-31&g=2025-12-31), en verzoekt om het effect van die feiten en omstandigheden op de toepassing van de artikelen 8.8, 8.11, 8.13, onderscheidenlijk 8.14, te verduidelijken; en
+- b. hij de informatieaangifte-indienende groepsentiteit binnen 36 maanden nadat de bijheffing-informatieaangifte voor dat verslagjaar is ingediend op de hoogte stelt van specifieke feiten en omstandigheden die mogelijk een materieel effect hebben op de toepassing van de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2026-04-11&g=2026-04-11), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11), onderscheidenlijk [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2026-04-11&g=2026-04-11), en verzoekt om het effect van die feiten en omstandigheden op de toepassing van de artikelen 8.8, 8.11, 8.13, onderscheidenlijk 8.14, te verduidelijken; en
 
-- c. de informatieaangifte-indienende groepsentiteit niet binnen 6 maanden na het verzoek erin slaagt aannemelijk te maken dat die feiten en omstandigheden geen materieel effect hebben op de toepassing van de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2025-12-31&g=2025-12-31), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31), onderscheidenlijk [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2025-12-31&g=2025-12-31).
+- c. de informatieaangifte-indienende groepsentiteit niet binnen 6 maanden na het verzoek erin slaagt aannemelijk te maken dat die feiten en omstandigheden geen materieel effect hebben op de toepassing van de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2026-04-11&g=2026-04-11), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11), onderscheidenlijk [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 8.13. Kwalificerende binnenlandse bijheffing veilige haven
 
@@ -1444,7 +1444,7 @@ De inspecteur geeft slechts dan geen gevolg aan de keuze van een informatieaangi
 
 - a. de financiële verslaggevingsstandaard die is gebruikt bij het opstellen van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit;
 
-- b. een andere geaccepteerde of geautoriseerde verslaggevingsstandaard overeenkomstig [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2025-12-31&g=2025-12-31); of
+- b. een andere geaccepteerde of geautoriseerde verslaggevingsstandaard overeenkomstig [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2026-04-11&g=2026-04-11); of
 
 - c. de lokale financiële verslaggevingsstandaard.
 
@@ -1454,7 +1454,7 @@ De inspecteur geeft slechts dan geen gevolg aan de keuze van een informatieaangi
 
 - b. de financiële verslaggeving is onderworpen aan externe financiële controle.
 
-4. In afwijking van de berekening van het derde lid wordt de kwalificerende binnenlandse bijheffing berekend op basis van de financiële verslaggevingsstandaard die is gebruikt bij het opstellen van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit of een andere geaccepteerde of geautoriseerde verslaggevingsstandaard overeenkomstig [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2025-12-31&g=2025-12-31), indien:
+4. In afwijking van de berekening van het derde lid wordt de kwalificerende binnenlandse bijheffing berekend op basis van de financiële verslaggevingsstandaard die is gebruikt bij het opstellen van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit of een andere geaccepteerde of geautoriseerde verslaggevingsstandaard overeenkomstig [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2026-04-11&g=2026-04-11), indien:
 
 - a. niet alle in die staat gevestigde groepsentiteiten voldoen aan de voorwaarden van het derde lid; of
 
@@ -1474,7 +1474,7 @@ De inspecteur geeft slechts dan geen gevolg aan de keuze van een informatieaangi
 
 ##### Artikel 8.14. Tijdelijke onderbelastewinstbijheffing veilige haven
 
-Indien de informatieaangifte-indienende groepsentiteit van een multinationale groep daarvoor kiest, bedraagt voor de toepassing van [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2025-12-31&g=2025-12-31), de bijheffing voor iedere laagbelaste groepsentiteit die is gevestigd in de staat waarin de uiteindelijkemoederentiteit is gevestigd voor een verslagjaar nihil, indien:
+Indien de informatieaangifte-indienende groepsentiteit van een multinationale groep daarvoor kiest, bedraagt voor de toepassing van [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2026-04-11&g=2026-04-11), de bijheffing voor iedere laagbelaste groepsentiteit die is gevestigd in de staat waarin de uiteindelijkemoederentiteit is gevestigd voor een verslagjaar nihil, indien:
 
 - a. het verslagjaar niet langer is dan een periode van twaalf maanden en aanvangt op of voor 31 december 2025 en eindigt voor 31 december 2026; en
 
@@ -1498,29 +1498,29 @@ Indien de informatieaangifte-indienende groepsentiteit van een multinationale gr
 
 - a. **fusie:** een rechtshandeling waarbij:
 
-- 1°. alle of nagenoeg alle groepsentiteiten van twee of meer afzonderlijke groepen onder gemeenschappelijke zeggenschap worden gebracht, waardoor deze entiteiten tot een groep worden samengevoegd; of
+  - 1°. alle of nagenoeg alle groepsentiteiten van twee of meer afzonderlijke groepen onder gemeenschappelijke zeggenschap worden gebracht, waardoor deze entiteiten tot een groep worden samengevoegd; of
 
-- 2°. een entiteit die geen deel uitmaakt van een groep met een andere entiteit of groep onder gemeenschappelijke zeggenschap wordt gebracht, waardoor zij tot een groep worden samengevoegd.
+  - 2°. een entiteit die geen deel uitmaakt van een groep met een andere entiteit of groep onder gemeenschappelijke zeggenschap wordt gebracht, waardoor zij tot een groep worden samengevoegd.
 
 - b. **splitsing:** een rechtshandeling waarbij een groep wordt gesplitst in twee of meer verschillende groepen waarvan de groepsentiteiten na de splitsing niet meer worden opgenomen in de geconsolideerde jaarrekening door dezelfde uiteindelijkemoederentiteit.
 
-- c. **omzetdrempel:** het ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31) vereiste bedrag aan omzet in een verslagjaar volgens de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit van de groep.
+- c. **omzetdrempel:** het ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11) vereiste bedrag aan omzet in een verslagjaar volgens de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit van de groep.
 
 ##### Artikel 9.2. Groepsentiteiten die toetreden tot een multinationale groep of binnenlandse groep dan wel deze verlaten
 
 1. Een toetredende of uittredende entiteit wordt in het verslagjaar van toetreden tot of uittreden van een multinationale groep of binnenlandse groep geacht deel uit te maken van die groep, indien een deel van de activa, passiva, het inkomen, de uitgaven en de kasstromen van die toetredende of uittredende entiteit wordt verantwoord in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit in het verslagjaar van het toetreden of uittreden. Het effectieve belastingtarief en de bijheffing van de toetredende of uittredende entiteit worden berekend overeenkomstig het tweede tot en met achtste lid.
 
-2. In het verslagjaar van toetreding of uittreding wordt door een multinationale groep of binnenlandse groep voor de toepassing van deze wet uitsluitend rekening gehouden met de nettowinst of het nettoverlies overeenkomstig [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2025-12-31&g=2025-12-31), en vóór eliminatie van intra-groepstransacties, en de gecorrigeerde betrokken belastingen van de toetredende of uittredende entiteit die zijn opgenomen in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
+2. In het verslagjaar van toetreding of uittreding wordt door een multinationale groep of binnenlandse groep voor de toepassing van deze wet uitsluitend rekening gehouden met de nettowinst of het nettoverlies overeenkomstig [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2026-04-11&g=2026-04-11), en vóór eliminatie van intra-groepstransacties, en de gecorrigeerde betrokken belastingen van de toetredende of uittredende entiteit die zijn opgenomen in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
 
 3. In het verslagjaar van toetreding of uittreding en elk daaropvolgend verslagjaar worden het kwalificerende inkomen of verlies en de gecorrigeerde betrokken belastingen van de toetredende of uittredende entiteit bepaald op basis van de historische boekwaarde van de activa en passiva van die entiteit.
 
-4. In het verslagjaar van toetreding of uittreding wordt bij de berekening van de in aanmerking komende loonkosten, bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31), van de toetredende of uittredende entiteit alleen rekening gehouden met de loonkosten die worden verantwoord in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
+4. In het verslagjaar van toetreding of uittreding wordt bij de berekening van de in aanmerking komende loonkosten, bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11), van de toetredende of uittredende entiteit alleen rekening gehouden met de loonkosten die worden verantwoord in de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
 
-5. De berekening van de boekwaarden van de in aanmerking komende materiële activa, bedoeld in [artikel 8.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31), van de toetredende of uittredende entiteit wordt in het verslagjaar van toetreding of uittreding aangepast naar rato van de periode waarin de toetredende of uittredende entiteit deel uitmaakte van de multinationale groep of binnenlandse groep.
+5. De berekening van de boekwaarden van de in aanmerking komende materiële activa, bedoeld in [artikel 8.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11), van de toetredende of uittredende entiteit wordt in het verslagjaar van toetreding of uittreding aangepast naar rato van de periode waarin de toetredende of uittredende entiteit deel uitmaakte van de multinationale groep of binnenlandse groep.
 
-6. Met uitzondering van de fictieve actieve belastinglatentie die betrekking heeft op een kwalificerend verlies bedoeld in [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2025-12-31&g=2025-12-31), worden actieve en passieve belastinglatenties van de toetredende of uittredende entiteit die tussen multinationale groepen of binnenlandse groepen worden overgedragen, in aanmerking genomen door de verkrijgende multinationale groep of binnenlandse groep op dezelfde wijze en in dezelfde mate alsof de verkrijgende multinationale groep of binnenlandse groep de zeggenschap had over de groepsentiteit op het moment van het ontstaan van die actieve en passieve belastinglatenties.
+6. Met uitzondering van de fictieve actieve belastinglatentie die betrekking heeft op een kwalificerend verlies bedoeld in [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2026-04-11&g=2026-04-11), worden actieve en passieve belastinglatenties van de toetredende of uittredende entiteit die tussen multinationale groepen of binnenlandse groepen worden overgedragen, in aanmerking genomen door de verkrijgende multinationale groep of binnenlandse groep op dezelfde wijze en in dezelfde mate alsof de verkrijgende multinationale groep of binnenlandse groep de zeggenschap had over de groepsentiteit op het moment van het ontstaan van die actieve en passieve belastinglatenties.
 
-7. Passieve belastinglatenties van de toetredende of uittredende entiteit die eerder bij deze entiteit in aanmerking zijn genomen in het totaalbedrag aan gecorrigeerde mutaties in belastinglatenties, worden voor de toepassing van [artikel 7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31), in het verslagjaar van toetreden of uittreden bij de overdragende multinationale groep of binnenlandse groep geacht te zijn herzien en bij de verkrijgende multinationale groep of binnenlandse groep geacht te zijn ontstaan, met dien verstande dat in dergelijke gevallen elke latere verlaging van de betrokken belastingen overeenkomstig artikel 7.3, zevende lid, in aanmerking wordt genomen in het verslagjaar waarin de belastinglatentie wordt teruggenomen.
+7. Passieve belastinglatenties van de toetredende of uittredende entiteit die eerder bij deze entiteit in aanmerking zijn genomen in het totaalbedrag aan gecorrigeerde mutaties in belastinglatenties, worden voor de toepassing van [artikel 7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11), in het verslagjaar van toetreden of uittreden bij de overdragende multinationale groep of binnenlandse groep geacht te zijn herzien en bij de verkrijgende multinationale groep of binnenlandse groep geacht te zijn ontstaan, met dien verstande dat in dergelijke gevallen elke latere verlaging van de betrokken belastingen overeenkomstig artikel 7.3, zevende lid, in aanmerking wordt genomen in het verslagjaar waarin de belastinglatentie wordt teruggenomen.
 
 8. Een toetredende of uittredende entiteit die een moederentiteit is en deel uitmaakt van twee of meer multinationale groepen of binnenlandse groepen in het verslagjaar van toetreding of uittreding, past de inkomen-inclusiemaatregel met betrekking tot het toerekenbare deel van de bijheffing van de laagbelaste groepsentiteiten voor elke multinationale groep of binnenlandse groep afzonderlijk toe.
 
@@ -1552,41 +1552,41 @@ Indien de informatieaangifte-indienende groepsentiteit van een multinationale gr
 
 - a. bij de berekening van het kwalificerende inkomen of verlies in een verslagjaar rekening houdt met een bedrag aan winst of verlies met betrekking tot de activa en passiva van die groepsentiteit dat:
 
-- 1°. bestaat uit het verschil tussen de boekwaarden van de activa of passiva voor financiële verslaggevingsdoeleinden onmiddellijk voorafgaand aan de omstandigheid die de fiscale herwaardering bewerkstelligde en de reële waarde van de activa of passiva onmiddellijk na die omstandigheid; en
+  - 1°. bestaat uit het verschil tussen de boekwaarden van de activa of passiva voor financiële verslaggevingsdoeleinden onmiddellijk voorafgaand aan de omstandigheid die de fiscale herwaardering bewerkstelligde en de reële waarde van de activa of passiva onmiddellijk na die omstandigheid; en
 
-- 2°. wordt vermeerderd of verminderd met niet-kwalificerende winsten of verliezen die, voor zover aanwezig, in verband met voornoemde omstandigheid tot uitdrukking komen;
+  - 2°. wordt vermeerderd of verminderd met niet-kwalificerende winsten of verliezen die, voor zover aanwezig, in verband met voornoemde omstandigheid tot uitdrukking komen;
 
 - b. bij de berekening van het kwalificerende inkomen of verlies in de verslagjaren die eindigen na voornoemde omstandigheid rekening houdt met de reële waarde voor financiële verslaggevingsdoeleinden van de activa en passiva onmiddellijk na die omstandigheid; en
 
 - c. het nettototaal van de bedragen, bedoeld in onderdeel a, in aanmerking neemt bij de berekening van het kwalificerende inkomen of verlies op een van de volgende manieren:
 
-- 1°. in het verslagjaar waarin voornoemde omstandigheid zich voordoet;
+  - 1°. in het verslagjaar waarin voornoemde omstandigheid zich voordoet;
 
-- 2°. voor een vijfde gedeelte in het verslagjaar waarin voornoemde omstandigheid zich voordoet en in ieder van de vier daaropvolgende verslagjaren, tenzij de groepsentiteit de multinationale groep of binnenlandse groep in een van deze verslagjaren verlaat, in welk geval het resterende bedrag in zijn geheel in dat verslagjaar in aanmerking wordt genomen.
+  - 2°. voor een vijfde gedeelte in het verslagjaar waarin voornoemde omstandigheid zich voordoet en in ieder van de vier daaropvolgende verslagjaren, tenzij de groepsentiteit de multinationale groep of binnenlandse groep in een van deze verslagjaren verlaat, in welk geval het resterende bedrag in zijn geheel in dat verslagjaar in aanmerking wordt genomen.
 
 5. Voor de toepassing van dit artikel wordt verstaan onder:
 
 - a. **reorganisatie:** een omzetting of een overdracht van activa en passiva, zoals een fusie, een splitsing, een liquidatie of een vergelijkbare transactie, waarbij:
 
-- 1°. de tegenprestatie voor de overdracht geheel of voor een significant deel bestaat uit de uitgifte van aandelen door de verkrijgende groepsentiteit of een daarmee verbonden persoon als bedoeld in artikel 5, achtste lid, van het OESO-modelverdrag of, in geval van een liquidatie, uit aandelenbelangen van de geliquideerde entiteit, of, indien een tegenprestatie ontbreekt, de uitgifte van een aandelenbelang geen economische betekenis zou hebben;
+  - 1°. de tegenprestatie voor de overdracht geheel of voor een significant deel bestaat uit de uitgifte van aandelen door de verkrijgende groepsentiteit of een daarmee verbonden persoon als bedoeld in artikel 5, achtste lid, van het OESO-modelverdrag of, in geval van een liquidatie, uit aandelenbelangen van de geliquideerde entiteit, of, indien een tegenprestatie ontbreekt, de uitgifte van een aandelenbelang geen economische betekenis zou hebben;
 
-- 2°. de winst of het verlies met betrekking tot die activa bij de overdragende groepsentiteit geheel of gedeeltelijk niet is belast; en
+  - 2°. de winst of het verlies met betrekking tot die activa bij de overdragende groepsentiteit geheel of gedeeltelijk niet is belast; en
 
-- 3°. de belastingwetgeving van de staat waarin de verkrijgende groepsentiteit is gevestigd, vereist dat de verkrijgende groepsentiteit het belastbare inkomen na de overdracht of verkrijging berekent op basis van de fiscale boekwaarden van de activa bij de overdragende groepsentiteit, aangepast met de niet-kwalificerende winsten of verliezen ter zake van de overdracht of verkrijging.
+  - 3°. de belastingwetgeving van de staat waarin de verkrijgende groepsentiteit is gevestigd, vereist dat de verkrijgende groepsentiteit het belastbare inkomen na de overdracht of verkrijging berekent op basis van de fiscale boekwaarden van de activa bij de overdragende groepsentiteit, aangepast met de niet-kwalificerende winsten of verliezen ter zake van de overdracht of verkrijging.
 
 - b. **niet-kwalificerende winsten of verliezen:** het laagste van:
 
-- 1°. de winst of het verlies van de overdragende groepsentiteit uit hoofde van een reorganisatie waarbij die winst of dat verlies is onderworpen aan belastingheffing in de staat waarin de overdragende groepsentiteit is gevestigd;
+  - 1°. de winst of het verlies van de overdragende groepsentiteit uit hoofde van een reorganisatie waarbij die winst of dat verlies is onderworpen aan belastingheffing in de staat waarin de overdragende groepsentiteit is gevestigd;
 
-- 2°. de winst of het verlies uit hoofde van een reorganisatie zoals die winst of dat verlies voor verslaggevingsdoeleinden tot uitdrukking komt.
+  - 2°. de winst of het verlies uit hoofde van een reorganisatie zoals die winst of dat verlies voor verslaggevingsdoeleinden tot uitdrukking komt.
 
 ##### Artikel 9.4. Joint ventures
 
-1. Een moederentiteit die een onmiddellijk of middellijk belang heeft in een joint venture of in een joint venture-groep past de inkomen-inclusiemaatregel toe met betrekking tot het toerekenbare deel van de bijheffing van elk lid van die joint venture-groep in overeenstemming met de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.3&z=2025-12-31&g=2025-12-31).
+1. Een moederentiteit die een onmiddellijk of middellijk belang heeft in een joint venture of in een joint venture-groep past de inkomen-inclusiemaatregel toe met betrekking tot het toerekenbare deel van de bijheffing van elk lid van die joint venture-groep in overeenstemming met de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.3&z=2026-04-11&g=2026-04-11).
 
-2. De berekening van de bijheffing van de joint venture en van de met de joint venture verbonden partijen geschiedt op de voet van de [hoofdstukken 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31) alsof de joint venture en de met de joint venture verbonden partijen groepsentiteiten vormen van een afzonderlijke multinationale groep of binnenlandse groep waarvan de joint venture de uiteindelijkemoederentiteit is.
+2. De berekening van de bijheffing van de joint venture en van de met de joint venture verbonden partijen geschiedt op de voet van de [hoofdstukken 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11) alsof de joint venture en de met de joint venture verbonden partijen groepsentiteiten vormen van een afzonderlijke multinationale groep of binnenlandse groep waarvan de joint venture de uiteindelijkemoederentiteit is.
 
-3. De door een joint venture-groep verschuldigde bijheffing wordt verminderd met het overeenkomstig het eerste lid toerekenbare deel van de bijheffing van elke moederentiteit van de leden van de joint venture-groep dat op de voet van het tweede lid wordt belast. Een resterend bedrag aan bijheffing wordt toegevoegd aan het totale bedrag aan onderbelastewinstbijheffing op de voet van [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2025-12-31&g=2025-12-31). Voor de toepassing van dit lid wordt verstaan onder door een joint venture-groep verschuldigde bijheffing het aan de moederentiteiten toerekenbare deel van de bijheffing ter zake van een joint venture-groep.
+3. De door een joint venture-groep verschuldigde bijheffing wordt verminderd met het overeenkomstig het eerste lid toerekenbare deel van de bijheffing van elke moederentiteit van de leden van de joint venture-groep dat op de voet van het tweede lid wordt belast. Een resterend bedrag aan bijheffing wordt toegevoegd aan het totale bedrag aan onderbelastewinstbijheffing op de voet van [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2026-04-11&g=2026-04-11). Voor de toepassing van dit lid wordt verstaan onder door een joint venture-groep verschuldigde bijheffing het aan de moederentiteiten toerekenbare deel van de bijheffing ter zake van een joint venture-groep.
 
 ##### Artikel 9.5. Multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten
 
@@ -1596,11 +1596,11 @@ Indien de informatieaangifte-indienende groepsentiteit van een multinationale gr
 
 3. De uiteindelijkemoederentiteiten van de afzonderlijke groepen die gezamenlijk de multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten vormen, zijn de uiteindelijkemoederentiteiten van die multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten. Met betrekking tot een multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten wordt, in voorkomend geval, elke verwijzing in deze wet naar het begrip uiteindelijkemoederentiteit geacht mede te omvatten een verwijzing naar meerdere uiteindelijkemoederentiteiten.
 
-4. De moederentiteiten inclusief de uiteindelijkemoederentiteiten van een multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten, passen ieder afzonderlijk de inkomen-inclusiebijheffing toe op de voet van de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.3&z=2025-12-31&g=2025-12-31), met betrekking tot het aan hen toerekenbare deel van de bijheffing van de laagbelaste groepsentiteiten.
+4. De moederentiteiten inclusief de uiteindelijkemoederentiteiten van een multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten, passen ieder afzonderlijk de inkomen-inclusiebijheffing toe op de voet van de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.3&z=2026-04-11&g=2026-04-11), met betrekking tot het aan hen toerekenbare deel van de bijheffing van de laagbelaste groepsentiteiten.
 
-5. De groepsentiteiten van een multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten passen de onderbelastewinstbijheffing toe in overeenstemming met de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.1&z=2025-12-31&g=2025-12-31) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2025-12-31&g=2025-12-31), rekening houdend met de bijheffing van elke laagbelaste groepsentiteit die deel uitmaakt van de multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten.
+5. De groepsentiteiten van een multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten passen de onderbelastewinstbijheffing toe in overeenstemming met de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.1&z=2026-04-11&g=2026-04-11) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2026-04-11&g=2026-04-11), rekening houdend met de bijheffing van elke laagbelaste groepsentiteit die deel uitmaakt van de multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten.
 
-6. De uiteindelijkemoederentiteiten van de multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten dienen de informatieaangifte in overeenkomstig [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31), of zij wijzen een informatieaangifte-indienende groepsentiteit als bedoeld in artikel 13.1, derde lid, aan. De informatieaangifte bevat informatie met betrekking tot elke groep die deel uitmaakt van de multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten.
+6. De uiteindelijkemoederentiteiten van de multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten dienen de informatieaangifte in overeenkomstig [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11), of zij wijzen een informatieaangifte-indienende groepsentiteit als bedoeld in artikel 13.1, derde lid, aan. De informatieaangifte bevat informatie met betrekking tot elke groep die deel uitmaakt van de multinationale groep of binnenlandse groep met meerdere uiteindelijkemoederentiteiten.
 
 7. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -1608,21 +1608,21 @@ Indien de informatieaangifte-indienende groepsentiteit van een multinationale gr
 
 - b. **stapelstructuurovereenkomst:** een overeenkomst aangegaan tussen twee of meer uiteindelijkemoederentiteiten van afzonderlijke groepen waarbij:
 
-- 1°. 50% of meer van de belangen in die uiteindelijkemoederentiteiten, indien beursgenoteerd, tegen een enkele koers genoteerd zijn en die, op grond van de rechtsvorm van die entiteiten, overdrachtsbeperkingen of andere voorwaarden of bepalingen, met elkaar zijn gecombineerd en niet zelfstandig kunnen worden overgedragen of verhandeld; en
+  - 1°. 50% of meer van de belangen in die uiteindelijkemoederentiteiten, indien beursgenoteerd, tegen een enkele koers genoteerd zijn en die, op grond van de rechtsvorm van die entiteiten, overdrachtsbeperkingen of andere voorwaarden of bepalingen, met elkaar zijn gecombineerd en niet zelfstandig kunnen worden overgedragen of verhandeld; en
 
-- 2°. een van de uiteindelijkemoederentiteiten een geconsolideerde jaarrekening opstelt waarin de activa, passiva, inkomsten, uitgaven en kasstromen van alle entiteiten van de betrokken groepen gezamenlijk worden weergegeven als die van een enkele economische eenheid en die op grond van wet- en regelgeving door een externe accountant wordt gecontroleerd;
+  - 2°. een van de uiteindelijkemoederentiteiten een geconsolideerde jaarrekening opstelt waarin de activa, passiva, inkomsten, uitgaven en kasstromen van alle entiteiten van de betrokken groepen gezamenlijk worden weergegeven als die van een enkele economische eenheid en die op grond van wet- en regelgeving door een externe accountant wordt gecontroleerd;
 
 - c. **dubbele beursnoteringsovereenkomst:** een overeenkomst aangegaan door twee of meer uiteindelijkemoederentiteiten van afzonderlijke groepen waarbij:
 
-- 1°. de uiteindelijkemoederentiteiten hun activiteiten uitsluitend op grond van een contract combineren;
+  - 1°. de uiteindelijkemoederentiteiten hun activiteiten uitsluitend op grond van een contract combineren;
 
-- 2°. de uiteindelijkemoederentiteiten op grond van contractuele verplichtingen dividend- en liquidatie-uitkeringen verrichten aan hun aandeelhouders op basis van vaste verhoudingen;
+  - 2°. de uiteindelijkemoederentiteiten op grond van contractuele verplichtingen dividend- en liquidatie-uitkeringen verrichten aan hun aandeelhouders op basis van vaste verhoudingen;
 
-- 3°. de activiteiten van de uiteindelijkemoederentiteiten als een enkele economische eenheid worden beheerd op grond van contractuele afspraken terwijl de rechtspersoonlijkheid van de afzonderlijke uiteindelijkemoederentiteiten behouden blijft;
+  - 3°. de activiteiten van de uiteindelijkemoederentiteiten als een enkele economische eenheid worden beheerd op grond van contractuele afspraken terwijl de rechtspersoonlijkheid van de afzonderlijke uiteindelijkemoederentiteiten behouden blijft;
 
-- 4°. de belangen van de uiteindelijkemoederentiteiten die onderdeel uitmaken van de overeenkomst afzonderlijk worden genoteerd, verhandeld of overgedragen op verschillende kapitaalmarkten; en
+  - 4°. de belangen van de uiteindelijkemoederentiteiten die onderdeel uitmaken van de overeenkomst afzonderlijk worden genoteerd, verhandeld of overgedragen op verschillende kapitaalmarkten; en
 
-- 5°. de uiteindelijkemoederentiteiten een geconsolideerde jaarrekening opstellen waarin de activa, passiva, inkomsten, uitgaven en kasstromen van de entiteiten van alle betrokken groepen gezamenlijk worden weergegeven als die van een enkele economische eenheid en die op grond van wet- en regelgeving door een externe accountant worden gecontroleerd.
+  - 5°. de uiteindelijkemoederentiteiten een geconsolideerde jaarrekening opstellen waarin de activa, passiva, inkomsten, uitgaven en kasstromen van de entiteiten van alle betrokken groepen gezamenlijk worden weergegeven als die van een enkele economische eenheid en die op grond van wet- en regelgeving door een externe accountant worden gecontroleerd.
 
 ### Hoofdstuk 10. Regelingen inzake fiscale neutraliteit en uitdelingsstelsels
 
@@ -1666,11 +1666,11 @@ Indien de informatieaangifte-indienende groepsentiteit van een multinationale gr
 
 ##### Artikel 10.3. In aanmerking komend uitdelingsbelastingstelsel
 
-1. De informatieaangifte-indienende groepsentiteit kan ten aanzien van een groepsentiteit die is onderworpen aan een in aanmerking komend uitdelingsbelastingstelsel ervoor kiezen het bedrag aan veronderstelde uitdelingsbelasting, bepaald op de voet van het tweede lid, toe te voegen aan de gecorrigeerde betrokken belastingen van de betreffende groepsentiteit voor het verslagjaar. De keuze wordt gemaakt in overeenstemming met [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), en geldt voor alle groepsentiteiten die in een staat zijn gevestigd.
+1. De informatieaangifte-indienende groepsentiteit kan ten aanzien van een groepsentiteit die is onderworpen aan een in aanmerking komend uitdelingsbelastingstelsel ervoor kiezen het bedrag aan veronderstelde uitdelingsbelasting, bepaald op de voet van het tweede lid, toe te voegen aan de gecorrigeerde betrokken belastingen van de betreffende groepsentiteit voor het verslagjaar. De keuze wordt gemaakt in overeenstemming met [artikel 13.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), en geldt voor alle groepsentiteiten die in een staat zijn gevestigd.
 
 2. Het bedrag aan veronderstelde uitdelingsbelasting is het laagste van:
 
-- a. het bedrag aan gecorrigeerde betrokken belastingen dat nodig is om het effectieve belastingtarief zoals berekend op de voet van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31) voor de staat voor het verslagjaar te verhogen tot aan het minimumbelastingtarief; of
+- a. het bedrag aan gecorrigeerde betrokken belastingen dat nodig is om het effectieve belastingtarief zoals berekend op de voet van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11) voor de staat voor het verslagjaar te verhogen tot aan het minimumbelastingtarief; of
 
 - b. het bedrag aan belasting dat verschuldigd zou zijn indien de in de staat gevestigde groepsentiteiten de volledige winst die wordt belast volgens een in aanmerking komend uitdelingsbelastingstelsel gedurende het verslagjaar zouden hebben uitgedeeld.
 
@@ -1684,37 +1684,37 @@ Indien de informatieaangifte-indienende groepsentiteit van een multinationale gr
 
 5. Indien na toepassing van het vierde lid, onderdeel b, een bedrag aan netto kwalificerend verlies in een staat vermenigvuldigd met het minimumbelastingtarief resteert, dan vermindert dit bedrag het saldo aan veronderstelde uitdelingsbelasting op de rekeningen voor veronderstelde uitdelingsbelasting dat in navolgende verslagjaren overblijft na de toepassing van het vierde lid.
 
-6. Het saldo aan veronderstelde uitdelingsbelasting op de rekeningen voor veronderstelde uitdelingsbelasting op de laatste dag van het vierde verslagjaar na het verslagjaar waarvoor die rekening is bijgehouden, wordt aangemerkt als een vermindering van de gecorrigeerde betrokken belastingen voor het verslagjaar waarvoor die rekening is bijgehouden. Het effectieve belastingtarief en de bijheffing voor dat verslagjaar worden dienovereenkomstig herrekend op de voet van [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31).
+6. Het saldo aan veronderstelde uitdelingsbelasting op de rekeningen voor veronderstelde uitdelingsbelasting op de laatste dag van het vierde verslagjaar na het verslagjaar waarvoor die rekening is bijgehouden, wordt aangemerkt als een vermindering van de gecorrigeerde betrokken belastingen voor het verslagjaar waarvoor die rekening is bijgehouden. Het effectieve belastingtarief en de bijheffing voor dat verslagjaar worden dienovereenkomstig herrekend op de voet van [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11).
 
 7. De in een verslagjaar betaalde belasting ter zake van daadwerkelijke uitdelingen en veronderstelde uitdelingen maakt in dat verslagjaar geen deel uit van de gecorrigeerde betrokken belastingen voor zover deze betaalde belasting op de voet van het vierde lid in mindering komt op een rekening voor veronderstelde uitdelingsbelasting.
 
 8. Indien een groepsentiteit ten aanzien waarvan voor de toepassing van het eerste lid is gekozen niet langer deel uitmaakt van een multinationale groep of een binnenlandse groep, dan wel nagenoeg al haar activa zijn overgedragen aan een partij die niet een in dezelfde staat gevestigde groepsentiteit van dezelfde multinationale groep of binnenlandse groep is, wordt het saldo aan veronderstelde uitdelingsbelasting op de rekeningen voor veronderstelde uitdelingsbelasting uit voorgaande verslagjaren waarvoor die rekeningen zijn bijgehouden in mindering gebracht op de gecorrigeerde betrokken belastingen van die verslagjaren waarvoor die rekeningen zijn bijgehouden.
 
-9. Voor de verslagjaren waarvoor de gecorrigeerde betrokken belastingen door toepassing van het achtste lid worden verminderd, worden het effectieve belastingtarief en de bijheffing herrekend op de voet van [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), met dien verstande dat de bijheffing wordt vermenigvuldigd met de ratio X/Y om de verschuldigde additionele bijheffing voor de staat te bepalen. Daarbij wordt verstaan onder:
+9. Voor de verslagjaren waarvoor de gecorrigeerde betrokken belastingen door toepassing van het achtste lid worden verminderd, worden het effectieve belastingtarief en de bijheffing herrekend op de voet van [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), met dien verstande dat de bijheffing wordt vermenigvuldigd met de ratio X/Y om de verschuldigde additionele bijheffing voor de staat te bepalen. Daarbij wordt verstaan onder:
 
-X: het kwalificerende inkomen van de groepsentiteit, bedoeld in het achtste lid, bepaald op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31), voor ieder verslagjaar waarvoor nog een saldo op de rekening voor veronderstelde uitdelingsbelasting voor de staat resteert; en
+X: het kwalificerende inkomen van de groepsentiteit, bedoeld in het achtste lid, bepaald op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11), voor ieder verslagjaar waarvoor nog een saldo op de rekening voor veronderstelde uitdelingsbelasting voor de staat resteert; en
 
-Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31), voor ieder verslagjaar waarin nog een saldo op de rekening voor veronderstelde uitdelingsbelasting van de staat resteert.
+Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11), voor ieder verslagjaar waarin nog een saldo op de rekening voor veronderstelde uitdelingsbelasting van de staat resteert.
 
 ##### Artikel 10.4. Bepaling effectieve belastingtarief en bijheffing voor een beleggingsentiteit
 
-1. Indien een groepsentiteit van een multinationale groep of van een binnenlandse groep een beleggingsentiteit is, die geen fiscaal transparante entiteit is en die niet heeft gekozen voor de toepassing van de [artikelen 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2025-12-31&g=2025-12-31) of [10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2025-12-31&g=2025-12-31), wordt het effectieve belastingtarief van die beleggingsentiteit afzonderlijk berekend van het effectieve belastingtarief van de staat waarin de groepsentiteit is gevestigd.
+1. Indien een groepsentiteit van een multinationale groep of van een binnenlandse groep een beleggingsentiteit is, die geen fiscaal transparante entiteit is en die niet heeft gekozen voor de toepassing van de [artikelen 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2026-04-11&g=2026-04-11) of [10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2026-04-11&g=2026-04-11), wordt het effectieve belastingtarief van die beleggingsentiteit afzonderlijk berekend van het effectieve belastingtarief van de staat waarin de groepsentiteit is gevestigd.
 
 2. Het effectieve belastingtarief van de beleggingsentiteit is gelijk aan de gecorrigeerde betrokken belastingen van de beleggingsentiteit, bedoeld in het derde lid, gedeeld door het kwalificerende inkomen of verlies van de beleggingsentiteit, bedoeld in het vierde lid. Indien in een staat meer dan een beleggingsentiteit is gevestigd, wordt het effectieve belastingtarief van die beleggingsentiteiten gezamenlijk berekend door de gecorrigeerde betrokken belastingen van die groepsentiteiten en het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen of verlies van die groepsentiteiten bij elkaar op te tellen.
 
-3. De gecorrigeerde betrokken belastingen van de beleggingsentiteit zijn de gecorrigeerde betrokken belastingen die op de voet van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.5&z=2025-12-31&g=2025-12-31) worden toegerekend aan het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen van de beleggingsentiteit en de aan de beleggingsentiteit toegerekende betrokken belastingen.
+3. De gecorrigeerde betrokken belastingen van de beleggingsentiteit zijn de gecorrigeerde betrokken belastingen die op de voet van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.5&z=2026-04-11&g=2026-04-11) worden toegerekend aan het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen van de beleggingsentiteit en de aan de beleggingsentiteit toegerekende betrokken belastingen.
 
-4. Het kwalificerende inkomen of verlies van de beleggingsentiteit is het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen of verlies van de beleggingsentiteit bepaald op de voet van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), met dien verstande dat alleen belangen waarvoor niet is gekozen voor de toepassing van de [artikelen 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2025-12-31&g=2025-12-31) en [10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2025-12-31&g=2025-12-31) in aanmerking worden genomen.
+4. Het kwalificerende inkomen of verlies van de beleggingsentiteit is het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen of verlies van de beleggingsentiteit bepaald op de voet van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), met dien verstande dat alleen belangen waarvoor niet is gekozen voor de toepassing van de [artikelen 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2026-04-11&g=2026-04-11) en [10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2026-04-11&g=2026-04-11) in aanmerking worden genomen.
 
 5. De bijheffing van de beleggingsentiteit is gelijk aan het bijheffingspercentage van de beleggingsentiteit, bedoeld in het zesde lid, vermenigvuldigd met het bedrag dat gelijk is aan het verschil tussen het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen van de beleggingsentiteit en het voor de beleggingsentiteit op de voet van het zevende lid berekende uitgesloten inkomen op basis van reële aanwezigheid.
 
 6. Het bijheffingspercentage van de beleggingsentiteit is het percentage dat resteert, indien positief, na aftrek van het effectieve belastingtarief van de beleggingsentiteit van het minimumbelastingtarief.
 
-7. Het uitgesloten inkomen op basis van reële aanwezigheid van de beleggingsentiteit wordt bepaald op de voet van [artikel 8.3, eerste tot en met twaalfde lid en veertiende tot en met zestiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31). De in aanmerking komende loonkosten van de in aanmerking komende werknemers en de in aanmerking komende materiële activa van de beleggingsentiteit worden verminderd naar de verhouding van het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen van de beleggingsentiteit gedeeld door het totale kwalificerende inkomen van die beleggingsentiteit.
+7. Het uitgesloten inkomen op basis van reële aanwezigheid van de beleggingsentiteit wordt bepaald op de voet van [artikel 8.3, eerste tot en met twaalfde lid en veertiende tot en met zestiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11). De in aanmerking komende loonkosten van de in aanmerking komende werknemers en de in aanmerking komende materiële activa van de beleggingsentiteit worden verminderd naar de verhouding van het aan de multinationale groep of binnenlandse groep toerekenbare deel van het kwalificerende inkomen van de beleggingsentiteit gedeeld door het totale kwalificerende inkomen van die beleggingsentiteit.
 
 ##### Artikel 10.5. Keuze beleggingsentiteit als fiscaal transparante entiteit
 
-1. Indien de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), voor kiest, wordt een groepsentiteit die een beleggingsentiteit of een verzekeringsbeleggingsentiteit is, behandeld als een fiscaal transparante entiteit indien de groepsentiteit-belanghouder in de staat waarin hij is gevestigd, is onderworpen aan belastingheffing op grond van een waarderingsstelsel op basis van reële waarde of een vergelijkbaar stelsel waarbij de jaarlijkse wijzigingen in de reële waarde van zijn belang in een dergelijke groepsentiteit als inkomen in de heffing wordt betrokken tegen een belastingtarief dat ten minste gelijk is aan het minimumbelastingtarief.
+1. Indien de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), voor kiest, wordt een groepsentiteit die een beleggingsentiteit of een verzekeringsbeleggingsentiteit is, behandeld als een fiscaal transparante entiteit indien de groepsentiteit-belanghouder in de staat waarin hij is gevestigd, is onderworpen aan belastingheffing op grond van een waarderingsstelsel op basis van reële waarde of een vergelijkbaar stelsel waarbij de jaarlijkse wijzigingen in de reële waarde van zijn belang in een dergelijke groepsentiteit als inkomen in de heffing wordt betrokken tegen een belastingtarief dat ten minste gelijk is aan het minimumbelastingtarief.
 
 2. Een groepsentiteit-belanghouder die middellijk een belang heeft in een beleggingsentiteit of een verzekeringsbeleggingsentiteit via een onmiddellijk gehouden belang in een andere beleggingsentiteit of verzekeringsbeleggingsentiteit wordt geacht onderworpen te zijn aan belastingheffing op grond van een waarderingsstelsel op basis van reële waarde of een daarmee vergelijkbaar stelsel ten aanzien van dat middellijke belang, indien hij is onderworpen aan een belastingheffing op grond van een waarderingsstelsel op basis van reële waarde of een daarmee vergelijkbaar stelsel ten aanzien van dat onmiddellijke belang.
 
@@ -1724,15 +1724,15 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 ##### Artikel 10.6. Keuze toepassen belastbare-uitdelingsmethode
 
-1. Indien de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2025-12-31&g=2025-12-31), voor kiest mag een groepsentiteit-belanghouder van een beleggingsentiteit een belastbare-uitdelingsmethode toepassen met betrekking tot zijn belang in de beleggingsentiteit, mits de groepsentiteit-belanghouder geen beleggingsentiteit is en redelijkerwijs kan worden verwacht dat hij is onderworpen aan belastingheffing over de uitdelingen van de beleggingsentiteit tegen een belastingtarief dat ten minste gelijk is aan het minimumbelastingtarief.
+1. Indien de informatieaangifte-indienende groepsentiteit er overeenkomstig [artikel 13.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.2&z=2026-04-11&g=2026-04-11), voor kiest mag een groepsentiteit-belanghouder van een beleggingsentiteit een belastbare-uitdelingsmethode toepassen met betrekking tot zijn belang in de beleggingsentiteit, mits de groepsentiteit-belanghouder geen beleggingsentiteit is en redelijkerwijs kan worden verwacht dat hij is onderworpen aan belastingheffing over de uitdelingen van de beleggingsentiteit tegen een belastingtarief dat ten minste gelijk is aan het minimumbelastingtarief.
 
 2. Onder toepassing van de belastbare-uitdelingsmethode worden uitdelingen en veronderstelde uitdelingen van het kwalificerende inkomen van een beleggingsentiteit begrepen in het kwalificerende inkomen van de groepsentiteit-belanghouder die de uitdeling heeft ontvangen of de veronderstelde uitdeling geacht wordt te hebben ontvangen.
 
 3. Het bedrag aan betrokken belastingen van de beleggingsentiteit dat verrekenbaar is met de belastingschuld van de groepsentiteit-belanghouder over de uitdeling van de beleggingsentiteit, wordt begrepen in het kwalificerende inkomen en de gecorrigeerde betrokken belastingen van de groepsentiteit-belanghouder die de uitdeling heeft ontvangen.
 
-4. Het aandeel van de groepsentiteit-belanghouder in het op de voet van het zesde lid bepaalde niet-uitgedeelde netto kwalificerende inkomen van een beleggingsentiteit in het referentiejaar wordt aangemerkt als kwalificerend inkomen van die beleggingsentiteit voor het verslagjaar. Het bedrag van dit kwalificerende inkomen vermenigvuldigd met het minimumbelastingtarief wordt voor de toepassing van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2025-12-31&g=2025-12-31), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2025-12-31&g=2025-12-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2025-12-31&g=2025-12-31) aangemerkt als bijheffing voor een laagbelaste groepsentiteit voor het verslagjaar.
+4. Het aandeel van de groepsentiteit-belanghouder in het op de voet van het zesde lid bepaalde niet-uitgedeelde netto kwalificerende inkomen van een beleggingsentiteit in het referentiejaar wordt aangemerkt als kwalificerend inkomen van die beleggingsentiteit voor het verslagjaar. Het bedrag van dit kwalificerende inkomen vermenigvuldigd met het minimumbelastingtarief wordt voor de toepassing van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2026-04-11&g=2026-04-11), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2026-04-11&g=2026-04-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2026-04-11&g=2026-04-11) aangemerkt als bijheffing voor een laagbelaste groepsentiteit voor het verslagjaar.
 
-5. Het kwalificerende inkomen of verlies van een beleggingsentiteit en de gecorrigeerde betrokken belastingen die toerekenbaar zijn aan dergelijk inkomen voor het verslagjaar worden uitgesloten van de berekening van het effectieve belastingtarief op de voet van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&z=2025-12-31&g=2025-12-31) en [artikel 10.4, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.4&z=2025-12-31&g=2025-12-31), met uitzondering van het bedrag aan betrokken belastingen, bedoeld in het derde lid.
+5. Het kwalificerende inkomen of verlies van een beleggingsentiteit en de gecorrigeerde betrokken belastingen die toerekenbaar zijn aan dergelijk inkomen voor het verslagjaar worden uitgesloten van de berekening van het effectieve belastingtarief op de voet van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&z=2026-04-11&g=2026-04-11) en [artikel 10.4, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.4&z=2026-04-11&g=2026-04-11), met uitzondering van het bedrag aan betrokken belastingen, bedoeld in het derde lid.
 
 6. Het niet-uitgedeelde netto kwalificerende inkomen van een beleggingsentiteit in het referentiejaar is het bedrag aan kwalificerend inkomen van die beleggingsentiteit in het referentiejaar verminderd, maar niet verder dan tot nihil, met:
 
@@ -1748,7 +1748,7 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 8. Voor de toepassing van dit artikel is onder meer sprake van een veronderstelde uitdeling indien een middellijk of onmiddellijk belang in een beleggingsentiteit wordt overgedragen aan een entiteit die geen deel uitmaakt van de multinationale groep of de binnenlandse groep. De veronderstelde uitdeling bedraagt het deel van het niet-uitgedeelde netto kwalificerende inkomen van de beleggingsentiteit dat toerekenbaar is aan het overgedragen belang in de beleggingsentiteit op de datum van overdracht, zonder rekening te houden met de veronderstelde uitdeling.
 
-9. Indien de keuze, bedoeld in het eerste lid, wordt herroepen, wordt het aandeel van de groepsentiteit-belanghouder in het niet-uitgedeelde netto kwalificerende inkomen van een beleggingsentiteit in het referentiejaar, aan het einde van het verslagjaar dat voorafgaat aan het verslagjaar waarin de herroeping heeft plaatsgevonden, aangemerkt als kwalificerend inkomen van de beleggingsentiteit voor het laatstgenoemde verslagjaar. Het bedrag van dit kwalificerend inkomen vermenigvuldigd met het minimumbelastingtarief wordt voor de toepassing van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2025-12-31&g=2025-12-31), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2025-12-31&g=2025-12-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2025-12-31&g=2025-12-31) voor het verslagjaar in aanmerking genomen als bijheffing van een laagbelaste groepsentiteit.
+9. Indien de keuze, bedoeld in het eerste lid, wordt herroepen, wordt het aandeel van de groepsentiteit-belanghouder in het niet-uitgedeelde netto kwalificerende inkomen van een beleggingsentiteit in het referentiejaar, aan het einde van het verslagjaar dat voorafgaat aan het verslagjaar waarin de herroeping heeft plaatsgevonden, aangemerkt als kwalificerend inkomen van de beleggingsentiteit voor het laatstgenoemde verslagjaar. Het bedrag van dit kwalificerend inkomen vermenigvuldigd met het minimumbelastingtarief wordt voor de toepassing van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&z=2026-04-11&g=2026-04-11), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&z=2026-04-11&g=2026-04-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&z=2026-04-11&g=2026-04-11) voor het verslagjaar in aanmerking genomen als bijheffing van een laagbelaste groepsentiteit.
 
 10. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -1768,17 +1768,17 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 3. In afwijking van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) is de belastingplichtige gehouden de belasting overeenkomstig de aangifte aan de ontvanger te betalen binnen zeventien maanden na het einde van het verslagjaar.
 
-4. Indien [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), toepassing vindt op een bedrag aan binnenlandse bijheffing vervalt de betalingsverplichting voor dat bedrag aan binnenlandse bijheffing.
+4. Indien [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), toepassing vindt op een bedrag aan binnenlandse bijheffing vervalt de betalingsverplichting voor dat bedrag aan binnenlandse bijheffing.
 
-5. Voor de toepassing van [hoofdstuk IV van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV) op de minimumbelasting wordt onder tijdvak verstaan: het verslagjaar, bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), van de Wet minimumbelasting 2024.
+5. Voor de toepassing van [hoofdstuk IV van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV) op de minimumbelasting wordt onder tijdvak verstaan: het verslagjaar, bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), van de Wet minimumbelasting 2024.
 
 ##### Artikel 11.2. Naheffing
 
 1. In afwijking van [artikel 20, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) vervalt de bevoegdheid tot naheffing door verloop van zes jaren en vier maanden na het einde van het verslagjaar waarover de belasting is verschuldigd.
 
-2. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), toepassing vindt, vervalt in afwijking van [artikel 20, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) de bevoegdheid tot naheffing door verloop van zes jaren en zeven maanden na het einde van het verslagjaar waarover de belasting is verschuldigd.
+2. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt in afwijking van [artikel 20, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) de bevoegdheid tot naheffing door verloop van zes jaren en zeven maanden na het einde van het verslagjaar waarover de belasting is verschuldigd.
 
-3. Indien [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31), toepassing vindt op een bedrag aan binnenlandse bijheffing vervalt:
+3. Indien [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11), toepassing vindt op een bedrag aan binnenlandse bijheffing vervalt:
 
 - a. de bevoegdheid tot naheffing met betrekking tot dat bedrag; en
 
@@ -1790,15 +1790,15 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 1. Met betrekking tot een naheffingsaanslag wordt aan degene ten name van wie de naheffingsaanslag is gesteld belastingrente in rekening gebracht.
 
-2. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag volgend op de laatste dag van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), gestelde betalingstermijn en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) en heeft als grondslag de nageheven belasting.
+2. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag volgend op de laatste dag van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), gestelde betalingstermijn en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) en heeft als grondslag de nageheven belasting.
 
-3. Het eerste lid vindt geen toepassing indien de naheffingsaanslag het gevolg is van een verzoek dat is gedaan binnen twee maanden na het einde van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), gestelde betalingstermijn voor het verslagjaar waarop de nageheven belasting betrekking heeft. Onder verzoek wordt onder meer verstaan een herziening van een aangifte (suppletie).
+3. Het eerste lid vindt geen toepassing indien de naheffingsaanslag het gevolg is van een verzoek dat is gedaan binnen twee maanden na het einde van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), gestelde betalingstermijn voor het verslagjaar waarop de nageheven belasting betrekking heeft. Onder verzoek wordt onder meer verstaan een herziening van een aangifte (suppletie).
 
-4. Het eerste en tweede lid zijn van overeenkomstige toepassing voor zover de belasting te laat, doch voordat een naheffingsaanslag is vastgesteld, wordt betaald, behoudens indien de betaling plaatsvindt binnen twee maanden na het einde van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), gestelde betalingstermijn. Belastingrente wordt berekend over het tijdvak dat aanvangt op de dag volgend op de laatste dag van de ingevolge artikel 11.1, derde lid, dan wel artikel 14.3, tweede lid, gestelde betalingstermijn en eindigt op de dag van betaling en heeft als grondslag het bedrag van de te laat betaalde belasting.
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing voor zover de belasting te laat, doch voordat een naheffingsaanslag is vastgesteld, wordt betaald, behoudens indien de betaling plaatsvindt binnen twee maanden na het einde van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), gestelde betalingstermijn. Belastingrente wordt berekend over het tijdvak dat aanvangt op de dag volgend op de laatste dag van de ingevolge artikel 11.1, derde lid, dan wel artikel 14.3, tweede lid, gestelde betalingstermijn en eindigt op de dag van betaling en heeft als grondslag het bedrag van de te laat betaalde belasting.
 
 5. De [artikelen 30h, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30h), [30hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb), [30ia](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ia) en [30j van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30j) zijn van overeenkomstige toepassing.
 
-6. [Artikel 30ha, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) is van overeenkomstige toepassing met betrekking tot de minimumbelasting, met dien verstande dat daarbij voor «3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft» wordt gelezen «2 maanden na het einde van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), van de Wet minimumbelasting 2024 gestelde betalingstermijn voor het verslagjaar waarop de teruggaaf betrekking heeft».
+6. [Artikel 30ha, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) is van overeenkomstige toepassing met betrekking tot de minimumbelasting, met dien verstande dat daarbij voor «3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft» wordt gelezen «2 maanden na het einde van de ingevolge [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), van de Wet minimumbelasting 2024 gestelde betalingstermijn voor het verslagjaar waarop de teruggaaf betrekking heeft».
 
 ##### Artikel 12.2. Inlichtingenverplichting
 
@@ -1808,27 +1808,27 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 3. De verplichting, bedoeld in het eerste lid, vervalt door verloop van zes jaren en vier maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
 
-4. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), toepassing vindt, vervalt de verplichting, bedoeld in het eerste lid, door verloop van zes jaren en zeven maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
+4. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt de verplichting, bedoeld in het eerste lid, door verloop van zes jaren en zeven maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
 
 ##### Artikel 12.3. Bestuurlijke boeten
 
-1. Voor de toepassing van [artikel 67b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67b) vormt het verzuim het niet doen van aangifte dan wel het niet doen van aangifte binnen de ingevolge [artikel 11.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), dan wel [artikel 14.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), gestelde termijn.
+1. Voor de toepassing van [artikel 67b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67b) vormt het verzuim het niet doen van aangifte dan wel het niet doen van aangifte binnen de ingevolge [artikel 11.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), dan wel [artikel 14.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), gestelde termijn.
 
 2. In afwijking van de [artikelen 67c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c), en [67f, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en vier maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
 
-3. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), toepassing vindt, vervalt in afwijking van de [artikelen 67c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c), en [67f, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en zeven maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
+3. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt in afwijking van de [artikelen 67c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c), en [67f, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en zeven maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
 
 ##### Artikel 12.4. Vergrijpboete overtreden inlichtingenverplichting
 
-1. Indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat de verplichting, bedoeld in [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.2&z=2025-12-31&g=2025-12-31), niet is of wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100% van de in het tweede lid omschreven grondslag voor de boete.
+1. Indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat de verplichting, bedoeld in [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.2&z=2026-04-11&g=2026-04-11), niet is of wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100% van de in het tweede lid omschreven grondslag voor de boete.
 
-2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting, bedoeld in [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.2&z=2025-12-31&g=2025-12-31), ten onrechte niet zou zijn geheven.
+2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting, bedoeld in [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.2&z=2026-04-11&g=2026-04-11), ten onrechte niet zou zijn geheven.
 
 3. Voor de toepassing van dit artikel is [artikel 67o, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o) van overeenkomstige toepassing.
 
 4. De bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid vervalt door verloop van zes jaren en vier maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
 
-5. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), toepassing vindt, vervalt de bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid door verloop van zes jaren en zeven maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
+5. Indien [artikel 14.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt de bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid door verloop van zes jaren en zeven maanden na afloop van het verslagjaar waarover de belasting is verschuldigd.
 
 ### Hoofdstuk 13. Administratieve bepalingen
 
@@ -1838,9 +1838,11 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 - a. **aangewezen lokale entiteit:** de in Nederland gevestigde groepsentiteit van een multinationale groep of binnenlandse groep die door de andere in Nederland gevestigde groepsentiteiten van die groep is aangewezen om de bijheffing-informatieaangifte in te dienen of namens hen de inspecteur de kennisgeving, bedoeld in het vierde lid, te verstrekken;
 
-- b. **kwalificerende overeenkomst tussen bevoegde autoriteiten:** een bilaterale of multilaterale overeenkomst of regeling tussen twee of meer bevoegde autoriteiten die voorziet in de automatische uitwisseling van de jaarlijkse bijheffing-informatieaangiften.
+- b. **kwalificerende overeenkomst tussen bevoegde autoriteiten:** een bilaterale of multilaterale overeenkomst of regeling tussen twee of meer bevoegde autoriteiten die voorziet in de automatische uitwisseling van de jaarlijkse bijheffing-informatieaangiften;
 
-2. Een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), dient een bijheffing-informatieaangifte in bij de inspecteur op de voet van het vijfde lid. Deze bijheffing-informatieaangifte kan namens de groepsentiteit door een aangewezen lokale entiteit worden ingediend.
+- c. **standaardformulier:** een formulier dat overeenkomt met het model dat is opgenomen in bijlage VII, deel IV, van [Richtlijn 2011/16/EU](32011L0016) van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van [Richtlijn 77/799/EEG](31977L0799).
+
+2. Een in Nederland gevestigde groepsentiteit als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), dient een bijheffing-informatieaangifte in bij de inspecteur op de voet van het vijfde lid. Deze bijheffing-informatieaangifte kan namens de groepsentiteit door een aangewezen lokale entiteit worden ingediend.
 
 3. In afwijking van het tweede lid hoeft een in Nederland gevestigde groepsentiteit geen bijheffing-informatieaangifte in te dienen bij de inspecteur indien de bijheffing-informatieaangifte, in overeenstemming met de voorwaarden omschreven in het vijfde lid, wordt ingediend door:
 
@@ -1858,59 +1860,61 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 - c. de informatie die nodig is voor het bepalen van:
 
-- 1°. het effectieve belastingtarief in elke staat en de bijheffing voor iedere groepsentiteit;
+  - 1°. het effectieve belastingtarief in elke staat en de bijheffing voor iedere groepsentiteit;
 
-- 2°. de bijheffing van een lid van een joint venture-groep;
+  - 2°. de bijheffing van een lid van een joint venture-groep;
 
-- 3°. het bedrag en de toerekening per staat van de bijheffing onder de (kwalificerende) inkomen-inclusiemaatregel en van de (kwalificerende) onderbelastewinstbijheffing; en
+  - 3°. het bedrag en de toerekening per staat van de bijheffing onder de (kwalificerende) inkomen-inclusiemaatregel en van de (kwalificerende) onderbelastewinstbijheffing; en
 
 - d. een overzicht van de keuzes die op de voet van de relevante bepalingen in deze wet zijn gemaakt.
 
-6. Indien een in Nederland gevestigde groepsentiteit een uiteindelijkemoederentiteit heeft die in een derde staat is gevestigd die voorschriften toepast die op grond van [artikel 1.2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2025-12-31&g=2025-12-31), zijn aangemerkt als gelijkwaardig aan een kwalificerende inkomen-inclusiemaatregel, dient de in Nederland gevestigde groepsentiteit of de aangewezen lokale entiteit een bijheffing-informatieaangifte in waarin, in afwijking van het vijfde lid, de volgende informatie is opgenomen:
+6. Indien een in Nederland gevestigde groepsentiteit een uiteindelijkemoederentiteit heeft die in een derde staat is gevestigd die voorschriften toepast die op grond van [artikel 1.2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=1&artikel=1.2&z=2026-04-11&g=2026-04-11), zijn aangemerkt als gelijkwaardig aan een kwalificerende inkomen-inclusiemaatregel, dient de in Nederland gevestigde groepsentiteit of de aangewezen lokale entiteit een bijheffing-informatieaangifte in waarin, in afwijking van het vijfde lid, de volgende informatie is opgenomen:
 
-- a. alle informatie die nodig is voor de toepassing van [artikel 4.1,](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2025-12-31&g=2025-12-31) waaronder:
+- a. alle informatie die nodig is voor de toepassing van [artikel 4.1,](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.1&z=2026-04-11&g=2026-04-11) waaronder:
 
-- 1°. identificatie van alle groepsentiteiten waarin een partieel gehouden moederentiteit op enig moment gedurende het verslagjaar onmiddellijk of middellijk een belang heeft en de structuur van dergelijke belangen;
+  - 1°. identificatie van alle groepsentiteiten waarin een partieel gehouden moederentiteit op enig moment gedurende het verslagjaar onmiddellijk of middellijk een belang heeft en de structuur van dergelijke belangen;
 
-- 2°. alle informatie die nodig is om het effectieve belastingtarief te bepalen van de staten waarin groepsentiteiten zijn gevestigd waarin de partieel gehouden moederentiteit, bedoeld in subonderdeel 1°, belangen houdt, en om de verschuldigde bijheffing te bepalen; en
+  - 2°. alle informatie die nodig is om het effectieve belastingtarief te bepalen van de staten waarin groepsentiteiten zijn gevestigd waarin de partieel gehouden moederentiteit, bedoeld in subonderdeel 1°, belangen houdt, en om de verschuldigde bijheffing te bepalen; en
 
-- 3°. alle relevante informatie ten behoeve van het bepalen van het effectieve belastingtarief en de verschuldigde bijheffing onder 2°, in overeenstemming met de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.1&z=2025-12-31&g=2025-12-31), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2025-12-31&g=2025-12-31), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.3&z=2025-12-31&g=2025-12-31), [8.2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), en [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2025-12-31&g=2025-12-31);
+  - 3°. alle relevante informatie ten behoeve van het bepalen van het effectieve belastingtarief en de verschuldigde bijheffing onder 2°, in overeenstemming met de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.1&z=2026-04-11&g=2026-04-11), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2026-04-11&g=2026-04-11), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.3&z=2026-04-11&g=2026-04-11), [8.2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), en [artikel 8.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.4&z=2026-04-11&g=2026-04-11);
 
-- b. alle informatie die nodig is voor de toepassing van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.1&z=2025-12-31&g=2025-12-31), waaronder:
+- b. alle informatie die nodig is voor de toepassing van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.1&z=2026-04-11&g=2026-04-11), waaronder:
 
-- 1°. identificatie van de groepsentiteiten die zijn gevestigd in de staat waarin de uiteindelijkemoederentiteit is gevestigd en de structuur van de belangen in die groepsentiteiten;
+  - 1°. identificatie van de groepsentiteiten die zijn gevestigd in de staat waarin de uiteindelijkemoederentiteit is gevestigd en de structuur van de belangen in die groepsentiteiten;
 
-- 2°. alle informatie die nodig is om het effectieve belastingtarief te bepalen in de staat waarin de uiteindelijkemoederentiteit is gevestigd en om de verschuldigde bijheffing te bepalen; en
+  - 2°. alle informatie die nodig is om het effectieve belastingtarief te bepalen in de staat waarin de uiteindelijkemoederentiteit is gevestigd en om de verschuldigde bijheffing te bepalen; en
 
-- 3°. alle informatie die nodig is voor de toerekening van een dergelijke bijheffing gebaseerd op de in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2025-12-31&g=2025-12-31) bedoelde toerekeningsformule van de onderbelastewinstbijheffing;
+  - 3°. alle informatie die nodig is voor de toerekening van een dergelijke bijheffing gebaseerd op de in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2026-04-11&g=2026-04-11) bedoelde toerekeningsformule van de onderbelastewinstbijheffing;
 
 - c. alle informatie die nodig is voor de toepassing van een kwalificerende binnenlandse bijheffing.
 
 7. De bijheffing-informatieaangifte en de kennisgeving, bedoeld in het vierde lid, worden uiterlijk vijftien maanden na afloop van het verslagjaar ingediend bij de inspecteur.
 
-8. Bij ministeriële regeling kunnen nadere regels worden gesteld over de vorm en de inhoud van de bijheffing-informatieaangifte, waaronder regels over de bij het indienen van de bijheffing-informatieaangifte te verstrekken gegevens en inlichtingen.
+8. De informatieaangifte-indienende groepsentiteit stelt vast welke delen van de bijheffing-informatieaangifte aan welke bevoegde autoriteiten als bedoeld in [artikel 6i, eerste lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=6i) op grond van dat artikel worden verstrekt.
+
+9. Bij ministeriële regeling kunnen nadere regels worden gesteld over de vorm en de inhoud van de bijheffing-informatieaangifte, waaronder regels over de bij het indienen van de bijheffing-informatieaangifte te verstrekken gegevens en inlichtingen.
 
 ##### Artikel 13.2. Keuzes
 
-1. De keuze, bedoeld in de [artikelen 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.2&z=2025-12-31&g=2025-12-31), [6.2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2025-12-31&g=2025-12-31), [6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.3&z=2025-12-31&g=2025-12-31), [6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.6&z=2025-12-31&g=2025-12-31), [6.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.9&z=2025-12-31&g=2025-12-31), [10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2025-12-31&g=2025-12-31), en [10.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2025-12-31&g=2025-12-31), geldt voor een periode van vijf verslagjaren, welke periode aanvangt op de eerste dag van het verslagjaar waarvoor die keuze is gemaakt. De keuze wordt automatisch verlengd, tenzij de informatieaangifte-indienende groepsentiteit de keuze herroept na de vijfjaarsperiode. Een herroeping van de keuze geldt voor een periode van vijf verslagjaren, die aanvangt op de eerste dag van het verslagjaar waarvoor de keuze wordt herroepen.
+1. De keuze, bedoeld in de [artikelen 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.2&z=2026-04-11&g=2026-04-11), [6.2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2026-04-11&g=2026-04-11), [6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.3&z=2026-04-11&g=2026-04-11), [6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.6&z=2026-04-11&g=2026-04-11), [6.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.9&z=2026-04-11&g=2026-04-11), [10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.5&z=2026-04-11&g=2026-04-11), en [10.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.6&z=2026-04-11&g=2026-04-11), geldt voor een periode van vijf verslagjaren, welke periode aanvangt op de eerste dag van het verslagjaar waarvoor die keuze is gemaakt. De keuze wordt automatisch verlengd, tenzij de informatieaangifte-indienende groepsentiteit de keuze herroept na de vijfjaarsperiode. Een herroeping van de keuze geldt voor een periode van vijf verslagjaren, die aanvangt op de eerste dag van het verslagjaar waarvoor de keuze wordt herroepen.
 
-2. De keuze, bedoeld in de [artikelen 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.7&z=2025-12-31&g=2025-12-31), [7.3, negende lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31), [7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2025-12-31&g=2025-12-31), [8.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), [8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2025-12-31&g=2025-12-31), [8.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), [8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2025-12-31&g=2025-12-31), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2025-12-31&g=2025-12-31), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2025-12-31&g=2025-12-31) en [10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2025-12-31&g=2025-12-31), geldt voor het verslagjaar waarvoor die keuze gemaakt is. De keuze wordt automatisch verlengd, tenzij de informatieaangifte-indienende groepsentiteit de keuze ten aanzien van een volgend verslagjaar herroept.
+2. De keuze, bedoeld in de [artikelen 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.7&z=2026-04-11&g=2026-04-11), [7.3, negende lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11), [7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2026-04-11&g=2026-04-11), [8.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), [8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2026-04-11&g=2026-04-11), [8.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), [8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.11&z=2026-04-11&g=2026-04-11), [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.13&z=2026-04-11&g=2026-04-11), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.14&z=2026-04-11&g=2026-04-11) en [10.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=10&artikel=10.3&z=2026-04-11&g=2026-04-11), geldt voor het verslagjaar waarvoor die keuze gemaakt is. De keuze wordt automatisch verlengd, tenzij de informatieaangifte-indienende groepsentiteit de keuze ten aanzien van een volgend verslagjaar herroept.
 
 ##### Artikel 13.3. Bestuurlijke boeten overtreding bijheffing-informatieaangifteverplichtingen
 
-1. Indien het aan opzet of grove schuld is te wijten dat de verplichting, bedoeld in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31), niet, niet tijdig, niet volledig of niet juist is of wordt nagekomen door de groepsentiteit of de aangewezen lokale entiteit, vormt dit een vergrijp ter zake waarvan de inspecteur de groepsentiteit, onderscheidenlijk de aangewezen lokale entiteit, een bestuurlijke boete van ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), kan opleggen.
+1. Indien het aan opzet of grove schuld is te wijten dat de verplichting, bedoeld in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11), niet, niet tijdig, niet volledig of niet juist is of wordt nagekomen door de groepsentiteit of de aangewezen lokale entiteit, vormt dit een vergrijp ter zake waarvan de inspecteur de groepsentiteit, onderscheidenlijk de aangewezen lokale entiteit, een bestuurlijke boete van ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), kan opleggen.
 
-2. Indien het aan opzet of grove schuld is te wijten dat de verplichting, bedoeld in [artikel 13.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31), niet, niet tijdig, niet volledig of niet juist is of wordt nagekomen door de groepsentiteit of de aangewezen lokale entiteit, vormt dit een vergrijp ter zake waarvan de inspecteur de groepsentiteit, onderscheidenlijk de aangewezen lokale entiteit, een bestuurlijke boete van ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), kan opleggen.
+2. Indien het aan opzet of grove schuld is te wijten dat de verplichtingen, bedoeld in [artikel 13.1, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11), niet, niet tijdig, niet volledig of niet juist is of wordt nagekomen door de groepsentiteit of de aangewezen lokale entiteit, vormt dit een vergrijp ter zake waarvan de inspecteur de groepsentiteit, onderscheidenlijk de aangewezen lokale entiteit, een bestuurlijke boete van ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), kan opleggen.
 
 ### Hoofdstuk 13. Administratieve bepalingen
 
 ##### Artikel 14.1. Transitieregels voor actieve en passieve belastinglatenties en overgedragen activa
 
-1. Bij het bepalen van het effectieve belastingtarief voor het overgangsjaar voor een staat en elk daaropvolgend verslagjaar worden alle actieve en passieve belastinglatenties in aanmerking genomen die zijn opgenomen of vermeld in de financiële verslaggeving van alle in die staat gevestigde groepsentiteiten in het overgangsjaar voor die staat. Voor zover de activa en passiva van een toetredende of uittredende entiteit op grond van [artikel 9.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&artikel=9.2&z=2025-12-31&g=2025-12-31), worden gewaardeerd op basis van de historische boekwaarde, worden de met die activa en passiva samenhangende actieve en passieve belastinglatenties bepaald op basis van die boekwaarde indien de entiteit na 30 november 2021 is toegetreden tot of uitgetreden uit de multinationale groep of binnenlandse groep. Deze actieve en passieve belastinglatenties worden in aanmerking genomen tegen het minimumbelastingtarief of, indien dit lager is, het van toepassing zijnde belastingtarief waartegen de actieve of passieve belastinglatenties in de financiële verslaggeving zijn opgenomen. Een actieve belastinglatentie die is opgenomen tegen een lager belastingtarief dan het minimumbelastingtarief mag worden opgenomen tegen het minimumbelastingtarief voor zover de groepsentiteit aannemelijk maakt dat de actieve belastinglatentie toerekenbaar is aan een kwalificerend verlies. Het effect van een aanpassing van de waardering of van de boekhoudkundige verwerking van een actieve belastinglatentie blijft buiten beschouwing.
+1. Bij het bepalen van het effectieve belastingtarief voor het overgangsjaar voor een staat en elk daaropvolgend verslagjaar worden alle actieve en passieve belastinglatenties in aanmerking genomen die zijn opgenomen of vermeld in de financiële verslaggeving van alle in die staat gevestigde groepsentiteiten in het overgangsjaar voor die staat. Voor zover de activa en passiva van een toetredende of uittredende entiteit op grond van [artikel 9.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&artikel=9.2&z=2026-04-11&g=2026-04-11), worden gewaardeerd op basis van de historische boekwaarde, worden de met die activa en passiva samenhangende actieve en passieve belastinglatenties bepaald op basis van die boekwaarde indien de entiteit na 30 november 2021 is toegetreden tot of uitgetreden uit de multinationale groep of binnenlandse groep. Deze actieve en passieve belastinglatenties worden in aanmerking genomen tegen het minimumbelastingtarief of, indien dit lager is, het van toepassing zijnde belastingtarief waartegen de actieve of passieve belastinglatenties in de financiële verslaggeving zijn opgenomen. Een actieve belastinglatentie die is opgenomen tegen een lager belastingtarief dan het minimumbelastingtarief mag worden opgenomen tegen het minimumbelastingtarief voor zover de groepsentiteit aannemelijk maakt dat de actieve belastinglatentie toerekenbaar is aan een kwalificerend verlies. Het effect van een aanpassing van de waardering of van de boekhoudkundige verwerking van een actieve belastinglatentie blijft buiten beschouwing.
 
 2. Actieve belastinglatenties, en ingeval onderdeel d van toepassing is ook passieve belastinglatenties, zijn uitgesloten van de berekening van het eerste lid voor zover:
 
-- a. zij zien op bestanddelen die op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31) niet in aanmerking worden genomen bij de berekening van het kwalificerende inkomen of verlies en zijn ontstaan als gevolg van een transactie die na 30 november 2021 heeft plaatsgevonden;
+- a. zij zien op bestanddelen die op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11) niet in aanmerking worden genomen bij de berekening van het kwalificerende inkomen of verlies en zijn ontstaan als gevolg van een transactie die na 30 november 2021 heeft plaatsgevonden;
 
 - b. zij voortkomen uit een regeling met een overheidsinstantie die is overeengekomen of aangepast na 30 november 2021 en die voorziet in een bijzondere aanspraak op een belastingkrediet of een ander belastingvoordeel dat zonder die regeling niet zou zijn verleend;
 
@@ -1922,9 +1926,9 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 3. Indien een overdracht van activa tussen groepsentiteiten heeft plaatsgevonden na 30 november 2021 en voor het begin van het overgangsjaar voor de staat waarin die groepsentiteiten zijn gevestigd, wordt de boekwaarde van de verworven activa, met uitzondering van voorraad, gesteld op de door de overdragende groepsentiteit gehanteerde boekwaarde op het moment van vervreemding. De actieve belastinglatenties en passieve belastinglatenties worden bepaald op basis van die grondslag.
 
-4. Indien [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2025-12-31&g=2025-12-31) in het overgangsjaar voor een staat wordt toegepast, wordt dit artikel voor die staat toegepast vanaf het verslagjaar waarin artikel 8.7 voor het eerst niet wordt toegepast voor die staat.
+4. Indien [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2026-04-11&g=2026-04-11) in het overgangsjaar voor een staat wordt toegepast, wordt dit artikel voor die staat toegepast vanaf het verslagjaar waarin artikel 8.7 voor het eerst niet wordt toegepast voor die staat.
 
-5. Indien [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) in het overgangsjaar voor een staat wordt toegepast, worden het eerste en derde lid voor die staat toegepast vanaf het verslagjaar waarin artikel 8.8 voor het eerst niet wordt toegepast voor die staat. Voor een beleggingsentiteit of verzekeringsbeleggingsentiteit is het overgangsjaar het eerste verslagjaar waarin artikel 8.8 niet van toepassing is op die entiteit.
+5. Indien [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) in het overgangsjaar voor een staat wordt toegepast, worden het eerste en derde lid voor die staat toegepast vanaf het verslagjaar waarin artikel 8.8 voor het eerst niet wordt toegepast voor die staat. Voor een beleggingsentiteit of verzekeringsbeleggingsentiteit is het overgangsjaar het eerste verslagjaar waarin artikel 8.8 niet van toepassing is op die entiteit.
 
 6. In afwijking van het tweede lid mag een actieve belastinglatentie als bedoeld in het tweede lid, onderdelen b en c, in aanmerking worden genomen en aangewend in verslagjaren die aanvangen op of na 1 januari 2024 en vóór 1 januari 2026 en die uiterlijk 30 juni 2027 eindigen en mag een actieve belastinglatentie als bedoeld in het tweede lid, onderdeel d, in aanmerking worden genomen en aangewend in verslagjaren die beginnen op of na 1 januari 2025 en vóór 1 januari 2027 en die uiterlijk 30 juni 2028 eindigen, met dien verstande dat in totaal niet meer dan 20 percent van de actieve belastinglatentie wordt aangewend en voor zover:
 
@@ -1938,27 +1942,27 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 - e. de actieve belastinglatentie noch in totaal noch in een verslagjaar voor een hoger bedrag wordt aangewend als gevolg van een wijziging na 18 november 2024 ten aanzien van een regeling als bedoeld in het tweede lid, onderdeel b, een keuze als bedoeld in het tweede lid, onderdeel c, of de boekwaarden, bedoeld in het tweede lid, onderdeel d; en
 
-- f. de aanwending het totale bedrag aan gecorrigeerde mutaties in belastinglatenties, bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31), niet overschrijdt.
+- f. de aanwending het totale bedrag aan gecorrigeerde mutaties in belastinglatenties, bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11), niet overschrijdt.
 
 7. In afwijking van het derde lid kan de groepsentiteit die activa verkrijgt van een andere groepsentiteit, onder bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, een actieve belastinglatentie in aanmerking nemen ter zake van de verworven activa, dan wel de boekwaarde van de verworven activa uit de financiële verslaggeving overnemen.
 
-8. Voor de toepassing van dit artikel wordt onder overgangsjaar voor een staat verstaan: het eerste verslagjaar waarin een multinationale groep met betrekking tot die staat regels ter implementatie van [Richtlijn (EU) 2022/2523](32022L2523) of van de OESO-modelregels dient toe te passen, of het eerste verslagjaar waarin een binnenlandse groep voldoet aan de criteria, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31).
+8. Voor de toepassing van dit artikel wordt onder overgangsjaar voor een staat verstaan: het eerste verslagjaar waarin een multinationale groep met betrekking tot die staat regels ter implementatie van [Richtlijn (EU) 2022/2523](32022L2523) of van de OESO-modelregels dient toe te passen, of het eerste verslagjaar waarin een binnenlandse groep voldoet aan de criteria, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 14.2. Bijheffing in de aanvangsfase
 
-1. De binnenlandse bijheffing, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2025-12-31&g=2025-12-31), wordt in de verslagjaren, bedoeld in het vierde lid, verminderd met de som van de volgens het tweede lid aan ieder van de volgende in Nederland gevestigde groepsentiteiten toegerekende bijheffing:
+1. De binnenlandse bijheffing, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2026-04-11&g=2026-04-11), wordt in de verslagjaren, bedoeld in het vierde lid, verminderd met de som van de volgens het tweede lid aan ieder van de volgende in Nederland gevestigde groepsentiteiten toegerekende bijheffing:
 
 - a. de uiteindelijkemoederentiteit of een tussenliggende moederentiteit die wordt gehouden door een uiteindelijkemoederentiteit die een uitgesloten entiteit is; en
 
 - b. een groepsentiteit waarin die uiteindelijkemoederentiteit of tussenliggende moederentiteit een onmiddellijk of middellijk belang heeft.
 
-2. De bijheffing wordt aan iedere groepsentiteit toegerekend overeenkomstig [artikel 8.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), waarbij:
+2. De bijheffing wordt aan iedere groepsentiteit toegerekend overeenkomstig [artikel 8.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), waarbij:
 
-- a. [artikel 3.1, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.1&z=2025-12-31&g=2025-12-31), buiten aanmerking blijft; en
+- a. [artikel 3.1, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.1&z=2026-04-11&g=2026-04-11), buiten aanmerking blijft; en
 
-- b. de aldus berekende bijheffing voor een groepsentiteit als bedoeld in het eerste lid, onderdeel b, wordt vermenigvuldigd met het overeenkomstig [artikel 4.2, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), aan haar moederentiteit toerekenbare deel van die bijheffing over het verslagjaar.
+- b. de aldus berekende bijheffing voor een groepsentiteit als bedoeld in het eerste lid, onderdeel b, wordt vermenigvuldigd met het overeenkomstig [artikel 4.2, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), aan haar moederentiteit toerekenbare deel van die bijheffing over het verslagjaar.
 
-3. Voor de berekening van de inkomen-inclusiebijheffing, bedoeld in [artikel 4.2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), in de verslagjaren, bedoeld in het vierde lid, wordt de bijheffing voor in Nederland gevestigde groepsentiteiten in afwijking van [artikel 8.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), gesteld op nihil, indien die zou worden geheven van:
+3. Voor de berekening van de inkomen-inclusiebijheffing, bedoeld in [artikel 4.2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), in de verslagjaren, bedoeld in het vierde lid, wordt de bijheffing voor in Nederland gevestigde groepsentiteiten in afwijking van [artikel 8.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), gesteld op nihil, indien die zou worden geheven van:
 
 - a. de uiteindelijkemoederentiteit; of
 
@@ -1968,9 +1972,9 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 - a. gedurende de eerste vijf verslagjaren van de aanvangsfase van de internationale activiteiten van de multinationale groep waarvan de uiteindelijkemoederentiteit of de tussenliggende moederentiteit deel uitmaakt; of
 
-- b. gedurende een periode van vijf verslagjaren vanaf het begin van het verslagjaar waarin deze wet ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31) voor het eerst van toepassing is op een binnenlandse groep waarvan de uiteindelijkemoederentiteit of de tussenliggende moederentiteit deel uitmaakt.
+- b. gedurende een periode van vijf verslagjaren vanaf het begin van het verslagjaar waarin deze wet ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11) voor het eerst van toepassing is op een binnenlandse groep waarvan de uiteindelijkemoederentiteit of de tussenliggende moederentiteit deel uitmaakt.
 
-5. De onderbelastewinstbijheffing, bedoeld in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2025-12-31&g=2025-12-31), wordt gesteld op nihil gedurende de eerste vijf verslagjaren van de aanvangsfase van de internationale activiteiten van de multinationale groep.
+5. De onderbelastewinstbijheffing, bedoeld in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2026-04-11&g=2026-04-11), wordt gesteld op nihil gedurende de eerste vijf verslagjaren van de aanvangsfase van de internationale activiteiten van de multinationale groep.
 
 6. Een multinationale groep bevindt zich in de aanvangsfase van haar internationale activiteiten indien gedurende een verslagjaar:
 
@@ -1978,7 +1982,7 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 - b. de totale nettoboekwaarde van materiële activa van al haar groepsentiteiten die in andere staten dan de referentiestaat zijn gevestigd niet meer bedraagt dan € 50.000.000.
 
-7. De periode van vijf verslagjaren, bedoeld in het vierde lid, onderdeel a, en het vijfde lid, vangt aan op de eerste dag van het verslagjaar waarin een multinationale groep voor het eerst voldoet aan de criteria met betrekking tot de omzet als omschreven in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), met dien verstande dat voor een multinationale groep die op 31 december 2023 aan die criteria voldoet:
+7. De periode van vijf verslagjaren, bedoeld in het vierde lid, onderdeel a, en het vijfde lid, vangt aan op de eerste dag van het verslagjaar waarin een multinationale groep voor het eerst voldoet aan de criteria met betrekking tot de omzet als omschreven in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), met dien verstande dat voor een multinationale groep die op 31 december 2023 aan die criteria voldoet:
 
 - a. de periode van vijf verslagjaren, bedoeld in het vierde lid, onderdeel a, aanvangt op 31 december 2023;
 
@@ -1986,19 +1990,19 @@ Y: het netto kwalificerende inkomen van de staat, bepaald op de voet van [artike
 
 8. De aangewezen informatieaangifte-indienende groepsentiteit stelt de inspecteur in kennis van de dag waarop de aanvangsfase van de internationale activiteiten, bedoeld in het zesde lid, aanvangt.
 
-9. Voor de toepassing van het zesde lid, onderdeel b, wordt onder referentiestaat verstaan: de staat waarin de groepsentiteiten van de multinationale groep de hoogste totale nettoboekwaarde van materiële activa hebben in het verslagjaar waarin de multinationale groep voldoet aan de criteria met betrekking tot de omzet als omschreven in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31). De totale nettoboekwaarde van materiële activa in een staat is de som van de nettoboekwaarde van materiële activa van alle groepsentiteiten van de multinationale groep die in die staat zijn gevestigd.
+9. Voor de toepassing van het zesde lid, onderdeel b, wordt onder referentiestaat verstaan: de staat waarin de groepsentiteiten van de multinationale groep de hoogste totale nettoboekwaarde van materiële activa hebben in het verslagjaar waarin de multinationale groep voldoet aan de criteria met betrekking tot de omzet als omschreven in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11). De totale nettoboekwaarde van materiële activa in een staat is de som van de nettoboekwaarde van materiële activa van alle groepsentiteiten van de multinationale groep die in die staat zijn gevestigd.
 
 ##### Artikel 14.3. Transitieregels wijze van heffing en bijheffing-informatieaangifte
 
-1. In afwijking van [artikel 10, tweede lid, eerste zin, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) en [artikel 11.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), stelt de inspecteur de termijn voor het doen van aangifte over het overgangsjaar zodanig vast dat deze niet eerder verstrijkt dan twintig maanden na het einde van dat verslagjaar.
+1. In afwijking van [artikel 10, tweede lid, eerste zin, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) en [artikel 11.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), stelt de inspecteur de termijn voor het doen van aangifte over het overgangsjaar zodanig vast dat deze niet eerder verstrijkt dan twintig maanden na het einde van dat verslagjaar.
 
-2. In afwijking van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) en [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), is de belastingplichtige gehouden de belasting over het overgangsjaar aan de ontvanger overeenkomstig de aangifte te betalen binnen twintig maanden na het einde van dat verslagjaar.
+2. In afwijking van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) en [artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), is de belastingplichtige gehouden de belasting over het overgangsjaar aan de ontvanger overeenkomstig de aangifte te betalen binnen twintig maanden na het einde van dat verslagjaar.
 
-3. In afwijking van [artikel 13.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31), worden de bijheffing-informatieaangifte en de kennisgeving met betrekking tot het overgangsjaar binnen achttien maanden na afloop van dat verslagjaar ingediend bij de inspecteur.
+3. In afwijking van [artikel 13.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11), worden de bijheffing-informatieaangifte en de kennisgeving met betrekking tot het overgangsjaar binnen achttien maanden na afloop van dat verslagjaar ingediend bij de inspecteur.
 
 4. Dit artikel vindt geen toepassing indien door de multinationale groep voorafgaand aan het overgangsjaar een bijheffing-informatieaangifte is ingediend in een andere staat waarmee Nederland voor dat jaar een kwalificerende overeenkomst tussen bevoegde autoriteiten heeft.
 
-5. Voor de toepassing van dit artikel wordt onder overgangsjaar verstaan: het overgangsjaar voor Nederland in de zin van [artikel 14.1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2025-12-31&g=2025-12-31).
+5. Voor de toepassing van dit artikel wordt onder overgangsjaar verstaan: het overgangsjaar voor Nederland in de zin van [artikel 14.1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2026-04-11&g=2026-04-11).
 
 ### Hoofdstuk 14. Transitieregels
 
@@ -2018,23 +2022,23 @@ Wijzigt de Algemene wet inzake rijksbelastingen.
 
 1. Deze wet treedt in werking met ingang van 31 december 2023 en vindt voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2023.
 
-2. In afwijking van het eerste lid treden de [artikelen 15.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.1&z=2025-12-31&g=2025-12-31) en [15.2, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2024 en vinden zij voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2024.
+2. In afwijking van het eerste lid treden de [artikelen 15.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.1&z=2026-04-11&g=2026-04-11) en [15.2, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2024 en vinden zij voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2024.
 
-3. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2025 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2025.
+3. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2025 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2025.
 
-4. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2026 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2026.
+4. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2026 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2026.
 
-5. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2027 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2027.
+5. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2027 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2027.
 
-6. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2028 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2028.
+6. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2028 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2028.
 
-7. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2029 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2029.
+7. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2029 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2029.
 
-8. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2030 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2030.
+8. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2030 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2030.
 
-9. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2031 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2031.
+9. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2031 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2031.
 
-10. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2025-12-31&g=2025-12-31), in werking met ingang van 31 december 2032 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2032.
+10. In afwijking van het eerste lid treedt [artikel 15.2, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=15&artikel=15.2&z=2026-04-11&g=2026-04-11), in werking met ingang van 31 december 2032 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren die aanvangen op of na 31 december 2032.
 
 ##### Artikel 17.2. Citeertitel
 
@@ -2044,11 +2048,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.4. Valutaconversie
 
-1. Indien de financiële verslaggeving van een groepsentiteit is opgesteld in een functionele valuta die afwijkt van de presentatievaluta van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit, worden voor de toepassing van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&z=2025-12-31&g=2025-12-31) de bedragen die zijn uitgedrukt in de functionele valuta omgerekend naar de presentatievaluta op basis van de valutaconversieprincipes van de geautoriseerde financiële verslaggevingsstandaard die worden gebruikt bij het opstellen van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
+1. Indien de financiële verslaggeving van een groepsentiteit is opgesteld in een functionele valuta die afwijkt van de presentatievaluta van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit, worden voor de toepassing van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&z=2026-04-11&g=2026-04-11) de bedragen die zijn uitgedrukt in de functionele valuta omgerekend naar de presentatievaluta op basis van de valutaconversieprincipes van de geautoriseerde financiële verslaggevingsstandaard die worden gebruikt bij het opstellen van de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit.
 
-2. Indien de verschuldigde bijheffing, bedoeld in de [artikelen 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2025-12-31&g=2025-12-31), [4.2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2025-12-31&g=2025-12-31), en [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2025-12-31&g=2025-12-31), is berekend in een andere valuta dan de euro, wordt deze omgerekend naar de euro tegen de referentiewisselkoers die is vastgesteld door de Europese Centrale Bank op de laatste dag van het verslagjaar waarover de bijheffing is verschuldigd.
+2. Indien de verschuldigde bijheffing, bedoeld in de [artikelen 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2026-04-11&g=2026-04-11), [4.2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=4&artikel=4.2&z=2026-04-11&g=2026-04-11), en [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.2&z=2026-04-11&g=2026-04-11), is berekend in een andere valuta dan de euro, wordt deze omgerekend naar de euro tegen de referentiewisselkoers die is vastgesteld door de Europese Centrale Bank op de laatste dag van het verslagjaar waarover de bijheffing is verschuldigd.
 
-3. Indien de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit niet is opgesteld in euro’s, worden voor de toepassing van de definitie van materiële concurrentieverstoring in artikel 1.2, eerste lid, alsmede voor de toepassing van de drempelbedragen in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2025-12-31&g=2025-12-31), [6.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2025-12-31&g=2025-12-31), [6.2, tweede lid, onderdeel f, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2025-12-31&g=2025-12-31), [7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2025-12-31&g=2025-12-31), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.8&z=2025-12-31&g=2025-12-31), [8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2025-12-31&g=2025-12-31), [8.8, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), [9.1, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&artikel=9.1&z=2025-12-31&g=2025-12-31), en [14.2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.2&z=2025-12-31&g=2025-12-31), de daarvoor van belang zijnde bedragen in de geconsolideerde jaarrekening omgerekend naar de euro.
+3. Indien de geconsolideerde jaarrekening van de uiteindelijkemoederentiteit niet is opgesteld in euro’s, worden voor de toepassing van de definitie van materiële concurrentieverstoring in artikel 1.2, eerste lid, alsmede voor de toepassing van de drempelbedragen in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=2&artikel=2.1&z=2026-04-11&g=2026-04-11), [6.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.1&z=2026-04-11&g=2026-04-11), [6.2, tweede lid, onderdeel f, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&artikel=6.2&z=2026-04-11&g=2026-04-11), [7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.6&z=2026-04-11&g=2026-04-11), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.8&z=2026-04-11&g=2026-04-11), [8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.7&z=2026-04-11&g=2026-04-11), [8.8, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), [9.1, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=9&artikel=9.1&z=2026-04-11&g=2026-04-11), en [14.2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.2&z=2026-04-11&g=2026-04-11), de daarvoor van belang zijnde bedragen in de geconsolideerde jaarrekening omgerekend naar de euro.
 
 4. Voor de toepassing van het derde lid worden de bedragen omgerekend tegen de gemiddelde referentiewisselkoers die is vastgesteld door de Europese Centrale Bank voor de maand december van het kalenderjaar dat voorafgaat aan de aanvang van het verslagjaar.
 
@@ -2080,41 +2084,41 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 14.1a. Transitieregels voor de binnenlandse bijheffing
 
-Niettegenstaande [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2025-12-31&g=2025-12-31), wordt voor de berekening van de binnenlandse bijheffing, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2025-12-31&g=2025-12-31), vanaf het eerste verslagjaar waarin een multinationale groep met betrekking tot de in Nederland gevestigde groepsentiteiten regels ter implementatie van [Richtlijn (EU) 2022/2523](32022L2523), niet zijnde deze wet, of van de OESO-modelregels dient toe te passen (het nieuwe overgangsjaar):
+Niettegenstaande [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2026-04-11&g=2026-04-11), wordt voor de berekening van de binnenlandse bijheffing, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3&artikel=3.2&z=2026-04-11&g=2026-04-11), vanaf het eerste verslagjaar waarin een multinationale groep met betrekking tot de in Nederland gevestigde groepsentiteiten regels ter implementatie van [Richtlijn (EU) 2022/2523](32022L2523), niet zijnde deze wet, of van de OESO-modelregels dient toe te passen (het nieuwe overgangsjaar):
 
-- a. het bedrag aan voortgewentelde bovenmatige negatieve belastinguitgave bij aanvang van het nieuwe overgangsjaar voor de toepassing van de [artikelen 7.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31), en [8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2a&z=2025-12-31&g=2025-12-31) verminderd tot nihil;
+- a. het bedrag aan voortgewentelde bovenmatige negatieve belastinguitgave bij aanvang van het nieuwe overgangsjaar voor de toepassing van de [artikelen 7.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11), en [8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2a&z=2026-04-11&g=2026-04-11) verminderd tot nihil;
 
-- b. het bedrag aan passieve belastinglatenties die betrekking hebben op de periode voorafgaand aan het nieuwe overgangsjaar niet teruggenomen in de zin van [artikel 7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2025-12-31&g=2025-12-31);
+- b. het bedrag aan passieve belastinglatenties die betrekking hebben op de periode voorafgaand aan het nieuwe overgangsjaar niet teruggenomen in de zin van [artikel 7.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.3&z=2026-04-11&g=2026-04-11);
 
-- c. voor de toepassing van [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2025-12-31&g=2025-12-31) een fictieve actieve belastinglatentie die is opgekomen voorafgaand aan het nieuwe overgangsjaar niet in aanmerking genomen;
+- c. voor de toepassing van [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.4&z=2026-04-11&g=2026-04-11) een fictieve actieve belastinglatentie die is opgekomen voorafgaand aan het nieuwe overgangsjaar niet in aanmerking genomen;
 
-- d. [artikel 14.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2025-12-31&g=2025-12-31), bij aanvang van het nieuwe overgangsjaar opnieuw toegepast en worden de eerder in aanmerking genomen actieve en passieve latenties buiten beschouwing gelaten; en
+- d. [artikel 14.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2026-04-11&g=2026-04-11), bij aanvang van het nieuwe overgangsjaar opnieuw toegepast en worden de eerder in aanmerking genomen actieve en passieve latenties buiten beschouwing gelaten; en
 
-- e. [artikel 14.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2025-12-31&g=2025-12-31), toegepast op transacties die na 30 november 2021 en voor de aanvang van het nieuwe overgangsjaar hebben plaatsgevonden, met dien verstande dat de binnenlandse bijheffing die is verschuldigd door de toepassing van [artikel 7.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2025-12-31&g=2025-12-31), met betrekking tot een actieve belastinglatentie die toerekenbaar is aan een verlies, die actieve belastinglatentie wordt aangemerkt als een bestanddeel dat op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2025-12-31&g=2025-12-31) in aanmerking wordt genomen bij de berekening van het kwalificerende inkomen of verlies.
+- e. [artikel 14.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2026-04-11&g=2026-04-11), toegepast op transacties die na 30 november 2021 en voor de aanvang van het nieuwe overgangsjaar hebben plaatsgevonden, met dien verstande dat de binnenlandse bijheffing die is verschuldigd door de toepassing van [artikel 7.2, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7&artikel=7.2&z=2026-04-11&g=2026-04-11), met betrekking tot een actieve belastinglatentie die toerekenbaar is aan een verlies, die actieve belastinglatentie wordt aangemerkt als een bestanddeel dat op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6&z=2026-04-11&g=2026-04-11) in aanmerking wordt genomen bij de berekening van het kwalificerende inkomen of verlies.
 
 ##### Artikel 14.4. Transitieregels termijnen bij een verslagjaar dat eindigt vóór 31 maart 2025
 
 1. Indien het overgangsjaar eindigt vóór 31 december 2024 of het verslagjaar eindigt vóór 31 maart 2025:
 
-- a. worden, in afwijking van [artikel 13.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31), en [artikel 14.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), de bijheffing-informatieaangifte en de kennisgeving met betrekking tot dat overgangsjaar of verslagjaar vóór 1 juli 2026 ingediend;
+- a. worden, in afwijking van [artikel 13.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11), en [artikel 14.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), de bijheffing-informatieaangifte en de kennisgeving met betrekking tot dat overgangsjaar of verslagjaar vóór 1 juli 2026 ingediend;
 
-- b. verstrijkt de termijn voor het doen van aangifte, in afwijking van [artikel 10, tweede lid, eerste zin, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) en de [artikelen 11.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), en [14.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), niet eerder dan 1 september 2026;
+- b. verstrijkt de termijn voor het doen van aangifte, in afwijking van [artikel 10, tweede lid, eerste zin, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) en de [artikelen 11.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), en [14.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), niet eerder dan 1 september 2026;
 
-- c. is de belastingplichtige, in afwijking van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) en de [artikelen 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), en [14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31), gehouden vóór 1 september 2026 de belasting over dat overgangsjaar of verslagjaar overeenkomstig de aangifte aan de ontvanger te betalen;
+- c. is de belastingplichtige, in afwijking van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) en de [artikelen 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), en [14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11), gehouden vóór 1 september 2026 de belasting over dat overgangsjaar of verslagjaar overeenkomstig de aangifte aan de ontvanger te betalen;
 
-- d. vervalt de bevoegdheid tot naheffing, in afwijking van [artikel 20, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) en [artikel 11.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.2&z=2025-12-31&g=2025-12-31), op 1 augustus 2031;
+- d. vervalt de bevoegdheid tot naheffing, in afwijking van [artikel 20, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) en [artikel 11.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.2&z=2026-04-11&g=2026-04-11), op 1 augustus 2031;
 
-- e. vervalt de inlichtingenverplichting, bedoeld in [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.2&z=2025-12-31&g=2025-12-31), in afwijking van artikel 12.2, derde en vierde lid, op 1 augustus 2031;
+- e. vervalt de inlichtingenverplichting, bedoeld in [artikel 12.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.2&z=2026-04-11&g=2026-04-11), in afwijking van artikel 12.2, derde en vierde lid, op 1 augustus 2031;
 
-- f. vervalt, in afwijking van de [artikelen 67c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c), en [67f, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) en [artikel 12.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.3&z=2025-12-31&g=2025-12-31), de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen op 1 augustus 2031;
+- f. vervalt, in afwijking van de [artikelen 67c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c), en [67f, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) en [artikel 12.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.3&z=2026-04-11&g=2026-04-11), de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen op 1 augustus 2031;
 
-- g. vervalt de bevoegdheid tot het opleggen van een vergrijpboete, bedoeld in [artikel 12.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.4&z=2025-12-31&g=2025-12-31), in afwijking van artikel 12.4, vierde en vijfde lid, op 1 augustus 2031.
+- g. vervalt de bevoegdheid tot het opleggen van een vergrijpboete, bedoeld in [artikel 12.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.4&z=2026-04-11&g=2026-04-11), in afwijking van artikel 12.4, vierde en vijfde lid, op 1 augustus 2031.
 
-2. Ten aanzien van het overgangsjaar dat eindigt vóór 31 december 2024 of het verslagjaar dat eindigt vóór 31 maart 2025 is [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.1&z=2025-12-31&g=2025-12-31) van overeenkomstige toepassing, met dien verstande dat voor de toepassing van artikel 12.1, tweede, derde, vierde en zesde lid, voor «[artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2025-12-31&g=2025-12-31), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2025-12-31&g=2025-12-31)» wordt gelezen «[artikel 14.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2025-12-31&g=2025-12-31),».
+2. Ten aanzien van het overgangsjaar dat eindigt vóór 31 december 2024 of het verslagjaar dat eindigt vóór 31 maart 2025 is [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12&artikel=12.1&z=2026-04-11&g=2026-04-11) van overeenkomstige toepassing, met dien verstande dat voor de toepassing van artikel 12.1, tweede, derde, vierde en zesde lid, voor «[artikel 11.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11&artikel=11.1&z=2026-04-11&g=2026-04-11), dan wel [artikel 14.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.3&z=2026-04-11&g=2026-04-11)» wordt gelezen «[artikel 14.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14&artikel=14.1&z=2026-04-11&g=2026-04-11),».
 
 ##### Artikel 14.5. Transitieregels keuze voor jurisdictierapportage bij bijheffing-informatieaangifte in de aanvangsfase
 
-Ten aanzien van een verslagjaar dat aanvangt voor 1 januari 2029 en eindigt voor 1 juli 2030 kan de uiteindelijkemoederentiteit, de aangewezen lokale entiteit of de aangewezen informatieaangifte-indienende groepsentiteit in afwijking van [artikel 13.1, vijfde lid, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2025-12-31&g=2025-12-31), kiezen om de bijheffing per staat te rapporteren, in plaats van per groepsentiteit, indien er in die staat:
+Ten aanzien van een verslagjaar dat aanvangt voor 1 januari 2029 en eindigt voor 1 juli 2030 kan de uiteindelijkemoederentiteit, de aangewezen lokale entiteit of de aangewezen informatieaangifte-indienende groepsentiteit in afwijking van [artikel 13.1, vijfde lid, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=13&artikel=13.1&z=2026-04-11&g=2026-04-11), kiezen om de bijheffing per staat te rapporteren, in plaats van per groepsentiteit, indien er in die staat:
 
 - a. geen minimumbelasting verschuldigd is; of
 
@@ -2126,11 +2130,11 @@ Ten aanzien van een verslagjaar dat aanvangt voor 1 januari 2029 en eindigt voor
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 15.1. Wijziging [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.1&z=2025-12-31&g=2025-12-31)
+##### Artikel 15.1. Wijziging [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=5&artikel=5.1&z=2026-04-11&g=2026-04-11)
 
 Wijzigt deze wet.
 
-##### Artikel 15.2. Wijzigingen [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2025-12-31&g=2025-12-31)
+##### Artikel 15.2. Wijzigingen [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.3&z=2026-04-11&g=2026-04-11)
 
 Wijzigt deze wet.
 
@@ -2142,7 +2146,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 8.2a. Voortgewentelde bovenmatige negatieve belastinguitgave
 
-1. Indien in een verslagjaar het bijheffingspercentage, berekend volgens [artikel 8.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2025-12-31&g=2025-12-31), hoger is dan het minimumbelastingtarief, wordt bij de toepassing van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2025-12-31&g=2025-12-31) de negatieve som van de gecorrigeerde betrokken belastingen over dat verslagjaar niet in aanmerking genomen, maar aangemerkt als een voortgewentelde bovenmatige negatieve belastinguitgave. Daarbij worden de gecorrigeerde betrokken belastingen op nihil gesteld.
+1. Indien in een verslagjaar het bijheffingspercentage, berekend volgens [artikel 8.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.2&z=2026-04-11&g=2026-04-11), hoger is dan het minimumbelastingtarief, wordt bij de toepassing van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.1&z=2026-04-11&g=2026-04-11) de negatieve som van de gecorrigeerde betrokken belastingen over dat verslagjaar niet in aanmerking genomen, maar aangemerkt als een voortgewentelde bovenmatige negatieve belastinguitgave. Daarbij worden de gecorrigeerde betrokken belastingen op nihil gesteld.
 
 2. Voor zover het gezamenlijke netto kwalificerende inkomen en de som van de gecorrigeerde betrokken belastingen in een volgend verslagjaar meer bedragen dan nihil, worden deze gezamenlijke gecorrigeerde betrokken belastingen verminderd met de voortgewentelde bovenmatige negatieve belastinguitgave bedoeld in het eerste lid, maar niet verder dan tot nihil. Het bedrag van de voortgewentelde bovenmatige negatieve belastinguitgave wordt op dezelfde voet verminderd.
 
@@ -2152,7 +2156,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 8.8a. Behandeling van gestructureerde hybride regelingen onder de tijdelijke kwalificerendlandenrapport veilige haven
 
-1. Indien sprake is van een gestructureerde hybride regeling tussen een of meer groepsentiteiten die is aangegaan na 15 december 2022 wordt voor de toepassing van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31) ten aanzien van een staat voor een verslagjaar:
+1. Indien sprake is van een gestructureerde hybride regeling tussen een of meer groepsentiteiten die is aangegaan na 15 december 2022 wordt voor de toepassing van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11) ten aanzien van een staat voor een verslagjaar:
 
 - a. de winst vóór winstbelasting gecorrigeerd met de kosten of verliezen voor zover die leiden tot een aftrek zonder betrekking in de heffing of een dubbele aftrek;
 
@@ -2186,17 +2190,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. **dubbele aftrek:** het gevolg van een regeling waarbij kosten of verliezen in aanmerking worden genomen in de financiële verslaggeving van een groepsentiteit en die:
 
-- 1°. ook in aanmerking worden genomen in de financiële verslaggeving van een andere groepsentiteit, tenzij de kosten of verliezen worden afgezet tegen omzet die in aanmerking is genomen in de financiële verslaggeving van beide groepsentiteiten; of
+  - 1°. ook in aanmerking worden genomen in de financiële verslaggeving van een andere groepsentiteit, tenzij de kosten of verliezen worden afgezet tegen omzet die in aanmerking is genomen in de financiële verslaggeving van beide groepsentiteiten; of
 
-- 2°. aftrekbaar zijn bij de bepaling van het belastbare inkomen van een andere groepsentiteit die gevestigd is in een andere staat dan de groepsentiteit, tenzij de kosten of verliezen worden afgezet tegen omzet of inkomen die, onderscheidenlijk dat, in aanmerking wordt genomen in de financiële verslaggeving van de groepsentiteit die de kosten of verliezen in aanmerking neemt in haar financiële verslaggeving en het belastbare inkomen van de groepsentiteit die de kosten of verliezen in aftrek brengt;
+  - 2°. aftrekbaar zijn bij de bepaling van het belastbare inkomen van een andere groepsentiteit die gevestigd is in een andere staat dan de groepsentiteit, tenzij de kosten of verliezen worden afgezet tegen omzet of inkomen die, onderscheidenlijk dat, in aanmerking wordt genomen in de financiële verslaggeving van de groepsentiteit die de kosten of verliezen in aanmerking neemt in haar financiële verslaggeving en het belastbare inkomen van de groepsentiteit die de kosten of verliezen in aftrek brengt;
 
-- d. **dubbel in aanmerking genomen belasting:** de situatie waarbij meer dan een groepsentiteit geheel of gedeeltelijk dezelfde belasting naar het inkomen in aanmerking neemt als gecorrigeerde betrokken belasting of als vereenvoudigde betrokken belastingen voor de toepassing van [artikel 8.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31), tenzij:
+- d. **dubbel in aanmerking genomen belasting:** de situatie waarbij meer dan een groepsentiteit geheel of gedeeltelijk dezelfde belasting naar het inkomen in aanmerking neemt als gecorrigeerde betrokken belasting of als vereenvoudigde betrokken belastingen voor de toepassing van [artikel 8.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11), tenzij:
 
-- 1°. het inkomen waarover de belastingen zijn geheven in aanmerking wordt genomen in de financiële verslaggeving van die groepsentiteiten; of
+  - 1°. het inkomen waarover de belastingen zijn geheven in aanmerking wordt genomen in de financiële verslaggeving van die groepsentiteiten; of
 
-- 2°. de belasting naar het inkomen meer dan een keer in aanmerking wordt genomen, omdat voor het bepalen van de vereenvoudigde betrokken belastingen geen aanpassing is vereist voor belastingen die als gecorrigeerde betrokken belastingen worden toegerekend aan een andere groepsentiteit;
+  - 2°. de belasting naar het inkomen meer dan een keer in aanmerking wordt genomen, omdat voor het bepalen van de vereenvoudigde betrokken belastingen geen aanpassing is vereist voor belastingen die als gecorrigeerde betrokken belastingen worden toegerekend aan een andere groepsentiteit;
 
-- e. **financiële verslaggeving:** de financiële verslaggeving van een groepsentiteit die wordt gebruikt om het kwalificerende inkomen van die groepsentiteit te berekenen of de kwalificerende financiële verslaggeving als bedoeld in [artikel 8.8, twaalfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2025-12-31&g=2025-12-31).
+- e. **financiële verslaggeving:** de financiële verslaggeving van een groepsentiteit die wordt gebruikt om het kwalificerende inkomen van die groepsentiteit te berekenen of de kwalificerende financiële verslaggeving als bedoeld in [artikel 8.8, twaalfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8&artikel=8.8&z=2026-04-11&g=2026-04-11).
 
 ### Hoofdstuk 9. Bijzondere bepalingen omtrent bedrijfsreorganisaties en houdsterstructuren
 
