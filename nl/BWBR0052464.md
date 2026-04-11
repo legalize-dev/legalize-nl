@@ -3,8 +3,8 @@ title: "Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerhei
 identifier: "BWBR0052464"
 country: "nl"
 rank: "ministeriele_regeling"
-publication_date: "2026-03-21"
-last_updated: "2026-03-21"
+publication_date: "2026-04-12"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052464"
 soort: "ministeriele-regeling"
@@ -14,7 +14,7 @@ internal_id: "C44984541"
 label_id: "17718864"
 dtd_version: "2.0"
 original_entry_into_force: "2026-03-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052464/2026-03-21/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052464/2026-04-12/0"
 intitule_bron: "Stcrt.2026-11968"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2026-03-21"
@@ -27,8 +27,8 @@ original_published_date: "2026-03-27"
 original_effect: "nieuwe-regeling"
 original_url_id: "stcrt-2026-11968"
 entry_into_force_date: "2026-03-21"
-jci_1_3: "jci1.3:c:BWBR0052464&z=2026-03-21&g=2026-03-21"
-jci_1_0: "1.0:c:BWBR0052464&g=2026-03-21"
+jci_1_3: "jci1.3:c:BWBR0052464&z=2026-04-12&g=2026-04-12"
+jci_1_0: "1.0:c:BWBR0052464&g=2026-04-12"
 citeertitel_status: "officieel"
 short_title: "Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Oudemolen, Noord-Brabant 2026"
 signed_date: "2026-03-21"
@@ -328,13 +328,13 @@ Deze regeling wordt aangehaald als Regeling maatregelen beschermings- en bewakin
 
 - 1. De coördinaten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-03-21&g=2026-03-21), zijn:
 
-- –. X_COORDINAAT: 89999
+  - –. X_COORDINAAT: 89999
 
-- –. Y_COORDINAAT: 408836
+  - –. Y_COORDINAAT: 408836
 
-- –. Latitude: 51.664564
+  - –. Latitude: 51.664564
 
-- –. Longitude: 4.447662
+  - –. Longitude: 4.447662
 
 - 2. Op [GeoWeb](https://apps.vertigisstudio.com/web/?app=797df27ed8f34bcc81a639a50465c7a7) is te zien, zo nodig onder toepassing van de inzoomfunctie, of een locatie zich al dan niet bevindt in de beschermingszone of de bewakingszone. Dit kan worden gedaan door het invullen van de postcode, het adres van de locatie, of de naam van de gemeente en de weg waar u zich bevindt.
 
