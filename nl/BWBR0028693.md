@@ -4,7 +4,7 @@ identifier: "BWBR0028693"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2026-04-10"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028693"
 soort: "AMvB-BES"
@@ -280,9 +280,9 @@ De ambtenaar ontvangt over de tijd gedurende welke hij in strijd met zijn verpli
 
 - b. een bedrag in geld, dat voor elk uur van de overschrijding, bedoeld onder a, een percentage van de voor de ambtenaar geldende inkomsten per uur bedraagt, te weten:
 
-- 1. 100%: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2026-04-10&g=2026-04-10), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
+  - 1. 100%: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2026-04-10&g=2026-04-10), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
 
-- 2. 50%: voor overwerk, verricht op andere tijdstippen.
+  - 2. 50%: voor overwerk, verricht op andere tijdstippen.
 
 7. Een vergoeding geheel in geld bestaat uit een bedrag in geld, dat voor elk uur overschrijding van de per werkperiode vastgestelde arbeidsduur van een voltijdswerkende een percentage van de voor de ambtenaar geldende inkomsten per uur bedraagt, te weten:
 
