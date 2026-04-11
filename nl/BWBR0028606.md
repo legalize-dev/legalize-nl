@@ -4,7 +4,7 @@ identifier: "BWBR0028606"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2026-04-10"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028606"
 soort: "AMvB-BES"
@@ -61,23 +61,23 @@ entry_into_force: "2010-10-10"
 
 - **bevoegd gezag:**
 
-- a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor wat betreft hoofden van dienst in dienst van de staat;
+  - a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor wat betreft hoofden van dienst in dienst van de staat;
 
-- b. het bestuurscollege, voor wat betreft de hoofden van dienst in dienst van een openbaar lichaam;
+  - b. het bestuurscollege, voor wat betreft de hoofden van dienst in dienst van een openbaar lichaam;
 
-- c. de Rijksvertegenwoordiger, voor wat betreft het personeel van het Bureau van de Rijksvertegenwoordiger;
+  - c. de Rijksvertegenwoordiger, voor wat betreft het personeel van het Bureau van de Rijksvertegenwoordiger;
 
-- d. het hoofd van de dienst voor wat betreft de bij zijn dienst werkzaam gestelde ambtenaren.
+  - d. het hoofd van de dienst voor wat betreft de bij zijn dienst werkzaam gestelde ambtenaren.
 
 - **hoofd van dienst:** de bij besluit van het bevoegd gezag als zodanig aangewezen ambtenaren.
 
 - **gezin:**
 
-- a. de echtgenoot of echtgenote van de betrokken ambtenaar;
+  - a. de echtgenoot of echtgenote van de betrokken ambtenaar;
 
-- b. de kinderen tot wie de betrokken ambtenaar in familierechtelijke betrekking staat die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de stief- en pleegkinderen van de betrokken ambtenaar die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de laatsten voor zover de betrokken ambtenaar ten behoeve van deze pleegkinderen kindertoelage geniet;
+  - b. de kinderen tot wie de betrokken ambtenaar in familierechtelijke betrekking staat die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de stief- en pleegkinderen van de betrokken ambtenaar die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de laatsten voor zover de betrokken ambtenaar ten behoeve van deze pleegkinderen kindertoelage geniet;
 
-- c. de overige kinderen tot wie de betrokken ambtenaar in familie-rechtelijke betrekking staat, de overige stief- en pleegkinderen van de betrokken ambtenaar, voor zover de betrokken ambtenaar ten behoeve van deze kinderen kindertoelage geniet;
+  - c. de overige kinderen tot wie de betrokken ambtenaar in familie-rechtelijke betrekking staat, de overige stief- en pleegkinderen van de betrokken ambtenaar, voor zover de betrokken ambtenaar ten behoeve van deze kinderen kindertoelage geniet;
 
 - **inkomen:** de bezoldiging van de ambtenaar, vermeerderd met de vakantie-uitkering, bedoeld in [artikel 36a van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=36a), de eindejaarsuitkering, bedoeld in [artikel 9a van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9a) of een daarmee vergelijkbare bepaling, een eventuele kindertoelage, de bijzondere individuele vergoedingen en de verhogingen en persoonlijke toelagen met een periodiek karakter welke op grond van een organieke regeling van de bezoldiging worden genoten.
 
@@ -315,41 +315,41 @@ Vervallen
 
 - I.
 
-- a. op de dag van zijn ondertrouw;
+  - a. op de dag van zijn ondertrouw;
 
-- b. bij zijn huwelijk: vier werkdagen;
+  - b. bij zijn huwelijk: vier werkdagen;
 
-- c. op de dag van het huwelijk van bloed- en aanverwanten in de eerste, tweede en derde graad;
+  - c. op de dag van het huwelijk van bloed- en aanverwanten in de eerste, tweede en derde graad;
 
-- d. bij bevalling van zijn echtgenote: tweeënhalve werkdag;
+  - d. bij bevalling van zijn echtgenote: tweeënhalve werkdag;
 
-- e. op de dag van zijn kerkelijke bevestiging en Eerste Heilige Communie en op die van zijn echtgenote, kinderen, stief- of pleegkinderen;
+  - e. op de dag van zijn kerkelijke bevestiging en Eerste Heilige Communie en op die van zijn echtgenote, kinderen, stief- of pleegkinderen;
 
-- f. op de dag van zijn 10-, 20-, 30-, 35-, 40- en 45-jarig ambtsjubileum;
+  - f. op de dag van zijn 10-, 20-, 30-, 35-, 40- en 45-jarig ambtsjubileum;
 
-- g. op de dag van herdenking van zijn 25- en 40-jarig huwelijks-jubileum;
+  - g. op de dag van herdenking van zijn 25- en 40-jarig huwelijks-jubileum;
 
-- h. op de dag van herdenking van het 25-, 40-, 50- en 60-jarig huwelijksjubileum van zijn ouders, stief-, schoon-, pleeg- of grootouders;
+  - h. op de dag van herdenking van het 25-, 40-, 50- en 60-jarig huwelijksjubileum van zijn ouders, stief-, schoon-, pleeg- of grootouders;
 
-- i. bij ernstige ziekte van zijn echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: ten hoogste vijftien dagen; mocht blijken dat dit aantal in bepaalde omstandigheden niet toereikend is, dan kan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=V&artikel=29&z=2026-04-10&g=2026-04-10) toepassing vinden;
+  - i. bij ernstige ziekte van zijn echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: ten hoogste vijftien dagen; mocht blijken dat dit aantal in bepaalde omstandigheden niet toereikend is, dan kan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=V&artikel=29&z=2026-04-10&g=2026-04-10) toepassing vinden;
 
-- j. bij overlijden van echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: twee werkdagen;
+  - j. bij overlijden van echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: twee werkdagen;
 
-- k. bij overlijden van grootouders, huisgenoten en bloed- en aanverwanten tot en met de derde graad: één werkdag;
+  - k. bij overlijden van grootouders, huisgenoten en bloed- en aanverwanten tot en met de derde graad: één werkdag;
 
-- l. op de dag vóór en op de dagen waarop een examen ter verkrijging van een wettelijk erkend diploma wordt afgelegd.
+  - l. op de dag vóór en op de dagen waarop een examen ter verkrijging van een wettelijk erkend diploma wordt afgelegd.
 
 - II.
 
-- a. indien hij gehuwd is of een eigen huishouding heeft, bij verhuizing op het eiland waar hij zijn standplaats heeft; twee dagen, en in geval van verhuizing naar een ander eiland: twee dagen zowel vóór het vertrek naar als na aankomst op de nieuwe standplaats;
+  - a. indien hij gehuwd is of een eigen huishouding heeft, bij verhuizing op het eiland waar hij zijn standplaats heeft; twee dagen, en in geval van verhuizing naar een ander eiland: twee dagen zowel vóór het vertrek naar als na aankomst op de nieuwe standplaats;
 
-- b. indien hij ongehuwd is en geen eigen huishouding heeft, bij verhuizing naar een ander eiland: één dag vóór het vertrek naar de nieuwe standplaats.
+  - b. indien hij ongehuwd is en geen eigen huishouding heeft, bij verhuizing naar een ander eiland: één dag vóór het vertrek naar de nieuwe standplaats.
 
 - III.
 
-- a. voor het bijwonen van vergaderingen of zittingen van of het verrichten van werkzaamheden voor publiekrechtelijke colleges of commissies, waarin de ambtenaar is benoemd of aangewezen, en voor zover zulks niet in vrije tijd kan geschieden;
+  - a. voor het bijwonen van vergaderingen of zittingen van of het verrichten van werkzaamheden voor publiekrechtelijke colleges of commissies, waarin de ambtenaar is benoemd of aangewezen, en voor zover zulks niet in vrije tijd kan geschieden;
 
-- b. voor het voldoen aan een wettelijke verplichting, een en ander voor zover dit niet in vrije tijd kan geschieden en omzetting van dienst niet mogelijk is.
+  - b. voor het voldoen aan een wettelijke verplichting, een en ander voor zover dit niet in vrije tijd kan geschieden en omzetting van dienst niet mogelijk is.
 
 2. Aan de ambtenaar wordt vakbondsverlof met behoud van volle bezoldiging verleend, tenzij de desbetreffende vakbond niet is vertegenwoordigd in de Sectorale Overlegcommissie BES of de bedrijfsvoering door het verlof ernstig wordt verstoord.
 
@@ -421,11 +421,11 @@ Indien de vrijstelling bedoeld in het eerste lid niet van langere duur is dan 15
 
 - I. Voor een ambtenaar in vaste dienst:
 
-- a. zijn vol inkomen gedurende de eerste vierentwintig maanden;
+  - a. zijn vol inkomen gedurende de eerste vierentwintig maanden;
 
-- b. negentig ten honderd van zijn vol inkomen gedurende de daaropvolgende twaalf maanden;
+  - b. negentig ten honderd van zijn vol inkomen gedurende de daaropvolgende twaalf maanden;
 
-- c. tachtig ten honderd van zijn vol inkomen gedurende de resterende maanden.
+  - c. tachtig ten honderd van zijn vol inkomen gedurende de resterende maanden.
 
 - II. voor een ambtenaar in tijdelijke dienst zijn vol inkomen.
 
