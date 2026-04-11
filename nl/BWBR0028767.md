@@ -4,7 +4,7 @@ identifier: "BWBR0028767"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2026-04-10"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028767"
 soort: "AMvB-BES"
@@ -53,11 +53,11 @@ entry_into_force: "2010-10-10"
 
 - f. **ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:** de ambtenaar, bedoeld in [artikel 3, onder b, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-- f1. **vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak:** de ambtenaar, bedoeld in [artikel 3, onder c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
+  - f1. **vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak:** de ambtenaar, bedoeld in [artikel 3, onder c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-- f2. **vrijwillige ambtenaar in opleiding:** degene die door Onze Minister is benoemd tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie;
+  - f2. **vrijwillige ambtenaar in opleiding:** degene die door Onze Minister is benoemd tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie;
 
-- f3. **vrijwillige ambtenaar van politie:** de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak en de vrijwillige ambtenaar in opleiding;
+  - f3. **vrijwillige ambtenaar van politie:** de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak en de vrijwillige ambtenaar in opleiding;
 
 - g. **volledige betrekking:** een betrekking met een arbeidstijd van gemiddeld 36 uur per week;
 
@@ -549,11 +549,11 @@ Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»
 
 - d. andere werkzaamheden die door de instantie kunnen worden uitgevoerd, mits die werkzaamheden:
 
-- 1°. samenhangen met de in het derde of vierde lid bedoelde taken;
+  - 1°. samenhangen met de in het derde of vierde lid bedoelde taken;
 
-- 2°. niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten, en
+  - 2°. niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten, en
 
-- 3°. tegen ten minste kostendekkende prijzen worden verricht.
+  - 3°. tegen ten minste kostendekkende prijzen worden verricht.
 
 #### § 4. Bezoldiging, vergoedingen en toelagen
 
@@ -981,9 +981,9 @@ Tenzij dringende redenen van dienstbelang zich daar tegen verzetten, wordt de am
 
 - e. bij het overlijden van:
 
-- 1. de onder d genoemde personen: twee werkdagen;
+  - 1. de onder d genoemde personen: twee werkdagen;
 
-- 2. bloed of aanverwanten tot en met de derde graad: een werkdag;
+  - 2. bloed of aanverwanten tot en met de derde graad: een werkdag;
 
 - f. indien betrokkene, in het geval bedoeld onder e, is belast met de regeling van de lijkbezorging of de nalatenschap dan wel met beide: ten hoogste vier werkdagen;
 
@@ -1097,11 +1097,11 @@ Vervallen
 
 - a. voor de ambtenaar van politie in vaste dienst:
 
-- –. zijn volle bezoldiging gedurende de eerste vierentwintig maanden;
+  - –. zijn volle bezoldiging gedurende de eerste vierentwintig maanden;
 
-- –. negentig procent van zijn volle bezoldiging gedurende de daaropvolgende twaalf maanden;
+  - –. negentig procent van zijn volle bezoldiging gedurende de daaropvolgende twaalf maanden;
 
-- –. tachtig procent van zijn volle bezoldiging gedurende de resterende maanden.
+  - –. tachtig procent van zijn volle bezoldiging gedurende de resterende maanden.
 
 - b. voor de ambtenaar van politie in tijdelijke dienst: zijn volle bezoldiging
 
