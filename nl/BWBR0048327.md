@@ -3,8 +3,8 @@ title: "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen 
 identifier: "BWBR0048327"
 country: "nl"
 rank: "ministeriele_regeling"
-publication_date: "2025-09-30"
-last_updated: "2025-09-30"
+publication_date: "2026-04-10"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048327"
 soort: "ministeriele-regeling"
@@ -14,7 +14,7 @@ internal_id: "C44322721"
 label_id: "16700524"
 dtd_version: "2.0"
 original_entry_into_force: "2025-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048327/2025-09-30/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048327/2026-04-10/0"
 intitule_bron: "Stcrt.2023-17727"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2023-06-19"
@@ -27,8 +27,8 @@ original_published_date: "2025-09-29"
 original_effect: "structuurwijziging"
 original_url_id: "stcrt-2025-33134"
 entry_into_force_date: "2025-09-24"
-jci_1_3: "jci1.3:c:BWBR0048327&z=2025-09-30&g=2025-09-30"
-jci_1_0: "1.0:c:BWBR0048327&g=2025-09-30"
+jci_1_3: "jci1.3:c:BWBR0048327&z=2026-04-10&g=2026-04-10"
+jci_1_0: "1.0:c:BWBR0048327&g=2026-04-10"
 citeertitel_status: "officieel"
 short_title: "Regeling vrijstellingen Wet Bpf 2000"
 signed_date: "2025-09-24"
@@ -68,13 +68,13 @@ Besluit:
 
 - f. doet, in het geval het beleggingsbeleid en de normportefeuille opnieuw zijn vastgesteld als bedoeld in het derde lid:
 
-- 1°. de mededeling, bedoeld in onderdeel a, vanaf de 15e dag na totstandkoming van het nieuwe beleggingsbeleid;
+  - 1°. de mededeling, bedoeld in onderdeel a, vanaf de 15e dag na totstandkoming van het nieuwe beleggingsbeleid;
 
-- 2°. de verklaring, bedoeld in onderdeel b, vanaf de 15e dag na totstandkoming van de nieuwe normportefeuille;
+  - 2°. de verklaring, bedoeld in onderdeel b, vanaf de 15e dag na totstandkoming van de nieuwe normportefeuille;
 
-- 3°. een mededeling van het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille in de Staatscourant uiterlijk de 15e dag na de vaststelling; en
+  - 3°. een mededeling van het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille in de Staatscourant uiterlijk de 15e dag na de vaststelling; en
 
-- 4°. de aan het bedrijfspensioenfonds deelnemende werkgevers binnen twee maanden na het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille een schriftelijke mededeling toekomen.
+  - 4°. de aan het bedrijfspensioenfonds deelnemende werkgevers binnen twee maanden na het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille een schriftelijke mededeling toekomen.
 
 ##### Artikel 2. Performancetoets na fusie
 
@@ -116,13 +116,13 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 - a. bereken de volgende bedragen met als referentieperiode het volledige boekjaar voorafgaand aan het boekjaar waarin de vrijstelling ingaat:
 
-- 1°. PaT: het bedrag van de actuarieel vastgestelde last van een eenjarige pensioeninkoop en dekking van het sterfterisico voor het deelnemersbestand van het gehele bedrijfstakpensioenfonds en uitgaande van de fictie dat de pensioenen tijdsevenredig worden gefinancierd en verworven;
+  - 1°. PaT: het bedrag van de actuarieel vastgestelde last van een eenjarige pensioeninkoop en dekking van het sterfterisico voor het deelnemersbestand van het gehele bedrijfstakpensioenfonds en uitgaande van de fictie dat de pensioenen tijdsevenredig worden gefinancierd en verworven;
 
-- 2°. PaU: dezelfde berekening als bij 1°, nu echter vastgesteld voor het bestand van de uittredende werkgever;
+  - 2°. PaU: dezelfde berekening als bij 1°, nu echter vastgesteld voor het bestand van de uittredende werkgever;
 
-- 3°. PdT: het bedrag dat het bedrijfstakpensioenfonds voor het totale actievenbestand van de aangesloten werkgevers ontvangt aan doorsneejaarpremie voor de reguliere pensioenopbouw en risicodekking;
+  - 3°. PdT: het bedrag dat het bedrijfstakpensioenfonds voor het totale actievenbestand van de aangesloten werkgevers ontvangt aan doorsneejaarpremie voor de reguliere pensioenopbouw en risicodekking;
 
-- 4°. PdU: dezelfde berekening als bij 3°, nu echter vastgesteld als de ontvangst aan premie van de uittredende werkgever;
+  - 4°. PdU: dezelfde berekening als bij 3°, nu echter vastgesteld als de ontvangst aan premie van de uittredende werkgever;
 
 - b. de jaarlijkse solidariteitsbijdrage is gelijk aan de uitkomst van de berekening: [PdU/PdT]* PaT-PaU, waarbij een uitkomst kleiner dan nul op nul wordt gesteld;
 
@@ -142,25 +142,25 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 - b. de werkgever stelt vast welke pensioensoorten voor toetsing in aanmerking komen, waarbij wordt uitgegaan van het volgende:
 
-- 1°. de onvoorwaardelijk toegezegde reglementaire pensioensoorten worden bij de berekening meegenomen, met uitzondering van het pensioen op risicobasis dat betrokken is in de toets op financiële gelijkwaardigheid als bedoeld in [artikel 6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2025-09-30&g=2025-09-30); en
+  - 1°. de onvoorwaardelijk toegezegde reglementaire pensioensoorten worden bij de berekening meegenomen, met uitzondering van het pensioen op risicobasis dat betrokken is in de toets op financiële gelijkwaardigheid als bedoeld in [artikel 6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2026-04-10&g=2026-04-10); en
 
-- 2°. vrijwillige pensioenregelingen blijven buiten beschouwing evenals regelingen die niet in de pensioenregeling van het bedrijfstakpensioenfonds zijn opgenomen, maar waarin op andere wijze in het arbeidsvoorwaardenoverleg is voorzien;
+  - 2°. vrijwillige pensioenregelingen blijven buiten beschouwing evenals regelingen die niet in de pensioenregeling van het bedrijfstakpensioenfonds zijn opgenomen, maar waarin op andere wijze in het arbeidsvoorwaardenoverleg is voorzien;
 
 - c. de werkgever en het bedrijfstakpensioenfonds hanteren de grondslagen op basis van de volgende richtlijnen:
 
-- 1°. sterftegrondslagen: gebaseerd op de meest prudente beginselen;
+  - 1°. sterftegrondslagen: gebaseerd op de meest prudente beginselen;
 
-- 2°. beleggingsrendementen: een verwacht bruto meetkundig rendement bedoeld in [artikel 23a, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=23a), waarbij de toekomstige rentetermijnstructuur wordt afgeleid uit de door De Nederlandsche Bank gepubliceerde actuele rentetermijnstructuur, bedoeld in [artikel 2, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=2);
+  - 2°. beleggingsrendementen: een verwacht bruto meetkundig rendement bedoeld in [artikel 23a, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=23a), waarbij de toekomstige rentetermijnstructuur wordt afgeleid uit de door De Nederlandsche Bank gepubliceerde actuele rentetermijnstructuur, bedoeld in [artikel 2, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=2);
 
-- 3°. beleggingsbeleid: de beoogde beleggingsportefeuille;
+  - 3°. beleggingsbeleid: de beoogde beleggingsportefeuille;
 
-- 4°. de prijs- en looninflatie: de prijs- en looninflatie, bedoeld in [artikel 23a van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=23a), inclusief loonontwikkeling bij de werkgever en het bedrijfstakpensioenfonds;
+  - 4°. de prijs- en looninflatie: de prijs- en looninflatie, bedoeld in [artikel 23a van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=23a), inclusief loonontwikkeling bij de werkgever en het bedrijfstakpensioenfonds;
 
-- 5°. invalideringskansen: invalideringskansen berekend op basis van de instroom van de rechthebbenden op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) per leeftijdscohort als percentage van de werknemerspopulatie bij het bedrijfstakpensioenfonds;
+  - 5°. invalideringskansen: invalideringskansen berekend op basis van de instroom van de rechthebbenden op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) per leeftijdscohort als percentage van de werknemerspopulatie bij het bedrijfstakpensioenfonds;
 
-- 6°. ontslagkansen: de kans dat actieve deelnemers als gevolg van ontslag hun deelname aan de regeling van het bedrijfstakpensioenfonds zullen beëindigen; en
+  - 6°. ontslagkansen: de kans dat actieve deelnemers als gevolg van ontslag hun deelname aan de regeling van het bedrijfstakpensioenfonds zullen beëindigen; en
 
-- 7°. revalideringskansen: deze blijven buiten beschouwing;
+  - 7°. revalideringskansen: deze blijven buiten beschouwing;
 
 - d. het bedrijfstakpensioenfonds en de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds bereiken overeenstemming over het actieve deelnemersbestand, de pensioensoorten, de grondslagen en het te hanteren modelbestand van het bedrijfstakpensioenfonds.
 
@@ -194,11 +194,11 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 ##### Artikel 7. Overgangsrecht [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328)
 
-1. De kwantitatieve gelijkwaardigheid wordt in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2025-09-30&g=2025-09-30), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2025-09-30&g=2025-09-30), voor de duur van de hierna genoemde periode aangetoond door een toets op enkel de financiële gelijkwaardigheid, bedoeld in artikel 6, derde lid, onderdeel a, of vijfde lid en de aanwezigheid van het pensioen op risicobasis dat onderdeel uitmaakt van de pensioenregeling van het bedrijfstakpensioenfonds, voordat deze overgaat op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i). Het gaat om de periode waarin enkel het bedrijfstakpensioenfonds dan wel enkel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds, als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2) of [6 van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6), is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in artikel 220i van de Pensioenwet. In de genoemde periode kan in afwijking van [artikel 8, eerste lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8), de vrijstelling door het bedrijfstakpensioenfonds niet worden ingetrokken vanwege het ontbreken van de actuariële gelijkwaardigheid.
+1. De kwantitatieve gelijkwaardigheid wordt in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2026-04-10&g=2026-04-10), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2026-04-10&g=2026-04-10), voor de duur van de hierna genoemde periode aangetoond door een toets op enkel de financiële gelijkwaardigheid, bedoeld in artikel 6, derde lid, onderdeel a, of vijfde lid en de aanwezigheid van het pensioen op risicobasis dat onderdeel uitmaakt van de pensioenregeling van het bedrijfstakpensioenfonds, voordat deze overgaat op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i). Het gaat om de periode waarin enkel het bedrijfstakpensioenfonds dan wel enkel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds, als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2) of [6 van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6), is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in artikel 220i van de Pensioenwet. In de genoemde periode kan in afwijking van [artikel 8, eerste lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8), de vrijstelling door het bedrijfstakpensioenfonds niet worden ingetrokken vanwege het ontbreken van de actuariële gelijkwaardigheid.
 
-2. De toets op gelijkwaardige aanspraken wordt in afwijking van [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6a&z=2025-09-30&g=2025-09-30), voor de duur van de hierna genoemde periode aangetoond door een toets op enkel de voorwaarde, bedoeld in artikel 6a, eerste lid, onderdeel b, en de aanwezigheid van het pensioen op risicobasis dat onderdeel uitmaakt van de pensioenregeling van het bedrijfstakpensioenfonds, voordat deze overgaat op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i). Het gaat om de periode waarin enkel het bedrijfstakpensioenfonds dan wel enkel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds, als bedoeld in [artikel 5 van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5), is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in artikel 220i van de Pensioenwet. In de genoemde periode kan in afwijking van [artikel 8, derde lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8), de vrijstelling door het bedrijfstakpensioenfonds niet worden ingetrokken vanwege het ontbreken van de actuariële gelijkwaardigheid.
+2. De toets op gelijkwaardige aanspraken wordt in afwijking van [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6a&z=2026-04-10&g=2026-04-10), voor de duur van de hierna genoemde periode aangetoond door een toets op enkel de voorwaarde, bedoeld in artikel 6a, eerste lid, onderdeel b, en de aanwezigheid van het pensioen op risicobasis dat onderdeel uitmaakt van de pensioenregeling van het bedrijfstakpensioenfonds, voordat deze overgaat op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i). Het gaat om de periode waarin enkel het bedrijfstakpensioenfonds dan wel enkel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds, als bedoeld in [artikel 5 van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5), is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in artikel 220i van de Pensioenwet. In de genoemde periode kan in afwijking van [artikel 8, derde lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8), de vrijstelling door het bedrijfstakpensioenfonds niet worden ingetrokken vanwege het ontbreken van de actuariële gelijkwaardigheid.
 
-3. Dit artikel vervalt met ingang van 1 januari 2027.
+3. Dit artikel vervalt met ingang van 1 januari 2028.
 
 ##### Artikel 8. Inwerkingtreding
 
@@ -245,21 +245,21 @@ Daartoe berekent men zj volgens de formule:
 
 - 7. Indien door het bedrijfstakpensioenfonds het beleggingsbeleid en de normportefeuille in de loop van een jaar opnieuw zijn vastgesteld als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=1&z=2023-07-01&g=2023-07-01), wordt bij de performancetoets over dat jaar naar rato van de periode waarvoor de betreffende normportefeuille van toepassing was, met de betreffende normportefeuille rekening gehouden. Dit betekent:
 
-- a. voor de toepassing van punt 1: aperiode 1% plus bperiode 1% zijn samen 100% Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» wordt genoteerd in plaats van «periode 1»;
+  - a. voor de toepassing van punt 1: aperiode 1% plus bperiode 1% zijn samen 100% Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» wordt genoteerd in plaats van «periode 1»;
 
-- b. voor de toepassing van punt 2: Eperiode 1 = [aperiode 1 * 0,6 + bperiode 1 * 2,6] Hierbij is aperiode 1 % het aandeel van de vastrentende waarden in de normportefeuille (en het beleggingsbeleid) en bperiode 1 % het aandeel zakelijke waarden in periode 1. Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript ‘periode 2 dan wel 3’ genoteerd staat in plaats van ‘periode 1’;
+  - b. voor de toepassing van punt 2: Eperiode 1 = [aperiode 1 * 0,6 + bperiode 1 * 2,6] Hierbij is aperiode 1 % het aandeel van de vastrentende waarden in de normportefeuille (en het beleggingsbeleid) en bperiode 1 % het aandeel zakelijke waarden in periode 1. Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript ‘periode 2 dan wel 3’ genoteerd staat in plaats van ‘periode 1’;
 
-- c. voor de toepassing van punt 5: voor periode 1, en dezelfde formule voor periode 2 en 3, maar dan met subscript «periode 2 dan wel 3» Vervolgens worden de zperiode 1, zperiode 2 en zperiode 3 teruggebracht naar één periode van een jaar, door de formule zj = zperiode 1 + zperiode 2 + zperiode 3 De na deze berekening verkregen zj wordt in de formule van punt 6 verwerkt.
+  - c. voor de toepassing van punt 5: voor periode 1, en dezelfde formule voor periode 2 en 3, maar dan met subscript «periode 2 dan wel 3» Vervolgens worden de zperiode 1, zperiode 2 en zperiode 3 teruggebracht naar één periode van een jaar, door de formule zj = zperiode 1 + zperiode 2 + zperiode 3 De na deze berekening verkregen zj wordt in de formule van punt 6 verwerkt.
 
 - 8. Indien de fusie van twee of meer oude bedrijfstakpensioenfondsen tot een nieuw bedrijfstakpensioenfonds heeft plaatsgevonden in de loop van een kalenderjaar wordt de performancetoets van het nieuwe bedrijfstakpensioenfonds over het kalenderjaar van de fusie als volgt berekend:
 
-- a. voor ieder van de oude bedrijfstakpensioenfondsen wordt de performancetoets uitgevoerd over de periode dat het fonds nog heeft bestaan;
+  - a. voor ieder van de oude bedrijfstakpensioenfondsen wordt de performancetoets uitgevoerd over de periode dat het fonds nog heeft bestaan;
 
-- b. van de scores van de oude bedrijfstakpensioenfondsen wordt één score gemaakt waarbij de verhouding tussen de scores gelijk is aan de verhouding tussen de totale vermogens van de oude bedrijfstakpensioenfondsen voor de fusie;
+  - b. van de scores van de oude bedrijfstakpensioenfondsen wordt één score gemaakt waarbij de verhouding tussen de scores gelijk is aan de verhouding tussen de totale vermogens van de oude bedrijfstakpensioenfondsen voor de fusie;
 
-- c. voor het nieuwe bedrijfstakpensioenfonds wordt de performancetoets uitgevoerd over de periode vanaf de fusie;
+  - c. voor het nieuwe bedrijfstakpensioenfonds wordt de performancetoets uitgevoerd over de periode vanaf de fusie;
 
-- d. de scores in de onderdelen b en c worden samengevoegd op de wijze zoals in punt 7 is beschreven.
+  - d. de scores in de onderdelen b en c worden samengevoegd op de wijze zoals in punt 7 is beschreven.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -275,13 +275,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - d. de werkgever ten minste dezelfde beoogde pensioendoelstelling als bedoeld in [artikel 10a, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=10a), hanteert als het bedrijfstakpensioenfonds, indien deze een pensioendoelstelling hanteert.
 
-2. Bij de toets aan de voorwaarde, bedoeld in het eerste lid, onderdeel a, is [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2025-09-30&g=2025-09-30) van overeenkomstige toepassing en bij de toets aan de voorwaarden, bedoeld in het eerste lid, onderdelen b en c, is [artikel 6, eerste, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2025-09-30&g=2025-09-30) van overeenkomstige toepassing.
+2. Bij de toets aan de voorwaarde, bedoeld in het eerste lid, onderdeel a, is [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing en bij de toets aan de voorwaarden, bedoeld in het eerste lid, onderdelen b en c, is [artikel 6, eerste, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing.
 
 ##### Artikel 6b. Evaluatie toetsing van actuariële gelijkwaardigheid
 
-Onze Minister zendt in 2028 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de toetsing van de actuariële gelijkwaardigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2025-09-30&g=2025-09-30), in de praktijk.
+Onze Minister zendt in 2028 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de toetsing van de actuariële gelijkwaardigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2026-04-10&g=2026-04-10), in de praktijk.
 
-## Bijlage. Wijze van uitvoering performancetoets als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=1&z=2025-09-30&g=2025-09-30)
+## Bijlage. Wijze van uitvoering performancetoets als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=1&z=2026-04-10&g=2026-04-10)
 
 De performancetoets wordt als volgt uitgevoerd, waarbij het subscript j steeds het jaar aangeeft:
 
@@ -316,22 +316,22 @@ Daartoe berekent men zj volgens de formule:
 
 - 6. Op basis hiervan toetst men of over de afgelopen 5 jaar geldt dat: z(j-5) + z(j-4) + z(j-3) + z(j-2) + z(j-1)≥ – 1,28 √ 5
 
-- 7. Indien door het bedrijfstakpensioenfonds het beleggingsbeleid en de normportefeuille in de loop van een jaar opnieuw zijn vastgesteld als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=1&z=2025-09-30&g=2025-09-30), wordt bij de performancetoets over dat jaar naar rato van de periode waarvoor de betreffende normportefeuille van toepassing was, met de betreffende normportefeuille rekening gehouden. Dit betekent:
+- 7. Indien door het bedrijfstakpensioenfonds het beleggingsbeleid en de normportefeuille in de loop van een jaar opnieuw zijn vastgesteld als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=1&z=2026-04-10&g=2026-04-10), wordt bij de performancetoets over dat jaar naar rato van de periode waarvoor de betreffende normportefeuille van toepassing was, met de betreffende normportefeuille rekening gehouden. Dit betekent:
 
-- a. voor de toepassing van punt 1: aperiode 1% plus bperiode 1% zijn samen 100% Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» wordt genoteerd in plaats van «periode 1»;
+  - a. voor de toepassing van punt 1: aperiode 1% plus bperiode 1% zijn samen 100% Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» wordt genoteerd in plaats van «periode 1»;
 
-- b. voor de toepassing van punt 2: Eperiode 1 = [aperiode 1 * 0,6 + bperiode 1 * 2,6] Hierbij is aperiode 1 % het aandeel van de vastrentende waarden in de normportefeuille (en het beleggingsbeleid) en bperiode 1 % het aandeel zakelijke waarden in periode 1. Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript ‘periode 2 dan wel 3’ genoteerd staat in plaats van ‘periode 1’;
+  - b. voor de toepassing van punt 2: Eperiode 1 = [aperiode 1 * 0,6 + bperiode 1 * 2,6] Hierbij is aperiode 1 % het aandeel van de vastrentende waarden in de normportefeuille (en het beleggingsbeleid) en bperiode 1 % het aandeel zakelijke waarden in periode 1. Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript ‘periode 2 dan wel 3’ genoteerd staat in plaats van ‘periode 1’;
 
-- c. voor de toepassing van punt 5: voor periode 1, en dezelfde formule voor periode 2 en 3, maar dan met subscript «periode 2 dan wel 3» Vervolgens worden de zperiode 1, zperiode 2 en zperiode 3 teruggebracht naar één periode van een jaar, door de formule zj = zperiode 1 + zperiode 2 + zperiode 3 De na deze berekening verkregen zj wordt in de formule van punt 6 verwerkt.
+  - c. voor de toepassing van punt 5: voor periode 1, en dezelfde formule voor periode 2 en 3, maar dan met subscript «periode 2 dan wel 3» Vervolgens worden de zperiode 1, zperiode 2 en zperiode 3 teruggebracht naar één periode van een jaar, door de formule zj = zperiode 1 + zperiode 2 + zperiode 3 De na deze berekening verkregen zj wordt in de formule van punt 6 verwerkt.
 
 - 8. Indien de fusie van twee of meer oude bedrijfstakpensioenfondsen tot een nieuw bedrijfstakpensioenfonds heeft plaatsgevonden in de loop van een kalenderjaar wordt de performancetoets van het nieuwe bedrijfstakpensioenfonds over het kalenderjaar van de fusie als volgt berekend:
 
-- a. voor ieder van de oude bedrijfstakpensioenfondsen wordt de performancetoets uitgevoerd over de periode dat het fonds nog heeft bestaan;
+  - a. voor ieder van de oude bedrijfstakpensioenfondsen wordt de performancetoets uitgevoerd over de periode dat het fonds nog heeft bestaan;
 
-- b. van de scores van de oude bedrijfstakpensioenfondsen wordt één score gemaakt waarbij de verhouding tussen de scores gelijk is aan de verhouding tussen de totale vermogens van de oude bedrijfstakpensioenfondsen voor de fusie;
+  - b. van de scores van de oude bedrijfstakpensioenfondsen wordt één score gemaakt waarbij de verhouding tussen de scores gelijk is aan de verhouding tussen de totale vermogens van de oude bedrijfstakpensioenfondsen voor de fusie;
 
-- c. voor het nieuwe bedrijfstakpensioenfonds wordt de performancetoets uitgevoerd over de periode vanaf de fusie;
+  - c. voor het nieuwe bedrijfstakpensioenfonds wordt de performancetoets uitgevoerd over de periode vanaf de fusie;
 
-- d. de scores in de onderdelen b en c worden samengevoegd op de wijze zoals in punt 7 is beschreven.
+  - d. de scores in de onderdelen b en c worden samengevoegd op de wijze zoals in punt 7 is beschreven.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
