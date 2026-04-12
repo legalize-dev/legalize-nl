@@ -4,7 +4,7 @@ identifier: "BWBR0052464"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-12"
-last_updated: "2026-04-11"
+last_updated: "2026-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052464"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ Treedt in werking om 10:23 uur.
 
 1. In deze regeling wordt verstaan onder:
 
-- **beschermingszone:** gebied als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-03-21&g=2026-03-21);
+- **beschermingszone:** gebied als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-04-12&g=2026-04-12);
 
 - **commercieel gehouden vogels:** pluimvee of in gevangenschap levende vogels die worden gekweekt of gehouden met de bedoeling geld te verdienen;
 
-- **bewakingszone:** gebied als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-03-21&g=2026-03-21);
+- **bewakingszone:** gebied als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-04-12&g=2026-04-12);
 
 - **dierentuin:** dierentuin als bedoeld in [artikel 4.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.1);
 
@@ -90,9 +90,9 @@ Treedt in werking om 10:23 uur.
 
 - b. als bewakingszone het gebied dat zich bevindt op en binnen de straal van 10 kilometer rondom de coördinaten, genoemd in de bijlage.
 
-2. In de beschermingszone en de bewakingszone zijn de [artikelen 4 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-03-21&g=2026-03-21) van toepassing, tenzij dit in een bepaling of een onderdeel daarvan anders is bepaald.
+2. In de beschermingszone en de bewakingszone zijn de [artikelen 4 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-04-12&g=2026-04-12) van toepassing, tenzij dit in een bepaling of een onderdeel daarvan anders is bepaald.
 
-3. De [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2026-03-21&g=2026-03-21) zijn mede van toepassing op de verplaatsing van dieren of producten als bedoeld in die artikelen van een inrichting binnen de beschermingszone of de bewakingszone naar een inrichting buiten die gebieden.
+3. De [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2026-04-12&g=2026-04-12) zijn mede van toepassing op de verplaatsing van dieren of producten als bedoeld in die artikelen van een inrichting binnen de beschermingszone of de bewakingszone naar een inrichting buiten die gebieden.
 
 4. Voor zover in de zones, bedoeld in het eerste lid, uit hoofde van andere regelgeving voorschriften ter preventie of bestrijding van aviaire influenza gelden, zijn telkens de meest verstrekkende voorschriften van toepassing.
 
@@ -108,7 +108,7 @@ In het geval een verplaatsing van dieren of producten in de beschermingszone of 
 
 - d. vindt de verplaatsing plaats overeenkomstig een hygiëneprotocol; en
 
-- e. voldoet de verplaatsing aan artikel 28, zesde lid, van [verordening (EU) nr. 2020/687](32020R0687) indien producten vanuit de beschermingszone worden verplaatst of artikel 43, zesde lid, van die verordening indien producten vanuit de bewakingszone worden verplaatst.
+- e. voldoet de verplaatsing aan artikel 43, zesde lid, van [verordening (EU) nr. 2020/687](32020R0687) indien dieren of producten vanuit de beschermings- of bewakingszone worden verplaatst.
 
 ### Hoofdstuk 2. Regels over verplaatsingen
 
@@ -160,7 +160,7 @@ In het geval een verplaatsing van dieren of producten in de beschermingszone of 
 
 2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van eieren die voldoen aan artikel 27, derde lid, onderdelen b en c, van [verordening (EU) nr. 2020/687](32020R0687).
 
-3. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van eieren vanuit een inrichting die is gelegen in de bewakingszone, indien zij worden verplaatst naar:
+3. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van eieren vanuit een inrichting die is gelegen in de beschermings- of bewakingszone, indien zij worden verplaatst naar:
 
 - a. een door de minister aangewezen in Nederland gelegen pakstation en is voldaan aan artikel 50, eerste lid, onderdeel a of b, van [verordening (EU) nr. 2020/687](32020R0687); of
 
@@ -232,7 +232,7 @@ Het is toegestaan om monsters als bedoeld in artikel 22, zevende lid, van [veror
 
 ##### Artikel 19. Verplaatsing vervoermiddel
 
-1. Het is verboden een vervoermiddel te verplaatsen dat is gebruikt of kennelijk bestemd is om te worden gebruikt voor het verplaatsen of het vervoer van dieren, producten of voorwerpen als bedoeld in de [artikelen 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=3&z=2026-03-21&g=2026-03-21).
+1. Het is verboden een vervoermiddel te verplaatsen dat is gebruikt of kennelijk bestemd is om te worden gebruikt voor het verplaatsen of het vervoer van dieren, producten of voorwerpen als bedoeld in de [artikelen 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=3&z=2026-04-12&g=2026-04-12).
 
 2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op een vervoermiddel dat is gereinigd en ontsmet overeenkomstig een hygiëneprotocol.
 
@@ -324,9 +324,9 @@ Deze regeling wordt bekendgemaakt op [www.rijksoverheid.nl](http://www.rijksover
 
 Deze regeling wordt aangehaald als Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Oudemolen, Noord-Brabant 2026.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-03-21&g=2026-03-21)
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-04-12&g=2026-04-12)
 
-- 1. De coördinaten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-03-21&g=2026-03-21), zijn:
+- 1. De coördinaten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052464&hoofdstuk=1&artikel=2&z=2026-04-12&g=2026-04-12), zijn:
 
   - –. X_COORDINAAT: 89999
 
