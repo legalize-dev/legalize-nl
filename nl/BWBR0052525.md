@@ -4,7 +4,7 @@ identifier: "BWBR0052525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-13"
-last_updated: "2026-04-12"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052525"
 soort: "ministeriele-regeling"
@@ -35,3 +35,13 @@ signed_date: "2026-04-08"
 entry_into_force: "2026-04-13"
 ---
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 8 april 2026, nr. 2026-0000149542, tot verlenging van de instellingsduur, bedoeld in artikel 3, eerste lid, van het Instellingsbesluit landelijke versnellingstafel woningbouw
+
+Gelet op [artikel 3, tweede lid, van het Instellingsbesluit landelijke versnellingstafel woningbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=3),
+
+Besluit:
+
+##### artikel Enig
+
+De instellingsduur, bedoeld in [artikel 3, eerste lid, van het Instellingsbesluit landelijke versnellingstafel woningbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=3) wordt met één jaar verlengd tot en met 19 april 2027.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
