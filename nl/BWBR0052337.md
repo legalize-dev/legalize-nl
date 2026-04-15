@@ -3,8 +3,8 @@ title: "Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenscha
 identifier: "BWBR0052337"
 country: "nl"
 rank: "beleidsregel"
-publication_date: "2026-02-21"
-last_updated: "2026-02-21"
+publication_date: "2026-04-15"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0052337"
 soort: "beleidsregel"
@@ -14,7 +14,7 @@ internal_id: "C44886941"
 label_id: "17671064"
 dtd_version: "2.0"
 original_entry_into_force: "2026-02-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052337/2026-02-21/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052337/2026-04-15/0"
 intitule_bron: "Stcrt.2026-7300"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2026-02-06"
@@ -27,8 +27,8 @@ original_published_date: "2026-02-20"
 original_effect: "nieuwe-regeling"
 original_url_id: "stcrt-2026-7300"
 entry_into_force_date: "2026-02-21"
-jci_1_3: "jci1.3:c:BWBR0052337&z=2026-02-21&g=2026-02-21"
-jci_1_0: "1.0:c:BWBR0052337&g=2026-02-21"
+jci_1_3: "jci1.3:c:BWBR0052337&z=2026-04-15&g=2026-04-15"
+jci_1_0: "1.0:c:BWBR0052337&g=2026-04-15"
 citeertitel_status: "officieel"
 short_title: "Beleidsregel experiment verlenging en verfijning ruimte in onderwijstijd"
 signed_date: "2026-02-06"
@@ -46,13 +46,15 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
 - **experiment:** experiment vervolg en verfijning van ruimte in;
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
+- **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+
+- **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
 - **WMS:** [Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685);
 
@@ -66,7 +68,7 @@ In deze beleidsregel wordt verstaan onder:
 
 Het doel van het experiment is om bij deelnemende scholen te onderzoeken:
 
-- a. wat het afwijken van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-02-21&g=2026-02-21) genoemde regels over de invulling en organisatie van de onderwijstijd bij de deelnemende scholen voor effecten heeft op in ieder geval de thema’s: onderwijskwaliteit, continuïteit en kansengelijkheid;
+- a. wat het afwijken van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-04-15&g=2026-04-15) genoemde regels over de invulling en organisatie van de onderwijstijd bij de deelnemende scholen voor effecten heeft op in ieder geval de thema’s: onderwijskwaliteit, continuïteit en kansengelijkheid;
 
 - b. welke randvoorwaarden voorwaardelijk waren om positieve effecten te verkrijgen; en
 
@@ -102,7 +104,7 @@ Het doel van het experiment is om bij deelnemende scholen te onderzoeken:
 
 3. Een school kan slechts aan één experiment van de minister dat ziet op de hoeveelheid onderwijstijd deelnemen.
 
-4. Een school waarvan de kwaliteit van het onderwijs door de Inspectie van het Onderwijs, blijkens de lijst gepubliceerd op [https://www.onderwijsinspectie.nl/onderwerpen/toezicht-2017/zeer-zwakke-scholen/bo](https://www.onderwijsinspectie.nl/onderwerpen/toezicht-2017/zeer-zwakke-scholen/bo) op 1 april 2026, is beoordeeld als ‘zeer zwak’ kan niet deelnemen aan het experiment, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-02-21&g=2026-02-21).
+4. Een school waarvan de kwaliteit van het onderwijs door de Inspectie van het Onderwijs, blijkens de lijst gepubliceerd op [https://www.onderwijsinspectie.nl/onderwerpen/toezicht-2017/zeer-zwakke-scholen/bo](https://www.onderwijsinspectie.nl/onderwerpen/toezicht-2017/zeer-zwakke-scholen/bo) op 1 april 2026, is beoordeeld als ‘zeer zwak’ kan niet deelnemen aan het experiment, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-04-15&g=2026-04-15).
 
 5. Het bevoegd gezag overlegt bij de aanvraag:
 
@@ -114,17 +116,17 @@ Het doel van het experiment is om bij deelnemende scholen te onderzoeken:
 
 - d. een verklaring dat de medezeggenschapsraad van de school die wil deelnemen, genoemd in [artikel 3 van de WMS](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3), instemt met deelname of verlenging van deelname aan het experiment;
 
-- e. een verklaring dat bij het niet geselecteerd zijn voor deelname in de controlegroep, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-02-21&g=2026-02-21), de school deel zal nemen in de groep bedoeld in artikel 3, tweede lid, onderdeel b;
+- e. een verklaring dat bij het niet geselecteerd zijn voor deelname in de interventiegroep, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-04-15&g=2026-04-15), de school deel zal nemen in de groep bedoeld in artikel 3, tweede lid, onderdeel b;
 
 - f. een verklaring dat een school die deelneemt aan dit experiment, niet ook zal deelnemen aan het experiment Vervolg andere dag- en weekindeling of een ander experiment van de minister dat ziet op de hoeveelheid onderwijstijd; en
 
 - g. een verklaring dat de kwaliteit van het onderwijs op de school waarvoor de aanvraag wordt gedaan niet door de Inspectie van het Onderwijs is beoordeeld als ‘zeer zwak’.
 
-6. Bij de aanvraag voor deelname aan het experiment kan tevens een aanvraag voor subsidie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=3&artikel=12&z=2026-02-21&g=2026-02-21) worden ingediend.
+6. Bij de aanvraag voor deelname aan het experiment kan tevens een aanvraag voor subsidie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=3&artikel=12&z=2026-04-15&g=2026-04-15) worden ingediend.
 
 ##### Artikel 5. Selectie en beslistermijn
 
-1. Voor toelating tot het experiment beoordeelt de minister of de aanvraag voldoet aan de voorwaarden uit [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=4&z=2026-02-21&g=2026-02-21).
+1. Voor toelating tot het experiment beoordeelt de minister of de aanvraag voldoet aan de voorwaarden uit [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=4&z=2026-04-15&g=2026-04-15).
 
 2. De aanvragen worden door middel van loting gerangschikt.
 
@@ -132,23 +134,23 @@ Het doel van het experiment is om bij deelnemende scholen te onderzoeken:
 
 4. In afwijking van het tweede lid komen scholen met de nummers 17OF, 17NR, 17OV, 13JJ, 30UX, 30KD, 29YJ, 16IQ, 18VV, 18TV, 16WT, 31DF, 13RY, 23UB, 06PG, 07BZ, 30XD, 08VV, 05AI en 17ZG komen in ieder geval in de interventiegroep.
 
-5. De minister besluit uiterlijk binnen 13 weken na sluiting van de aanvraagtermijn op de aanvragen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=4&z=2026-02-21&g=2026-02-21).
+5. De minister besluit uiterlijk binnen 13 weken na sluiting van de aanvraagtermijn op de aanvragen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=4&z=2026-04-15&g=2026-04-15).
 
 ##### Artikel 6. Looptijd en beëindiging van het experiment
 
 1. Het experiment begint op 1 augustus 2026 en eindigt op 31 juli 2030. De datalevering ten behoeve van het experiment eindigt uiterlijk op 31 december 2030.
 
-2. Scholen die deelnemen aan het experiment voldoen vanaf de start van het schooljaar 2031–2032 weer aan de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=2&z=2026-02-21&g=2026-02-21).
+2. Scholen die deelnemen aan het experiment voldoen vanaf de start van het schooljaar 2031–2032 weer aan de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=2&z=2026-04-15&g=2026-04-15).
 
-3. Een school heeft tot uiterlijk 31 juli 2027 om zich voor te bereiden op de praktische uitvoering van het experiment en melding te doen. Als niet uiterlijk op 31 juli 2027 melding is gedaan als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=7&z=2026-02-21&g=2026-02-21), trekt de minister het besluit tot toekenning van deelname in.
+3. Een school heeft tot uiterlijk 31 juli 2027 om zich voor te bereiden op de praktische uitvoering van het experiment en melding te doen. Als niet uiterlijk op 31 juli 2027 melding is gedaan als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=7&z=2026-04-15&g=2026-04-15), trekt de minister het besluit tot toekenning van deelname in.
 
 4. De minister kan een besluit tot toekenning van deelname aan het experiment intrekken op de gronden, bedoeld in [artikel 2, zesde lid, van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2).
 
-5. De minister trekt een besluit tot toekenning van deelname aan het experiment, genoemd in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-02-21&g=2026-02-21), onverwijld in als de Inspectie van het Onderwijs, blijkens een rapport als bedoeld in [artikel 20 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=20), oordeelt dat de kwaliteit van het onderwijs op de deelnemende school ‘zeer zwak’ is.
+5. De minister trekt een besluit tot toekenning van deelname aan het experiment, genoemd in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-04-15&g=2026-04-15), onverwijld in als de Inspectie van het Onderwijs, blijkens een rapport als bedoeld in [artikel 20 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=20), oordeelt dat de kwaliteit van het onderwijs op de deelnemende school ‘zeer zwak’ is.
 
 ##### Artikel 7. Melding plan gereed en beëindiging van deelname aan het experiment
 
-1. Een school van een bevoegd gezag die deelneemt aan de interventiegroep kan pas gebruik maken van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-02-21&g=2026-02-21) geboden mogelijkheden, nadat het bevoegd gezag melding heeft gemaakt bij het onderzoeksbureau, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=8&z=2026-02-21&g=2026-02-21), van het gereed zijn van het plan voor de deelname en na de instemming van de medezeggenschapsraad. Indien het plan op schoolniveau inhoudelijk wordt gewijzigd, is opnieuw instemming van de medezeggenschapsraad nodig.
+1. Een school van een bevoegd gezag die deelneemt aan de interventiegroep kan pas gebruik maken van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=3&z=2026-04-15&g=2026-04-15) geboden mogelijkheden, nadat het bevoegd gezag melding heeft gemaakt bij het onderzoeksbureau, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=8&z=2026-04-15&g=2026-04-15), van het gereed zijn van het plan voor de deelname en na de instemming van de medezeggenschapsraad. Indien het plan op schoolniveau inhoudelijk wordt gewijzigd, is opnieuw instemming van de medezeggenschapsraad nodig.
 
 2. De melding, genoemd in het eerste lid, bevat in ieder geval:
 
@@ -160,17 +162,17 @@ Het doel van het experiment is om bij deelnemende scholen te onderzoeken:
 
 - d. een experimenteerplan waarin in ieder geval is opgenomen:
 
-- 1°. de gekozen invulling van de geboden ruimte, zoals voortvloeiend uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=2&z=2026-02-21&g=2026-02-21), met daarbij in ieder geval een beschrijving van het doel, de voorgenomen activiteiten en de beoogde opbrengsten van het experiment zoals vormgegeven;
+  - 1°. de gekozen invulling van de geboden ruimte, zoals voortvloeiend uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=2&z=2026-04-15&g=2026-04-15), met daarbij in ieder geval een beschrijving van het doel, de voorgenomen activiteiten en de beoogde opbrengsten van het experiment zoals vormgegeven;
 
-- 2°. de didactische visie en filosofie van het onderwijs, waarbij in ieder geval ook wordt ingegaan op de visie op de organisatie en invulling van de onderwijstijd;
+  - 2°. de didactische visie en filosofie van het onderwijs, waarbij in ieder geval ook wordt ingegaan op de visie op de organisatie en invulling van de onderwijstijd;
 
-- 3°. de regels voor en planning van de schooltijden, de vakanties en, indien van toepassing, de individuele roosters van leerlingen gedurende de looptijd van het experiment;
+  - 3°. de regels voor en planning van de schooltijden, de vakanties en, indien van toepassing, de individuele roosters van leerlingen gedurende de looptijd van het experiment;
 
-- 4°. het beleid betreffende de inzet van personeel tijdens het experiment en de wijze waarop het team bij totstandkoming en de uitvoering van dit beleid betrokken wordt;
+  - 4°. het beleid betreffende de inzet van personeel tijdens het experiment en de wijze waarop het team bij totstandkoming en de uitvoering van dit beleid betrokken wordt;
 
-- 5°. het toelatingsbeleid, dat voldoet aan [artikel 40, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40); en
+  - 5°. het toelatingsbeleid, dat voldoet aan [artikel 40, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40); en
 
-- 6°. een toelichting per onderwerp bedoeld in de subonderdelen 2° tot en met 5°, hoe de ten aanzien van die onderwerpen gemaakte keuzes samenhangen met de gekozen invulling, bedoeld in subonderdeel 1°.
+  - 6°. een toelichting per onderwerp bedoeld in de subonderdelen 2° tot en met 5°, hoe de ten aanzien van die onderwerpen gemaakte keuzes samenhangen met de gekozen invulling, bedoeld in subonderdeel 1°.
 
 - e. een bewijs van instemming van de medezeggenschapsraad op het plan op schoolniveau.
 
@@ -196,7 +198,7 @@ Het doel van het experiment is om bij deelnemende scholen te onderzoeken:
 
 - b. de impact van het onder a bedoelde op de kwaliteit, kansengelijkheid, werkdruk, de omgang met de personeelstekorten, continuïteit en de organisatie van het onderwijs van de deelnemende scholen.
 
-3. De minister schakelt een onderzoeksbureau in ten behoeve van de meldingen, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=7&z=2026-02-21&g=2026-02-21) en het onderzoek, bedoeld in het eerste en tweede lid.
+3. De minister schakelt een onderzoeksbureau in ten behoeve van de meldingen, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=7&z=2026-04-15&g=2026-04-15) en het onderzoek, bedoeld in het eerste en tweede lid.
 
 ### Hoofdstuk 3. Subsidie
 
@@ -216,11 +218,11 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 ##### Artikel 12. Aanvraag subsidie
 
-Een subsidieaanvraag kan gelijktijdig met de aanvraag tot deelname tot het experiment, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=4&z=2026-02-21&g=2026-02-21), worden gedaan.
+Een subsidieaanvraag kan gelijktijdig met de aanvraag tot deelname tot het experiment, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=4&z=2026-04-15&g=2026-04-15), worden gedaan.
 
 ##### Artikel 13. Verplichtingen subsidie
 
-De subsidieontvanger is verplicht tot datalevering ten behoeve van het experiment, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=3&artikel=10&z=2026-02-21&g=2026-02-21).
+De subsidieontvanger is verplicht tot datalevering ten behoeve van het experiment, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=3&artikel=10&z=2026-04-15&g=2026-04-15).
 
 ##### Artikel 14. Betaling
 
@@ -242,11 +244,11 @@ De [Beleidsregel experiment ruimte in onderwijstijd](https://wetten.overheid.nl/
 
 ##### Artikel 17. Verlenging van het experiment
 
-Indien naar aanleiding van het onderzoek naar het experiment wordt besloten tot aanpassing van de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=2&z=2026-02-21&g=2026-02-21), kan de minister besluiten de termijn waarop scholen weer dienen te voldoen aan de wettelijke vereisten, als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=6&z=2026-02-21&g=2026-02-21), te verlengen tot de inwerkingtreding van de nieuwe wettelijke voorschriften.
+Indien naar aanleiding van het onderzoek naar het experiment wordt besloten tot aanpassing van de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=2&z=2026-04-15&g=2026-04-15), kan de minister besluiten de termijn waarop scholen weer dienen te voldoen aan de wettelijke vereisten, als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=2&artikel=6&z=2026-04-15&g=2026-04-15), te verlengen tot de inwerkingtreding van de nieuwe wettelijke voorschriften.
 
 ##### Artikel 18. Inwerkingtreding
 
-1. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=4&artikel=17&z=2026-02-21&g=2026-02-21), dat in werking treedt met ingang van 1 augustus 2027.
+1. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0052337&hoofdstuk=4&artikel=17&z=2026-04-15&g=2026-04-15), dat in werking treedt met ingang van 1 augustus 2027.
 
 2. Deze beleidsregel vervalt met ingang van 31 december 2031.
 
