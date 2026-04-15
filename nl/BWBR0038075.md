@@ -1,43 +1,43 @@
 ---
-title: "Vennootschapsbelasting en Dividendbelasting, inkoop van eigen aandelen"
+title: "Beleidsbesluit inkoop eigen aandelen"
 identifier: "BWBR0038075"
 country: "nl"
 rank: "beleidsregel"
-publication_date: "2016-06-18"
-last_updated: "2016-06-18"
+publication_date: "2025-11-05"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038075"
 soort: "beleidsregel"
 stam_id: "13654373"
-version_id: "23379202"
-internal_id: "C33698731"
+version_id: "31019442"
+internal_id: "C45030201"
 label_id: "13621164"
 dtd_version: "2.0"
-original_entry_into_force: "2016-06-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038075/2016-06-18/0"
-intitule_bron: "Stcrt.2016-31334"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-06-09"
-intitule_published: "2016-06-17"
-intitule_in_force: "2016-06-17"
+original_entry_into_force: "2025-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038075/2025-11-05/0"
+intitule_bron: "Stcrt.2025-36969"
+intitule_effect: "wijziging"
+intitule_signed: "2025-10-03"
+intitule_published: "2025-11-04"
+intitule_in_force: "2025-11-04"
 intitule_status: "goed"
-original_publication: "Stcrt.2016-31334"
-original_signed_date: "2016-06-09"
-original_published_date: "2016-06-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2016-31334"
-entry_into_force_date: "2016-06-18"
-jci_1_3: "jci1.3:c:BWBR0038075&z=2016-06-18&g=2016-06-18"
-jci_1_0: "1.0:c:BWBR0038075&g=2016-06-18"
-citeertitel_status: "redactioneel"
-signed_date: "2016-06-09"
-entry_into_force: "2016-06-18"
+original_publication: "Stcrt.2025-36969"
+original_signed_date: "2025-10-03"
+original_published_date: "2025-11-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-36969"
+entry_into_force_date: "2025-10-03"
+jci_1_3: "jci1.3:c:BWBR0038075&z=2025-11-05&g=2025-11-05"
+jci_1_0: "1.0:c:BWBR0038075&g=2025-11-05"
+citeertitel_status: "officieel"
+signed_date: "2025-10-03"
+entry_into_force: "2025-10-03"
 ---
-# Vennootschapsbelasting en Dividendbelasting, inkoop van eigen aandelen
+# Beleidsbesluit inkoop eigen aandelen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.
 
-**Dit besluit is een actualisering van het besluit van 18 oktober 2005, nr. CPP2005/1689M. Gewijzigd zijn enkele verouderde verwijzingen, ook is op sommige punten de redactie ter verduidelijking iets gewijzigd. Inhoudelijke wijziging is niet beoogd.**
+**Dit besluit bevat beleid voor de inkoop van aandelen. Meest recent is dit beleid gewijzigd door het besluit van 3 oktober 2025, nr. 2025-23168 (** **Stcrt. 2025, 36969** **). Deze wijziging gaf verdere verduidelijking van de reikwijdte van artikel 10c van de Wet op de vennootschapsbelasting 1969 met betrekking tot derivaten (onderdeel 2).**
 
 ### 1. Inleiding
 
@@ -69,6 +69,10 @@ Dit brengt echter niet mee dat deze bepaling ook alleen van toepassing is op der
 
 ### 3. Aandelenplannen en [artikel 3, derde lid, Wet DivBel](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=3)
 
+Ook certificaten van eigen aandelen vallen als derivaat van de eigen aandelen op grond van [artikel 10c, vierde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10c) onder de werking van artikel 10c, eerste lid, Wet Vpb 1969. Artikel 10c, vierde lid, Wet Vpb 1969 beoogt immers te verduidelijken dat de werking van artikel 10c Wet Vpb 1969 ook betrekking heeft op derivaten van eigen aandelen.1Kamerstukken II 2001/02, 28 487 nr 3, p. 40. Deze toepassing bij certificaten strookt ook met de letterlijke tekst van het vierde lid. Ook een certificaat van een eigen aandeel is immers “een recht waarvan de waarde verband houdt met de waardeverandering van een zodanig aandeel”.
+
+Op basis van de jurisprudentie van de Hoge Raad moeten met het oog op dergelijke aandelenplannen ingekochte aandelen dan ook worden geacht te zijn ingetrokken.
+
 Inkoop van aandelen met het oog op de nakoming van een optieverplichting jegens werknemers wordt door [artikel 3, derde lid van de Wet DivBel](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=3) aangemerkt als een tijdelijke belegging. Deze bepaling is – in ieder geval naar de letter – niet van toepassing als eigen aandelen worden ingekocht in het kader van zogenoemde aandelenplannen. Bij deze aandelenplannen bestaat er – anders dan bij optieplannen – voor de werkgever namelijk geen (optie)verplichting tot levering van de aandelen.
 
 Op basis van de jurisprudentie van de Hoge Raad moeten met het oog op dergelijke aandelenplannen ingekochte aandelen dan ook worden geacht te zijn ingetrokken.
@@ -81,15 +85,27 @@ Met betrekking tot aandelenplannen geldt verder nog de volgende aanvullende goed
 
 Voor aandelen die zijn ingekocht ter nakoming van optieverplichtingen jegens werknemers geldt dat dividendbelasting is verschuldigd indien de aandelen drie maanden na het tenietgaan van de optieverplichting nog tot het bezit van de vennootschap horen. In die drie maanden kunnen de aandelen op de markt vervreemd worden. Ik heb tijdens de parlementaire behandeling aangegeven dat wanneer de ingekochte aandelen in die drie maanden gaan fungeren als dekking voor nieuwe optierechten, het karakter van tijdelijke belegging behouden blijft1Tweede Kamer, vergaderjaar 2001–2002, 27 896, nr. 5, blz. 14.
 
-Aanvullend op deze toezegging keur ik goed dat het karakter van tijdelijke belegging ook behouden blijft wanneer de ingekochte aandelen in die drie maanden gaan fungeren als dekking voor aandelenplannen (onder de hierboven voor gelijkstelling met optieverplichtingen vermelde voorwaarden).
+### 3. Ingetrokken regeling
 
 Ter voorkoming van misverstanden merk ik op dat op aandelen ingekocht ter dekking van dit soort aandelenplannen [artikel 10c van de Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10c) ook van toepassing is.
 
-### 3. Ingetrokken regeling
+### 4. Ingetrokken regeling
 
 Het [besluit van 18 oktober 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018899), nr. CPP2005/1689 is ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
-### 4. Inwerkingtreding
+Dit besluit wordt in de Staatscourant gepubliceerd.
+
+Het hiervoor vermelde geldt op grond van [artikel 10c, vierde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10c) niet alleen voor een optie op eigen aandelen, maar ook voor een recht waarvan de waarde verband houdt met de waardeverandering van een zodanig aandeel. Het kennisgroepstandpunt KG:011:2022:9 is een voorbeeld van toepassing van artikel 10c Wet Vpb 1969 op een dergelijk recht in een situatie waarin dit recht niet diende ter dekking van werknemersopties. De premies betaald voor het recht moesten als kostprijs voor de verwerving van een activum worden geactiveerd en de waardeverandering van dat activum (het recht) bleef buiten aanmerking bij het bepalen van de winst krachtens artikel 10c, eerste lid, Wet Vpb 1969.
+
+### 3. Aandelenplannen en [artikel 3, derde lid, Wet DivBel](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=3)
+
+Aanvullend op deze toezegging keur ik goed dat het karakter van tijdelijke belegging ook behouden blijft wanneer de ingekochte aandelen in die drie maanden gaan fungeren als dekking voor aandelenplannen (onder de hierboven voor gelijkstelling met optieverplichtingen vermelde voorwaarden).
+
+### 5. Citeertitel
+
+Dit besluit wordt aangehaald als: Beleidsbesluit inkoop eigen aandelen
+
+### 6. Inwerkingtreding
 
 Dit besluit treedt in werking de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
 
