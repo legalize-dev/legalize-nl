@@ -3,8 +3,8 @@ title: "Wet van 2 juli 1959, houdende regelen, welke aan een aantal rijksbelasti
 identifier: "BWBR0002320"
 country: "nl"
 rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
+publication_date: "2026-04-11"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002320"
 soort: "wet"
@@ -14,7 +14,7 @@ internal_id: "C35664671"
 label_id: "2875044"
 dtd_version: "2.0"
 original_entry_into_force: "2018-02-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002320/2026-01-01/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002320/2026-04-11/0"
 intitule_bron: "Stb.1959-301"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "1959-07-02"
@@ -27,8 +27,8 @@ original_dossier: "34753"
 original_url_id: "stb-2018-75"
 entry_into_force_date: "2018-02-21"
 entry_into_force_dossier: "34753"
-jci_1_3: "jci1.3:c:BWBR0002320&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0002320&g=2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0002320&z=2026-04-11&g=2026-04-11"
+jci_1_0: "1.0:c:BWBR0002320&g=2026-04-11"
 citeertitel_status: "officieel"
 short_title: "Algemene wet inzake rijksbelastingen"
 signed_date: "2018-02-21"
@@ -56,7 +56,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Deze wet verstaat onder:
 
-- a. belastingwet: zowel deze wet als andere wettelijke bepalingen betreffende de heffing van de onder [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01) vallende belastingen;
+- a. belastingwet: zowel deze wet als andere wettelijke bepalingen betreffende de heffing van de onder [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11) vallende belastingen;
 
 - b. lichamen: verenigingen en andere rechtspersonen, maat- en vennootschappen, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens.
 
@@ -82,13 +82,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c.
 
-- 1°. **Koninkrijk:** Koninkrijk der Nederlanden;
+  - 1°. **Koninkrijk:** Koninkrijk der Nederlanden;
 
-- 2°. **Rijk:** het land Nederland, zijnde Nederland en de BES eilanden;
+  - 2°. **Rijk:** het land Nederland, zijnde Nederland en de BES eilanden;
 
-- 3°. **Nederland:** het in Europa gelegen deel van het Koninkrijk, met dien verstande dat voor de heffing van de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de assurantiebelasting en de minimumbelasting Nederland tevens omvat de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480&artikel=1), voorzover deze grenst aan de territoriale zee in Nederland;
+  - 3°. **Nederland:** het in Europa gelegen deel van het Koninkrijk, met dien verstande dat voor de heffing van de inkomstenbelasting, de loonbelasting, de vennootschapsbelasting, de assurantiebelasting en de minimumbelasting Nederland tevens omvat de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480&artikel=1), voorzover deze grenst aan de territoriale zee in Nederland;
 
-- 4°. **BES eilanden:** de openbare lichamen Bonaire, Sint Eustatius en Saba, met daaronder begrepen, met inachtneming van de [Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire en tussen Sint Maarten en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028093), het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op, of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;
+  - 4°. **BES eilanden:** de openbare lichamen Bonaire, Sint Eustatius en Saba, met daaronder begrepen, met inachtneming van de [Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire en tussen Sint Maarten en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028093), het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op, of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;
 
 - d. belastingaanslag: de voorlopige aanslag, de aanslag, de navorderingsaanslag en de naheffingsaanslag, alsmede de voorlopige conserverende aanslag, de conserverende aanslag en de conserverende navorderingsaanslag in de inkomstenbelasting, de schenk- en erfbelasting;
 
@@ -106,15 +106,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - k. **vennootschap:** mede een lichaam als bedoeld in [artikel 2, elfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2);
 
-- l. partner: persoon als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5a&z=2026-01-01&g=2026-01-01);
+- l. partner: persoon als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5a&z=2026-04-11&g=2026-04-11);
 
-- m. algemeen nut beogende instelling: een instelling als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5b&z=2026-01-01&g=2026-01-01);
+- m. algemeen nut beogende instelling: een instelling als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5b&z=2026-04-11&g=2026-04-11);
 
-- n. culturele instelling: een instelling als bedoeld in [artikel 5b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5b&z=2026-01-01&g=2026-01-01);
+- n. culturele instelling: een instelling als bedoeld in [artikel 5b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5b&z=2026-04-11&g=2026-04-11);
 
-- o. sociaal belang behartigende instelling: een instelling als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5c&z=2026-01-01&g=2026-01-01);
+- o. sociaal belang behartigende instelling: een instelling als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5c&z=2026-04-11&g=2026-04-11);
 
-- p. steunstichting SBBI: een stichting als bedoeld in [artikel 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5d&z=2026-01-01&g=2026-01-01).
+- p. steunstichting SBBI: een stichting als bedoeld in [artikel 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=5d&z=2026-04-11&g=2026-04-11).
 
 4. Het in de belastingwet genoemde bestuur van ’s Rijks belastingen wordt uitgeoefend door de door Onze Minister aangewezen ambtenaren.
 
@@ -132,7 +132,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De bevoegdheid van een directeur, inspecteur of ontvanger is niet bepaald naar een geografische indeling van het Rijk.
 
-2. Bij ministeriële regeling worden regels gesteld omtrent de hoofdlijnen van de inrichting van de rijksbelastingdienst alsmede omtrent de functionaris, bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), onder wie een belastingplichtige ressorteert.
+2. Bij ministeriële regeling worden regels gesteld omtrent de hoofdlijnen van de inrichting van de rijksbelastingdienst alsmede omtrent de functionaris, bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=I&artikel=2&z=2026-04-11&g=2026-04-11), onder wie een belastingplichtige ressorteert.
 
 ##### Artikel 4
 
@@ -218,7 +218,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De inspecteur kan niet eerder dan na verloop van de in het eerste, onderscheidenlijk het tweede lid bedoelde termijn de belastingplichtige aanmanen binnen een door hem te stellen termijn aangifte te doen.
 
-4. Indien voordat de aanslag is vastgesteld gegevens worden verstrekt zonder een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte en die gegevens ook en op dezelfde wijze zouden moeten worden verstrekt in geval van een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte, wordt die verstrekking van gegevens aangemerkt als het op uitnodiging doen van aangifte als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=8&z=2026-01-01&g=2026-01-01).
+4. Indien voordat de aanslag is vastgesteld gegevens worden verstrekt zonder een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte en die gegevens ook en op dezelfde wijze zouden moeten worden verstrekt in geval van een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte, wordt die verstrekking van gegevens aangemerkt als het op uitnodiging doen van aangifte als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=8&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 10
 
@@ -236,7 +236,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De inspecteur kan bij het vaststellen van de aanslag van de aangifte afwijken, zomede de aanslag ambtshalve vaststellen.
 
-3. De bevoegdheid tot het vaststellen van de aanslag vervalt door verloop van drie jaren na het tijdstip waarop de belastingschuld is ontstaan. Indien voor het doen van aangifte uitstel is verleend, wordt deze termijn met de duur van dit uitstel verlengd. Indien binnen zes maanden voor het einde van de termijn, bedoeld in de eerste zin, een verzoek als bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=6&z=2026-01-01&g=2026-01-01), wordt gedaan of gegevens als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), worden verstrekt, wordt die termijn met zes maanden verlengd.
+3. De bevoegdheid tot het vaststellen van de aanslag vervalt door verloop van drie jaren na het tijdstip waarop de belastingschuld is ontstaan. Indien voor het doen van aangifte uitstel is verleend, wordt deze termijn met de duur van dit uitstel verlengd. Indien binnen zes maanden voor het einde van de termijn, bedoeld in de eerste zin, een verzoek als bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=6&z=2026-04-11&g=2026-04-11), wordt gedaan of gegevens als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=9&z=2026-04-11&g=2026-04-11), worden verstrekt, wordt die termijn met zes maanden verlengd.
 
 4. Voor de toepassing van het derde lid wordt belastingschuld, waarvan de grootte eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, geacht te zijn ontstaan op het tijdstip waarop dat tijdvak eindigt.
 
@@ -246,7 +246,7 @@ De inspecteur neemt het besluit om aan hem die aangifte heeft gedaan, geen aansl
 
 ##### Artikel 13
 
-1. Ingeval de grootte van de belastingschuld eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, kan de inspecteur volgens bij ministeriële regeling te stellen regels aan de belastingplichtige een voorlopige aanslag opleggen tot ten hoogste het bedrag waarop de aanslag, met toepassing van de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-01-01&g=2026-01-01) voorgeschreven verrekening van de voorlopige aanslagen en de in de belastingwet aangewezen voorheffingen, vermoedelijk zal worden vastgesteld. Een voorlopige aanslag tot een positief bedrag wordt niet vastgesteld voor de aanvang van het tijdvak waarover de belasting wordt geheven.
+1. Ingeval de grootte van de belastingschuld eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, kan de inspecteur volgens bij ministeriële regeling te stellen regels aan de belastingplichtige een voorlopige aanslag opleggen tot ten hoogste het bedrag waarop de aanslag, met toepassing van de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-04-11&g=2026-04-11) voorgeschreven verrekening van de voorlopige aanslagen en de in de belastingwet aangewezen voorheffingen, vermoedelijk zal worden vastgesteld. Een voorlopige aanslag tot een positief bedrag wordt niet vastgesteld voor de aanvang van het tijdvak waarover de belasting wordt geheven.
 
 2. Een voorlopige aanslag tot een negatief bedrag die voor of in de loop van het tijdvak wordt vastgesteld, wordt aangeduid als voorlopige teruggaaf.
 
@@ -258,13 +258,13 @@ De inspecteur neemt het besluit om aan hem die aangifte heeft gedaan, geen aansl
 
 - a. gerede twijfel bestaat over de juistheid van het adresgegeven van de belastingplichtige of indien dit gegeven ontbreekt;
 
-- b. de belastingplichtige een vergrijp heeft begaan waarvoor hem een bestuurlijke boete is opgelegd op grond van de [artikelen 67cc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67cc&z=2026-01-01&g=2026-01-01), [67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-01-01&g=2026-01-01) of [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01) of op grond van [artikel 40 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=40) of waarvoor hem een strafrechtelijke sanctie wegens een daaraan soortgelijk misdrijf is opgelegd, mits de bestuurlijke boete of strafrechtelijke sanctie binnen een periode van vijf jaren voorafgaand aan het jaar waarop de voorlopige aanslag betrekking heeft onherroepelijk is geworden;
+- b. de belastingplichtige een vergrijp heeft begaan waarvoor hem een bestuurlijke boete is opgelegd op grond van de [artikelen 67cc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67cc&z=2026-04-11&g=2026-04-11), [67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-04-11&g=2026-04-11) of [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11) of op grond van [artikel 40 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=40) of waarvoor hem een strafrechtelijke sanctie wegens een daaraan soortgelijk misdrijf is opgelegd, mits de bestuurlijke boete of strafrechtelijke sanctie binnen een periode van vijf jaren voorafgaand aan het jaar waarop de voorlopige aanslag betrekking heeft onherroepelijk is geworden;
 
 - c. de belastingplichtige niet of niet binnen de gestelde termijn aangifte voor de inkomstenbelasting heeft gedaan.
 
 ##### Artikel 14
 
-1. In de gevallen waarin [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=13&z=2026-01-01&g=2026-01-01) niet van toepassing is, kan de inspecteur na het tijdstip waarop de belastingschuld is ontstaan, volgens door Onze Minister te stellen regelen een voorlopige aanslag opleggen tot ten hoogste het bedrag waarop de aanslag vermoedelijk zal worden vastgesteld.
+1. In de gevallen waarin [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=13&z=2026-04-11&g=2026-04-11) niet van toepassing is, kan de inspecteur na het tijdstip waarop de belastingschuld is ontstaan, volgens door Onze Minister te stellen regelen een voorlopige aanslag opleggen tot ten hoogste het bedrag waarop de aanslag vermoedelijk zal worden vastgesteld.
 
 2. Een voorlopige aanslag kan met inachtneming van het in het eerste lid bepaalde, door één of meer voorlopige aanslagen worden aangevuld.
 
@@ -284,11 +284,11 @@ De voorlopige aanslagen en de in de belastingwet aangewezen voorheffingen worden
 
 - c. ten gevolge van een fout een aanslag ten onrechte achterwege is gelaten of ten gevolge van een fout een belastingaanslag tot een te laag bedrag is vastgesteld, hetgeen de belastingplichtige redelijkerwijs kenbaar is, waarvan in elk geval sprake is indien de te weinig geheven belasting ten minste 30 percent van de ingevolge de belastingwet verschuldigde belasting bedraagt.
 
-3. De bevoegdheid tot het vaststellen van een navorderingsaanslag vervalt door verloop van vijf jaren na het tijdstip waarop de belastingschuld is ontstaan. [Artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=11&z=2026-01-01&g=2026-01-01), is te dezen van toepassing. Indien voor het doen van aangifte uitstel is verleend, wordt de navorderingstermijn met de duur van dit uitstel verlengd. De eerste volzin is niet van toepassing voor zover navordering plaatsvindt met toepassing van [artikel 2.17, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17). Voor zover navordering zonder toepassing van het tweede lid, onderdeel c, niet zou kunnen plaatsvinden, vervalt de bevoegdheid tot het vaststellen van een navorderingsaanslag, in afwijking in zoverre van de eerste volzin, door verloop van twee jaren na het tijdstip waarop het besluit is genomen om geen aanslag op te leggen, dan wel de belastingaanslag is vastgesteld.
+3. De bevoegdheid tot het vaststellen van een navorderingsaanslag vervalt door verloop van vijf jaren na het tijdstip waarop de belastingschuld is ontstaan. [Artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=11&z=2026-04-11&g=2026-04-11), is te dezen van toepassing. Indien voor het doen van aangifte uitstel is verleend, wordt de navorderingstermijn met de duur van dit uitstel verlengd. De eerste volzin is niet van toepassing voor zover navordering plaatsvindt met toepassing van [artikel 2.17, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17). Voor zover navordering zonder toepassing van het tweede lid, onderdeel c, niet zou kunnen plaatsvinden, vervalt de bevoegdheid tot het vaststellen van een navorderingsaanslag, in afwijking in zoverre van de eerste volzin, door verloop van twee jaren na het tijdstip waarop het besluit is genomen om geen aanslag op te leggen, dan wel de belastingaanslag is vastgesteld.
 
 4. Indien te weinig belasting is geheven over een bestanddeel van het voorwerp van enige belasting dat in het buitenland wordt gehouden of is opgekomen, vervalt, in afwijking in zoverre van het derde lid, eerste volzin, de bevoegdheid tot navorderen door verloop van twaalf jaren na het tijdstip waarop de belastingschuld is ontstaan.
 
-5. Indien binnen zes maanden voor het einde van de termijn, bedoeld in het derde lid, eerste zin, of van de termijn, bedoeld in het vierde lid, een verzoek als bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=6&z=2026-01-01&g=2026-01-01), wordt gedaan of gegevens als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), worden verstrekt, wordt die termijn met zes maanden verlengd.
+5. Indien binnen zes maanden voor het einde van de termijn, bedoeld in het derde lid, eerste zin, of van de termijn, bedoeld in het vierde lid, een verzoek als bedoeld in [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=6&z=2026-04-11&g=2026-04-11), wordt gedaan of gegevens als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=9&z=2026-04-11&g=2026-04-11), worden verstrekt, wordt die termijn met zes maanden verlengd.
 
 6. Indien een bedrag als verlies van een jaar door middel van verrekening in aanmerking is genomen in een voorafgaand jaar, en in verband daarmede een in de belastingwet voorziene vermindering of teruggaaf ten onrechte of tot een te hoog bedrag is verleend, blijft de bevoegdheid tot navorderen bestaan zolang navordering mogelijk is over het jaar waaruit het als verlies verrekende bedrag afkomstig is.
 
@@ -314,7 +314,7 @@ Vervallen
 
 2. Het vaststellen van de navorderingsaanslag, onderscheidenlijk het nemen van de beschikking tot vernietiging, vermindering, ontheffing of teruggaaf op de voet van het eerste lid geschiedt binnen acht weken na het tijdstip waarop de beschikking of uitspraak strekkende tot de herziene vaststelling van de waarde onherroepelijk is geworden. Eerstbedoelde beschikking is voor bezwaar vatbaar.
 
-3. Ingeval de herziening gevolgen heeft voor de toepassing van [artikel 3.30a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30a) met betrekking tot een jaar, wordt in afwijking in zoverre van het tweede lid de termijn waarbinnen navordering mogelijk is bepaald op de voet van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=16&z=2026-01-01&g=2026-01-01) en vangt de in dat lid bedoelde termijn van acht weken niet eerder aan dan op het tijdstip waarop de belastingplichtige een verzoek heeft ingediend tot aanpassing van de aanslag of beschikking met betrekking tot dat jaar. Een verzoek tot aanpassing wordt gedaan binnen een jaar na het tijdstip waarop de beschikking of uitspraak strekkende tot de herziene vaststelling van de waarde, onherroepelijk is geworden.
+3. Ingeval de herziening gevolgen heeft voor de toepassing van [artikel 3.30a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30a) met betrekking tot een jaar, wordt in afwijking in zoverre van het tweede lid de termijn waarbinnen navordering mogelijk is bepaald op de voet van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=16&z=2026-04-11&g=2026-04-11) en vangt de in dat lid bedoelde termijn van acht weken niet eerder aan dan op het tijdstip waarop de belastingplichtige een verzoek heeft ingediend tot aanpassing van de aanslag of beschikking met betrekking tot dat jaar. Een verzoek tot aanpassing wordt gedaan binnen een jaar na het tijdstip waarop de beschikking of uitspraak strekkende tot de herziene vaststelling van de waarde, onherroepelijk is geworden.
 
 4. Indien aan de heffing van belasting een aan een onroerende zaak toegekende waarde ten grondslag ligt en met betrekking tot die onroerende zaak voor een voor die heffing van belang zijnd kalenderjaar een waarde wordt vastgesteld op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV), zijn het eerste, tweede en derde lid van overeenkomstige toepassing.
 
@@ -360,15 +360,15 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. inkomensgegeven:
 
-- 1°. indien over een kalenderjaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: het na afloop van dat kalenderjaar van betrokkene over dat kalenderjaar laatst bepaalde verzamelinkomen;
+  - 1°. indien over een kalenderjaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: het na afloop van dat kalenderjaar van betrokkene over dat kalenderjaar laatst bepaalde verzamelinkomen;
 
-- 2°. indien over een kalenderjaar geen aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: het na afloop van dat kalenderjaar van betrokkene over dat kalenderjaar laatst bepaalde belastbare loon;
+  - 2°. indien over een kalenderjaar geen aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: het na afloop van dat kalenderjaar van betrokkene over dat kalenderjaar laatst bepaalde belastbare loon;
 
 - f. afnemer: bestuursorgaan dat op grond van een wettelijk voorschrift bevoegd is tot gebruik van een inkomensgegeven;
 
 - g. betrokkene: degene op wie het inkomensgegeven betrekking heeft;
 
-- h. terugmelding: melding als bedoeld in [artikel 21h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21h&z=2026-01-01&g=2026-01-01).
+- h. terugmelding: melding als bedoeld in [artikel 21h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21h&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 22
 
@@ -438,7 +438,7 @@ Vervallen
 
 2. Indien de bedragen van een belastingaanslag en van een voor bezwaar vatbare beschikking op één aanslagbiljet zijn vermeld, wordt de voor bezwaar vatbare beschikking voor de toepassing van de wettelijke voorschriften over bezwaar en beroep geacht onderdeel uit te maken van de belastingaanslag.
 
-3. Indien een voor bezwaar vatbare beschikking waarbij een bestuurlijke boete is opgelegd en een voor bezwaar vatbare beschikking tot openbaarmaking als bedoeld in [artikel 67r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=3&artikel=67r&z=2026-01-01&g=2026-01-01), in één geschrift zijn vervat, wordt een bezwaarschrift tegen de boete geacht mede te zijn gericht tegen de openbaarmaking ervan, tenzij uit het bezwaarschrift het tegendeel blijkt.
+3. Indien een voor bezwaar vatbare beschikking waarbij een bestuurlijke boete is opgelegd en een voor bezwaar vatbare beschikking tot openbaarmaking als bedoeld in [artikel 67r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=3&artikel=67r&z=2026-04-11&g=2026-04-11), in één geschrift zijn vervat, wordt een bezwaarschrift tegen de boete geacht mede te zijn gericht tegen de openbaarmaking ervan, tenzij uit het bezwaarschrift het tegendeel blijkt.
 
 4. In afwijking van hetgeen in andere wetten is bepaald, is het tweede lid niet van toepassing op andere belastingen dan rijksbelastingen.
 
@@ -448,7 +448,7 @@ Vervallen
 
 2. Indien omstandigheden daartoe nopen, kan het horen geschieden in afwijking van [artikel 7:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:5).
 
-3. Indien het bezwaar is gericht tegen een aanslag, een navorderingsaanslag, een naheffingsaanslag of een beschikking, met betrekking tot welke de vereiste aangifte niet is gedaan of sprake is van een onherroepelijk geworden informatiebeschikking als bedoeld in [artikel 52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-01-01&g=2026-01-01), wordt bij de uitspraak op het bezwaarschrift de belastingaanslag of beschikking gehandhaafd, tenzij is gebleken dat en in hoeverre die belastingaanslag of beschikking onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.
+3. Indien het bezwaar is gericht tegen een aanslag, een navorderingsaanslag, een naheffingsaanslag of een beschikking, met betrekking tot welke de vereiste aangifte niet is gedaan of sprake is van een onherroepelijk geworden informatiebeschikking als bedoeld in [artikel 52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-04-11&g=2026-04-11), wordt bij de uitspraak op het bezwaarschrift de belastingaanslag of beschikking gehandhaafd, tenzij is gebleken dat en in hoeverre die belastingaanslag of beschikking onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.
 
 4. Indien bezwaar is gemaakt tegen meer dan één belastingaanslag of voor bezwaar vatbare beschikking, kan de inspecteur de uitspraken vervatten in één geschrift.
 
@@ -462,7 +462,7 @@ Vervallen
 
 1. In afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) kan tegen een ingevolge de belastingwet genomen besluit slechts beroep bij de bestuursrechter worden ingesteld, indien het betreft:
 
-- a. een belastingaanslag, daaronder begrepen de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-01-01&g=2026-01-01) voorgeschreven verrekening, of
+- a. een belastingaanslag, daaronder begrepen de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-04-11&g=2026-04-11) voorgeschreven verrekening, of
 
 - b. een voor bezwaar vatbare beschikking.
 
@@ -488,7 +488,7 @@ Vervallen
 
 1. Hij die beroep instelt tegen meer dan één uitspraak kan dat doen bij één beroepschrift.
 
-2. [Artikel 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=24a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. [Artikel 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=24a&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 ##### Artikel 26c
 
@@ -500,7 +500,7 @@ Vervallen
 
 ##### Artikel 27a
 
-Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank bepalen dat [hoofdstuk VIII, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&z=2026-01-01&g=2026-01-01), gedurende een daarbij te bepalen termijn van toepassing blijft.
+Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank bepalen dat [hoofdstuk VIII, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&z=2026-04-11&g=2026-04-11), gedurende een daarbij te bepalen termijn van toepassing blijft.
 
 ##### Artikel 27b
 
@@ -516,9 +516,9 @@ In afwijking van [artikel 8:67, eerste lid, van de Algemene wet bestuursrecht](h
 
 ##### Artikel 27e
 
-1. Indien de vereiste aangifte niet is gedaan of sprake is van een onherroepelijk geworden informatiebeschikking als bedoeld in [artikel 52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-01-01&g=2026-01-01), verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is.
+1. Indien de vereiste aangifte niet is gedaan of sprake is van een onherroepelijk geworden informatiebeschikking als bedoeld in [artikel 52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-04-11&g=2026-04-11), verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is.
 
-2. Indien de rechtbank het beroep tegen een in [artikel 52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-01-01&g=2026-01-01), bedoelde informatiebeschikking ongegrond verklaart, stelt de rechtbank een nieuwe termijn voor het voldoen aan de in die beschikking bedoelde verplichtingen, in situaties waarin daar nog gevolg aan kan worden gegeven, tenzij sprake is van kennelijk onredelijk gebruik van procesrecht.
+2. Indien de rechtbank het beroep tegen een in [artikel 52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-04-11&g=2026-04-11), bedoelde informatiebeschikking ongegrond verklaart, stelt de rechtbank een nieuwe termijn voor het voldoen aan de in die beschikking bedoelde verplichtingen, in situaties waarin daar nog gevolg aan kan worden gegeven, tenzij sprake is van kennelijk onredelijk gebruik van procesrecht.
 
 3. Dit artikel vindt geen toepassing voor zover het beroep is gericht tegen een vergrijpboete.
 
@@ -538,7 +538,7 @@ In afwijking van [artikel 8:67, eerste lid, van de Algemene wet bestuursrecht](h
 
 1. In afwijking van [artikel 8:104, eerste lid, aanhef en onder a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:104) kunnen slechts de belanghebbende die bevoegd was beroep bij de rechtbank in te stellen en de inspecteur hoger beroep instellen.
 
-2. De [artikelen 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=24a&z=2026-01-01&g=2026-01-01), [26a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26a&z=2026-01-01&g=2026-01-01), [26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26b&z=2026-01-01&g=2026-01-01), en [27c tot en met 27ge](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=27c&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing in hoger beroep.
+2. De [artikelen 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=24a&z=2026-04-11&g=2026-04-11), [26a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26a&z=2026-04-11&g=2026-04-11), [26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26b&z=2026-04-11&g=2026-04-11), en [27c tot en met 27ge](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=27c&z=2026-04-11&g=2026-04-11) zijn van overeenkomstige toepassing in hoger beroep.
 
 3. De werking van de uitspraak van de rechtbank of van de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep onherroepelijk is beslist. De eerste volzin geldt niet indien de uitspraak een beroep tegen het niet tijdig nemen van een besluit betreft.
 
@@ -568,7 +568,7 @@ In afwijking van [artikel 8:67, eerste lid, van de Algemene wet bestuursrecht](h
 
 5. Tegen andere beslissingen van het gerechtshof, van de rechtbank of van de voorzieningenrechter kan slechts tegelijkertijd met het beroep in cassatie tegen de in het eerste of het tweede lid bedoelde uitspraak beroep in cassatie worden ingesteld.
 
-6. De [artikelen 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=24a&z=2026-01-01&g=2026-01-01), [26a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26a&z=2026-01-01&g=2026-01-01), en [26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26b&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
+6. De [artikelen 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=24a&z=2026-04-11&g=2026-04-11), [26a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26a&z=2026-04-11&g=2026-04-11), en [26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=26b&z=2026-04-11&g=2026-04-11), zijn van overeenkomstige toepassing.
 
 7. De werking van de uitspraak van het gerechtshof, de rechtbank of de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van beroep in cassatie is verstreken of, indien beroep in cassatie is ingesteld, op het beroep in cassatie is beslist.
 
@@ -582,7 +582,7 @@ In afwijking van [artikel 8:67, eerste lid, van de Algemene wet bestuursrecht](h
 
 ##### Artikel 28b
 
-1. Indien beroep in cassatie is ingesteld tegen een mondelinge uitspraak, wordt de mondelinge uitspraak vervangen door een schriftelijke uitspraak, tenzij het beroep in cassatie kennelijk niet-ontvankelijk is of de Hoge Raad anders bepaalt. De vervanging geschiedt binnen zes weken na de dag waarop de mededeling, bedoeld in [artikel 28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=28a&z=2026-01-01&g=2026-01-01), is gedaan. Het beroep in cassatie wordt geacht gericht te zijn tegen de schriftelijke uitspraak.
+1. Indien beroep in cassatie is ingesteld tegen een mondelinge uitspraak, wordt de mondelinge uitspraak vervangen door een schriftelijke uitspraak, tenzij het beroep in cassatie kennelijk niet-ontvankelijk is of de Hoge Raad anders bepaalt. De vervanging geschiedt binnen zes weken na de dag waarop de mededeling, bedoeld in [artikel 28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=28a&z=2026-04-11&g=2026-04-11), is gedaan. Het beroep in cassatie wordt geacht gericht te zijn tegen de schriftelijke uitspraak.
 
 2. Het gerecht dat de mondelinge uitspraak heeft gedaan, verzendt de vervangende schriftelijke uitspraak gelijktijdig aan partijen en aan de griffier van de Hoge Raad.
 
@@ -636,7 +636,7 @@ Vervallen
 
 2. De griffier zendt een door hem voor eensluidend getekend afschrift van de intrekking onverwijld aan die belanghebbende.
 
-3. De [artikelen 6:5 tot en met 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:11), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:14), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:15), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:17), [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:21) en [8:75a, tweede lid, eerste en tweede volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75a) zijn van overeenkomstige toepassing, alsmede de [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=29c&z=2026-01-01&g=2026-01-01) en [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=29d&z=2026-01-01&g=2026-01-01).
+3. De [artikelen 6:5 tot en met 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:11), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:14), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:15), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:17), [6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:21) en [8:75a, tweede lid, eerste en tweede volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75a) zijn van overeenkomstige toepassing, alsmede de [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=29c&z=2026-04-11&g=2026-04-11) en [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=29d&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 29g
 
@@ -658,7 +658,7 @@ Vervallen
 
 1. In afwijking van [artikel 8:79, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:79) geschiedt de verstrekking overeenkomstig die bepaling van afschriften of uittreksels aan anderen dan partijen met machtiging van de Hoge Raad.
 
-2. [Artikel 27g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=27g&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. [Artikel 27g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=27g&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 ### Afdeling 2. Beroep
 
@@ -714,7 +714,7 @@ De renteberekening heeft als grondslag het te betalen bedrag aan belasting.
 
 5. Indien een belastingaanslag ter zake waarvan belastingrente in rekening is gebracht naar aanleiding van een bezwaarschrift, een daaropvolgende gerechtelijke procedure of een ambtshalve vermindering wordt verminderd of wordt vernietigd, wordt de eerder in rekening gebrachte rente naar evenredigheid verminderd, onderscheidenlijk vernietigd.
 
-6. Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting, het bedrag na de verrekening ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-01-01&g=2026-01-01).
+6. Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting, het bedrag na de verrekening ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-04-11&g=2026-04-11).
 
 7. Met betrekking tot het tweede lid, onderdelen a en b, en het vierde lid is [artikel 45, tweede lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=45) van overeenkomstige toepassing.
 
@@ -746,15 +746,15 @@ De renteberekening heeft als grondslag het te betalen bedrag aan belasting.
 
 2. De revisierente bedraagt 20 percent van de waarde in het economische verkeer van aanspraken als bedoeld in het eerste lid. In afwijking van de eerste zin bedraagt de revisierente, ingeval [artikel 3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) dan wel de [artikelen 3.133, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), of [3.136, tweede, derde of vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136) van toepassing is, 20% van het bedrag dat ingevolge dat artikel respectievelijk die leden als negatieve uitgaven voor inkomensvoorzieningen in aanmerking wordt genomen.
 
-3. Ingeval de aanspraak is bedongen minder dan 10 jaren vóór het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten, wordt, indien de belastingplichtige dit verzoekt, in afwijking van het tweede lid, de revisierente gesteld op het door de belastingplichtige aannemelijk te maken bedrag dat ingevolge [artikel 30fc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-01-01&g=2026-01-01) aan belastingrente in rekening zou worden gebracht indien:
+3. Ingeval de aanspraak is bedongen minder dan 10 jaren vóór het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten, wordt, indien de belastingplichtige dit verzoekt, in afwijking van het tweede lid, de revisierente gesteld op het door de belastingplichtige aannemelijk te maken bedrag dat ingevolge [artikel 30fc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-04-11&g=2026-04-11) aan belastingrente in rekening zou worden gebracht indien:
 
 - a. ingeval het betreft een aanspraak ingevolge een pensioenregeling of negatieve uitgaven voor inkomensvoorzieningen: de mogelijkheid zou bestaan de aftrek van de premies voor de aanspraak ongedaan te maken door navorderingsaanslagen over de jaren van die aftrek, of
 
 - b. ingeval het betreft een aanspraak op periodieke uitkeringen: de mogelijkheid zou bestaan de aanspraak tot inkomen uit werk en woning te rekenen in het jaar waarop de aanspraak is ontstaan en ter zake daarvan een navorderingsaanslag op te leggen.
 
-Hierbij worden de bedragen van die navorderingsaanslagen gesteld op 50 percent van de premies, bedoeld in de vorige volzin onderdeel a, danwel van de aanspraak, bedoeld in de vorige volzin onderdeel b, en wordt het einde van het in [artikel 30fc, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-01-01&g=2026-01-01), bedoelde tijdvak gesteld op 31 december van het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten. Indien [artikel 3.133, negende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) wordt toegepast, wordt het bedrag aan revisierente, berekend op grond van de eerste en tweede zin, vermenigvuldigd met het bedrag dat door toepassing van artikel 3.133, eerste en negende lid, van de Wet inkomstenbelasting 2001, als negatieve uitgave voor inkomensvoorzieningen als bedoeld in artikel 3.133, eerste lid, van de Wet inkomstenbelasting 2001 in aanmerking wordt genomen, gedeeld door het gezamenlijke bedrag, bedoeld in artikel 3.133, negende lid, onderdeel c, van de Wet inkomstenbelasting 2001.
+Hierbij worden de bedragen van die navorderingsaanslagen gesteld op 50 percent van de premies, bedoeld in de vorige volzin onderdeel a, danwel van de aanspraak, bedoeld in de vorige volzin onderdeel b, en wordt het einde van het in [artikel 30fc, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-04-11&g=2026-04-11), bedoelde tijdvak gesteld op 31 december van het jaar waarin de aanspraak ingevolge een pensioenregeling of de aanspraak op periodieke uitkeringen tot loon wordt gerekend dan wel de negatieve uitgaven voor inkomensvoorzieningen worden genoten. Indien [artikel 3.133, negende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) wordt toegepast, wordt het bedrag aan revisierente, berekend op grond van de eerste en tweede zin, vermenigvuldigd met het bedrag dat door toepassing van artikel 3.133, eerste en negende lid, van de Wet inkomstenbelasting 2001, als negatieve uitgave voor inkomensvoorzieningen als bedoeld in artikel 3.133, eerste lid, van de Wet inkomstenbelasting 2001 in aanmerking wordt genomen, gedeeld door het gezamenlijke bedrag, bedoeld in artikel 3.133, negende lid, onderdeel c, van de Wet inkomstenbelasting 2001.
 
-4. Indien revisierente wordt berekend met betrekking tot inkomstenbelasting die betrekking heeft op inkomsten die in aanmerking zijn genomen op grond van de [artikelen 3.83, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.133, tweede lid, onderdelen h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), [3.136, eerste, tweede, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136), of [7.2, achtste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), wordt bij de toepassing van het derde lid [artikel 30fc, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-01-01&g=2026-01-01), buiten toepassing gelaten.
+4. Indien revisierente wordt berekend met betrekking tot inkomstenbelasting die betrekking heeft op inkomsten die in aanmerking zijn genomen op grond van de [artikelen 3.83, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.133, tweede lid, onderdelen h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), [3.136, eerste, tweede, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136), of [7.2, achtste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), wordt bij de toepassing van het derde lid [artikel 30fc, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-04-11&g=2026-04-11), buiten toepassing gelaten.
 
 ##### Artikel 30j
 
@@ -762,13 +762,13 @@ Hierbij worden de bedragen van die navorderingsaanslagen gesteld op 50 percent v
 
 2. Het bedrag van de belastingrente wordt op het aanslagbiljet of op het afschrift van de uitspraak of bij de bekendmaking afzonderlijk vermeld. Ingeval de eerste volzin geen toepassing vindt, blijkt het bedrag van de belastingrente uit het afschrift van de beschikking.
 
-3. Met betrekking tot de revisierente bedoeld in [artikel 30i](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30i&z=2026-01-01&g=2026-01-01) zijn het eerste en tweede lid van overeenkomstige toepassing.
+3. Met betrekking tot de revisierente bedoeld in [artikel 30i](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30i&z=2026-04-11&g=2026-04-11) zijn het eerste en tweede lid van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling kunnen regels worden gesteld voor de bij de berekening van belastingrente toe te passen afrondingen. Voorts kunnen regels worden gesteld met betrekking tot een doelmatige berekening van de belastingrente.
 
 ##### Artikel 30k
 
-Onze Minister kan in het kader van een regeling voor onderling overleg op grond van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (**Trb.**1990, 173), de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) of een verdrag ter voorkoming van dubbele belasting, voor bepaalde gevallen of groepen van gevallen afwijkingen toestaan van de [artikelen 30f tot en met 30hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30f&z=2026-01-01&g=2026-01-01).
+Onze Minister kan in het kader van een regeling voor onderling overleg op grond van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (**Trb.**1990, 173), de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) of een verdrag ter voorkoming van dubbele belasting, voor bepaalde gevallen of groepen van gevallen afwijkingen toestaan van de [artikelen 30f tot en met 30hb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30f&z=2026-04-11&g=2026-04-11).
 
 ### Hoofdstuk VI. Bevordering van de richtige heffing
 
@@ -778,25 +778,25 @@ Voor de heffing van de directe belastingen en de inkomstenbelasting wordt geen r
 
 ##### Artikel 32
 
-Het besluit van de inspecteur om een belastingaanslag met toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-01-01&g=2026-01-01) vast te stellen, wordt genomen bij voor bezwaar vatbare beschikking en niet dan nadat Onze Minister daartoe toestemming heeft verleend.
+Het besluit van de inspecteur om een belastingaanslag met toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-04-11&g=2026-04-11) vast te stellen, wordt genomen bij voor bezwaar vatbare beschikking en niet dan nadat Onze Minister daartoe toestemming heeft verleend.
 
 ##### Artikel 33
 
-1. In geval van twijfel of een beraamde rechtshandeling onder [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-01-01&g=2026-01-01) zou vallen, kan de belanghebbende deze vraag onderwerpen aan het oordeel van de inspecteur. De beslissing van de inspecteur wordt genomen bij voor bezwaar vatbare beschikking.
+1. In geval van twijfel of een beraamde rechtshandeling onder [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-04-11&g=2026-04-11) zou vallen, kan de belanghebbende deze vraag onderwerpen aan het oordeel van de inspecteur. De beslissing van de inspecteur wordt genomen bij voor bezwaar vatbare beschikking.
 
-2. Indien de inspecteur de in het eerste lid bedoelde vraag ontkennend beantwoordt, kan [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-01-01&g=2026-01-01) op de rechtshandeling, zo zij tot stand komt, niet worden toegepast, tenzij mocht blijken, dat de feiten niet volkomen overeenstemmen met de tevoren gegeven voorstelling.
+2. Indien de inspecteur de in het eerste lid bedoelde vraag ontkennend beantwoordt, kan [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-04-11&g=2026-04-11) op de rechtshandeling, zo zij tot stand komt, niet worden toegepast, tenzij mocht blijken, dat de feiten niet volkomen overeenstemmen met de tevoren gegeven voorstelling.
 
 ##### Artikel 34
 
-In geval van beroep tegen een uitspraak op een bezwaarschrift betreffende een beschikking als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-01-01&g=2026-01-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=33&z=2026-01-01&g=2026-01-01), handhaaft de rechtbank de uitspraak indien blijkt, dat de in de beschikking omschreven rechtshandeling voldoet aan de voor de toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-01-01&g=2026-01-01) gestelde voorwaarden, en vernietigt het de uitspraak indien dit niet het geval is.
+In geval van beroep tegen een uitspraak op een bezwaarschrift betreffende een beschikking als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-04-11&g=2026-04-11) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=33&z=2026-04-11&g=2026-04-11), handhaaft de rechtbank de uitspraak indien blijkt, dat de in de beschikking omschreven rechtshandeling voldoet aan de voor de toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-04-11&g=2026-04-11) gestelde voorwaarden, en vernietigt het de uitspraak indien dit niet het geval is.
 
 ##### Artikel 35
 
-Nadat de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-01-01&g=2026-01-01) bedoelde beschikking onherroepelijk is geworden kan daaraan uitvoering worden gegeven. Een na het onherroepelijk worden van de in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-01-01&g=2026-01-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=33&z=2026-01-01&g=2026-01-01) bedoelde beschikking, met toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-01-01&g=2026-01-01) vastgestelde belastingaanslag kan niet worden bestreden met het bezwaar, dat [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-01-01&g=2026-01-01) geen toepassing had mogen vinden.
+Nadat de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-04-11&g=2026-04-11) bedoelde beschikking onherroepelijk is geworden kan daaraan uitvoering worden gegeven. Een na het onherroepelijk worden van de in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-04-11&g=2026-04-11) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=33&z=2026-04-11&g=2026-04-11) bedoelde beschikking, met toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-04-11&g=2026-04-11) vastgestelde belastingaanslag kan niet worden bestreden met het bezwaar, dat [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=31&z=2026-04-11&g=2026-04-11) geen toepassing had mogen vinden.
 
 ##### Artikel 36
 
-De termijnen van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=11&z=2026-01-01&g=2026-01-01), [artikel 16, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=16&z=2026-01-01&g=2026-01-01), en [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), worden verlengd met de tijd die verloopt tussen de dagtekening van het afschrift van de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-01-01&g=2026-01-01) bedoelde beschikking en de dag welke valt een jaar na die waarop die beschikking onherroepelijk geworden dan wel vernietigd is.
+De termijnen van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=11&z=2026-04-11&g=2026-04-11), [artikel 16, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=16&z=2026-04-11&g=2026-04-11), en [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-04-11&g=2026-04-11), worden verlengd met de tijd die verloopt tussen de dagtekening van het afschrift van de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VI&artikel=32&z=2026-04-11&g=2026-04-11) bedoelde beschikking en de dag welke valt een jaar na die waarop die beschikking onherroepelijk geworden dan wel vernietigd is.
 
 ### Hoofdstuk VII. Bepalingen van interregionaal en van internationaal recht
 
@@ -812,7 +812,7 @@ De termijnen van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen ter voorkoming van dubbele belasting in gevallen waarin daaromtrent niet op andere wijze is voorzien, regelen worden gesteld ten einde gehele of gedeeltelijke vrijstelling of vermindering van belasting te verlenen, indien en voor zover het voorwerp van de belasting is onderworpen aan een belasting die vanwege een ander land van het Koninkrijk, een andere Mogendheid of een volkenrechtelijke organisatie wordt geheven.
 
-2. Belastbaar loon uit tegenwoordige arbeid wordt voor de toepassing van het eerste lid geacht te zijn onderworpen aan een belasting die vanwege een andere Mogendheid wordt geheven, indien zij wordt genoten uit privaatrechtelijke dienstbetrekking tot een werkgever die is gevestigd in een lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voorzover dat loon betrekking heeft op arbeid die gedurende ten minste drie aaneengesloten maanden wordt verricht binnen het gebied van een Mogendheid waarmee Nederland geen verdrag ter voorkoming van dubbele belasting heeft gesloten en met betrekking waartoe geen regelen zijn gesteld op grond van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VII&artikel=37&z=2026-01-01&g=2026-01-01). Voor de toepassing van de vorige volzin omvat het gebied van een andere Mogendheid mede het gebied buiten de territoriale wateren van die Mogendheid waar deze in overeenstemming met het internationale recht soevereine rechten kan uitoefenen. Onze Minister is bevoegd voor bepaalde gevallen of groepen van gevallen te bepalen dat loon betrekking heeft op arbeid die gedurende ten minste drie aaneengesloten maanden wordt verricht.
+2. Belastbaar loon uit tegenwoordige arbeid wordt voor de toepassing van het eerste lid geacht te zijn onderworpen aan een belasting die vanwege een andere Mogendheid wordt geheven, indien zij wordt genoten uit privaatrechtelijke dienstbetrekking tot een werkgever die is gevestigd in een lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voorzover dat loon betrekking heeft op arbeid die gedurende ten minste drie aaneengesloten maanden wordt verricht binnen het gebied van een Mogendheid waarmee Nederland geen verdrag ter voorkoming van dubbele belasting heeft gesloten en met betrekking waartoe geen regelen zijn gesteld op grond van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VII&artikel=37&z=2026-04-11&g=2026-04-11). Voor de toepassing van de vorige volzin omvat het gebied van een andere Mogendheid mede het gebied buiten de territoriale wateren van die Mogendheid waar deze in overeenstemming met het internationale recht soevereine rechten kan uitoefenen. Onze Minister is bevoegd voor bepaalde gevallen of groepen van gevallen te bepalen dat loon betrekking heeft op arbeid die gedurende ten minste drie aaneengesloten maanden wordt verricht.
 
 ##### Artikel 39
 
@@ -868,9 +868,9 @@ De bepalingen van deze afdeling gelden niet met betrekking tot strafvordering.
 
 ##### Artikel 47a
 
-1. Met betrekking tot een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal waarin een niet in Nederland gevestigd lichaam of een niet in Nederland wonende natuurlijke persoon een belang heeft van meer dan 50 percent en met betrekking tot een ander lichaam waarover dat niet in Nederland gevestigde lichaam of die natuurlijke persoon de zeggenschap heeft, is [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die in het bezit zijn van dat niet in Nederland gevestigde lichaam of die natuurlijke persoon. De vorige volzin is van overeenkomstige toepassing in gevallen waarin twee of meer lichamen of natuurlijke personen waarvan er ten minste één niet in Nederland is gevestigd of woont, volgens een onderlinge regeling tot samenwerking een belang houden van meer dan 50 percent in een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal dan wel de zeggenschap hebben in een ander lichaam. Ter zake van die gegevensdragers kan worden volstaan met het voor raadpleging beschikbaar stellen van de inhoud daarvan door middel van kopieën, leesbare afdrukken of uittreksels.
+1. Met betrekking tot een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal waarin een niet in Nederland gevestigd lichaam of een niet in Nederland wonende natuurlijke persoon een belang heeft van meer dan 50 percent en met betrekking tot een ander lichaam waarover dat niet in Nederland gevestigde lichaam of die natuurlijke persoon de zeggenschap heeft, is [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die in het bezit zijn van dat niet in Nederland gevestigde lichaam of die natuurlijke persoon. De vorige volzin is van overeenkomstige toepassing in gevallen waarin twee of meer lichamen of natuurlijke personen waarvan er ten minste één niet in Nederland is gevestigd of woont, volgens een onderlinge regeling tot samenwerking een belang houden van meer dan 50 percent in een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal dan wel de zeggenschap hebben in een ander lichaam. Ter zake van die gegevensdragers kan worden volstaan met het voor raadpleging beschikbaar stellen van de inhoud daarvan door middel van kopieën, leesbare afdrukken of uittreksels.
 
-2. Met betrekking tot de in het eerste lid bedoelde vennootschap en het andere lichaam is [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), eveneens van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die in het bezit zijn van een niet in Nederland gevestigde vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal waarin een in het eerste lid bedoeld niet in Nederland gevestigd lichaam of wonend natuurlijk persoon een belang heeft van meer dan 50 percent of die in het bezit zijn van een ander niet in Nederland gevestigd lichaam waarover dat niet in Nederland gevestigde lichaam of die natuurlijke persoon zeggenschap heeft. Ter zake van die gegevensdragers kan worden volstaan met het voor raadpleging beschikbaar stellen van de inhoud daarvan door middel van kopieén, leesbare afdrukken of uittreksels.
+2. Met betrekking tot de in het eerste lid bedoelde vennootschap en het andere lichaam is [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), eveneens van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die in het bezit zijn van een niet in Nederland gevestigde vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal waarin een in het eerste lid bedoeld niet in Nederland gevestigd lichaam of wonend natuurlijk persoon een belang heeft van meer dan 50 percent of die in het bezit zijn van een ander niet in Nederland gevestigd lichaam waarover dat niet in Nederland gevestigde lichaam of die natuurlijke persoon zeggenschap heeft. Ter zake van die gegevensdragers kan worden volstaan met het voor raadpleging beschikbaar stellen van de inhoud daarvan door middel van kopieén, leesbare afdrukken of uittreksels.
 
 3. Het eerste en het tweede lid zijn niet van toepassing indien het in die leden bedoelde niet in Nederland gevestigde lichaam of de in die leden bedoelde natuurlijke persoon is gevestigd onderscheidenlijk woont in Aruba, Curaçao, Sint Maarten of een staat waarmee in de relatie met Nederland een wederkerige regeling bestaat die voorziet in inlichtingenuitwisseling met betrekking tot de belasting voor de heffing waarvan de inspecteur de gegevens, inlichtingen of gegevensdragers nodig heeft.
 
@@ -880,11 +880,11 @@ De bepalingen van deze afdeling gelden niet met betrekking tot strafvordering.
 
 ##### Artikel 47b
 
-Degene op wie de gegevens en inlichtingen, bedoeld in [artikel 53, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01), betrekking hebben, is gehouden, volgens bij of krachtens de belastingwet te stellen regels, aan de administratieplichtige opgave te verstrekken van zijn burgerservicenummer.
+Degene op wie de gegevens en inlichtingen, bedoeld in [artikel 53, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53&z=2026-04-11&g=2026-04-11), betrekking hebben, is gehouden, volgens bij of krachtens de belastingwet te stellen regels, aan de administratieplichtige opgave te verstrekken van zijn burgerservicenummer.
 
 ##### Artikel 48
 
-1. De in [artikel 47, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), bedoelde verplichting geldt onverminderd voor een derde bij wie zich gegevensdragers bevinden van degene die gehouden is deze, of de inhoud daarvan, aan de inspecteur voor raadpleging beschikbaar te stellen.
+1. De in [artikel 47, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), bedoelde verplichting geldt onverminderd voor een derde bij wie zich gegevensdragers bevinden van degene die gehouden is deze, of de inhoud daarvan, aan de inspecteur voor raadpleging beschikbaar te stellen.
 
 2. De inspecteur stelt degene wiens gegevensdragers hij bij een derde voor raadpleging vordert, gelijktijdig hiervan in kennis.
 
@@ -904,15 +904,15 @@ Vervallen
 
 2. De gevraagde toegang moet worden verleend, tussen acht uur ’s ochtends en zes uur ’s avonds, met uitzondering van zaterdagen, zondagen en algemeen erkende feestdagen.
 
-3. Indien het gebouw of de grond wordt gebruikt voor het uitoefenen van een bedrijf, een zelfstandig beroep of een werkzaamheid als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-01-01&g=2026-01-01), wordt, voor zover het redelijkerwijs niet mogelijk is het onderzoek te doen plaatsvinden gedurende de in het tweede lid bedoelde uren, de gevraagde toegang verleend tijdens de uren waarin het gebruik voor de uitoefening van dat bedrijf, dat zelfstandig beroep of die werkzaamheid daadwerkelijk plaatsvindt.
+3. Indien het gebouw of de grond wordt gebruikt voor het uitoefenen van een bedrijf, een zelfstandig beroep of een werkzaamheid als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-04-11&g=2026-04-11), wordt, voor zover het redelijkerwijs niet mogelijk is het onderzoek te doen plaatsvinden gedurende de in het tweede lid bedoelde uren, de gevraagde toegang verleend tijdens de uren waarin het gebruik voor de uitoefening van dat bedrijf, dat zelfstandig beroep of die werkzaamheid daadwerkelijk plaatsvindt.
 
 4. De gebruiker van het gebouw of de grond is verplicht desgevraagd de aanwijzingen te geven die voor het onderzoek nodig zijn.
 
 ##### Artikel 51
 
-1. Voor een weigering om te voldoen aan de in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-01-01&g=2026-01-01), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47b&z=2026-01-01&g=2026-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=48&z=2026-01-01&g=2026-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-01-01&g=2026-01-01) omschreven verplichtingen kan niemand zich met vrucht beroepen op de omstandigheden dat hij uit enigerlei hoofde tot geheimhouding verplicht is, zelfs niet indien deze hem bij een wettelijke bepaling is opgelegd.
+1. Voor een weigering om te voldoen aan de in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-04-11&g=2026-04-11), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47b&z=2026-04-11&g=2026-04-11), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=48&z=2026-04-11&g=2026-04-11) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-04-11&g=2026-04-11) omschreven verplichtingen kan niemand zich met vrucht beroepen op de omstandigheden dat hij uit enigerlei hoofde tot geheimhouding verplicht is, zelfs niet indien deze hem bij een wettelijke bepaling is opgelegd.
 
-2. Voor een weigering om te voldoen aan de in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-01-01&g=2026-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-01-01&g=2026-01-01) omschreven verplichtingen kan niemand zich met vrucht beroepen op de vertrouwelijkheid van zijn contacten met een verschoningsgerechtigde als bedoeld in [artikel 53a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53a&z=2026-01-01&g=2026-01-01), voor zover het gegevens, inlichtingen, boeken, bescheiden en andere gegevensdragers of de inhoud daarvan betreft waarover diegene ook zonder die vertrouwelijke contacten beschikt of redelijkerwijs kan beschikken.
+2. Voor een weigering om te voldoen aan de in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-04-11&g=2026-04-11) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-04-11&g=2026-04-11) omschreven verplichtingen kan niemand zich met vrucht beroepen op de vertrouwelijkheid van zijn contacten met een verschoningsgerechtigde als bedoeld in [artikel 53a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53a&z=2026-04-11&g=2026-04-11), voor zover het gegevens, inlichtingen, boeken, bescheiden en andere gegevensdragers of de inhoud daarvan betreft waarover diegene ook zonder die vertrouwelijke contacten beschikt of redelijkerwijs kan beschikken.
 
 ##### Artikel 52
 
@@ -940,7 +940,7 @@ Vervallen
 
 ##### Artikel 52a
 
-1. Indien met betrekking tot een op te leggen aanslag, navorderingsaanslag of naheffingsaanslag of een te nemen beschikking niet of niet volledig wordt voldaan aan de verplichtingen ingevolge [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=1&artikel=41&z=2026-01-01&g=2026-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-01-01&g=2026-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-01-01&g=2026-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-01-01&g=2026-01-01), en, voor zover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen, aan de verplichtingen ingevolge [artikel 53, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01), kan de inspecteur dit vaststellen bij voor bezwaar vatbare beschikking (informatiebeschikking). De inspecteur wijst in de informatiebeschikking op [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=25&z=2026-01-01&g=2026-01-01).
+1. Indien met betrekking tot een op te leggen aanslag, navorderingsaanslag of naheffingsaanslag of een te nemen beschikking niet of niet volledig wordt voldaan aan de verplichtingen ingevolge [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=1&artikel=41&z=2026-04-11&g=2026-04-11), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-04-11&g=2026-04-11), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-04-11&g=2026-04-11), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-04-11&g=2026-04-11), en, voor zover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen, aan de verplichtingen ingevolge [artikel 53, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53&z=2026-04-11&g=2026-04-11), kan de inspecteur dit vaststellen bij voor bezwaar vatbare beschikking (informatiebeschikking). De inspecteur wijst in de informatiebeschikking op [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=25&z=2026-04-11&g=2026-04-11).
 
 2. De termijn voor de vaststelling van een aanslag, navorderingsaanslag of naheffingsaanslag of het nemen van een beschikking wordt verlengd met de periode tussen de bekendmaking van de met betrekking tot die belastingaanslag of beschikking genomen informatiebeschikking waarin wordt vastgesteld dat de belastingplichtige niet of niet volledig aan zijn verplichtingen heeft voldaan en het moment waarop deze informatiebeschikking onherroepelijk komt vast te staan of wordt vernietigd.
 
@@ -950,7 +950,7 @@ Vervallen
 
 ##### Artikel 53
 
-1. Met betrekking tot administratieplichtigen als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-01-01&g=2026-01-01) zijn de in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01) en [48 tot en met 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=48&z=2026-01-01&g=2026-01-01) geregelde verplichtingen van overeenkomstige toepassing ten behoeve van:
+1. Met betrekking tot administratieplichtigen als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-04-11&g=2026-04-11) zijn de in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11) en [48 tot en met 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=48&z=2026-04-11&g=2026-04-11) geregelde verplichtingen van overeenkomstige toepassing ten behoeve van:
 
 - a. de belastingheffing van derden;
 
@@ -960,7 +960,7 @@ Vervallen
 
 3. De administratieplichtigen, bedoeld in het tweede lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, het burgerservicenummer te vermelden van degene op wie de gegevens en inlichtingen betrekking hebben.
 
-4. Het bepaalde in het eerste lid, aanhef en onderdeel **a**, is niet van toepassing op de personen en de lichamen als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=55&z=2026-01-01&g=2026-01-01), voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.
+4. Het bepaalde in het eerste lid, aanhef en onderdeel **a**, is niet van toepassing op de personen en de lichamen als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=55&z=2026-04-11&g=2026-04-11), voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.
 
 5. Ingeval een administratieplichtige een door de inspecteur op het eerste lid, aanhef en onderdeel a, gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De inspecteur beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.
 
@@ -968,11 +968,11 @@ Vervallen
 
 1. Voor een weigering om te voldoen aan de verplichtingen ten behoeve van de belastingheffing van derden kunnen alleen bekleders van een geestelijk ambt, notarissen, advocaten, artsen en apothekers zich beroepen op de omstandigheid, dat zij uit hoofde van hun stand, ambt of beroep tot geheimhouding verplicht zijn, voor zover het betreft hetgeen aan hen in die hoedanigheid is toevertrouwd of door hen in die hoedanigheid is meegedeeld.
 
-2. Met betrekking tot de verplichtingen ten behoeve van de heffing van de belasting waarvan de inhouding aan administratieplichtigen is opgedragen, is [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=51&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
+2. Met betrekking tot de verplichtingen ten behoeve van de heffing van de belasting waarvan de inhouding aan administratieplichtigen is opgedragen, is [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=51&z=2026-04-11&g=2026-04-11) van overeenkomstige toepassing.
 
 ##### Artikel 54
 
-De administratieplichtige die niet of niet volledig voldoet aan de vordering gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen, wordt voor de toepassing van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=25&z=2026-01-01&g=2026-01-01) en [27e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=27e&z=2026-01-01&g=2026-01-01) geacht niet volledig te hebben voldaan aan een bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-01-01&g=2026-01-01) opgelegde verplichting, tenzij aannemelijk is dat de afwezigheid of onvolledigheid van de gegevensdragers of de inhoud daarvan het gevolg is van overmacht.
+De administratieplichtige die niet of niet volledig voldoet aan de vordering gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen, wordt voor de toepassing van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1&artikel=25&z=2026-04-11&g=2026-04-11) en [27e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2&artikel=27e&z=2026-04-11&g=2026-04-11) geacht niet volledig te hebben voldaan aan een bij of krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-04-11&g=2026-04-11) opgelegde verplichting, tenzij aannemelijk is dat de afwezigheid of onvolledigheid van de gegevensdragers of de inhoud daarvan het gevolg is van overmacht.
 
 ##### Artikel 55
 
@@ -1044,7 +1044,7 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door Onze Minister gehel
 
 - b. bij regeling van Onze Minister is bepaald dat bekendmaking noodzakelijk is voor de goede vervulling van een publiekrechtelijke taak van een bestuursorgaan;
 
-- c. indien inzage wordt verleend zoals bedoeld in de [artikelen 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66a&z=2026-01-01&g=2026-01-01) en [66b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66b&z=2026-01-01&g=2026-01-01).
+- c. indien inzage wordt verleend zoals bedoeld in de [artikelen 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66a&z=2026-04-11&g=2026-04-11) en [66b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66b&z=2026-04-11&g=2026-04-11).
 
 3. In andere gevallen dan bedoeld in het tweede lid kan Onze Minister ontheffing verlenen van de geheimhoudingsplicht.
 
@@ -1056,13 +1056,13 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door Onze Minister gehel
 
 ##### Artikel 67a
 
-1. Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, uiterlijk bij de vaststelling van de aanslag, een bestuurlijke boete van ten hoogste € 6.709 kan opleggen.
+1. Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=9&z=2026-04-11&g=2026-04-11), gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, uiterlijk bij de vaststelling van de aanslag, een bestuurlijke boete van ten hoogste € 6.709 kan opleggen.
 
 2. Indien over een jaar zowel een aanslag als een conserverende aanslag wordt vastgesteld, wordt de in het eerste lid bedoelde boete uitsluitend opgelegd uiterlijk bij het vaststellen van de aanslag. Wordt over een jaar uitsluitend een conserverende aanslag vastgesteld, dan wordt die boete opgelegd bij het vaststellen van de conserverende aanslag.
 
 ##### Artikel 67b
 
-1. Indien de belastingplichtige of de inhoudingsplichtige de aangifte voor een belasting welke op aangifte moet worden voldaan of afgedragen niet, dan wel niet binnen de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=10&z=2026-01-01&g=2026-01-01) bedoelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 165 kan opleggen.
+1. Indien de belastingplichtige of de inhoudingsplichtige de aangifte voor een belasting welke op aangifte moet worden voldaan of afgedragen niet, dan wel niet binnen de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=10&z=2026-04-11&g=2026-04-11) bedoelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 165 kan opleggen.
 
 2. Indien de inhoudingsplichtige de aangifte loonbelasting niet, niet binnen de in artikel 10 bedoelde termijn, dan wel onjuist of onvolledig heeft gedaan, vormt dit, in afwijking van het eerste lid, een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1.675 kan opleggen.
 
@@ -1076,7 +1076,7 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door Onze Minister gehel
 
 3. De bevoegdheid tot het opleggen van de boete wegens niet tijdig betalen vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan.
 
-4. [Artikel 20, eerste lid, tweede zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+4. [Artikel 20, eerste lid, tweede zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 #### Paragraaf 2. Vergrijpboeten
 
@@ -1106,7 +1106,7 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door Onze Minister gehel
 
 - b. indien verliezen in aanmerking zijn of worden genomen, het bedrag waarop de navorderingsaanslag zou zijn berekend zonder rekening te houden met die verliezen; een en ander voor zover dat bedrag als gevolg van de opzet of de grove schuld van de belastingplichtige niet zou zijn geheven.
 
-3. De inspecteur kan, in afwijking van het eerste lid, binnen zes maanden na de vaststelling van de navorderingsaanslag, een bestuurlijke boete opleggen indien de feiten of omstandigheden op grond waarvan wordt nagevorderd eerst bekend worden op of na het tijdstip dat is gelegen zes maanden vóór de afloop van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=16&z=2026-01-01&g=2026-01-01) bedoelde termijnen, en er tevens aanwijzingen bestaan dat het aan opzet of grove schuld van de belastingplichtige is te wijten dat de aanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven. Alsdan doet de inspecteur gelijktijdig met de vaststelling van de navorderingsaanslag mededeling aan de belastingplichtige dat wordt onderzocht of in verband met de navordering het opleggen van een vergrijpboete gerechtvaardigd is.
+3. De inspecteur kan, in afwijking van het eerste lid, binnen zes maanden na de vaststelling van de navorderingsaanslag, een bestuurlijke boete opleggen indien de feiten of omstandigheden op grond waarvan wordt nagevorderd eerst bekend worden op of na het tijdstip dat is gelegen zes maanden vóór de afloop van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=16&z=2026-04-11&g=2026-04-11) bedoelde termijnen, en er tevens aanwijzingen bestaan dat het aan opzet of grove schuld van de belastingplichtige is te wijten dat de aanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven. Alsdan doet de inspecteur gelijktijdig met de vaststelling van de navorderingsaanslag mededeling aan de belastingplichtige dat wordt onderzocht of in verband met de navordering het opleggen van een vergrijpboete gerechtvaardigd is.
 
 4. Indien verliezen in aanmerking zijn of worden genomen en als gevolg daarvan geen navorderingsaanslag kan worden vastgesteld, kan de inspecteur de boete, bedoeld in het eerste lid, niettemin opleggen. De bevoegdheid tot het opleggen van de boete vervalt door verloop van de termijn die geldt voor het vaststellen van de navorderingsaanslag, die zou kunnen zijn vastgesteld indien geen verliezen in aanmerking zouden zijn genomen.
 
@@ -1124,9 +1124,9 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door Onze Minister gehel
 
 4. De bevoegdheid tot het opleggen van de boete wegens niet tijdig betalen, vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan.
 
-5. [Artikel 67e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+5. [Artikel 67e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
-6. [Artikel 20, eerste lid, tweede zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+6. [Artikel 20, eerste lid, tweede zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 ### Afdeling 1. Vertegenwoordiging buiten rechte
 
@@ -1180,9 +1180,9 @@ Vervallen
 
 - c. degene die als medeplichtige opzettelijk behulpzaam is bij of opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het plegen van de overtreding.
 
-2. De bestuurlijke boete, bedoeld in de [artikelen 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-01-01&g=2026-01-01), [67b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67b&z=2026-01-01&g=2026-01-01), [67c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-01-01&g=2026-01-01) en [67ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67ca&z=2026-01-01&g=2026-01-01), kan niet worden opgelegd aan een medeplichtige.
+2. De bestuurlijke boete, bedoeld in de [artikelen 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-04-11&g=2026-04-11), [67b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67b&z=2026-04-11&g=2026-04-11), [67c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-04-11&g=2026-04-11) en [67ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67ca&z=2026-04-11&g=2026-04-11), kan niet worden opgelegd aan een medeplichtige.
 
-3. Indien de bestuurlijke boete, bedoeld in de [artikelen 67cc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67cc&z=2026-01-01&g=2026-01-01), [67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-01-01&g=2026-01-01), [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01) en [67f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-01-01&g=2026-01-01), wordt opgelegd aan een medeplichtige, wordt het bedrag van de boete dat ten hoogste kan worden opgelegd met een derde verminderd.
+3. Indien de bestuurlijke boete, bedoeld in de [artikelen 67cc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67cc&z=2026-04-11&g=2026-04-11), [67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-04-11&g=2026-04-11), [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11), [67f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-04-11&g=2026-04-11) en [67fa](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67fa&z=2026-04-11&g=2026-04-11), wordt opgelegd aan een medeplichtige, wordt het bedrag van de boete dat ten hoogste kan worden opgelegd met een derde verminderd.
 
 ##### Artikel 67p
 
@@ -1200,7 +1200,7 @@ Deze afdeling is van overeenkomstige toepassing ten aanzien van anderen dan de b
 
 4. De eerder opgelegde verzuimboete wordt verrekend met de wegens hetzelfde feit opgelegde vergrijpboete.
 
-5. Bij toepassing van dit artikel vervalt de voorwaarde van gelijktijdigheid, bedoeld in de [artikelen 67d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-01-01&g=2026-01-01), [67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01), en [67f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-01-01&g=2026-01-01), voor zover nodig.
+5. Bij toepassing van dit artikel vervalt de voorwaarde van gelijktijdigheid, bedoeld in de [artikelen 67d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-04-11&g=2026-04-11), [67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11), en [67f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-04-11&g=2026-04-11), voor zover nodig.
 
 ### Hoofdstuk VIIIA. Bestuurlijke boeten
 
@@ -1220,27 +1220,27 @@ Deze afdeling is van overeenkomstige toepassing ten aanzien van anderen dan de b
 
 - e. het bewaren van boeken, bescheiden of andere gegevensdragers, en deze niet bewaart;
 
-- f. het verlenen van medewerking als bedoeld in [artikel 52, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-01-01&g=2026-01-01), en deze niet verleent;
+- f. het verlenen van medewerking als bedoeld in [artikel 52, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52&z=2026-04-11&g=2026-04-11), en deze niet verleent;
 
 - g. het uitreiken van een factuur of nota, en een onjuiste of onvolledige factuur of nota verstrekt;
 
 wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-2. Degene die niet voldoet aan de verplichting, hem opgelegd bij [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), wordt gestraft met geldboete van de tweede categorie.
+2. Degene die niet voldoet aan de verplichting, hem opgelegd bij [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), wordt gestraft met geldboete van de tweede categorie.
 
-3. Niet strafbaar is degene die de in [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-01-01&g=2026-01-01) bedoelde verplichting niet nakomt ten gevolge van een voor het niet in Nederland gevestigde lichaam of de niet in Nederland wonende natuurlijke persoon geldend wettelijk of rechterlijk verbod tot het verlenen van medewerking aan de verstrekking van de verlangde gegevens of inlichtingen of het voor raadpleging beschikbaar stellen van boeken, bescheiden, andere gegevensdragers of de inhoud daarvan, dan wel ten gevolge van een hem niet toe te rekenen weigering van het niet in Nederland gevestigde lichaam of de niet in Nederland wonende natuurlijke persoon de verlangde gegevens of inlichtingen te verstrekken of boeken, bescheiden, andere gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen.
+3. Niet strafbaar is degene die de in [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-04-11&g=2026-04-11) bedoelde verplichting niet nakomt ten gevolge van een voor het niet in Nederland gevestigde lichaam of de niet in Nederland wonende natuurlijke persoon geldend wettelijk of rechterlijk verbod tot het verlenen van medewerking aan de verstrekking van de verlangde gegevens of inlichtingen of het voor raadpleging beschikbaar stellen van boeken, bescheiden, andere gegevensdragers of de inhoud daarvan, dan wel ten gevolge van een hem niet toe te rekenen weigering van het niet in Nederland gevestigde lichaam of de niet in Nederland wonende natuurlijke persoon de verlangde gegevens of inlichtingen te verstrekken of boeken, bescheiden, andere gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen.
 
 ##### Artikel 69
 
-1. Degene die opzettelijk een bij de belastingwet voorziene aangifte niet doet, niet binnen de daarvoor gestelde termijn doet, dan wel een der feiten begaat, omschreven in [artikel 68, eerste lid, onderdelen a, b, d, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=68&z=2026-01-01&g=2026-01-01), wordt, indien het feit ertoe strekt dat te weinig belasting wordt geheven, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting.
+1. Degene die opzettelijk een bij de belastingwet voorziene aangifte niet doet, niet binnen de daarvoor gestelde termijn doet, dan wel een der feiten begaat, omschreven in [artikel 68, eerste lid, onderdelen a, b, d, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=68&z=2026-04-11&g=2026-04-11), wordt, indien het feit ertoe strekt dat te weinig belasting wordt geheven, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting.
 
-2. Degene die opzettelijk een bij de belastingwet voorziene aangifte onjuist of onvolledig doet, dan wel het feit begaat, omschreven in [artikel 68, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=68&z=2026-01-01&g=2026-01-01), wordt, indien het feit ertoe strekt dat te weinig belasting wordt geheven, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting, met dien verstande dat voor zover de onjuistheid in of onvolledigheid van de aangifte betrekking heeft op belastbaar inkomen als bedoeld in [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1) de geldboete ten hoogste driemaal het bedrag van de te weinig geheven belasting bedraagt.
+2. Degene die opzettelijk een bij de belastingwet voorziene aangifte onjuist of onvolledig doet, dan wel het feit begaat, omschreven in [artikel 68, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=68&z=2026-04-11&g=2026-04-11), wordt, indien het feit ertoe strekt dat te weinig belasting wordt geheven, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting, met dien verstande dat voor zover de onjuistheid in of onvolledigheid van de aangifte betrekking heeft op belastbaar inkomen als bedoeld in [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1) de geldboete ten hoogste driemaal het bedrag van de te weinig geheven belasting bedraagt.
 
-3. Het recht tot strafvervolging op de voet van dit artikel vervalt, indien de schuldige alsnog een juiste en volledige aangifte doet, dan wel juiste en volledige inlichtingen, gegevens of aanwijzingen verstrekt vóórdat hij weet of redelijkerwijs moet vermoeden dat een of meer van de in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-01-01&g=2026-01-01), bedoelde ambtenaren de onjuistheid of onvolledigheid bekend is of bekend zal worden. In afwijking van de eerste volzin vervalt het recht tot strafvervolging op de voet van dit artikel niet voor zover de schuldige alsnog een juiste en volledige aangifte doet, dan wel juiste en volledige inlichtingen, gegevens of aanwijzingen verstrekt die betrekking heeft, onderscheidenlijk hebben, op inkomen uit aanmerkelijk belang als bedoeld in [artikel 4.12 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12) of op inkomen uit sparen en beleggen als bedoeld in [artikel 5.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1).
+3. Het recht tot strafvervolging op de voet van dit artikel vervalt, indien de schuldige alsnog een juiste en volledige aangifte doet, dan wel juiste en volledige inlichtingen, gegevens of aanwijzingen verstrekt vóórdat hij weet of redelijkerwijs moet vermoeden dat een of meer van de in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-04-11&g=2026-04-11), bedoelde ambtenaren de onjuistheid of onvolledigheid bekend is of bekend zal worden. In afwijking van de eerste volzin vervalt het recht tot strafvervolging op de voet van dit artikel niet voor zover de schuldige alsnog een juiste en volledige aangifte doet, dan wel juiste en volledige inlichtingen, gegevens of aanwijzingen verstrekt die betrekking heeft, onderscheidenlijk hebben, op inkomen uit aanmerkelijk belang als bedoeld in [artikel 4.12 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12) of op inkomen uit sparen en beleggen als bedoeld in [artikel 5.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1).
 
 4. Indien het feit, ter zake waarvan de verdachte kan worden vervolgd, zowel valt onder een van de bepalingen van het eerste of het tweede lid, als onder die van [artikel 225, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), is strafvervolging op grond van genoemd [artikel 225, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), uitgesloten.
 
-5. [Artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=68&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+5. [Artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=68&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 6. Indien de schuldige een van de strafbare feiten, omschreven in het eerste en tweede lid, in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
@@ -1248,7 +1248,7 @@ wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de der
 
 1. Degene die opzettelijk de belasting welke op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet, dan wel niet binnen de in de belastingwet gestelde termijn betaalt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig betaalde belasting.
 
-2. [Artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=69&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. [Artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=69&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 3. Niet strafbaar is degene die de ontvanger tijdig heeft verzocht uitstel van betaling te verlenen of die onverwijld nadat gebleken is dat het lichaam niet tot betaling in staat is schriftelijk mededeling heeft gedaan aan de ontvanger.
 
@@ -1282,7 +1282,7 @@ Vervallen
 
 ##### Artikel 76
 
-1. Ten aanzien van de bij de belastingwet strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig [artikel 80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-01-01&g=2026-01-01), in handen van de officier van justitie is gesteld, kan, in afwijking van de [artikelen 257a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a), [257b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) en [257ba van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba), uitsluitend het bestuur van ’s Rijks belastingen een strafbeschikking uitvaardigen. Bij ministeriële regeling kunnen functionarissen worden aangewezen die deze bevoegdheid namens dat bestuur kunnen uitoefenen.
+1. Ten aanzien van de bij de belastingwet strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig [artikel 80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-04-11&g=2026-04-11), in handen van de officier van justitie is gesteld, kan, in afwijking van de [artikelen 257a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a), [257b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) en [257ba van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba), uitsluitend het bestuur van ’s Rijks belastingen een strafbeschikking uitvaardigen. Bij ministeriële regeling kunnen functionarissen worden aangewezen die deze bevoegdheid namens dat bestuur kunnen uitoefenen.
 
 2. In deze strafbeschikking kan een geldboete worden opgelegd. Voorts kan deze strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. De aanwijzingen kunnen inhouden:
 
@@ -1354,7 +1354,7 @@ onverwijld toekomen aan de bevoegde officier van justitie.
 
 De overige processen-verbaal doet het bestuur, met de inbeslaggenomen voorwerpen, toekomen aan de officier van justitie, indien het een vervolging of verdere vervolging door deze wenselijk acht.
 
-3. De officier van justitie is bevoegd, de zaak ter afdoening weder in handen van het bestuur van ’s Rijks belastingen te stellen, hetwelk daarmede alsdan kan handelen overeenkomstig [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=2&artikel=76&z=2026-01-01&g=2026-01-01).
+3. De officier van justitie is bevoegd, de zaak ter afdoening weder in handen van het bestuur van ’s Rijks belastingen te stellen, hetwelk daarmede alsdan kan handelen overeenkomstig [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=2&artikel=76&z=2026-04-11&g=2026-04-11).
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
@@ -1364,13 +1364,13 @@ De ambtenaren belast met het opsporen van bij de belastingwet strafbaar gestelde
 
 ##### Artikel 82
 
-1. In zaken waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet ingevolge het bepaalde in [artikel 80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-01-01&g=2026-01-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van het bestuur van ’s Rijks belastingen hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
+1. In zaken waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet ingevolge het bepaalde in [artikel 80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-04-11&g=2026-04-11), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van het bestuur van ’s Rijks belastingen hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het vorige lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge artikel 552a, zesde lid, onderscheidenlijk artikel 552ab, vierde lid, van dat wetboek een beschikking neemt, ook het bestuur van ’s Rijks belastingen in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch het bestuur van ’s Rijks belastingen bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge artikel 552a, zesde lid, of artikel 552ab, vierde lid, van dat wetboek een beschikking neemt, deelt deze onverwijld mede aan het bestuur van ’s Rijks belastingen.
 
 ##### Artikel 83
 
-Bij het opsporen van een bij de belastingwet strafbaar gesteld feit hebben de in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-01-01&g=2026-01-01), bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
+Bij het opsporen van een bij de belastingwet strafbaar gesteld feit hebben de in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=3&artikel=80&z=2026-04-11&g=2026-04-11), bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
 ##### Artikel 84
 
@@ -1420,7 +1420,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 90
 
-De krachtens de wet van 14 Juni 1930 (**Stb.** 244), houdende bepalingen tot voorkoming van dubbele belasting, uitgevaardigde voorschriften worden geacht krachtens [Hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VII&z=2026-01-01&g=2026-01-01) te zijn uitgevaardigd.
+De krachtens de wet van 14 Juni 1930 (**Stb.** 244), houdende bepalingen tot voorkoming van dubbele belasting, uitgevaardigde voorschriften worden geacht krachtens [Hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VII&z=2026-04-11&g=2026-04-11) te zijn uitgevaardigd.
 
 ##### Artikel 91
 
@@ -1514,9 +1514,9 @@ Vervallen
 
 ### Afdeling 3. Domiciliekeuze en uitreiking van stukken
 
-### Afdeling 5. Toekenning van bevoegdheden
+### Afdeling 3. Domiciliekeuze en uitreiking van stukken
 
-### Afdeling 6. Geheimhouding
+### Afdeling 5a. Inzage in de belastingplichtige of inhoudingsplichtige betreffende gegevens
 
 ### Hoofdstuk VIIIA. Bestuurlijke boeten
 
@@ -1660,11 +1660,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 21c
 
-1. Bij de bepaling van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-01-01&g=2026-01-01), zijn de regels die gelden bij de heffing van de inkomstenbelasting van overeenkomstige toepassing.
+1. Bij de bepaling van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-04-11&g=2026-04-11), zijn de regels die gelden bij de heffing van de inkomstenbelasting van overeenkomstige toepassing.
 
-2. Bij de bepaling van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-01-01&g=2026-01-01), zijn de regels die gelden bij de heffing van de loonbelasting van overeenkomstige toepassing.
+2. Bij de bepaling van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-04-11&g=2026-04-11), zijn de regels die gelden bij de heffing van de loonbelasting van overeenkomstige toepassing.
 
-3. Bij de bepaling van het inkomensgegeven blijft [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5&artikel=65&z=2026-01-01&g=2026-01-01) buiten toepassing.
+3. Bij de bepaling van het inkomensgegeven blijft [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5&artikel=65&z=2026-04-11&g=2026-04-11) buiten toepassing.
 
 4. Indien in het kader van de heffing van de inkomstenbelasting of de loonbelasting aan betrokkene een aanslagbiljet, een afschrift van de uitspraak op bezwaar of een afschrift van de beschikking ambtshalve vermindering wordt verstrekt, wordt het bijbehorende inkomensgegeven afzonderlijk vermeld.
 
@@ -1732,11 +1732,11 @@ Voor de onderdelen a en d geldt een bij ministeriële regeling te bepalen termij
 
 ##### Artikel 21i
 
-Voor zover [artikel 21g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21g&z=2026-01-01&g=2026-01-01), van toepassing is, hoeft een betrokkene aan wie door een afnemer een inkomensgegeven wordt gevraagd dat gegeven niet te verstrekken.
+Voor zover [artikel 21g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21g&z=2026-04-11&g=2026-04-11), van toepassing is, hoeft een betrokkene aan wie door een afnemer een inkomensgegeven wordt gevraagd dat gegeven niet te verstrekken.
 
 ##### Artikel 21j
 
-1. Met een voor bezwaar vatbare beschikking van de inspecteur wordt gelijkgesteld het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-01-01&g=2026-01-01), zoals dat met het oorspronkelijke besluit van de afnemer is bekendgemaakt op grond van [artikel 21f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21f&z=2026-01-01&g=2026-01-01).
+1. Met een voor bezwaar vatbare beschikking van de inspecteur wordt gelijkgesteld het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-04-11&g=2026-04-11), zoals dat met het oorspronkelijke besluit van de afnemer is bekendgemaakt op grond van [artikel 21f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21f&z=2026-04-11&g=2026-04-11).
 
 2. Een bezwaarschrift tegen of verzoekschrift om wijziging van het besluit van de afnemer wordt, voor zover het gericht is tegen het inkomensgegeven, mede aangemerkt als een bezwaarschrift tegen of verzoekschrift om ambtshalve vermindering van het inkomensgegeven.
 
@@ -1748,7 +1748,7 @@ Voor zover [artikel 21g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 2. Indien betrokkene een verzoek om ambtshalve vermindering heeft gedaan en dat verzoek geheel of gedeeltelijk wordt afgewezen, beslist de inspecteur dat bij een voor bezwaar vatbare beschikking.
 
-3. Het met de belastingaanslag inkomstenbelasting samenhangende inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-01-01&g=2026-01-01), wordt voor de toepassing van dit artikel geacht onderdeel uit te maken van die belastingaanslag.
+3. Het met de belastingaanslag inkomstenbelasting samenhangende inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21&z=2026-04-11&g=2026-04-11), wordt voor de toepassing van dit artikel geacht onderdeel uit te maken van die belastingaanslag.
 
 ### Hoofdstuk V. Bezwaar en beroep
 
@@ -1792,17 +1792,17 @@ Vervallen
 
 ### Hoofdstuk IX. Strafrechtelijke bepalingen
 
-### Afdeling 6. Geheimhouding
+### Afdeling 4. Overschrijding van termijnen
 
 ### Afdeling 6. Geheimhouding
 
 ### Afdeling 1. Overtredingen
 
-### Afdeling 1. Overtredingen
+### Afdeling 6. Geheimhouding
 
 ### Afdeling 2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
 
-### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
+### Afdeling 2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
@@ -1814,7 +1814,9 @@ Bij ministeriële regeling wordt aangewezen degene die is gehouden bij het verri
 
 ##### Artikel 67fa
 
-Vervallen
+1. Indien het aan opzet of grove schuld van de rapporterende platformexploitant of de rapporterende aanbieder van cryptoactivadiensten, bedoeld in [artikel 53bis](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53bis&z=2026-04-11&g=2026-04-11), onderscheidenlijk [artikel 53ter](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53ter&z=2026-04-11&g=2026-04-11), is te wijten dat de verplichtingen die volgen uit artikel 53bis onderscheidenlijk artikel 53ter, niet, niet tijdig, onjuist of onvolledig zijn of worden nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur aan hem een bestuurlijke boete kan opleggen van ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+
+2. De bevoegdheid tot het opleggen van de boete, bedoeld in het eerste lid, vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de verplichting, bedoeld in het eerste lid, is ontstaan.
 
 ### Hoofdstuk IX. Strafrechtelijke bepalingen
 
@@ -1844,9 +1846,9 @@ In afwijking van[artikel 10:3, vierde lid, van de Algemene wet bestuursrecht](ht
 
 ### Hoofdstuk VIIIA. Bestuurlijke boeten
 
-### Afdeling 6. Geheimhouding
+### Afdeling 5. Toekenning van bevoegdheden
 
-### Afdeling 2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
+### Afdeling 1. Overtredingen
 
 ### Afdeling 2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
 
@@ -1858,7 +1860,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 21ja
 
-Voor de toepassing van de [artikelen 21d en 21j](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21d&z=2026-01-01&g=2026-01-01) wordt onder ambtshalve vermindering mede verstaan een herziening als bedoeld in [artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5).
+Voor de toepassing van de [artikelen 21d en 21j](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVA&artikel=21d&z=2026-04-11&g=2026-04-11) wordt onder ambtshalve vermindering mede verstaan een herziening als bedoeld in [artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5).
 
 ### Hoofdstuk V. Bezwaar en beroep
 
@@ -1892,7 +1894,7 @@ Voor de toepassing van de [artikelen 21d en 21j](https://wetten.overheid.nl/jci1
 
 1. Degene die niet voldoet aan de verplichting hem opgelegd bij of krachtens:
 
-- a. de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=6&z=2026-01-01&g=2026-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=1&artikel=43&z=2026-01-01&g=2026-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=1&artikel=44&z=2026-01-01&g=2026-01-01), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47b&z=2026-01-01&g=2026-01-01), [49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-01-01&g=2026-01-01), en [50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=50&z=2026-01-01&g=2026-01-01);
+- a. de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=6&z=2026-04-11&g=2026-04-11), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=1&artikel=43&z=2026-04-11&g=2026-04-11), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=1&artikel=44&z=2026-04-11&g=2026-04-11), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47b&z=2026-04-11&g=2026-04-11), [49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-04-11&g=2026-04-11), en [50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=50&z=2026-04-11&g=2026-04-11);
 
 - b. de [artikelen 28, eerste lid, aanhef en onderdelen a, b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=29), [35d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35d), [35e, aanhef en onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35e), [35k](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35k), [35l](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35l) en [35m, aanhef en onderdelen a en c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35m);
 
@@ -1906,7 +1908,7 @@ Voor de toepassing van de [artikelen 21d en 21j](https://wetten.overheid.nl/jci1
 
 ##### Artikel 67cb
 
-1. De in de [artikelen 67a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-01-01&g=2026-01-01), [67b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67b&z=2026-01-01&g=2026-01-01), [67c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-01-01&g=2026-01-01), en [67ca, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67ca&z=2026-01-01&g=2026-01-01), genoemde bedragen worden elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.
+1. De in de [artikelen 67a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-04-11&g=2026-04-11), [67b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67b&z=2026-04-11&g=2026-04-11), [67c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-04-11&g=2026-04-11), en [67ca, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67ca&z=2026-04-11&g=2026-04-11), genoemde bedragen worden elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.
 
 2. De gewijzigde bedragen vinden voor het eerst toepassing met betrekking tot verzuimen die zijn begaan na het begin van het kalenderjaar bij de aanvang waarvan de bedragen zijn gewijzigd.
 
@@ -1934,9 +1936,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - d. als zodanig is aangemerkt door:
 
-- 1°. de inspecteur ingeval de instelling is gevestigd in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat; of
+  - 1°. de inspecteur ingeval de instelling is gevestigd in het Koninkrijk, in een andere lidstaat van de Europese Unie of in een bij ministeriële regeling aangewezen staat; of
 
-- 2°. Onze Minister ingeval de instelling niet is gevestigd in het Koninkrijk, een andere lidstaat van de Europese Unie en een bij ministeriële regeling aangewezen staat waarbij aanvullende voorwaarden kunnen worden gesteld.
+  - 2°. Onze Minister ingeval de instelling niet is gevestigd in het Koninkrijk, een andere lidstaat van de Europese Unie en een bij ministeriële regeling aangewezen staat waarbij aanvullende voorwaarden kunnen worden gesteld.
 
 2. Algemeen nut beogende instellingen zijn in ieder geval:
 
@@ -2054,17 +2056,17 @@ Een sociaal belang behartigende instelling is een instelling:
 
 1. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een hoger positief bedrag, wordt met betrekking tot het verschil belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9). Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin, uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na ontvangst van de aangifte.
 
-2. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een lager positief bedrag, wordt, zo eerder ter zake van dat positieve bedrag belastingrente in rekening is gebracht, die eerder in rekening gebrachte belastingrente voor zover toerekenbaar aan het verschil, verminderd. Ter zake van het verschil in positieve bedragen wordt belastingrente vergoed ingeval wordt voldaan aan de voorwaarden van [artikel 30fa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fa&z=2026-01-01&g=2026-01-01), welke wordt berekend volgens het tweede lid van dat artikel.
+2. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een lager positief bedrag, wordt, zo eerder ter zake van dat positieve bedrag belastingrente in rekening is gebracht, die eerder in rekening gebrachte belastingrente voor zover toerekenbaar aan het verschil, verminderd. Ter zake van het verschil in positieve bedragen wordt belastingrente vergoed ingeval wordt voldaan aan de voorwaarden van [artikel 30fa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fa&z=2026-04-11&g=2026-04-11), welke wordt berekend volgens het tweede lid van dat artikel.
 
-3. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een negatief bedrag, wordt, zo eerder ter zake van dat positieve bedrag belastingrente in rekening is gebracht, die eerder in rekening gebrachte belastingrente verminderd. Ter zake van het verschil tussen het positieve bedrag en het negatieve bedrag wordt belastingrente vergoed ingeval wordt voldaan aan de voorwaarden van [artikel 30fa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fa&z=2026-01-01&g=2026-01-01), welke wordt berekend volgens het tweede lid van dat artikel.
+3. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een positief bedrag tot een voorlopige aanslag met een negatief bedrag, wordt, zo eerder ter zake van dat positieve bedrag belastingrente in rekening is gebracht, die eerder in rekening gebrachte belastingrente verminderd. Ter zake van het verschil tussen het positieve bedrag en het negatieve bedrag wordt belastingrente vergoed ingeval wordt voldaan aan de voorwaarden van [artikel 30fa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fa&z=2026-04-11&g=2026-04-11), welke wordt berekend volgens het tweede lid van dat artikel.
 
 4. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met positief bedrag, wordt met betrekking tot het verschil tussen die bedragen belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9). Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van deze aangifte.
 
 5. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met een kleiner negatief bedrag wordt met betrekking tot het verschil tussen die bedragen belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9). Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin, uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van de aangifte.
 
-6. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met een groter negatief bedrag wordt, ingeval wordt voldaan aan de voorwaarden van [artikel 30fa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fa&z=2026-01-01&g=2026-01-01), belastingrente vergoed, berekend over het tijdvak, bedoeld in het tweede lid van dat artikel, en met als grondslag het verschil tussen de twee negatieve bedragen.
+6. Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met een groter negatief bedrag wordt, ingeval wordt voldaan aan de voorwaarden van [artikel 30fa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fa&z=2026-04-11&g=2026-04-11), belastingrente vergoed, berekend over het tijdvak, bedoeld in het tweede lid van dat artikel, en met als grondslag het verschil tussen de twee negatieve bedragen.
 
-7. Bij een herziening van een voorlopige aanslag als bedoeld in het eerste, vierde en vijfde lid, is [artikel 30f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30f&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
+7. Bij een herziening van een voorlopige aanslag als bedoeld in het eerste, vierde en vijfde lid, is [artikel 30f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30f&z=2026-04-11&g=2026-04-11), van overeenkomstige toepassing.
 
 8. Indien naar aanleiding van een bezwaarschrift of een daaropvolgende gerechtelijke procedure een voorlopige aanslag wordt herzien overeenkomstig het tweede, derde of zesde lid, wordt geen rente vergoed. In het geval ter zake van de herziene voorlopige aanslag eerder belastingrente in rekening is gebracht, wordt deze rente verminderd overeenkomstig het tweede lid, onderscheidenlijk derde lid.
 
@@ -2084,7 +2086,7 @@ Een sociaal belang behartigende instelling is een instelling:
 
 7. Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting: het bedrag na de verrekening ingevolge:
 
-- a. [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-01-01&g=2026-01-01);
+- a. [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=III&artikel=15&z=2026-04-11&g=2026-04-11);
 
 - b. de [artikelen 3 152, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), en [4.51, zesde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51);
 
@@ -2098,27 +2100,27 @@ Een sociaal belang behartigende instelling is een instelling:
 
 - b. tussen de datum van ontvangst van die aangifte en de datum van vaststelling van de aanslag zijn meer dan 13 weken verstreken.
 
-2. [Artikel 30fc, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. [Artikel 30fc, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fc&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 3. Ingeval met de aanslag geen voorlopige aanslag is verrekend, wordt de belastingrente enkelvoudig berekend over het tijdvak dat aanvangt 13 weken na ontvangst van de aangifte doch niet eerder dan 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven, en eindigt 6 weken na de dagtekening van het aanslagbiljet en heeft als grondslag het te betalen bedrag aan belasting.
 
-4. Ingeval met de aanslag wel een voorlopige aanslag is verrekend, vindt de renteberekening plaats overeenkomstig de renteberekening bij een herziening van een voorlopige aanslag inkomstenbelasting, onderscheidenlijk vennootschapsbelasting, bedoeld in [artikel 30fb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fb&z=2026-01-01&g=2026-01-01).
+4. Ingeval met de aanslag wel een voorlopige aanslag is verrekend, vindt de renteberekening plaats overeenkomstig de renteberekening bij een herziening van een voorlopige aanslag inkomstenbelasting, onderscheidenlijk vennootschapsbelasting, bedoeld in [artikel 30fb](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fb&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 30fe
 
-1. Indien met betrekking tot de inkomstenbelasting of de vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven naar aanleiding van een bezwaarschrift of een daaropvolgende gerechtelijke procedure een aanslag of een navorderingsaanslag wordt verminderd of wordt vernietigd, dan wel een aanslag of navorderingsaanslag ambtshalve wordt verminderd, wordt geen rente vergoed. In het geval ter zake van de verminderde of vernietigde aanslag of navorderingsaanslag eerder belastingrente in rekening is gebracht, wordt deze rente verminderd overeenkomstig de herziening van een voorlopige aanslag, bedoeld in [artikel 30fb, tweede en derde lid.](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fb&z=2026-01-01&g=2026-01-01)
+1. Indien met betrekking tot de inkomstenbelasting of de vennootschapsbelasting na het verstrijken van een periode van 6 maanden te rekenen vanaf het einde van het tijdvak waarover de belasting wordt geheven naar aanleiding van een bezwaarschrift of een daaropvolgende gerechtelijke procedure een aanslag of een navorderingsaanslag wordt verminderd of wordt vernietigd, dan wel een aanslag of navorderingsaanslag ambtshalve wordt verminderd, wordt geen rente vergoed. In het geval ter zake van de verminderde of vernietigde aanslag of navorderingsaanslag eerder belastingrente in rekening is gebracht, wordt deze rente verminderd overeenkomstig de herziening van een voorlopige aanslag, bedoeld in [artikel 30fb, tweede en derde lid.](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30fb&z=2026-04-11&g=2026-04-11)
 
 2. Dit artikel vindt geen toepassing bij een vermindering van een aanslag of navorderingsaanslag die voortvloeit uit een verrekening van een verlies van een volgend jaar.
 
 ##### Artikel 30ha
 
-1. Met betrekking tot de in [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30h&z=2026-01-01&g=2026-01-01) bedoelde belastingen wordt rente – belastingrente – vergoed ingeval een teruggaafbeschikking niet wordt vastgesteld binnen 8 weken na de ontvangst van het verzoek om die beschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na ontvangst van het verzoek, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.
+1. Met betrekking tot de in [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30h&z=2026-04-11&g=2026-04-11) bedoelde belastingen wordt rente – belastingrente – vergoed ingeval een teruggaafbeschikking niet wordt vastgesteld binnen 8 weken na de ontvangst van het verzoek om die beschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na ontvangst van het verzoek, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.
 
-2. Uitgezonderd bij een vermindering van een naheffingsaanslag, wordt met betrekking tot de in [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30h&z=2026-01-01&g=2026-01-01) bedoelde belastingen ook belastingrente vergoed indien recht ontstaat op een terug te geven bedrag dat verband houdt met een door de inspecteur ingenomen standpunt ter zake van de bij wege van voldoening of afdracht op aangifte verschuldigde of terug te geven belasting. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na die van de voldoening of afdracht van die belasting, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking en heeft als grondslag het terug te geven bedrag.
+2. Uitgezonderd bij een vermindering van een naheffingsaanslag, wordt met betrekking tot de in [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30h&z=2026-04-11&g=2026-04-11) bedoelde belastingen ook belastingrente vergoed indien recht ontstaat op een terug te geven bedrag dat verband houdt met een door de inspecteur ingenomen standpunt ter zake van de bij wege van voldoening of afdracht op aangifte verschuldigde of terug te geven belasting. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na die van de voldoening of afdracht van die belasting, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking en heeft als grondslag het terug te geven bedrag.
 
-3. Met betrekking tot de in [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30h&z=2026-01-01&g=2026-01-01) bedoelde belastingen wordt ook belastingrente vergoed indien een afwijzende beschikking op een verzoek om een teruggaaf wordt vervangen door een teruggaafbeschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na de ontvangst van het verzoek om de teruggaaf, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.
+3. Met betrekking tot de in [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&artikel=30h&z=2026-04-11&g=2026-04-11) bedoelde belastingen wordt ook belastingrente vergoed indien een afwijzende beschikking op een verzoek om een teruggaaf wordt vervangen door een teruggaafbeschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na de ontvangst van het verzoek om de teruggaaf, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.
 
-4. In afwijking van het eerste lid wordt de termijn van 8 weken bij de vaststelling van een teruggaafbeschikking ter zake van dividendbelasting of bronbelasting als bedoeld in de [Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952) opgeschort met ingang van de dag na die waarop de inspecteur op grond van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01) en [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-01-01&g=2026-01-01) of [artikel 6.2 van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=6.2) verzoekt gegevens en inlichtingen te verstrekken of boeken, bescheiden en andere gegevensdragers of de inhoud daarvan voor raadpleging ter beschikking te stellen, tot de dag waarop aan dit verzoek is voldaan.
+4. In afwijking van het eerste lid wordt de termijn van 8 weken bij de vaststelling van een teruggaafbeschikking ter zake van dividendbelasting of bronbelasting als bedoeld in de [Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952) opgeschort met ingang van de dag na die waarop de inspecteur op grond van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11) en [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47a&z=2026-04-11&g=2026-04-11) of [artikel 6.2 van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=6.2) verzoekt gegevens en inlichtingen te verstrekken of boeken, bescheiden en andere gegevensdragers of de inhoud daarvan voor raadpleging ter beschikking te stellen, tot de dag waarop aan dit verzoek is voldaan.
 
 5. Geen belastingrente wordt vergoed aan een ondernemer als bedoeld in [artikel 32, onderdeel a, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32) ter zake van een teruggaaf van in Nederland in rekening gebrachte omzetbelasting als bedoeld in [artikel 32b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=32b).
 
@@ -2152,7 +2154,7 @@ Het percentage van de belastingrente bedraagt een bij algemene maatregel van bes
 
 ### Afdeling 3. Algemene bepalingen van strafvordering
 
-### Afdeling 1A. Strafbare feiten in algemene maatregelen van bestuur en ministeriële regelingen
+### Afdeling 1. Strafbare feiten
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
@@ -2176,11 +2178,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### Paragraaf 2. Vergrijpboeten
 
-### Hoofdstuk IX. Strafrechtelijke bepalingen
+### Hoofdstuk VIIIA. Bestuurlijke boeten
 
-### Afdeling 2A. Aanvullende algemene bepalingen van strafrecht (douane)
+### Afdeling 2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
 
-### Afdeling 2. Algemene bepalingen van strafrecht
+### Afdeling 3. Openbaarmaking van de boetebeschikking
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
@@ -2240,19 +2242,21 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Indien aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete wordt opgelegd, zijn niet van toepassing:
 
-- a. de voorwaarde, bedoeld in de [artikelen 67c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-01-01&g=2026-01-01), [67d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-01-01&g=2026-01-01), [67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01), en [67f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-01-01&g=2026-01-01), dat de bestuurlijke boete wordt opgelegd gelijktijdig met de vaststelling van de belastingaanslag;
+- a. de voorwaarde, bedoeld in de [artikelen 67c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-04-11&g=2026-04-11), [67d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-04-11&g=2026-04-11), [67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11), en [67f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-04-11&g=2026-04-11), dat de bestuurlijke boete wordt opgelegd gelijktijdig met de vaststelling van de belastingaanslag;
 
-- b. de voorwaarde, bedoeld in [artikel 67a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-01-01&g=2026-01-01), dat een verzuimboete uiterlijk bij het vaststellen van de aanslag wordt opgelegd.
+- b. de voorwaarde, bedoeld in [artikel 67a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-04-11&g=2026-04-11), dat een verzuimboete uiterlijk bij het vaststellen van de aanslag wordt opgelegd.
 
 ##### Artikel 67ob
 
-1. De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de [artikelen 67a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-01-01&g=2026-01-01), en [67d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-01-01&g=2026-01-01), op te leggen vervalt door verloop van drie jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.
+1. De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de [artikelen 67a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67a&z=2026-04-11&g=2026-04-11), en [67d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-04-11&g=2026-04-11), op te leggen vervalt door verloop van drie jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.
 
-2. De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de [artikelen 67c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-01-01&g=2026-01-01), [67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01), en [67f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-01-01&g=2026-01-01), op te leggen vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.
+2. De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de [artikelen 67c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-04-11&g=2026-04-11), [67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11), en [67f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-04-11&g=2026-04-11), op te leggen vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.
 
-3. In afwijking van het tweede lid vervalt de bevoegdheid om aan een ander dan de belastingplichtige een bestuurlijke boete als bedoeld in [artikel 67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01), op te leggen door verloop van twaalf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden, indien navordering mogelijk is met toepassing van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), of [artikel 66, vierde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=66).
+3. De bevoegdheid om aan anderen dan de rapporterende platformexploitant of de rapporterende aanbieder van cryptoactivadiensten een bestuurlijke boete als bedoeld in [artikel 67fa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67fa&z=2026-04-11&g=2026-04-11), op te leggen, vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de verplichting, bedoeld in artikel 67fa, eerste lid, is ontstaan.
 
-4. In afwijking van het tweede lid vervalt de bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de [artikelen 67c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-01-01&g=2026-01-01), en [67f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-01-01&g=2026-01-01), op te leggen door verloop van twaalf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden, indien naheffing mogelijk is met toepassing van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01).
+4. In afwijking van het tweede lid vervalt de bevoegdheid om aan een ander dan de belastingplichtige een bestuurlijke boete als bedoeld in [artikel 67e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11), op te leggen door verloop van twaalf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden, indien navordering mogelijk is met toepassing van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), of [artikel 66, vierde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=66).
+
+5. In afwijking van het tweede lid vervalt de bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de [artikelen 67c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=1&artikel=67c&z=2026-04-11&g=2026-04-11), en [67f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-04-11&g=2026-04-11), op te leggen door verloop van twaalf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden, indien naheffing mogelijk is met toepassing van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV&artikel=20&z=2026-04-11&g=2026-04-11).
 
 ### Hoofdstuk IX. Strafrechtelijke bepalingen
 
@@ -2314,19 +2318,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Indien naar het oordeel van Onze Minister voor de beslissing op een groot aantal bezwaarschriften de beantwoording van eenzelfde rechtsvraag van belang is, kan hij een aanwijzing massaal bezwaar geven. De aanwijzing massaal bezwaar bevat de te beantwoorden rechtsvraag, al dan niet met accessoire kwesties. Onze Minister zendt een afschrift van de aanwijzing massaal bezwaar aan de Tweede Kamer der Staten-Generaal.
 
-3. De aanwijzing massaal bezwaar geldt voor bezwaren voor zover deze de rechtsvraag, bedoeld in het tweede lid, betreffen, mits het bezwaarschrift is ingediend tot en met de dag voorafgaande aan de dag waarop de collectieve uitspraak, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25d&z=2026-01-01&g=2026-01-01), wordt gedaan, de indiening tijdig is en nog geen uitspraak op het bezwaarschrift is gedaan.
+3. De aanwijzing massaal bezwaar geldt voor bezwaren voor zover deze de rechtsvraag, bedoeld in het tweede lid, betreffen, mits het bezwaarschrift is ingediend tot en met de dag voorafgaande aan de dag waarop de collectieve uitspraak, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25d&z=2026-04-11&g=2026-04-11), wordt gedaan, de indiening tijdig is en nog geen uitspraak op het bezwaarschrift is gedaan.
 
-4. De termijn om te beslissen op bezwaren waarvoor de aanwijzing massaal bezwaar geldt, wordt opgeschort tot en met de dag voorafgaande aan de dag waarop de collectieve uitspraak, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25d&z=2026-01-01&g=2026-01-01), wordt gedaan. [Afdeling 7.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=7.2) is niet van toepassing op bezwaren waarvoor de aanwijzing massaal bezwaar geldt.
+4. De termijn om te beslissen op bezwaren waarvoor de aanwijzing massaal bezwaar geldt, wordt opgeschort tot en met de dag voorafgaande aan de dag waarop de collectieve uitspraak, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25d&z=2026-04-11&g=2026-04-11), wordt gedaan. [Afdeling 7.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=7.2) is niet van toepassing op bezwaren waarvoor de aanwijzing massaal bezwaar geldt.
 
 ##### Artikel 25d
 
-1. Met het oog op beantwoording van de rechtsvraag, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-01-01&g=2026-01-01), door de bestuursrechter in belastingzaken selecteert de inspecteur een of meer zaken.
+1. Met het oog op beantwoording van de rechtsvraag, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-04-11&g=2026-04-11), door de bestuursrechter in belastingzaken selecteert de inspecteur een of meer zaken.
 
 2. De inspecteur kan met de belanghebbenden in de zaken, bedoeld in het eerste lid, een vergoeding overeenkomen voor griffierecht en proceskosten in verband met de beantwoording van de rechtsvraag door de bestuursrechter in belastingzaken, alsmede voorwaarden waaronder deze vergoeding wordt betaald. In dat geval zijn de [artikelen 8:74 tot en met 8:75a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) en [titel 8.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.4) niet van toepassing.
 
 ##### Artikel 25e
 
-1. Binnen zes weken nadat de rechtsvraag, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-01-01&g=2026-01-01), al dan niet met accessoire kwesties, onherroepelijk is beantwoord, beslist de inspecteur door middel van één collectieve uitspraak op bezwaren waarvoor de aanwijzing massaal bezwaar geldt.
+1. Binnen zes weken nadat de rechtsvraag, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-04-11&g=2026-04-11), al dan niet met accessoire kwesties, onherroepelijk is beantwoord, beslist de inspecteur door middel van één collectieve uitspraak op bezwaren waarvoor de aanwijzing massaal bezwaar geldt.
 
 2. In afwijking in zoverre van het eerste lid kan de inspecteur, indien de bestuursrechter in belastingzaken de rechtsvraag heeft voorgelegd aan de Hoge Raad ter beantwoording bij wijze van prejudiciële beslissing, collectief uitspraak doen binnen zes weken nadat die bestuursrechter heeft beslist.
 
@@ -2338,9 +2342,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. De inspecteur beslist bij individuele uitspraak:
 
-- a. op andere bezwaren dan bezwaren waarvoor de aanwijzing massaal bezwaar, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-01-01&g=2026-01-01), geldt;
+- a. op andere bezwaren dan bezwaren waarvoor de aanwijzing massaal bezwaar, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-04-11&g=2026-04-11), geldt;
 
-- b. op bezwaren die de rechtsvraag, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-01-01&g=2026-01-01), betreffen en niet tijdig zijn ingediend.
+- b. op bezwaren die de rechtsvraag, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=1a&artikel=25c&z=2026-04-11&g=2026-04-11), betreffen en niet tijdig zijn ingediend.
 
 2. Op de individuele uitspraak, bedoeld in het eerste lid, is het bij of krachtens deze wet en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) bepaalde onverkort van toepassing.
 
@@ -2374,19 +2378,19 @@ In een procedure ter beantwoording van een rechtsvraag bij wijze van prejudicië
 
 3. Schriftelijke opmerkingen worden ter griffie van de Hoge Raad ingediend.
 
-4. Indien het belang van de zaak dit geraden doet voorkomen, kan de Hoge Raad, hetzij ambtshalve, hetzij op een daartoe strekkend verzoek, een termijn bepalen voor mondelinge of schriftelijke toelichting door partijen. De Hoge Raad kan, indien hij een mondelinge toelichting heeft bevolen, degenen die ingevolge het tweede lid schriftelijke opmerkingen hebben gemaakt, uitnodigen ter zitting aanwezig te zijn teneinde over hun opmerkingen te worden gehoord. [Artikel 29c, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=29c&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+4. Indien het belang van de zaak dit geraden doet voorkomen, kan de Hoge Raad, hetzij ambtshalve, hetzij op een daartoe strekkend verzoek, een termijn bepalen voor mondelinge of schriftelijke toelichting door partijen. De Hoge Raad kan, indien hij een mondelinge toelichting heeft bevolen, degenen die ingevolge het tweede lid schriftelijke opmerkingen hebben gemaakt, uitnodigen ter zitting aanwezig te zijn teneinde over hun opmerkingen te worden gehoord. [Artikel 29c, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=29c&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 5. Een schriftelijke toelichting wordt door de partij getekend en ter griffie van de Hoge Raad ingediend.
 
 6. Nadat de toelichtingen zijn gehouden of ontvangen of, indien deze niet zijn verzocht, na het verstrijken van de termijn voor het maken van schriftelijke opmerkingen, stelt de griffier, indien de procureur-generaal bij de Hoge Raad de wens te kennen heeft gegeven om te worden gehoord, alle stukken in diens handen. De procureur-generaal brengt zijn schriftelijke conclusie ter kennis van de Hoge Raad. Partijen kunnen binnen twee weken na verzending van het afschrift van de conclusie hun schriftelijk commentaar daarop doen toekomen aan de Hoge Raad.
 
-7. De uitspraak van de Hoge Raad wordt schriftelijk gedaan. De Hoge Raad kan de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-01-01&g=2026-01-01), herformuleren. Tenzij de herformulering van ondergeschikte betekenis is, stelt de Hoge Raad partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijke opmerkingen te maken.
+7. De uitspraak van de Hoge Raad wordt schriftelijk gedaan. De Hoge Raad kan de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-04-11&g=2026-04-11), herformuleren. Tenzij de herformulering van ondergeschikte betekenis is, stelt de Hoge Raad partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijke opmerkingen te maken.
 
-8. De Hoge Raad ziet af van beantwoording van de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-01-01&g=2026-01-01), indien hij, gehoord de procureur-generaal, oordeelt dat de vraag zich niet voor beantwoording bij wijze van prejudiciële beslissing leent of dat de vraag van onvoldoende gewicht is om beantwoording te rechtvaardigen. De Hoge Raad kan zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.
+8. De Hoge Raad ziet af van beantwoording van de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-04-11&g=2026-04-11), indien hij, gehoord de procureur-generaal, oordeelt dat de vraag zich niet voor beantwoording bij wijze van prejudiciële beslissing leent of dat de vraag van onvoldoende gewicht is om beantwoording te rechtvaardigen. De Hoge Raad kan zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.
 
-9. Indien het antwoord op de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-01-01&g=2026-01-01), nadat deze is gesteld, niet meer nodig is om in de procedure, bedoeld in artikel 27ga, te beslissen, kan de Hoge Raad, indien hem dat geraden voorkomt, de vraag desondanks beantwoorden.
+9. Indien het antwoord op de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-04-11&g=2026-04-11), nadat deze is gesteld, niet meer nodig is om in de procedure, bedoeld in artikel 27ga, te beslissen, kan de Hoge Raad, indien hem dat geraden voorkomt, de vraag desondanks beantwoorden.
 
-10. De griffier zendt onverwijld een afschrift van de beslissing aan de rechtbank die de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-01-01&g=2026-01-01), heeft voorgelegd en aan partijen. De griffier zendt daarbij aan de rechtbank die de vraag heeft voorgelegd tevens een afschrift van:
+10. De griffier zendt onverwijld een afschrift van de beslissing aan de rechtbank die de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-04-11&g=2026-04-11), heeft voorgelegd en aan partijen. De griffier zendt daarbij aan de rechtbank die de vraag heeft voorgelegd tevens een afschrift van:
 
 - a. de schriftelijke opmerkingen, bedoeld in het derde lid;
 
@@ -2396,15 +2400,15 @@ In een procedure ter beantwoording van een rechtsvraag bij wijze van prejudicië
 
 - d. het schriftelijke commentaar, bedoeld in het zesde lid.
 
-[Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=30&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
+[Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=4&artikel=30&z=2026-04-11&g=2026-04-11) is van overeenkomstige toepassing.
 
 ##### Artikel 27gd
 
-Bij de beantwoording van de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-01-01&g=2026-01-01), zijn de [artikelen 8:14 tot en met 8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:14), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31 tot en met 8:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:41a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41a), [8:44](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:44), [8:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:45), [8:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:60), [8:71](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:71) en [8:77 tot en met 8:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:77) van overeenkomstige toepassing, voor zover in deze afdeling niet anders is bepaald.
+Bij de beantwoording van de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-04-11&g=2026-04-11), zijn de [artikelen 8:14 tot en met 8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:14), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31 tot en met 8:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:41a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41a), [8:44](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:44), [8:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:45), [8:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:60), [8:71](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:71) en [8:77 tot en met 8:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:77) van overeenkomstige toepassing, voor zover in deze afdeling niet anders is bepaald.
 
 ##### Artikel 27ge
 
-Behoudens indien het antwoord op de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-01-01&g=2026-01-01), niet meer nodig is om op het beroep te beslissen, beslist de rechtbank, nadat zij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
+Behoudens indien het antwoord op de vraag, bedoeld in [artikel 27ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&afdeling=2a&artikel=27ga&z=2026-04-11&g=2026-04-11), niet meer nodig is om op het beroep te beslissen, beslist de rechtbank, nadat zij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
 
 ### Afdeling 4. Beroep in cassatie bij de Hoge Raad
 
@@ -2476,7 +2480,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 20b
 
-In afwijking van [hoofdstuk VA](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&z=2026-01-01&g=2026-01-01) wordt de rente ter zake van op grond van een terugvorderingsbesluit als bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVbis&artikel=20a&z=2026-01-01&g=2026-01-01), terug te vorderen staatssteun berekend overeenkomstig het bepaalde bij of krachtens de artikelen 16, tweede lid, en 33, onderdeel e, van Verordening (EU) 2015/1589 van de Raad van 13 juli 2015 tot vaststelling van nadere bepalingen voor de toepassing van artikel 108 van het Verdrag betreffende de werking van de Europese Unie (PbEU 2015, L 248).
+In afwijking van [hoofdstuk VA](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA&z=2026-04-11&g=2026-04-11) wordt de rente ter zake van op grond van een terugvorderingsbesluit als bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IVbis&artikel=20a&z=2026-04-11&g=2026-04-11), terug te vorderen staatssteun berekend overeenkomstig het bepaalde bij of krachtens de artikelen 16, tweede lid, en 33, onderdeel e, van Verordening (EU) 2015/1589 van de Raad van 13 juli 2015 tot vaststelling van nadere bepalingen voor de toepassing van artikel 108 van het Verdrag betreffende de werking van de Europese Unie (PbEU 2015, L 248).
 
 ### Hoofdstuk IVA. Basisregistratie inkomen
 
@@ -2498,11 +2502,11 @@ In afwijking van [hoofdstuk VA](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&
 
 ### Afdeling 1A. Strafbare feiten in algemene maatregelen van bestuur en ministeriële regelingen
 
+### Afdeling 1. Strafbare feiten
+
 ### Afdeling 1A. Strafbare feiten in algemene maatregelen van bestuur en ministeriële regelingen
 
 ### Afdeling 3. Algemene bepalingen van strafvordering
-
-### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
@@ -2510,7 +2514,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 3b
 
-1. Bij ministeriële regeling kunnen berichten, groepen van belastingplichtigen of inhoudingsplichtigen of omstandigheden worden aangewezen waarvoor, voor wie, onderscheidenlijk waaronder, geldt dat een belastingplichtige of inhoudingsplichtige berichten uitsluitend langs elektronische weg dan wel uitsluitend anders dan langs elektronische weg aan de inspecteur of het bestuur van ’s Rijks belastingen verzendt.
+1. In afwijking van artikel 2:7, tweede lid, van de Algemene wet bestuursrecht kunnen bij ministeriële regeling berichten, groepen van belastingplichtigen, inhoudingsplichtigen, administratieplichtigen of algemeen nut beogende instellingen of omstandigheden worden aangewezen waarvoor, voor wie, onderscheidenlijk waaronder, geldt dat een belastingplichtige, inhoudingsplichtige, administratieplichtige of een algemeen nut beogende instelling berichten uitsluitend langs elektronische weg dan wel uitsluitend anders dan langs elektronische weg aan de inspecteur of het bestuur van ’s Rijks belastingen verzendt.
 
 2. Het ontwerp van een ministeriële regeling als bedoeld in het eerste lid wordt ten minste vier weken voordat de regeling wordt vastgesteld, overgelegd aan de beide kamers der Staten-Generaal.
 
@@ -2542,7 +2546,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 67r
 
-1. De inspecteur maakt openbaar de voor bezwaar vatbare beschikking waarbij een bestuurlijke boete is opgelegd aan een overtreder als bedoeld in [artikel 5:1, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1) vanwege een vergrijp als bedoeld in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=10a&z=2026-01-01&g=2026-01-01), [67cc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67cc&z=2026-01-01&g=2026-01-01), [67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-01-01&g=2026-01-01), [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-01-01&g=2026-01-01) of [67f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-01-01&g=2026-01-01) of [artikel 6.4 van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=6.4) dat door de overtreder opzettelijk is begaan tijdens de door hem beroepsmatig of bedrijfsmatig verleende bijstand bij het door de belastingplichtige of de inhoudingsplichtige voldoen aan diens uit een belastingwet voortvloeiende verplichtingen, binnen tien werkdagen na het laatste van de volgende momenten:
+1. De inspecteur maakt openbaar de voor bezwaar vatbare beschikking waarbij een bestuurlijke boete is opgelegd aan een overtreder als bedoeld in [artikel 5:1, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1) vanwege een vergrijp als bedoeld in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=10a&z=2026-04-11&g=2026-04-11), [67cc](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67cc&z=2026-04-11&g=2026-04-11), [67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67d&z=2026-04-11&g=2026-04-11), [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67e&z=2026-04-11&g=2026-04-11) of [67f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA&afdeling=1&paragraaf=2&artikel=67f&z=2026-04-11&g=2026-04-11) of [artikel 6.4 van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=6.4) dat door de overtreder opzettelijk is begaan tijdens de door hem beroepsmatig of bedrijfsmatig verleende bijstand bij het door de belastingplichtige of de inhoudingsplichtige voldoen aan diens uit een belastingwet voortvloeiende verplichtingen, binnen tien werkdagen na het laatste van de volgende momenten:
 
 - a. het moment van onherroepelijk worden van de beschikking tot openbaarmaking, bedoeld in het tweede lid;
 
@@ -2578,9 +2582,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Afdeling 1. Strafbare feiten
 
-### Afdeling 2. Algemene bepalingen van strafrecht
+### Afdeling 1A. Strafbare feiten in algemene maatregelen van bestuur en ministeriële regelingen
 
-### Afdeling 3. Algemene bepalingen van strafvordering
+### Afdeling 2. Algemene bepalingen van strafrecht
 
 ### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
 
@@ -2590,7 +2594,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 7a
 
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=7&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op gegevens, bescheiden en andere gegevensdragers waarvan de kennisneming van belang kan zijn voor de vaststelling van de beschikkingen, bedoeld in [artikel 9.4a, eerste lid, onderdelen a en b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4a).
+[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II&artikel=7&z=2026-04-11&g=2026-04-11) is van overeenkomstige toepassing op gegevens, bescheiden en andere gegevensdragers waarvan de kennisneming van belang kan zijn voor de vaststelling van de beschikkingen, bedoeld in [artikel 9.4a, eerste lid, onderdelen a en b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4a).
 
 ### Hoofdstuk III. Heffing van belasting bij wege van aanslag
 
@@ -2612,13 +2616,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 56a
 
-De [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-01-01&g=2026-01-01), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47b&z=2026-01-01&g=2026-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=48&z=2026-01-01&g=2026-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-01-01&g=2026-01-01), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49a&z=2026-01-01&g=2026-01-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=51&z=2026-01-01&g=2026-01-01), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-01-01&g=2026-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53a&z=2026-01-01&g=2026-01-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=54&z=2026-01-01&g=2026-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=55&z=2026-01-01&g=2026-01-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=56&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op gegevens en inlichtingen die van belang kunnen zijn voor de vaststelling van de beschikkingen, bedoeld in [artikel 9.4a, eerste lid, onderdelen a en b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4a).
+De [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47&z=2026-04-11&g=2026-04-11), [47b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=47b&z=2026-04-11&g=2026-04-11), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=48&z=2026-04-11&g=2026-04-11), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49&z=2026-04-11&g=2026-04-11), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=49a&z=2026-04-11&g=2026-04-11), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=51&z=2026-04-11&g=2026-04-11), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=52a&z=2026-04-11&g=2026-04-11), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53&z=2026-04-11&g=2026-04-11), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53a&z=2026-04-11&g=2026-04-11), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=54&z=2026-04-11&g=2026-04-11), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=55&z=2026-04-11&g=2026-04-11) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=56&z=2026-04-11&g=2026-04-11) zijn van overeenkomstige toepassing op gegevens en inlichtingen die van belang kunnen zijn voor de vaststelling van de beschikkingen, bedoeld in [artikel 9.4a, eerste lid, onderdelen a en b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4a).
 
 ### Hoofdstuk VIIIA. Bestuurlijke boeten
 
 #### Paragraaf 1. Verzuimboeten
 
-### Afdeling 1. Strafbare feiten
+### Afdeling 3. Openbaarmaking van de boetebeschikking
 
 ### Afdeling 2. Algemene bepalingen van strafrecht
 
@@ -2648,19 +2652,23 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 39a
 
-Onze Minister neemt bij voor bezwaar vatbare beschikking als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&z=2026-01-01&g=2026-01-01) een besluit tot afwijzing van een verzoek dat is gedaan ingevolge het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen of een verdrag ter voorkoming van dubbele belasting in welk verzoek een onderneming of persoon als bedoeld in die verdragen die van oordeel is dat de maatregelen van een of van beide verdragsluitende staten voor haar, onderscheidenlijk hem, leiden of zullen leiden tot belastingheffing die niet in overeenstemming is met het betreffende verdrag Onze Minister verzoekt om in onderling overleg te treden met de bevoegde autoriteit van een andere staat.
+Onze Minister neemt bij voor bezwaar vatbare beschikking als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V&z=2026-04-11&g=2026-04-11) een besluit tot afwijzing van een verzoek dat is gedaan ingevolge het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen of een verdrag ter voorkoming van dubbele belasting in welk verzoek een onderneming of persoon als bedoeld in die verdragen die van oordeel is dat de maatregelen van een of van beide verdragsluitende staten voor haar, onderscheidenlijk hem, leiden of zullen leiden tot belastingheffing die niet in overeenstemming is met het betreffende verdrag Onze Minister verzoekt om in onderling overleg te treden met de bevoegde autoriteit van een andere staat.
 
 ### Hoofdstuk VIII. Bijzondere bepalingen
 
 ##### Artikel 53bis
 
-1. Rapporterende platformexploitanten als bedoeld in [artikel 10j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10j), en [10l, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10l), zijn verplicht om gegevens en inlichtingen als bedoeld in artikel 10j, tweede, derde en vijfde lid, en artikel 10l, derde en vijfde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen te rapporteren aan de inspecteur, voor zover de te rapporteren verkoper, bedoeld in [artikel 2e, onderdeel n, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2e), een ingezetene als bedoeld in bijlage V, deel II, onderdeel D, van [Richtlijn 2011/16](32011L0016)/EU is van Nederland of voor zover de relevante activiteit van de te rapporteren verkoper de verhuur van onroerende zaken betreft van in Nederland gelegen onroerende zaken. De rapporterende platformexploitant verstrekt de gegevens en inlichtingen met betrekking tot de rapportageperiode, bedoeld in artikel 2e, onderdeel u, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen, uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarin een verkoper als te rapporteren verkoper is aangemerkt.
+1. Rapporterende platformexploitanten als bedoeld in [artikel 10j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10j), en [10l, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10l), zijn verplicht om gegevens en inlichtingen als bedoeld in artikel 10j, tweede, derde, vijfde en negende lid, en artikel 10l, derde en vijfde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen te rapporteren aan de inspecteur, voor zover de te rapporteren verkoper, bedoeld in [artikel 2e, onderdeel n, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2e), een ingezetene als bedoeld in bijlage V, deel II, onderdeel D, van [Richtlijn 2011/16](32011L0016)/EU is van Nederland of voor zover de relevante activiteit van de te rapporteren verkoper de verhuur van onroerende zaken betreft van in Nederland gelegen onroerende zaken. De rapporterende platformexploitant verstrekt de gegevens en inlichtingen met betrekking tot de rapportageperiode, bedoeld in artikel 2e, onderdeel u, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen, uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarin een verkoper als te rapporteren verkoper is aangemerkt.
 
 2. [Artikel 10i van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10i) en de daarop berustende bepalingen zijn van overeenkomstige toepassing voor zover de rapportage ziet op gegevens en inlichtingen als bedoeld in het eerste lid.
 
 3. De [artikelen 10j, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10j), [10l, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10l), [10m](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10m), [10o](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10o) en [10p van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10p) zijn van overeenkomstige toepassing op de rapporterende platformexploitant, bedoeld in het eerste lid, met het oog op het door die platformexploitant rapporteren van gegevens en inlichtingen, bedoeld in het eerste lid.
 
-4. Bij toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=69&z=2026-01-01&g=2026-01-01) met betrekking tot de verplichtingen die volgen uit het eerste, tweede en derde lid vervalt het vereiste dat het feit ertoe strekt dat te weinig belasting wordt geheven.
+4. Met betrekking tot de verplichtingen die volgen uit het eerste, tweede en derde lid:
+
+- a. wordt bij toepassing van de [artikelen 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=68&z=2026-04-11&g=2026-04-11), en [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=69&z=2026-04-11&g=2026-04-11), voor de derde, onderscheidenlijk vierde, categorie gelezen de zesde categorie;
+
+- b. vervalt bij toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX&afdeling=1&artikel=69&z=2026-04-11&g=2026-04-11) het vereiste dat het feit ertoe strekt dat te weinig belasting wordt geheven.
 
 ### Hoofdstuk VIIIA. Bestuurlijke boeten
 
@@ -2674,7 +2682,7 @@ Onze Minister neemt bij voor bezwaar vatbare beschikking als bedoeld in [hoofdst
 
 ### Afdeling 2A. Aanvullende algemene bepalingen van strafrecht (douane)
 
-### Afdeling 3. Algemene bepalingen van strafvordering
+### Afdeling 2A. Aanvullende algemene bepalingen van strafrecht (douane)
 
 ### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
 
@@ -2692,7 +2700,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk IX. Strafrechtelijke bepalingen
 
-### Afdeling 3. Algemene bepalingen van strafvordering
+### Afdeling 2A. Aanvullende algemene bepalingen van strafrecht (douane)
 
 ### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
 
@@ -2712,9 +2720,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 66b
 
-1. Voorafgaand aan de aanwijzing van de rijksbelastingen bij algemene maatregel van bestuur, bedoeld in [artikel 66a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66a&z=2026-01-01&g=2026-01-01), kan de inspecteur ter zake van die rijksbelastingen, jegens een belastingplichtige of inhoudingsplichtige inzage verlenen in stukken die betrekking hebben op een belastingaanslag of een voor bezwaar vatbare beschikking.
+1. Voorafgaand aan de aanwijzing van de rijksbelastingen bij algemene maatregel van bestuur, bedoeld in [artikel 66a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66a&z=2026-04-11&g=2026-04-11), kan de inspecteur ter zake van die rijksbelastingen, jegens een belastingplichtige of inhoudingsplichtige inzage verlenen in stukken die betrekking hebben op een belastingaanslag of een voor bezwaar vatbare beschikking.
 
-2. [Artikel 66a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. [Artikel 66a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=5a&artikel=66a&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
 
 ### Afdeling 1. Overtredingen
 
@@ -2723,6 +2731,44 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 ### Hoofdstuk IX. Strafrechtelijke bepalingen
 
 ### Afdeling 2A. Aanvullende algemene bepalingen van strafrecht (douane)
+
+### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
+
+### Hoofdstuk X. Overgangs- en slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 53ter
+
+1. Rapporterende aanbieders van cryptoactivadiensten als bedoeld in[artikel 10ob, eerste en tweede lid](onbekend), en [10od, vierde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](onbekend), zijn verplicht om gegevens en inlichtingen als bedoeld in artikel 10ob, derde en vierde lid, en artikel 10od, vijfde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen te rapporteren aan de inspecteur, voor zover de te rapporteren gebruiker, bedoeld in [artikel 2f van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2f), een ingezetene als bedoeld in bijlage VI, deel III, onderdelen A en B, van [Richtlijn 2011/16/EU](32011L0016) is van Nederland. De rapporterende aanbieder van cryptoactivadiensten verstrekt de gegevens en inlichtingen uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben en voor het eerst uiterlijk op 31 januari 2027 met betrekking tot de gegevens en inlichtingen die betrekking hebben op het kalenderjaar 2026.
+
+2. [Artikel 10oa van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](onbekend) en de daarop berustende bepalingen zijn van overeenkomstige toepassing voor zover de rapportage ziet op gegevens en inlichtingen als bedoeld in het eerste lid.
+
+3. De [artikelen 10oc](onbekend), [10oe](onbekend) en [10p van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10p) zijn van overeenkomstige toepassing op de rapporterende aanbieder van cryptoactivadiensten, bedoeld in het eerste lid, met het oog op het door die aanbieder van cryptoactivadiensten rapporteren van gegevens en inlichtingen, bedoeld in het eerste lid.
+
+4. [Artikel 53bis, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII&afdeling=2&artikel=53bis&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing.
+
+#### Paragraaf 1. Verzuimboeten
+
+#### Paragraaf 2. Vergrijpboeten
+
+##### Artikel 67fa
+
+Vervallen
+
+### Hoofdstuk IX. Strafrechtelijke bepalingen
+
+### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
+
+### Hoofdstuk X. Overgangs- en slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk IX. Strafrechtelijke bepalingen
+
+### Afdeling 2. Algemene bepalingen van strafrecht
+
+### Afdeling 3. Algemene bepalingen van strafvordering
 
 ### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
 
