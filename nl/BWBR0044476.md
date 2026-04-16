@@ -3,8 +3,8 @@ title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid va
 identifier: "BWBR0044476"
 country: "nl"
 rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
+publication_date: "2026-04-16"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044476"
 soort: "ministeriele-regeling"
@@ -14,7 +14,7 @@ internal_id: "C41413271"
 label_id: "15685364"
 dtd_version: "2.0"
 original_entry_into_force: "2022-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044476/2026-01-01/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044476/2026-04-16/0"
 intitule_bron: "Stcrt.2020-62980"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2020-11-25"
@@ -27,8 +27,8 @@ original_published_date: "2022-12-28"
 original_effect: "structuurwijziging"
 original_url_id: "stcrt-2022-34869"
 entry_into_force_date: "2022-12-16"
-jci_1_3: "jci1.3:c:BWBR0044476&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0044476&g=2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0044476&z=2026-04-16&g=2026-04-16"
+jci_1_0: "1.0:c:BWBR0044476&g=2026-04-16"
 citeertitel_status: "officieel"
 short_title: "Regeling beslagvrije voet"
 signed_date: "2022-12-16"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1. Woonlandfactor
 
-1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen factor.
+1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-04-16&g=2026-04-16) bij deze regeling opgenomen factor.
 
-2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
+2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-04-16&g=2026-04-16) bij deze regeling is opgenomen bedraagt de factor 1,0.
 
 ##### Artikel 2. Model beslagvrije voet
 
-Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
+Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-04-16&g=2026-04-16) bij deze regeling.
 
 ##### Artikel 3. Ondersteuning bij de vaststelling van de beslagvrije voet
 
 1. De Stichting Bureau Informatiediensten Nederland en het UWV dragen als verwerkers gezamenlijk zorg voor de inrichting en het beheer van de door Onze Minister geboden ondersteuning, bedoeld in [artikel 8 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
 
-2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2026-01-01&g=2026-01-01) van deze regeling.
+2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2026-04-16&g=2026-04-16) van deze regeling.
 
 3. Onze Minister verwijdert de berekening en de daaraan ten grondslag liggende gegevens terstond na het verstrekken daarvan.
 
@@ -82,9 +82,11 @@ Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wette
 
 - f. de ambtenaren, genoemd in [artikel 231, tweede lid, onder c en e, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231);
 
-- g. de ambtenaren, genoemd in [artikel 123, derde lid, onder c en e, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123); en
+- g. de ambtenaren, genoemd in [artikel 123, derde lid, onder c en e, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
 
-- h. gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
+- h. gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740); en
+
+- i. de ontvanger, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), in samenhang met [artikel 1.4, eerste lid, van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4).
 
 8. De volgende partijen kunnen gebruikmaken van de ondersteuning door de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, bedoeld in [artikel 9 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=9):
 
@@ -94,9 +96,11 @@ Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wette
 
 - c. de ambtenaren, genoemd in [artikel 231, tweede lid, onder c en e, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231);
 
-- d. de ambtenaren, genoemd in [artikel 123, derde lid, onder c en e, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123); en
+- d. de ambtenaren, genoemd in [artikel 123, derde lid, onder c en e, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
 
-- e. gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
+- e. gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740); en
+
+- f. de ontvanger, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), in samenhang met [artikel 1.4, eerste lid, van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4).
 
 ##### Artikel 4. Gegevens UWV
 
@@ -564,7 +568,7 @@ Deze regeling wordt aangehaald als: Regeling beslagvrije voet.
 
 (bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2022-07-01&g=2022-07-01) van de Regeling beslagvrije voet)
 
-(bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2026-01-01&g=2026-01-01) van de Regeling beslagvrije voet)
+(bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2026-04-16&g=2026-04-16) van de Regeling beslagvrije voet)
 
 <**Uitleg over de beslagvrije voet***>
 
@@ -636,9 +640,9 @@ Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl
 
 ##### Artikel 4a. Overgangsrecht
 
-Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-01-01&g=2026-01-01), zoals die luidde op 30 juni 2021.
+Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-04-16&g=2026-04-16), zoals die luidde op 30 juni 2021.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=1&z=2026-01-01&g=2026-01-01) van de Regeling beslagvrije voet
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=1&z=2026-04-16&g=2026-04-16) van de Regeling beslagvrije voet
 
 | Land | Woonlandfactor 2026 |
 | --- | --- |
@@ -930,4 +934,4 @@ Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van
 
 ### Artikel X. Looptijd en wijziging van de aansluitvoorwaarden
 
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-01-01&g=2026-01-01) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-04-16&g=2026-04-16) in de Staatscourant worden geplaatst.
