@@ -3,8 +3,8 @@ title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 febr
 identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
-publication_date: "2025-08-13"
-last_updated: "2025-08-13"
+publication_date: "2026-04-16"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -14,7 +14,7 @@ internal_id: "C37628071"
 label_id: "15283184"
 dtd_version: "2.0"
 original_entry_into_force: "2020-02-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043152/2025-08-13/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043152/2026-04-16/0"
 intitule_bron: "Stcrt.2020-7731"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2020-02-03"
@@ -27,8 +27,8 @@ original_published_date: "2020-02-11"
 original_effect: "nieuwe-regeling"
 original_url_id: "stcrt-2020-7731"
 entry_into_force_date: "2020-02-12"
-jci_1_3: "jci1.3:c:BWBR0043152&z=2025-08-13&g=2025-08-13"
-jci_1_0: "1.0:c:BWBR0043152&g=2025-08-13"
+jci_1_3: "jci1.3:c:BWBR0043152&z=2026-04-16&g=2026-04-16"
+jci_1_0: "1.0:c:BWBR0043152&g=2026-04-16"
 citeertitel_status: "officieel"
 short_title: "Organisatie-, Mandaat- en Volmachtsbesluit DSU 2019"
 signed_date: "2020-02-03"
@@ -58,15 +58,15 @@ Besluit:
 
 - g. **FDC:** de afdeling Financieel Dienstencentrum, met de volgende clusters:
 
-- i. beheer;
+  - i. beheer;
 
-- ii. concernadministratie;
+  - ii. concernadministratie;
 
-- iii. betalen;
+  - iii. betalen;
 
-- iv. Bekostiging Subsidies en Vorderingenbeheer;
+  - iv. Bekostiging Subsidies en Vorderingenbeheer;
 
-- v. staf;
+  - v. staf;
 
 - h. **LO-Plein:** de afdeling Leer- en Ontwikkelplein;
 
@@ -146,7 +146,7 @@ De hoofden UV zijn verantwoordelijk voor:
 
 - a. de uitvoering van subsidieregelingen op het terrein van Europese fondsen;
 
-- b. de uitvoering van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen;
+- b. de uitvoering van overige door de bewindspersoon vastgestelde regelingen op het terrein van werk en inkomen;
 
 - c. het, na instemming van de directeur, uitvoeren van regelingen en opdrachten voor een partij buiten het ministerie;
 
@@ -170,7 +170,7 @@ Het hoofd UEC is verantwoordelijk voor:
 
 - f. het gestalte geven aan het kennismanagement binnen UV en UEC, door middel van deskundigheidsbevordering en de ontwikkeling van personeel door middel van onder andere opleidingsplannen;
 
-- g. de uitvoering van overige door de minister vastgestelde regelingen en opdrachten op het terrein van werk en inkomen.
+- g. de uitvoering van overige door de bewindspersoon vastgestelde regelingen en opdrachten op het terrein van werk en inkomen.
 
 ##### Artikel 7
 
@@ -196,7 +196,7 @@ Het hoofd FDC is verantwoordelijk voor:
 
 - d. het financieel administratief ondersteunen van beleidsdirecties van de ministeries van SZW, VRO en BZK op het gebied van bekostiging van en/of de subsidieverlening aan gemeenten en ZBO’s, overige externe organisaties op basis van wet- en regelgeving;
 
-- e. het verzorgen van het kas- en autorisatiebeheer en het fungeren als beheerder van de administratieve organisatie (ao) en interne controle (ic), een en ander voor zover het andere verantwoordelijkheden betreft dan die van de kasbeheerders als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=3&artikel=8a&z=2025-08-13&g=2025-08-13).
+- e. het verzorgen van het kas- en autorisatiebeheer en het fungeren als beheerder van de administratieve organisatie (ao) en interne controle (ic), een en ander voor zover het andere verantwoordelijkheden betreft dan die van de kasbeheerders als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=3&artikel=8a&z=2026-04-16&g=2026-04-16).
 
 ##### Artikel 9
 
@@ -230,17 +230,17 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2025-08-13&g=2025-08-13) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2026-04-16&g=2026-04-16) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
 - b. de personeelsaangelegenheden van de eigen afdeling voor zover het betreft;
 
-- i. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers.
+  - i. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers.
 
-- ii. het houden van personeelsgesprekken.
+  - ii. het houden van personeelsgesprekken.
 
-- iii. verlof van medewerkers.
+  - iii. verlof van medewerkers.
 
 ##### Artikel 12
 
