@@ -3,8 +3,8 @@ title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 1
 identifier: "BWBR0046589"
 country: "nl"
 rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
+publication_date: "2026-04-15"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046589"
 soort: "ministeriele-regeling"
@@ -14,7 +14,7 @@ internal_id: "C40319021"
 label_id: "16260174"
 dtd_version: "2.0"
 original_entry_into_force: "2022-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046589/2026-01-01/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046589/2026-04-15/0"
 intitule_bron: "Stcrt.2022-11166"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2022-04-19"
@@ -27,8 +27,8 @@ original_published_date: "2022-04-25"
 original_effect: "nieuwe-regeling"
 original_url_id: "stcrt-2022-11166"
 entry_into_force_date: "2022-05-09"
-jci_1_3: "jci1.3:c:BWBR0046589&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0046589&g=2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0046589&z=2026-04-15&g=2026-04-15"
+jci_1_0: "1.0:c:BWBR0046589&g=2026-04-15"
 citeertitel_status: "officieel"
 short_title: "Aanschafsubsidieregeling zero-emissie trucks AanZET"
 signed_date: "2022-04-19"
@@ -106,27 +106,27 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 - a. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N2 bakwagenchassis met een gewicht van minstens 10.000 kilogram:
 
-- 1°. bij grote ondernemingen: 6,1% van de verkoopprijs tot een maximum van € 15.200;
+  - 1°. bij grote ondernemingen: 6,1% van de verkoopprijs tot een maximum van € 15.200;
 
-- 2°. bij middelgrote ondernemingen: 12% van de verkoopprijs tot een maximum van € 29.900;
+  - 2°. bij middelgrote ondernemingen: 12% van de verkoopprijs tot een maximum van € 29.900;
 
-- 3°. bij kleine ondernemingen en non-profitinstellingen: 14,8% van de verkoopprijs tot een maximum van € 36.900;
+  - 3°. bij kleine ondernemingen en non-profitinstellingen: 14,8% van de verkoopprijs tot een maximum van € 36.900;
 
 - b. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 bakwagenchassis:
 
-- 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
+  - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
 
-- 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
+  - 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
 
-- 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200;
+  - 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200;
 
 - c. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 opleggertrekker:
 
-- 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
+  - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
 
-- 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
+  - 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
 
-- 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200.
+  - 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200.
 
 2. Wanneer het subsidiebedrag, bedoeld in het eerste lid, de maximale steunruimte van de algemene groepsvrijstellingsverordening overschrijdt, wordt de overschrijding in mindering gebracht op het subsidiebedrag.
 
@@ -142,17 +142,17 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 - c. voor het jaar 2024:
 
-- i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01),
+  - i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15),
 
-- ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01);
+  - ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15);
 
 - d. voor het jaar 2025:
 
-- i. € 35.300.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01);
+  - i. € 35.300.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15);
 
-- ii. € 30.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01);
+  - ii. € 30.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15);
 
-- e. voor het jaar 2026: € 78.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01).
+- e. voor het jaar 2026: € 85.800.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15).
 
 2. De Minister stelt het subsidieplafond vast voor de jaren na 2024 en geeft hiervan kennis in de Staatscourant voor aanvang van het kalenderjaar waarvoor het betreffende subsidieplafond wordt vastgesteld.
 
@@ -190,21 +190,21 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - c. in 2024:
 
-- i. van 26 maart 2024, 9.00 uur tot en met 24 mei 2024, 12.00 uur;
+  - i. van 26 maart 2024, 9.00 uur tot en met 24 mei 2024, 12.00 uur;
 
-- ii. van 1 oktober 2024, 9.00 uur tot en met 8 oktober 2024, 12.00 uur;
+  - ii. van 1 oktober 2024, 9.00 uur tot en met 8 oktober 2024, 12.00 uur;
 
 - d. in 2025:
 
-- i. van 28 januari 2025, 9.00 uur tot en met 7 februari 2025, 12.00 uur;
+  - i. van 28 januari 2025, 9.00 uur tot en met 7 februari 2025, 12.00 uur;
 
-- ii. van 30 september 2025, 9.00 uur tot en met 10 oktober 2025, 12.00 uur;
+  - ii. van 30 september 2025, 9.00 uur tot en met 10 oktober 2025, 12.00 uur;
 
 - e. in 2026:
 
-- i. van 27 januari 2026, 9.00 uur tot en met 13 februari 2026, 12.00 uur;
+  - i. van 27 januari 2026, 9.00 uur tot en met 13 februari 2026, 12.00 uur;
 
-- ii. van 29 september 2026, 9.00 uur tot en met 16 oktober 2026, 12.00 uur.
+  - ii. van 29 september 2026, 9.00 uur tot en met 16 oktober 2026, 12.00 uur.
 
 3. Als tijdstip van indiening van een aanvraag geldt de datum van ontvangst van de volledige aanvraag.
 
@@ -216,7 +216,7 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 5. Indien een aanvrager op een werkdag meerdere aanvragen indient, of indien meerdere aanvragers die tot eenzelfde groep behoren op een werkdag een aanvraag indienen, neemt de Minister uitsluitend de eerst ingediende aanvraag in behandeling.
 
-6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2026-01-01&g=2026-01-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
+6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2026-04-15&g=2026-04-15), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
 
 ##### Artikel 2.3. Gegevensverstrekking aanvraag subsidieverlening
 
@@ -292,9 +292,9 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 ##### Artikel 2.10. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-04-15&g=2026-04-15), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-04-15&g=2026-04-15).
 
 ### Hoofdstuk 3. Verplichtingen
 
