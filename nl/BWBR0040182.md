@@ -3,8 +3,8 @@ title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 nove
 identifier: "BWBR0040182"
 country: "nl"
 rank: "ministeriele_regeling"
-publication_date: "2025-12-16"
-last_updated: "2025-12-16"
+publication_date: "2026-04-16"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040182"
 soort: "ministeriele-regeling"
@@ -14,7 +14,7 @@ internal_id: "C35189381"
 label_id: "14307134"
 dtd_version: "2.0"
 original_entry_into_force: "2017-11-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040182/2025-12-16/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040182/2026-04-16/0"
 intitule_bron: "Stcrt.2017-63796"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2017-11-01"
@@ -27,8 +27,8 @@ original_published_date: "2017-11-09"
 original_effect: "nieuwe-regeling"
 original_url_id: "stcrt-2017-63796"
 entry_into_force_date: "2017-11-10"
-jci_1_3: "jci1.3:c:BWBR0040182&z=2025-12-16&g=2025-12-16"
-jci_1_0: "1.0:c:BWBR0040182&g=2025-12-16"
+jci_1_3: "jci1.3:c:BWBR0040182&z=2026-04-16&g=2026-04-16"
+jci_1_0: "1.0:c:BWBR0040182&g=2026-04-16"
 citeertitel_status: "officieel"
 short_title: "Organisatie-, mandaat- en volmachtbesluit OBP 2017"
 signed_date: "2017-11-01"
@@ -190,43 +190,43 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 - i. het uitvoeren van de taken van de CDI, inhoudende:
 
-- 1°. het zorgdragen voor kaders en handreikingen voor het ministerie ten behoeve van de taken, bevoegdheden en verantwoordelijkheden en verduidelijking daarvan op het terrein van inkoop;
+  - 1°. het zorgdragen voor kaders en handreikingen voor het ministerie ten behoeve van de taken, bevoegdheden en verantwoordelijkheden en verduidelijking daarvan op het terrein van inkoop;
 
-- 2°. het zorgdragen voor kaders en handreikingen voor de rechtmatige en de doelmatige inkoop door het ministerie;
+  - 2°. het zorgdragen voor kaders en handreikingen voor de rechtmatige en de doelmatige inkoop door het ministerie;
 
-- 3°. het in samenspraak met behoeftestellers, opdrachtgevers en beleidsmakers creëren van draagvlak binnen het ministerie ten behoeve van de realisatie van rijksbrede beleidsdoelstellingen met behulp van inkoopinstrumenten;
+  - 3°. het in samenspraak met behoeftestellers, opdrachtgevers en beleidsmakers creëren van draagvlak binnen het ministerie ten behoeve van de realisatie van rijksbrede beleidsdoelstellingen met behulp van inkoopinstrumenten;
 
-- 4°. het vooraf beoordelen van grote of risicovolle inkooptrajecten, en toezicht houden op aanwezigheid van voldoende controle op de inkoopuitvoering bij het beoordelen van deze inkooptrajecten;
+  - 4°. het vooraf beoordelen van grote of risicovolle inkooptrajecten, en toezicht houden op aanwezigheid van voldoende controle op de inkoopuitvoering bij het beoordelen van deze inkooptrajecten;
 
-- 5°. het maken van risico-analyses over inkoop en over de opvolging van bevindingen van de Auditdienst Rijk en de Algemene Rekenkamer over inkoop;
+  - 5°. het maken van risico-analyses over inkoop en over de opvolging van bevindingen van de Auditdienst Rijk en de Algemene Rekenkamer over inkoop;
 
-- 6°. het intern adviseren over de inrichting van de inkoopfunctie en over inkoopsystemen;
+  - 6°. het intern adviseren over de inrichting van de inkoopfunctie en over inkoopsystemen;
 
-- 7°. het monitoren van de naleving van de vastgestelde rijksbrede kaders en de departementale kaders;
+  - 7°. het monitoren van de naleving van de vastgestelde rijksbrede kaders en de departementale kaders;
 
-- 8°. het namens het lid van de Interdepartementale Commissie Bedrijfsvoering Rijksdienst dat eigenaar van de categorie is, zorgdragen voor het monitoren van de realisatie van het categorieplan, onderscheidenlijk de categorieplannen, waarvoor het ministerie verantwoordelijk is, inclusief de afgesproken rapportages;
+  - 8°. het namens het lid van de Interdepartementale Commissie Bedrijfsvoering Rijksdienst dat eigenaar van de categorie is, zorgdragen voor het monitoren van de realisatie van het categorieplan, onderscheidenlijk de categorieplannen, waarvoor het ministerie verantwoordelijk is, inclusief de afgesproken rapportages;
 
-- 9°. het interveniëren en escaleren naar het bevoegd gezag indien de voornoemde kaders niet worden nageleefd;
+  - 9°. het interveniëren en escaleren naar het bevoegd gezag indien de voornoemde kaders niet worden nageleefd;
 
-- 10°. het bevorderen van de professionaliteit en de professionele integriteit van de inkoop binnen het ministerie;
+  - 10°. het bevorderen van de professionaliteit en de professionele integriteit van de inkoop binnen het ministerie;
 
-- 11°. het adviseren over politiek bestuurlijke kwesties en de concept beantwoording van vragen van de Tweede Kamer der Staten-Generaal in het verlengde van hetgeen waar de Minister politiek verantwoordelijk voor is;
+  - 11°. het adviseren over politiek bestuurlijke kwesties en de concept beantwoording van vragen van de Tweede Kamer der Staten-Generaal in het verlengde van hetgeen waar de bewindspersoon politiek verantwoordelijk voor is;
 
-- 12°. het houden van toezicht op welke wijze de departementale inkooppunten navolging geven aan de vastgestelde kaders;
+  - 12°. het houden van toezicht op welke wijze de departementale inkooppunten navolging geven aan de vastgestelde kaders;
 
-- 13°. het maken van afspraken met de Chief Procurement Officer Rijk over de toepasselijkheid van kaderstelling vanuit het Rijksinkoopstelsel op Specifieke Inkoopcentra of dienstspecifieke inkoop;
+  - 13°. het maken van afspraken met de Chief Procurement Officer Rijk over de toepasselijkheid van kaderstelling vanuit het Rijksinkoopstelsel op Specifieke Inkoopcentra of dienstspecifieke inkoop;
 
-- 14°. het informeren van de Chief Procurement Officer Rijk wanneer een media- of politiek gevoelige situatie speelt of wordt voorzien die raakt aan de stelselverantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+  - 14°. het informeren van de Chief Procurement Officer Rijk wanneer een media- of politiek gevoelige situatie speelt of wordt voorzien die raakt aan de stelselverantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- 15°. het informeren van de Chief Procurement Officer Rijk over trendmatige afwijkingen van de toepassing van rijksbrede kaders. Het optimaliseren van de werking van het Rijksinkoopstelsel in het ministerie op het terrein van de generieke inkoop;
+  - 15°. het informeren van de Chief Procurement Officer Rijk over trendmatige afwijkingen van de toepassing van rijksbrede kaders. Het optimaliseren van de werking van het Rijksinkoopstelsel in het ministerie op het terrein van de generieke inkoop;
 
-- 16°. het optimaliseren van de werking van het Rijksinkoopstelsel in interdepartementaal verband door een actieve bijdrage in de Interdepartementale Commissie Inkopen en Aanbesteden en andere relevante inkoopoverleggen;
+  - 16°. het optimaliseren van de werking van het Rijksinkoopstelsel in interdepartementaal verband door een actieve bijdrage in de Interdepartementale Commissie Inkopen en Aanbesteden en andere relevante inkoopoverleggen;
 
-- 17°. het voorleggen van meningsverschillen met een Inkoop Uitvoeringscentrum of opdrachtgever aan het departementale bevoegd gezag. Indien een Inkoop Uitvoeringscentrum of opdrachtgever onder een ander departement valt, het voorleggen via de CDI van het departement waar het Inkoop Uitvoeringscentrum of de opdrachtgever deel van uitmaakt. Als de bemiddeling op CDI-niveau niet leidt tot een oplossing: het voorleggen van de betreffende kwestie aan de Chief Procurement Officer Rijk voor een bindende uitspraak;
+  - 17°. het voorleggen van meningsverschillen met een Inkoop Uitvoeringscentrum of opdrachtgever aan het departementale bevoegd gezag. Indien een Inkoop Uitvoeringscentrum of opdrachtgever onder een ander departement valt, het voorleggen via de CDI van het departement waar het Inkoop Uitvoeringscentrum of de opdrachtgever deel van uitmaakt. Als de bemiddeling op CDI-niveau niet leidt tot een oplossing: het voorleggen van de betreffende kwestie aan de Chief Procurement Officer Rijk voor een bindende uitspraak;
 
-- 18°. het benoemen van dan wel adviseren bij de selectie en benoeming van hoofden Inkoop Uitvoeringscentrum en Specifieke Inkoopcentrum en categorie-managers, Strategisch Leveranciers-managers en Software Asset-managers;
+  - 18°. het benoemen van dan wel adviseren bij de selectie en benoeming van hoofden Inkoop Uitvoeringscentrum en Specifieke Inkoopcentrum en categorie-managers, Strategisch Leveranciers-managers en Software Asset-managers;
 
-- 19°. het adviseren bij de selectie en benoeming van de Chief Procurement Officer Rijk;
+  - 19°. het adviseren bij de selectie en benoeming van de Chief Procurement Officer Rijk;
 
 - j. het houden van toezicht op de naleving van geldende wetgeving en de rijksbrede en departementale kaders en regelingen op de aandachtsgebieden van de afdeling.
 
@@ -236,7 +236,7 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 1. Aan de hoofden van de afdelingen wordt volmacht en machtiging tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende medewerkers.
 
-2. Aan de teamleiders en rijkstraineecoördinator SZW, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2025-12-16&g=2025-12-16), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2025-12-16&g=2025-12-16) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
+2. Aan de teamleiders en rijkstraineecoördinator SZW, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2026-04-16&g=2026-04-16), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2026-04-16&g=2026-04-16) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -268,7 +268,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de daartoe aan te wijzen plaatsvervangend directeur.
 
-2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2025-12-16&g=2025-12-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2025-12-16&g=2025-12-16) uit te oefenen.
+2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2026-04-16&g=2026-04-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2026-04-16&g=2026-04-16) uit te oefenen.
 
 3. Overige doorverlening van bevoegdheden door afdelingshoofden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.
 
