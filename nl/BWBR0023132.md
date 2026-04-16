@@ -3,8 +3,8 @@ title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 dec
 identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
-publication_date: "2025-04-09"
-last_updated: "2025-04-09"
+publication_date: "2026-04-15"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -14,7 +14,7 @@ internal_id: "C43981271"
 label_id: "9321304"
 dtd_version: "2.0"
 original_entry_into_force: "2025-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023132/2025-04-09/0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023132/2026-04-15/0"
 intitule_bron: "Stcrt.2007-248"
 intitule_effect: "nieuwe-regeling"
 intitule_signed: "2007-12-17"
@@ -27,8 +27,8 @@ original_published_date: "2025-04-08"
 original_effect: "structuurwijziging"
 original_url_id: "stcrt-2025-12149"
 entry_into_force_date: "2025-04-09"
-jci_1_3: "jci1.3:c:BWBR0023132&z=2025-04-09&g=2025-04-09"
-jci_1_0: "1.0:c:BWBR0023132&g=2025-04-09"
+jci_1_3: "jci1.3:c:BWBR0023132&z=2026-04-15&g=2026-04-15"
+jci_1_0: "1.0:c:BWBR0023132&g=2026-04-15"
 citeertitel_status: "officieel"
 short_title: "Regeling jaarverslaggeving onderwijs"
 signed_date: "2025-03-20"
@@ -90,7 +90,7 @@ Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://w
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2025-04-09&g=2025-04-09) en [artikel 4, onder 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2025-04-09&g=2025-04-09) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens voor zover een afwijking of aanvulling voortvloeit uit het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2026-04-15&g=2026-04-15), juncto [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=5&z=2026-04-15&g=2026-04-15), of [artikel 4, lid 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2026-04-15&g=2026-04-15) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
 - b. wordt de jaarverslaggeving vastgesteld in de Nederlandse taal en in de in Nederland wettige valuta, en wordt zij jaarlijks vóór 1 juli door de onderwijsinstelling openbaar gemaakt gedurende ten minste zeven jaar;
 
@@ -134,7 +134,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 1b. Overeenkomstig hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de gespaarde verlofuren als gevolg van de afspraken duurzame inzetbaarheid of de werktijdenvermindering voor senioren conform paragraaf 2, alinea 203, van dat hoofdstuk, op de balans opgenomen als een verplichting uit hoofde van een opbouw van rechten voor zover de gespaarde rechten op doorbetaalde afwezigheid kunnen worden opgenomen of verzilverd.
 
-2. Onderwijsinstellingen nemen met gebruikmaking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2025-04-09&g=2025-04-09) opgenomen tabel in het bestuursverslag op aan hoeveel ho-studenten zij uit het studentenondersteuningsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar de volgende onderdelen:
+2. Onderwijsinstellingen nemen met gebruikmaking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2026-04-15&g=2026-04-15) opgenomen tabel in het bestuursverslag op aan hoeveel ho-studenten zij uit het studentenondersteuningsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar de volgende onderdelen:
 
 - a. ho-studenten in overmachtssituaties, zoals ziekte, functiebeperking, familieomstandigheden mantelzorg of niet studeerbare opleidingen;
 
@@ -144,7 +144,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 Tevens geven de onderwijsinstellingen per categorie aan hoeveel ho-studenten een vergoeding hebben aangevraagd, hebben ontvangen, hoeveel in totaal per categorie is uitgekeerd en wat de gemiddelde hoogte en duur was van de vergoeding.
 
-2a. Mbo-instellingen nemen met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2025-04-09&g=2025-04-09) opgenomen tabel in het bestuursverslag op aan hoeveel mbo-studenten zij uit het mbo-studentenfonds, bedoeld in [artikel 8.1.5 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.5), ondersteuning hebben verleend. Daarbij geven de mbo-instellingen tevens aan hoeveel mbo-studenten ondersteuning hebben aangevraagd, hoeveel mbo-studenten ondersteuning toegekend hebben gekregen, hoeveel in totaal is toegekend en wat de gemiddelde hoogte was van de toekenningen. Deze informatie wordt uitgesplitst in vier categorieën:
+2a. Mbo-instellingen nemen met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2026-04-15&g=2026-04-15) opgenomen tabel in het bestuursverslag op aan hoeveel mbo-studenten zij uit het mbo-studentenfonds, bedoeld in [artikel 8.1.5 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.5), ondersteuning hebben verleend. Daarbij geven de mbo-instellingen tevens aan hoeveel mbo-studenten ondersteuning hebben aangevraagd, hoeveel mbo-studenten ondersteuning toegekend hebben gekregen, hoeveel in totaal is toegekend en wat de gemiddelde hoogte was van de toekenningen. Deze informatie wordt uitgesplitst in vier categorieën:
 
 - a. mbo-studenten die lid zijn van een studentenraad als bedoeld in [artikel 8a.1.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8a.1.2), van een andere door het bevoegd gezag ingestelde medezeggenschapsstructuur of van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid;
 
@@ -156,7 +156,7 @@ Tevens geven de onderwijsinstellingen per categorie aan hoeveel ho-studenten een
 
 3. Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) nemen in het bestuursverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders. Hogescholen verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking, opgenomen in de brief van de Vereniging Hogescholen van 3 november 2016 met kenmerk 16.4347.avw (te raadplegen via www.onderwijsinspectie.nl). Universiteiten verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking verantwoording declaraties bestuurders, opgenomen in de brief van de Vereniging van Universiteiten van 7 september 2016 met kenmerk VSNU 16/214 U (te raadplegen via www.onderwijsinspectie.nl).
 
-4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2025-04-09&g=2025-04-09) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerlingen-, mbo-studenten-, vavo-studenten- of ho-studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
+4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2026-04-15&g=2026-04-15) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerlingen-, mbo-studenten-, vavo-studenten- of ho-studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
 
 5. Een bekostigde instelling voor hoger onderwijs dan wel een bekostigde instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), verantwoordt zich in het bestuursverslag over het gevoerde beleid zoals aangegeven in de volgende notities:
 
@@ -172,7 +172,7 @@ Tevens geven de onderwijsinstellingen per categorie aan hoeveel ho-studenten een
 
 6. De Minister van Onderwijs, Cultuur en Wetenschap publiceert jaarlijks een overzicht van de voor het betreffende verslagjaar relevante politieke of maatschappelijke thema’s, waarover het bevoegd gezag in het bestuursverslag rapporteert met betrekking tot de wijze waarop middelen zijn ingezet en de resultaten die daarmee zijn behaald.
 
-7. In het bestuursverslag rapporteert een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) over de tijdige aanwezigheid van de VOG met gebruikmaking van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=6&z=2025-04-09&g=2025-04-09) opgenomen tabel.
+7. In het bestuursverslag rapporteert een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) over de tijdige aanwezigheid van de VOG met gebruikmaking van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=6&z=2026-04-15&g=2026-04-15) opgenomen tabel.
 
 ##### Artikel 5
 
@@ -180,7 +180,7 @@ Het bevoegd gezag levert jaarlijks vóór 1 juli de volgende gegevens over het v
 
 - a. in schriftelijke vorm de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392); en
 
-- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2025-04-09&g=2025-04-09), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2025-04-09&g=2025-04-09).
+- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2026-04-15&g=2026-04-15), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2026-04-15&g=2026-04-15).
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -228,7 +228,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 2. Dit artikel kan niet worden toegepast door een bevoegd gezag dat uitsluitend of eveneens het bevoegd gezag is van een onderwijsinstelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of [artikel 1.8 van de Wet op hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8).
 
-3. In het geval dat een bevoegd gezag kiest voor het opstellen van een compact bestuursverslag is het toepassen van [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391) niet verplicht met uitzondering van de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=5&z=2025-04-09&g=2025-04-09) opgenomen voorwaarden en minimale vereisten.
+3. Indien een bevoegd gezag kiest voor het opstellen van een compact bestuursverslag is de toepassing van [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391) en van de inrichtingseisen van de Richtlijnen voor de Jaarverslaggeving die expliciet betrekking hebben op het bestuursverslag niet verplicht, behoudens voor zover anders voortvloeit uit [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=5&z=2026-04-15&g=2026-04-15).
 
 4. Indien een bevoegd gezag in enig jaar het maximum van totale baten zoals bedoeld in het eerste lid overschrijdt, kan het bevoegd gezag met ingang van het daaropvolgende verslagjaar nog voor ten hoogste drie achtereenvolgende verslagjaren een compact bestuursverslag opstellen.
 
@@ -561,7 +561,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 4a
 
-Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2025-04-09&g=2025-04-09), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
+Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2026-04-15&g=2026-04-15), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
 
 ### Aantallen leerlingen/mbo-studenten/vavo-studenten/ho-studenten
 
@@ -651,7 +651,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 3. In afwijking van deze regeling is het eerste en tweede lid is de [Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649) van overeenkomstige toepassing op een academisch ziekenhuis als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), met dien verstande dat in de toelichting op de financiële verantwoording financiële gegevens worden opgenomen aangaande de besteding van de rijksbijdrage voor de werkplaatsfunctie ten behoeve van het wetenschappelijk medisch onderwijs en onderzoek en kwantitatieve gegevens voor het verdeelmodel van die rijksbijdrage.
 
-## Bijlage 0. behorende bij [artikel 3, onderdeel e1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2025-04-09&g=2025-04-09), van de regeling
+## Bijlage 0. behorende bij [artikel 3, onderdeel e1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2026-04-15&g=2026-04-15), van de regeling
 
 **Overzicht van gegevens voor de rapportage ingevolge de Wet normering topinkomens (WNT).**
 
@@ -786,7 +786,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Deze regeling berust mede op [artikel 6.19, zesde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19).
 
-## Bijlage 2. behorende bij [artikel 4 lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2025-04-09&g=2025-04-09)
+## Bijlage 2. behorende bij [artikel 4 lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2026-04-15&g=2026-04-15)
 
 | Omschrijving | Aantallen studenten | Totaal van de toekenningen | Gemiddelde hoogte van de toekenningen |
 | --- | --- | --- | --- |
@@ -835,11 +835,11 @@ Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2025-04-09&g=2025-04-09)
+## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2026-04-15&g=2026-04-15)
 
 ## Bijlage 4. Model G
 
-Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4a&z=2025-04-09&g=2025-04-09) van de Regeling jaarverslaggeving onderwijs.
+Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4a&z=2026-04-15&g=2026-04-15) van de Regeling jaarverslaggeving onderwijs.
 
 ****Model G. Verantwoording subsidies****
 
@@ -877,51 +877,49 @@ Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 **Deze bijlage behoort bij artikel 3a, derde lid, van de Regeling jaarverslaggeving onderwijs.**
 
-Deze bijlage betreft de voorwaarden en minimale vereisten voor het bestuursverslag, onderdeel van de jaarstukken, van een bevoegd gezag zoals bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2025-04-09&g=2025-04-09).
+Deze bijlage betreft de toelichting en de minimale vereisten waar een compact bestuursverslag van een bevoegd gezag dat toepassing geeft aan [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2026-04-15&g=2026-04-15), aan moet voldoen.
 
-De vereisten voor de jaarrekening blijven ongewijzigd.
+De bepalingen van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2026-04-15&g=2026-04-15) en deze bijlage hebben expliciet betrekking op het bestuursverslag. Indien een bevoegd gezag, onder toepassing van artikel 3a en bijlage 5, een compact bestuursverslag opstelt, laat dit de vereisten voor de jaarrekening onverlet.
 
-Het toepassen van artikel ‘3a. Compact bestuursverslag’ en daarmee deze bijlage is niet verplicht. Het is een keuze van het bevoegd gezag.
+Bij het opstellen van een compact bestuursverslag is het bepaalde in [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391) en de inrichtingseisen van de Richtlijnen voor de Jaarverslaggeving die expliciet betrekking hebben op het bestuursverslag niet verplicht. De vereisten die voortvloeien uit deze regeling of uit andere wet- of regelgeving blijven onverlet van toepassing, voor zover in deze regeling niet anders is bepaald. Deze vereisten zijn niet in deze bijlage opgenomen.
 
-Verslaggevingseisen voor het bestuursverslag voortkomend uit andere wet- en regelgeving dan het [Burgerlijk Wetboek 2, titel 9, afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7) blijven onverkort van toepassing voor zover in deze regeling niet anders is bepaald. Deze verslaggevingseisen zijn niet in onderstaande lijst opgenomen.
+Het toepassen van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2026-04-15&g=2026-04-15) en deze bijlage is niet verplicht. Het is een keuze van het bevoegd gezag.
 
-- 1. Toelichtingen als deel van de jaarrekening hoeven niet afzonderlijk in het bestuursverslag benoemd te worden.
+- 1. Toelichtingen in het bestuursverslag gelden niet in plaats van die bij de jaarrekening horen. De toelichtingen in het bestuursverslag mogen niet in strijd zijn met de toelichtingen bij de jaarrekening.
 
-- 2. Toelichtingen in het bestuursverslag gelden niet in plaats van die bij de jaarrekening horen. De toelichtingen in het bestuursverslag mogen niet in strijd zijn met de toelichtingen bij de jaarrekening.
+- 2. Het bestuursverslag mag niet in strijd zijn met de jaarrekening.
 
-- 3. Het bestuursverslag mag niet in strijd zijn met de jaarrekening.
+- 3. Specificaties en toelichting in het bestuursverslag gebeurt op het niveau van elk afzonderlijk bevoegd gezag.
 
-- 4. Specificaties en toelichting in het bestuursverslag gebeurt op het niveau van elk afzonderlijk bevoegd gezag.
+- 4. Het bestuursverslag geeft een getrouw beeld van:
 
-- 5. Het bestuursverslag geeft een getrouw beeld van:
+  - a. het gevoerde beleid;
 
-- a. het gevoerde beleid;
+  - b. van de toestand op de balansdatum,
 
-- b. van de toestand op de balansdatum,
+  - c. de ontwikkelingen gedurende het boekjaar en
 
-- c. de ontwikkelingen gedurende het boekjaar en
+  - d. de resultaten van de financiële gegevens die in de jaarrekening zijn opgenomen.
 
-- d. de resultaten van de financiële gegevens die in de jaarrekening zijn opgenomen.
+- 5. In het bestuursverslag worden mededelingen gedaan omtrent de verwachte gang van zaken van relevante beleidsontwikkelingen en afwijkingen ten opzichte van in het vorig bestuursverslag genoemde trendmatige ontwikkelingen.
 
-- 6. In het bestuursverslag worden mededelingen gedaan omtrent de verwachte gang van zaken van relevante beleidsontwikkelingen en afwijkingen ten opzichte van in het vorig bestuursverslag genoemde trendmatige ontwikkelingen.
+- 6. Het bestuursverslag geeft een beschrijving van de voornaamste risico's en onzekerheden waarmee de rechtspersoon wordt geconfronteerd.
 
-- 7. Het bestuursverslag geeft een beschrijving van de voornaamste risico's en onzekerheden waarmee de rechtspersoon wordt geconfronteerd.
+- 7. In het bestuursverslag worden de doelstellingen en het beleid inzake risicobeheer vermeld.
 
-- 8. In het bestuursverslag worden de doelstellingen en het beleid inzake risicobeheer vermeld.
+- 8. Het bevoegd gezag neemt in het bestuursverslag informatie op over de volgende zaken om zo inzicht te bieden in:
 
-- 9. Het bevoegd gezag neemt in het bestuursverslag informatie op over de volgende zaken om zo inzicht te bieden in:
+  - a. de juridische structuur van de onderwijsinstelling;
 
-- a. de juridische structuur van de onderwijsinstelling;
+  - b. de interne organisatiestructuur;
 
-- b. de interne organisatiestructuur;
+  - c. de ontwikkelingen van de governancestructuur;
 
-- c. de ontwikkelingen van de governancestructuur;
+  - d. huisvesting;
 
-- d. huisvesting;
+  - e. personele bezetting;
 
-- e. personele bezetting;
-
-- f. klachtbehandeling.
+  - f. klachtbehandeling.
 
 ## Bijlage 6. Tijdige aanwezigheid verklaring omtrent het gedrag
 
